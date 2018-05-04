@@ -84,10 +84,9 @@
         <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/image/ImageShape.java" timestamp="1525383936566">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="46" column="12" />
-        <mark key="^" line="46" column="12" />
-        <mark key="." line="46" column="12" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
@@ -100,13 +99,6 @@
       </file>
       <file name="$USER_HOME$/3scan/kesm/Jenkinsfile" timestamp="1525458435562">
         <mark key="'" line="324" column="7" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1525391515283">
-        <mark key="'" line="15" column="68" />
-        <mark key="[" line="22" column="87" />
-        <mark key="]" line="22" column="87" />
-        <mark key="." line="22" column="87" />
-        <mark key="^" line="22" column="81" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -150,12 +142,6 @@
         <mark key="]" line="15" column="35" />
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1525457951068">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
