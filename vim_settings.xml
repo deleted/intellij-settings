@@ -140,8 +140,8 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1525380783068">
-        <mark key="'" line="154" column="18" />
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1525396089279">
+        <mark key="'" line="100" column="38" />
         <mark key="[" line="153" column="102" />
         <mark key="]" line="154" column="18" />
         <mark key="^" line="154" column="18" />
@@ -208,19 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="6" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="87" column="20" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="52" column="33" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="53" column="31" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="55" column="26" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="15" column="14" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="22" column="56" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="23" column="21" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" />
-      <jump line="28" column="12" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" />
-      <jump line="33" column="8" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecoderTest.java" />
-      <jump line="34" column="8" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecoderTest.java" />
-      <jump line="41" column="54" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecoderTest.java" />
-      <jump line="15" column="102" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecoderTest.java" />
       <jump line="48" column="16" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecoder.java" />
       <jump line="75" column="10" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecoder.java" />
       <jump line="80" column="25" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecoder.java" />
@@ -308,6 +295,19 @@
       <jump line="12" column="38" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="34" column="14" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="48" column="26" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="231" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="34" column="63" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="37" column="6" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="38" column="39" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="55" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="58" column="36" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="59" column="29" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="60" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="96" column="15" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="97" column="34" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="98" column="34" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="99" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="100" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -325,7 +325,7 @@
         <text>height</text>
       </register>
       <register name="/" type="4">
-        <text>KesmSliceMeta</text>
+        <text>kotlin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEtlc21TbGljZU1ldGFkYXRhIG1ldGFkYXRhID0gbmV3IEtlc21TbGljZU1ldGFkYXRhKDgwLCA2MCwgMSwgMCwgMCk7Cg==</text>
@@ -365,9 +365,9 @@
       </register>
     </registers>
     <search>
-      <last-search>KesmSliceMeta</last-search>
+      <last-search>kotlin</last-search>
       <last-offset />
-      <last-pattern>KesmSliceMeta</last-pattern>
+      <last-pattern>kotlin</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -375,9 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nCh</entry>
-        <entry>numChannels</entry>
-        <entry>throws</entry>
         <entry>getGeode</entry>
         <entry>default</entry>
         <entry>writer</entry>
@@ -395,6 +392,9 @@
         <entry>jackson</entry>
         <entry>&quot;</entry>
         <entry>KesmSliceMeta</entry>
+        <entry>build {</entry>
+        <entry>grpc</entry>
+        <entry>kotlin</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
