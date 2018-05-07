@@ -103,9 +103,9 @@
         <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1525725250504">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" timestamp="1525134699608">
         <mark key="'" line="204" column="16" />
@@ -180,6 +180,15 @@
         <mark key="]" line="14" column="28" />
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1525726583187">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="54" column="54" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/common/io/CrcOutputStream.java" timestamp="1525726394141">
+        <mark key="[" line="48" column="3" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1525304706074">
         <mark key="[" line="66" column="0" />
@@ -304,7 +313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBLZXNtU2xpY2VNZXRhZGF0YSBjb2xvck1ldGFkYXRhID0gbmV3IEtlc21TbGljZU1ldGFkYXRhKAogICAgICAiZmZmZmZmZiIsIDE0NDAwLCBGb3JtYXQuTlNQSQogICAgICAKICApOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -315,7 +324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>KesmSliceMetadata(</text>
+        <text>sliceMetadata</text>
       </register>
       <register name="/" type="4">
         <text>gradle</text>
@@ -324,34 +333,34 @@
         <text encoding="base64">ICAgIGphdmEgewogICAgICB0YXJnZXQgJ3NyYy8qKi8qLmphdmEnCiAgICAgIGdvb2dsZUphdmFGb3JtYXQoKQogICAgICByZW1vdmVVbnVzZWRJbXBvcnRzKCkKICAgICAgcGFkZGVkQ2VsbCgpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBLZXNtU2xpY2VNZXRhZGF0YSBjb2xvck1ldGFkYXRhID0gbmV3IEtlc21TbGljZU1ldGFkYXRhKAogICAgICAiZmZmZmZmZiIsIDE0NDAwLCBGb3JtYXQuTlNQSQogICAgICAKICApOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNyY1N0cmVhbSA9IGNyZWF0ZU91dHB1dFN0cmVhbShwYXlsb2FkU2l6ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGkrKwo=</text>
+        <text encoding="base64">ICAgICAgICAgIE5zcGlEZWNvZGluZ1N0cmVhbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtvdGxpbiB7CiAgICAgICAgdGFyZ2V0ICdzcmMvKiovKi5rdCcKICAgICAgICBnb29nbGVKYXZhRm9ybWF0KCkKICAgICAgICByZW1vdmVVbnVzZWRJbXBvcnRzKCkKICAgICAgICBwYWRkZWRDZWxsKCkKICAgIH0K</text>
+        <text encoding="base64">ICBLZXNtU2xpY2VNZXRhZGF0YSBjb2xvck1ldGFkYXRhID0gbmV3IEtlc21TbGljZU1ldGFkYXRhKAogICAgICAiZmZmZmZmZiIsIDE0NDAwLCBGb3JtYXQuTlNQSQogICAgICAKICApOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgS2VzbVNsaWNlTWV0YWRhdGEgbWV0YWRhdGEgPSBuZXcgS2VzbVNsaWNlTWV0YWRhdGEoODAsIDYwLCAxLCAwLCAwKTsK</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgS2VzbVNsaWNlTWV0YWRhdGEgbWV0YWRhdGEgPSBuZXcgS2VzbVNsaWNlTWV0YWRhdGEoODAsIDYwLCAzLCAwLCAwKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24uY29tbW9uLktlc21TbGljZU1ldGFkYXRhCg==</text>
+        <text encoding="base64">ICAgIGkrKwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBtZDogS2VzbVNsaWNlTWV0YWRhdGEgPSBqYWNrc29uT2JqZWN0TWFwcGVyKCkucmVhZFZhbHVlKGpzb24pCiAgICAgICAgICByZXR1cm4gbWQK</text>
+        <text encoding="base64">ICAgIGtvdGxpbiB7CiAgICAgICAgdGFyZ2V0ICdzcmMvKiovKi5rdCcKICAgICAgICBnb29nbGVKYXZhRm9ybWF0KCkKICAgICAgICByZW1vdmVVbnVzZWRJbXBvcnRzKCkKICAgICAgICBwYWRkZWRDZWxsKCkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
