@@ -77,11 +77,11 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1525895989843">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="19" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1525896907326">
+        <mark key="[" line="29" column="97" />
+        <mark key="]" line="7" column="80" />
+        <mark key="^" line="7" column="80" />
+        <mark key="." line="7" column="80" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1522453941901">
         <mark key="[" line="108" column="54" />
@@ -112,8 +112,14 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1525895207549">
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1525897087719">
         <mark key="'" line="177" column="26" />
+        <mark key="[" line="178" column="30" />
+        <mark key="]" line="178" column="30" />
+        <mark key="." line="178" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525896906813">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/BufferedImageOutputStreamTest.java" timestamp="1521654252720">
         <mark key="[" line="46" column="14" />
@@ -184,7 +190,7 @@
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/receptionistTileWriterPool.kt" timestamp="1525734014721">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1525895009368">
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1525897105268">
         <mark key="[" line="99" column="16" />
         <mark key="]" line="99" column="16" />
         <mark key="." line="99" column="16" />
@@ -317,7 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -328,7 +334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>grpc</text>
