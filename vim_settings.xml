@@ -67,11 +67,11 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1525992056945">
-        <mark key="[" line="90" column="18" />
-        <mark key="]" line="90" column="18" />
-        <mark key="." line="90" column="18" />
-        <mark key="^" line="90" column="31" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1525992953567">
+        <mark key="[" line="87" column="56" />
+        <mark key="]" line="87" column="56" />
+        <mark key="." line="87" column="56" />
+        <mark key="^" line="87" column="18" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -126,7 +126,7 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1525992025602">
+      <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1525993552408">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="16" column="37" />
         <mark key="." line="16" column="37" />
@@ -347,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(Integer)</text>
+        <text>.intValue()</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -358,13 +358,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(Integer)</text>
+        <text>.intValue()</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ5dGVbXSBpbWdCeXRlcyA9IElPVXRpbHMudG9CeXRlQXJyYXkoZ2V0Q2xhc3MoKS5nZXRSZXNvdXJjZUFzU3RyZWFtKCJpbWcvdGlueV9jb2xvcl9pbWcubnNwIikpOwo=</text>
+      <register name="0" type="4">
+        <text>UnsignedInteger.valueOf(crc.getValue()).intValue()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY3JjLmVxCg==</text>
@@ -397,7 +397,7 @@
         <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -451,8 +451,8 @@
         <entry>s/&quot;/\&quot;/g</entry>
         <entry>s/&quot;/\\&quot;/g</entry>
         <entry>ww</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
