@@ -69,10 +69,12 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1526062069593">
-        <mark key="'" line="65" column="47" />
-        <mark key="[" line="92" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1526066133761">
+        <mark key="'" line="66" column="47" />
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="4" />
+        <mark key="^" line="55" column="12" />
+        <mark key="." line="55" column="4" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -350,7 +352,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>LinkedList</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -361,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>LinkedList</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
