@@ -69,12 +69,12 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1526088048207">
-        <mark key="'" line="70" column="47" />
-        <mark key="[" line="146" column="47" />
-        <mark key="]" line="146" column="47" />
-        <mark key="." line="146" column="47" />
-        <mark key="^" line="147" column="3" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1526325633863">
+        <mark key="'" line="89" column="5" />
+        <mark key="[" line="69" column="40" />
+        <mark key="]" line="67" column="62" />
+        <mark key="." line="67" column="62" />
+        <mark key="^" line="67" column="62" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -99,6 +99,7 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/image/ImageTestAsserts.java" timestamp="1526324585092" />
       <file name="/ReceptionistServiceImplTest.java" timestamp="1526067332849" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
@@ -106,11 +107,11 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1526086738986">
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1526324874323">
         <mark key="'" line="156" column="18" />
-        <mark key="[" line="107" column="13" />
-        <mark key="]" line="107" column="13" />
-        <mark key="." line="107" column="13" />
+        <mark key="[" line="114" column="18" />
+        <mark key="]" line="114" column="19" />
+        <mark key="." line="114" column="19" />
         <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" timestamp="1526084395805">
@@ -261,9 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="56" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
-      <jump line="43" column="44" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
-      <jump line="41" column="46" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
       <jump line="50" column="39" filename="$USER_HOME$/3scan/kesm/bin/test/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.class" />
       <jump line="75" column="31" filename="$USER_HOME$/3scan/kesm/bin/test/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.class" />
       <jump line="144" column="20" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -361,10 +359,13 @@
       <jump line="58" column="31" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/assertion/Asserts.java" />
       <jump line="65" column="47" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="66" column="10" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="172" column="27" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
+      <jump line="69" column="38" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
+      <jump line="89" column="5" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wait</text>
+        <text>getRequestMessages</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -375,61 +376,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wait</text>
+        <text>getRequestMessages</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>getReque</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCB3aWR0aCA9IDQwMDsKICAgIGludCBoZWlnaHQgPSAzMzA7CiAgICBpbnQgbkNoYW5uZWxzID0gMTsKICAgIEJ1ZmZlcmVkSW1hZ2VUeXBlIGF3dFBpeGVsVHlwZSA9IEJ1ZmZlcmVkSW1hZ2VUeXBlLlRZUEVfQllURV9HUkFZOwoKICAgIC8vIEdlbmVyYXRlIGEgc2VxdWVuY2Ugb2YgYnl0ZXMKICAgIGJ5dGVbXSBmYWtlSW1hZ2VCeXRlcyA9IG5ldyBieXRlW3dpZHRoICogaGVpZ2h0XTsKICAgIGJ5dGVTb3VyY2UubmV4dEJ5dGVzKGZha2VJbWFnZUJ5dGVzKTsKICAgIEJ5dGVCdWZmZXIgZmFrZUltYWdlQnVmZmVyID0gQnl0ZUJ1ZmZlci53cmFwKGZha2VJbWFnZUJ5dGVzKTsKCiAgICAvLyBXcml0ZSB0byBhIG5ldyBzdHJlYW0KICAgIEJ1ZmZlcmVkSW1hZ2VTdHJlYW0gc3RyZWFtID0KICAgICAgICBuZXcgQnVmZmVyZWRJbWFnZVN0cmVhbShuZXcgSW1hZ2VTaGFwZSh3aWR0aCwgaGVpZ2h0KSwgbkNoYW5uZWxzLCBhd3RQaXhlbFR5cGUpOwogICAgc3RyZWFtLndyaXRlKGZha2VJbWFnZUJ5dGVzKTsKICAgIGFzc2VydFRoYXQoc3RyZWFtLmlzRmlsbGVkKS5pc1RydWUoKTsKICAgIHN0cmVhbS5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3QuZ2V0Wm9vbVNlcmlhbGl6ZXIoKSkuaXNFcXVhbFRvKGV4cGVjdGVkVGlsZVJlcXVlc3QuZ2V0Wm9vbVNlcmlhbGl6ZXIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvbGwoMTAsIFRpbWVVbml0Lk1JTExJU0VDT05EUyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgYWN0dWFsSW1hZ2UgPSB0aWxlUmVxdWVzdC5nZXRJbWFnZSgpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdCh0aWxlUmVxdWVzdCkuaXNFcXVhbFRvKGV4cGVjdGVkVGlsZVJlcXVlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3QuZ2V0QmFzZVNlcmlhbGl6ZXIoKSkuaXNFcXVhbFRvKGV4cGVjdGVkVGlsZVJlcXVlc3QuZ2V0QmFzZVNlcmlhbGl6ZXIoKSk7CiAgICBhc3NlcnRUaGF0KHRpbGVSZXF1ZXN0LmdldFpvb21TZXJpYWxpemVyKCkpLmlzRXF1YWxUbyhleHBlY3RlZFRpbGVSZXF1ZXN0LmdldFpvb21TZXJpYWxpemVyKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihleGMpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3QuZ2V0U2xpY2VyKCkpLmlzRXF1YWxUbyhleHBlY3RlZFRpbGVSZXF1ZXN0LmdldFNsaWNlcigpKTsKICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3QuZ2V0RG93bnNhbXBsZVNsaWNlcigpKS5pc0VxdWFsVG8oZXhwZWN0ZWRUaWxlUmVxdWVzdC5nZXREb3duc2FtcGxlU2xpY2VyKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZXhjKSB7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3QuZ2V0U2xpY2UoKSkuaXNFcXVhbFRvKGV4cGVjdGVkVGlsZVJlcXVlc3QuZ2V0Wm9vbVNlcmlhbGl6ZXIoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0ud3JpdGUobXNnLmdldFBheWxvYWQoKS50b0J5dGVBcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3QuZ2V0U2xpY2VOdW1iZXIoKSkuaXNFcXVhbFRvKGV4cGVjdGVkVGlsZVJlcXVlc3QuZ2V0U2xpY2VOdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIHBvbGwoMTAsIFRpbWVVbml0Lk1JTExJU0VDT05EUyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>getReque</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>getReque</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>KesmSliceMeta</entry>
         <entry>build {</entry>
         <entry>kotlin</entry>
         <entry>protobuf</entry>
@@ -448,6 +447,8 @@
         <entry>async</entry>
         <entry>Null</entry>
         <entry>mock</entry>
+        <entry>getRequen</entry>
+        <entry>getReque</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
