@@ -32,12 +32,12 @@
         <mark key="^" line="41" column="83" />
         <mark key="." line="41" column="83" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" timestamp="1526337141123">
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" timestamp="1526338105511">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/IngestOne.kt" timestamp="1525127260111">
         <mark key="'" line="0" column="0" />
