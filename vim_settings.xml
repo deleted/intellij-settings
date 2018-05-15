@@ -110,11 +110,10 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1526348707462">
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="13" column="55" />
-        <mark key="." line="13" column="55" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1526418731473">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
@@ -279,6 +278,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1526418554588">
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+        <mark key="." line="73" column="25" />
+      </file>
       <file name="/fragment.java" timestamp="1526348254689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -394,8 +399,8 @@
       <jump line="157" column="73" filename="$USER_HOME$/3scan/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.2.40</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -406,7 +411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.2.40</text>
+        <text>services</text>
       </register>
       <register name="/" type="4">
         <text>kotlin</text>
@@ -415,34 +420,34 @@
         <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KGJvb2xlYW4gYiwgQE51bGxhYmxlRGVjbCBTdHJpbmcgZXJyb3JNZXNzYWdlVGVtcGxhdGUsIGNoYXIgcDEsIEBOdWxsYWJsZURlY2wgT2JqZWN0IHAyKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsbCouZXhjbHVkZSBncm91cDogJ2NvbS5nb29nbGUuZ3VhdmEnLCBtb2R1bGU6ICdndWF2YS1qZGs1Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIFRlc3RUaGluZygpIHRocm93cyBFeGNlcHRpb24gewovLyAgICBjb20uZ29vZ2xlLmNvbW1vbi5iYXNlLlByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChib29sZWFuIGIsIEBOdWxsYWJsZURlY2wgU3RyaW5nIGVycm9yTWVzc2FnZVRlbXBsYXRlLCBjaGFyIHAxLCBATnVsbGFibGVEZWNsIE9iamVjdCBwMikKICAgIGNoYXIgc29tZUNoYXIgPSAndCc7CiAgICBjb20uZ29vZ2xlLmNvbW1vbi5iYXNlLlByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChmYWxzZSwgInRoaXMgaXMgYW4gZXJyb3IiLCBzb21lQ2hhciwgbmV3IFN0cmluZygiYW5vdGhlciBzdHJpbmciKSk7CiAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uZmlndXJhdGlvbnMgewogICAgYWxsKi5leGNsdWRlIGdyb3VwOiAnY29tLmdvb2dsZS5ndWF2YScsIG1vZHVsZTonZ3VhdmEtamRrNScKfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHNlcnZlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKFN0cmluZy5mb3JtYXQoIkNyZWF0aW5nIEdSUEMgc2VydmVyIG9uIHBvcnQgJWQiLCBwb3J0KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIHNlcnZlci5wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyLmdldExvZ2dlcihSZWNlcHRpb25pc3RTZXJ2ZXIuY2xhc3MuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -481,7 +486,6 @@
         <entry>kotlin</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYvdGhpcy8=</entry>
         <entry>35</entry>
         <entry>78</entry>
@@ -500,6 +504,7 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry>628</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
