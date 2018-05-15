@@ -204,8 +204,8 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1526354267424">
-        <mark key="'" line="35" column="21" />
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1526354365597">
+        <mark key="'" line="97" column="0" />
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="24" />
         <mark key="^" line="93" column="50" />
@@ -331,7 +331,6 @@
       <jump line="58" column="36" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="59" column="29" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="60" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="97" column="34" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="98" column="34" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="99" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="100" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -407,6 +406,7 @@
       <jump line="15" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
       <jump line="21" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
       <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
+      <jump line="97" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -424,7 +424,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>checkArgument</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KGJvb2xlYW4gYiwgQE51bGxhYmxlRGVjbCBTdHJpbmcgZXJyb3JNZXNzYWdlVGVtcGxhdGUsIGNoYXIgcDEsIEBOdWxsYWJsZURlY2wgT2JqZWN0IHAyKSAK</text>
@@ -464,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>checkArgument</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>checkArgument</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>protob</entry>
         <entry>gradle</entry>
         <entry>Interrupted</entry>
         <entry>exct</entry>
@@ -494,6 +493,7 @@
         <entry>guava</entry>
         <entry>grpc</entry>
         <entry>checkArgument</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
