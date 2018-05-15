@@ -21,7 +21,7 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/gradle/jars.gradle" timestamp="1526347028781">
+      <file name="$USER_HOME$/3scan/kesm/gradle/jars.gradle" timestamp="1526348054191">
         <mark key="'" line="54" column="46" />
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -97,9 +97,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" timestamp="1525134699608">
-        <mark key="'" line="204" column="16" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/BufferedImageOutputStreamTest.java" timestamp="1521654252720">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="28" />
@@ -117,6 +114,13 @@
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/image/ImageTestAsserts.java" timestamp="1526324585092" />
       <file name="/ReceptionistServiceImplTest.java" timestamp="1526067332849" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1526348707462">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/24.0-jre/4530f6a317a2d55e8903874896537dcf39717b7/guava-24.0-jre-sources.jar!/com/google/common/base/Preconditions.java" timestamp="1526348485118" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -167,12 +171,6 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/grpc_receiver.py" timestamp="1525213973971">
-        <mark key="'" line="73" column="78" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/bin/test/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.class" timestamp="1524618006378">
-        <mark key="'" line="75" column="31" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1525995592565">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="16" column="37" />
@@ -203,8 +201,8 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1526346238378">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1526348766463">
+        <mark key="'" line="37" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1526330598697">
         <mark key="'" line="0" column="0" />
@@ -273,7 +271,7 @@
         <mark key="." line="108" column="45" />
         <mark key="^" line="107" column="43" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Metadata.java" timestamp="1526346784555">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Metadata.java" timestamp="1526348871428">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/common/io/CrcOutputStream.java" timestamp="1526074819213">
@@ -288,7 +286,7 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="54" />
       </file>
-      <file name="/fragment.java" timestamp="1526085359022">
+      <file name="/fragment.java" timestamp="1526348254689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -302,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="76" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/IngestOne.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/IngestOne.kt" />
       <jump line="182" column="36" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" />
       <jump line="201" column="36" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" />
@@ -329,7 +326,6 @@
       <jump line="48" column="26" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="231" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="34" column="63" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="37" column="6" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="38" column="39" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="55" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="58" column="36" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -346,8 +342,6 @@
       <jump line="220" column="51" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="146" column="30" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="174" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="172" column="33" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="178" column="26" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="181" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="219" column="37" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="30" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -402,10 +396,14 @@
       <jump line="54" column="46" filename="$USER_HOME$/3scan/kesm/gradle/jars.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Metadata.java" />
+      <jump line="110" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="172" column="26" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="178" column="28" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="37" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -416,16 +414,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>validateName</text>
+        <text>guava</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFzayBnZW9kZVRvb2wodHlwZTogSmFyLCBncm91cDogInRocmVlc2NhbiIpIHsKICAgIGJhc2VOYW1lID0gJ2dlb2RlVG9vbCcKICAgIGRlc2NyaXB0aW9uID0gIkdlb2RlIGNvbW1hbmQgbGluZSBpbnRlcmZhY2UuIgoKICAgIG1hbmlmZXN0IHsKICAgICAgICBhdHRyaWJ1dGVzICgKICAgICAgICAgICAgJ0ltcGxlbWVudGF0aW9uLVRpdGxlJzogJ0dlb2RlIENMSSBUb29sJywKICAgICAgICAgICAgJ0ltcGxlbWVudGF0aW9uLVZlcnNpb24nOiAxLjAsCiAgICAgICAgICAgICdNYWluLUNsYXNzJzogJ25ldC50aHJlZXNjYW4uZ2VvZGUuc3RvcmFnZS50b29scy5HZW9kZVRvb2wnCiAgICAgICAgKQogICAgfQoKICAgIHdpdGggamFyCiAgICBmcm9tIHsgY29uZmlndXJhdGlvbnMuY29tcGlsZS5jb2xsZWN0IHsgaXQuaXNEaXJlY3RvcnkoKSA/IGl0IDogemlwVHJlZShpdCkgfSB9Cn0K</text>
+        <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KGJvb2xlYW4gYiwgQE51bGxhYmxlRGVjbCBTdHJpbmcgZXJyb3JNZXNzYWdlVGVtcGxhdGUsIGNoYXIgcDEsIEBOdWxsYWJsZURlY2wgT2JqZWN0IHAyKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KCk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -434,34 +432,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFzayByZWNlcHRpb25pc3RTZXJ2ZXIodHlwZTogSmFyLCBncm91cDogInRocmVlc2NhbiIpIHsKICAgIGJhc2VOYW1lID0gJ3JlY2VwdGlvbmlzdFNlcnZlcicKICAgIGRlc2NyaXB0aW9uID0gIlJlY2VwdGlvbmlzdCBzZXJ2ZXIiCgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXMgKAogICAgICAgICAgICAgICAgJ0ltcGxlbWVudGF0aW9uLVRpdGxlJzogJ1JlY2VwdGlvbmlzdCcsCiAgICAgICAgICAgICAgICAnSW1wbGVtZW50YXRpb24tVmVyc2lvbic6IDAuMSwKICAgICAgICAgICAgICAgICdNYWluLUNsYXNzJzogJ25ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFNlcnZlcicKICAgICAgICApCiAgICB9CgogICAgd2l0aCBqYXIKICAgIGZyb20geyBjb25maWd1cmF0aW9ucy5jb21waWxlLmNvbGxlY3QgeyBpdC5pc0RpcmVjdG9yeSgpID8gaXQgOiB6aXBUcmVlKGl0KSB9IH0KfQoK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5UaWxlV3JpdGVyVGhyZWFkS3Quc3RhcnRUaWxlV3JpdGVyRGFlbW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRpbGVXcml0ZXJUaHJlYWRLdC5zdGFydFRpbGVXcml0ZXJEYWVtb24oZ2V0R2VvZGVTcGVjKCksIHRpbGVSZXF1ZXN0UXVldWUsIG1heFRpbGluZ0pvYnMpOwo=</text>
+        <text encoding="base64">dGFzayByZWNlcHRpb25pc3RTZXJ2ZXIodHlwZTogSmFyLCBncm91cDogInRocmVlc2NhbiIpIHsKICAgIGJhc2VOYW1lID0gJ3JlY2VwdGlvbmlzdFNlcnZlcicKICAgIGRlc2NyaXB0aW9uID0gIlJlY2VwdGlvbmlzdCBzZXJ2ZXIiCgogICAgbWFuaWZlc3QgewogICAgICAgIGF0dHJpYnV0ZXMgKAogICAgICAgICAgICAgICAgJ0ltcGxlbWVudGF0aW9uLVRpdGxlJzogJ1JlY2VwdGlvbmlzdCcsCiAgICAgICAgICAgICAgICAnSW1wbGVtZW50YXRpb24tVmVyc2lvbic6IDAuMSwKICAgICAgICAgICAgICAgICdNYWluLUNsYXNzJzogJ25ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFNlcnZlcicKICAgICAgICApCiAgICB9CgogICAgd2l0aCBqYXIKICAgIGZyb20geyBjb25maWd1cmF0aW9ucy5jb21waWxlLmNvbGxlY3QgeyBpdC5pc0RpcmVjdG9yeSgpID8gaXQgOiB6aXBUcmVlKGl0KSB9IH0KfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdGlsZVJlcXVlc3Q6IFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuVGlsZVJlcXVlc3QK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5UaWxlV3JpdGVyVGhyZWFkS3Quc3RhcnRUaWxlV3JpdGVyRGFlbW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ01hbmFnZXIK</text>
+        <text encoding="base64">ICAgIFRpbGVXcml0ZXJUaHJlYWRLdC5zdGFydFRpbGVXcml0ZXJEYWVtb24oZ2V0R2VvZGVTcGVjKCksIHRpbGVSZXF1ZXN0UXVldWUsIG1heFRpbGluZ0pvYnMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>628</text>
       </register>
     </registers>
     <search>
-      <last-search>validateName</last-search>
+      <last-search>guava</last-search>
       <last-offset />
-      <last-pattern>validateName</last-pattern>
+      <last-pattern>guava</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -478,7 +476,6 @@
         <entry>writeTiles</entry>
         <entry>logger</entry>
         <entry>extends ReceptionistImp</entry>
-        <entry>grpc</entry>
         <entry>async</entry>
         <entry>Null</entry>
         <entry>mock</entry>
@@ -487,11 +484,11 @@
         <entry>payloadSize</entry>
         <entry>interrupt</entry>
         <entry>receptionist</entry>
-        <entry>guava</entry>
         <entry>validateName</entry>
+        <entry>grpc</entry>
+        <entry>guava</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYvdGhpcy8=</entry>
         <entry>35</entry>
@@ -511,6 +508,7 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>628</entry>
       </history-cmd>
       <history-expr />
       <history-input />
