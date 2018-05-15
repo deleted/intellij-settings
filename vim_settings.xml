@@ -164,6 +164,9 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="22" column="30" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" timestamp="1526351479458">
+        <mark key="'" line="27" column="23" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.5.1/7235a28a13938050e8cd5d9ed5133bebf7a4dca7/protobuf-java-3.5.1-sources.jar!/com/google/protobuf/LazyStringArrayList.java" timestamp="1525926068832" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
@@ -300,10 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="36" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" />
-      <jump line="204" column="16" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" />
-      <jump line="10" column="22" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/AppCommand.java" />
-      <jump line="56" column="12" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/AppCommand.java" />
       <jump line="215" column="4" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
       <jump line="190" column="16" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
       <jump line="114" column="16" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
@@ -400,6 +399,10 @@
       <jump line="177" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="34" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="35" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="12" column="27" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
+      <jump line="15" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
+      <jump line="21" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
+      <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -417,7 +420,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>grpc</text>
+        <text>checkArgument</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KGJvb2xlYW4gYiwgQE51bGxhYmxlRGVjbCBTdHJpbmcgZXJyb3JNZXNzYWdlVGVtcGxhdGUsIGNoYXIgcDEsIEBOdWxsYWJsZURlY2wgT2JqZWN0IHAyKSAK</text>
@@ -457,9 +460,9 @@
       </register>
     </registers>
     <search>
-      <last-search>grpc</last-search>
+      <last-search>checkArgument</last-search>
       <last-offset />
-      <last-pattern>grpc</last-pattern>
+      <last-pattern>checkArgument</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -467,7 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spotless</entry>
         <entry>protob</entry>
         <entry>gradle</entry>
         <entry>Interrupted</entry>
@@ -487,6 +489,7 @@
         <entry>validateName</entry>
         <entry>guava</entry>
         <entry>grpc</entry>
+        <entry>checkArgument</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
