@@ -201,8 +201,8 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1526348766463">
-        <mark key="'" line="37" column="2" />
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1526350139029">
+        <mark key="'" line="35" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1526330598697">
         <mark key="'" line="0" column="0" />
@@ -300,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/IngestOne.kt" />
-      <jump line="182" column="36" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" />
       <jump line="201" column="36" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" />
       <jump line="204" column="16" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" />
       <jump line="10" column="22" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/AppCommand.java" />
@@ -325,7 +323,6 @@
       <jump line="34" column="14" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="48" column="26" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="231" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="34" column="63" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="38" column="39" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="55" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="58" column="36" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -335,13 +332,10 @@
       <jump line="98" column="34" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="99" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="100" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="175" column="26" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="176" column="34" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="179" column="32" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="180" column="35" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="220" column="51" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="146" column="30" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="174" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="181" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="219" column="37" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="30" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -360,7 +354,6 @@
       <jump line="17" column="30" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="51" column="4" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="96" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="177" column="26" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="24" column="21" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" />
       <jump line="88" column="67" filename="$USER_HOME$/3scan/kesm/build/generated/source/proto/main/grpc/net/threescan/grpc/receptionist/ReceptionistGrpc.java" />
@@ -396,10 +389,17 @@
       <jump line="54" column="46" filename="$USER_HOME$/3scan/kesm/gradle/jars.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Metadata.java" />
-      <jump line="110" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="172" column="26" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="178" column="28" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="37" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="110" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="172" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="173" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="174" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="175" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="176" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="177" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="34" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="35" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -417,7 +417,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text>grpc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KGJvb2xlYW4gYiwgQE51bGxhYmxlRGVjbCBTdHJpbmcgZXJyb3JNZXNzYWdlVGVtcGxhdGUsIGNoYXIgcDEsIEBOdWxsYWJsZURlY2wgT2JqZWN0IHAyKSAK</text>
@@ -457,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search>grpc</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern>grpc</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -485,8 +485,8 @@
         <entry>interrupt</entry>
         <entry>receptionist</entry>
         <entry>validateName</entry>
-        <entry>grpc</entry>
         <entry>guava</entry>
+        <entry>grpc</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
