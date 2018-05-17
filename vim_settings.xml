@@ -207,7 +207,7 @@
         <mark key="." line="278" column="2" />
         <mark key="^" line="187" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526593812526">
+      <file name="/Dummy.txt" timestamp="1526597212239">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -271,11 +271,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Metadata.java" timestamp="1526348871428">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1526594985343">
-        <mark key="[" line="69" column="58" />
-        <mark key="]" line="69" column="58" />
-        <mark key="." line="69" column="58" />
-        <mark key="^" line="69" column="82" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1526597160478">
+        <mark key="[" line="68" column="67" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="22" />
+        <mark key="^" line="68" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1526591339296">
         <mark key="[" line="0" column="0" />
@@ -388,7 +388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>daemon</text>
+        <text>not shutting down the thread at the end of the test shaves off like 800ms</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -399,7 +399,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>daemon</text>
+        <text>not shutting down the thread at the end of the test shaves off like 800ms</text>
       </register>
       <register name="/" type="4">
         <text>writeTiles</text>
@@ -408,34 +408,34 @@
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1RpbGVXcml0ZXIpLndyaXRlVGlsZXModGlsZVJlcXVlc3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIEJlY2F1c2UgdGhlIFRpbGVXcml0ZXIgdGhyZWFkIGlzIGEgZGFlbW9uLCB3ZSBkb24ndCB1c2UgaXQncyBzaHV0CiAgICAvLyBJdCB3aWxsIGRpZSBpZiB0aGUgbWFpbiB0aHJlYWQgZGllcy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsK</text>
+        <text encoding="base64">ICAgIHRpbGVXcml0ZXJEYWVtb24uc2h1dGRvd24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsKICAgICAgdGlsZVdyaXRlckRhZW1vbi5zaHV0ZG93bigpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHRpbGVXcml0ZXJEYWVtb24uam9pbigpOyAvLyBXaWxsIGJsb2NrIGFzIGxvbmcgYXMgdGhlIHRpbGVXcml0ZXIgdGhyZWFkIGlzIHJ1bm5pbmcuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aWxlUmVxdWVzdDogUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5UaWxlUmVxdWVzdD8KICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgdGlsZVJlcXVlc3QgPSB0aWxlUmVxdWVzdFF1ZXVlLnBvbGwoMTAsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGV4YzogSW50ZXJydXB0ZWRFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICB0aWxlUmVxdWVzdCA9IG51bGwKICAgICAgICAgICAgICAgICAgICB0aGlzLmludGVycnVwdCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAodGlsZVJlcXVlc3QgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yLnN1Ym1pdChSdW5uYWJsZVRpbGVSZXF1ZXN0KHRpbGVXcml0ZXIsIHRpbGVSZXF1ZXN0KSkKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIlN1Ym1pdHRlZCBUaWxlUmVxdWVzdCBmb3IgYmFzZSA6ICR7dGlsZVJlcXVlc3Q/LmJhc2VDcnlzdGFsfSIpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVzcG9uZGluZyB0byBTYXJhJ3MgY29tbWVudHMK</text>
+        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsKICAgICAgdGlsZVdyaXRlckRhZW1vbi5zaHV0ZG93bigpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRocmVhZC5zaHV0ZG93bigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1RpbGVXcml0ZXIpLndyaXRlVGlsZXModGlsZVJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aWxlUmVxdWVzdDogUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5UaWxlUmVxdWVzdD8KICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgdGlsZVJlcXVlc3QgPSB0aWxlUmVxdWVzdFF1ZXVlLnBvbGwoMTAsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGV4YzogSW50ZXJydXB0ZWRFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICB0aWxlUmVxdWVzdCA9IG51bGwKICAgICAgICAgICAgICAgICAgICB0aGlzLmludGVycnVwdCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAodGlsZVJlcXVlc3QgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yLnN1Ym1pdChSdW5uYWJsZVRpbGVSZXF1ZXN0KHRpbGVXcml0ZXIsIHRpbGVSZXF1ZXN0KSkKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIlN1Ym1pdHRlZCBUaWxlUmVxdWVzdCBmb3IgYmFzZSA6ICR7dGlsZVJlcXVlc3Q/LmJhc2VDcnlzdGFsfSIpCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvci5hd2FpdFRlcm1pbmF0aW9uKDIsIFRpbWVVbml0Lk1JTlVURVMpIC8vIGludGVycnVwdGFibGUK</text>
+        <text encoding="base64">UmVzcG9uZGluZyB0byBTYXJhJ3MgY29tbWVudHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
