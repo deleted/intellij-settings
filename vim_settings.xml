@@ -67,10 +67,10 @@
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/common/time/MockClock.java" timestamp="1526511836021" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1526587078890">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="71" column="39" />
-        <mark key="." line="71" column="39" />
-        <mark key="^" line="71" column="39" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="72" column="39" />
+        <mark key="." line="72" column="39" />
+        <mark key="^" line="72" column="39" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
         <mark key="[" line="96" column="16" />
@@ -101,10 +101,10 @@
       <file name="/fragment.kt" timestamp="1526509273489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.kt" timestamp="1526587115339">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.kt" timestamp="1526591680372">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
         <mark key="^" line="34" column="44" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/build/generated/source/proto/main/grpc/net/threescan/grpc/receptionist/ReceptionistGrpc.java" timestamp="1525905516050">
@@ -207,11 +207,11 @@
         <mark key="." line="278" column="2" />
         <mark key="^" line="187" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526512776271">
+      <file name="/Dummy.txt" timestamp="1526591740072">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
@@ -271,13 +271,13 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Metadata.java" timestamp="1526348871428">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1526512915135">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1526590683413">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="38" column="25" />
         <mark key="^" line="75" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1526422239547">
+      <file name="/fragment.java" timestamp="1526591339296">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -387,8 +387,8 @@
       <jump line="22" column="13" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1RpbGVXcml0ZXIpLndyaXRlVGlsZXModGlsZVJlcXVlc3QpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXhwZXJpbWVudGFsbHkg</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -399,7 +399,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>termination</text>
+        <text encoding="base64">ZXhwZXJpbWVudGFsbHkg</text>
       </register>
       <register name="/" type="4">
         <text>writeTiles</text>
