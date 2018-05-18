@@ -238,7 +238,7 @@
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove Watch</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -590,7 +590,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
