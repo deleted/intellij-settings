@@ -103,7 +103,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526686485047" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526689474448">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/serialization/codec/BufferedImageSerializer.java" timestamp="1526611307704" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/BufferedImageOutputStream.java" timestamp="1521654373513">
         <mark key="[" line="8" column="6" />
@@ -165,6 +170,11 @@
         <mark key="]" line="11" column="60" />
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526689896384">
+        <mark key="[" line="123" column="18" />
+        <mark key="]" line="123" column="18" />
+        <mark key="." line="123" column="18" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1525995592565">
         <mark key="[" line="9" column="22" />
@@ -385,8 +395,8 @@
       <jump line="0" column="18" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXJNZC4K</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -397,7 +407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>BufferedImage</text>
