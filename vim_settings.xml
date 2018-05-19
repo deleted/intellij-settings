@@ -41,6 +41,7 @@
         <mark key="^" line="36" column="61" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/serialization/codec/SerializerBase.java" timestamp="1526610957435" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.6.RELEASE/14f837d78a638a79f51f1cd9dd8ff80733153530/spring-test-5.0.6.RELEASE-sources.jar!/org/springframework/test/web/servlet/MockMvc.java" timestamp="1526691846159" />
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="18" />
@@ -48,6 +49,7 @@
         <mark key="." line="45" column="18" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/common/time/MockClock.java" timestamp="1526511836021" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.6.RELEASE/5df6665cba0f134530525b0d885a5ca66b614b02/spring-webmvc-5.0.6.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java" timestamp="1526692737818" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1526666262858">
         <mark key="[" line="58" column="80" />
         <mark key="]" line="58" column="80" />
@@ -61,6 +63,7 @@
         <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageDiskStore.java" timestamp="1526518808480" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.6.RELEASE/14f837d78a638a79f51f1cd9dd8ff80733153530/spring-test-5.0.6.RELEASE-sources.jar!/org/springframework/test/web/servlet/TestDispatcherServlet.java" timestamp="1526692654475" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -82,13 +85,14 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526689474448">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="46" />
-        <mark key="." line="14" column="20" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/serialization/codec/BufferedImageSerializer.java" timestamp="1526611307704" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.6.RELEASE/80d2ad911e4381ea99237aa00332271f132b2eb3/spring-web-5.0.6.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java" timestamp="1526692309245" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/BufferedImageOutputStream.java" timestamp="1521654373513">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="9" />
@@ -142,6 +146,7 @@
         <mark key="]" line="123" column="18" />
         <mark key="." line="123" column="18" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.31/5ade5e787bcaabb9d088d8e4b22a8edffa43a783/tomcat-embed-core-8.5.31-sources.jar!/javax/servlet/http/HttpServlet.java" timestamp="1526692985077" />
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1525995592565">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="16" column="37" />
@@ -171,13 +176,6 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1526512444762">
-        <mark key="'" line="187" column="14" />
-        <mark key="[" line="278" column="2" />
-        <mark key="]" line="278" column="2" />
-        <mark key="." line="278" column="2" />
-        <mark key="^" line="187" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1526666532754">
         <mark key="'" line="0" column="18" />
@@ -238,13 +236,15 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.6.RELEASE/5df6665cba0f134530525b0d885a5ca66b614b02/spring-webmvc-5.0.6.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1526693144665" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1526597160478">
         <mark key="[" line="68" column="67" />
         <mark key="]" line="68" column="22" />
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1526686613078">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.6.RELEASE/14f837d78a638a79f51f1cd9dd8ff80733153530/spring-test-5.0.6.RELEASE-sources.jar!/org/springframework/mock/web/MockFilterChain.java" timestamp="1526692629448" />
+      <file name="/fragment.java" timestamp="1526692859202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -354,8 +354,8 @@
       <jump line="0" column="18" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdoZW4gbW9ja012Yy4K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -366,7 +366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>(value = TileServerController.class)</text>
       </register>
       <register name="/" type="4">
         <text>BufferedImage</text>
@@ -375,34 +375,34 @@
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja1RpbGVXcml0ZXIpLndyaXRlVGlsZXModGlsZVJlcXVlc3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXJNZC4K</text>
+        <text encoding="base64">ICAgIHdoZW4gbW9ja012Yy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZnV0dXJlKS5qb2luKCkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXJNZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEJlY2F1c2UgdGhlIFRpbGVXcml0ZXIgdGhyZWFkIGlzIGEgZGFlbW9uLCB3ZSBkb24ndCB1c2UgaXQncyBzaHV0CiAgICAvLyBJdCB3aWxsIGRpZSBpZiB0aGUgbWFpbiB0aHJlYWQgZGllcy4K</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZnV0dXJlKS5qb2luKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbGVXcml0ZXJEYWVtb24uc2h1dGRvd24oKTsK</text>
+        <text encoding="base64">ICAgIC8vIEJlY2F1c2UgdGhlIFRpbGVXcml0ZXIgdGhyZWFkIGlzIGEgZGFlbW9uLCB3ZSBkb24ndCB1c2UgaXQncyBzaHV0CiAgICAvLyBJdCB3aWxsIGRpZSBpZiB0aGUgbWFpbiB0aHJlYWQgZGllcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpbGVXcml0ZXJEYWVtb24uam9pbigpOyAvLyBXaWxsIGJsb2NrIGFzIGxvbmcgYXMgdGhlIHRpbGVXcml0ZXIgdGhyZWFkIGlzIHJ1bm5pbmcuCg==</text>
+        <text encoding="base64">ICAgIHRpbGVXcml0ZXJEYWVtb24uc2h1dGRvd24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRpbGVXcml0ZXJEYWVtb24uam9pbigpOyAvLyBXaWxsIGJsb2NrIGFzIGxvbmcgYXMgdGhlIHRpbGVXcml0ZXIgdGhyZWFkIGlzIHJ1bm5pbmcuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsKICAgICAgdGlsZVdyaXRlckRhZW1vbi5zaHV0ZG93bigpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmICh0aWxlV3JpdGVyRGFlbW9uICE9IG51bGwgJiYgdGlsZVdyaXRlckRhZW1vbi5pc0FsaXZlKCkpIHsKICAgICAgdGlsZVdyaXRlckRhZW1vbi5zaHV0ZG93bigpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
