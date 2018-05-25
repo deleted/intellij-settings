@@ -39,11 +39,11 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527287246577">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
-        <mark key="^" line="60" column="29" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527289959835">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="23" column="69" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -63,11 +63,11 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" timestamp="1527287453624">
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="41" column="51" />
-        <mark key="^" line="41" column="51" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" timestamp="1527289827121">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="85" column="56" />
+        <mark key="." line="85" column="56" />
+        <mark key="^" line="85" column="56" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -377,8 +377,8 @@
       <jump line="33" column="53" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;ffffffff&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuU3RhbmRhcmRPcGVuT3B0aW9uCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -389,43 +389,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;ffffffff&quot;</text>
+        <text>, create</text>
       </register>
       <register name="/" type="4">
         <text>charser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW1hZ2UgPSBUZXN0SW1hZ2VHZW5lcmF0b3IuY29sb3JTdHJ1Y3R1cmVkSW1hZ2UoCiAgICAgICAgICAgICAgICBzaGFwZSwgQnVmZmVyZWRJbWFnZVR5cGUuVFlQRV8zQllURV9CR1IpCg==</text>
+        <text encoding="base64">ICAgICAgICBzbGljZVN0b3JlLnB1dChyZWNvcmQpLmpvaW4oKQogICAgICAgIGFzc2VydFRoYXQoc2xpY2VTdG9yZS5oYXMocmVjb3JkLmlkKSkuaXNUcnVlKCkKICAgICAgICBhc3NlcnRUaGF0KHNsaWNlU3RvcmUuZ2V0KHJlY29yZC5pZCkuam9pbigpKS5pc05vdE51bGwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW1hZ2UgPSBjcmVhdGVUZXN0SW1hZ2Uoc2hhcGUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuU3RhbmRhcmRPcGVuT3B0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXBlLCBCdWZmZXJlZEltYWdlVHlwZS5UWVBFXzNCWVRFX0JHUikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3JlYXRlID0gU3RhbmRhcmRPcGVuT3B0aW9uLkNSRUFURQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbGljZVN0b3JlLmdldChyZWNvcmQuaWQpCiAgICAgICAgICAgIC50aGVuQWNjZXB0e3JldHJpZXZlZFJlY29yZCAtPgogICAgICAgICAgICAgICAgYXNzZXJ0VGhhdChyZXRyaWV2ZWRSZWNvcmQpLmlzTm90TnVsbAogICAgICAgICAgICB9LmpvaW4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVjb3JkUGF0aCA9IHJvb3RQYXRoLnJlc29sdmUoCiAgICAgICAgICAgICAgICBLZXNtU2xpY2VTdG9yZVJlY29yZC5hcmNoaXZlRmlsZU5hbWUoaWQpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMuZGVsZXRlKHJlY29yZFBhdGgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVjb3JkUGF0aCA9IHJvb3RQYXRoLnJlc29sdmUoCiAgICAgICAgICAgICAgICBLZXNtU2xpY2VTdG9yZVJlY29yZC5hcmNoaXZlRmlsZU5hbWUoaWQpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzbGljZVN0b3JlLmdldChyZWNvcmQuaWQpLmpvaW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVjb3JkUGF0aCA9IGdldFJlY29yZFBhdGgoaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNsaWNlU3RvcmUuZ2V0KHJlY29yZC5pZCkud2FpdCkuaXNOb3ROdWxsKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVjb3JkUGF0aCA9IHJvb3RQYXRoLnJlc29sdmUoCiAgICAgICAgICAgICAgICBLZXNtU2xpY2VTdG9yZVJlY29yZC5hcmNoaXZlRmlsZU5hbWUocmVjb3JkLmlkKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEgRmlsZXMuZXhpc3RzKHJlY29yZFBhdGgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
