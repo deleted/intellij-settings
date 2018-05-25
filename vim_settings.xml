@@ -27,6 +27,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="30" column="41" />
       </file>
+      <file name="/usr/lib/jvm/default-java/jre/lib/rt.jar!/java/util/zip/ZipOutputStream.class" timestamp="1527276180482" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/KesmSliceMetadata.kt" timestamp="1525388123381">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -63,17 +64,17 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/common/KesmSliceMetadataTest.java" timestamp="1526003565207">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/common/KesmSliceMetadataTest.java" timestamp="1527272662976">
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527204115486">
-        <mark key="[" line="67" column="13" />
-        <mark key="]" line="68" column="26" />
-        <mark key="." line="68" column="26" />
-        <mark key="^" line="68" column="26" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527276010864">
+        <mark key="[" line="74" column="56" />
+        <mark key="]" line="73" column="51" />
+        <mark key="^" line="73" column="51" />
+        <mark key="." line="73" column="51" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -140,12 +141,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1527185898674">
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1527273313957">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="115" column="67" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="63" />
+        <mark key="." line="113" column="63" />
+        <mark key="^" line="113" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1527186732024">
         <mark key="'" line="0" column="18" />
@@ -204,6 +205,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreRecordTest.kt" timestamp="1527274475906">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="17" column="0" />
@@ -254,7 +260,7 @@
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSlicePersistance.kt" timestamp="1526673742278">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1526692859202">
+      <file name="/fragment.java" timestamp="1527272226554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -365,7 +371,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -376,7 +382,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>currentEntry</text>
       </register>
       <register name="/" type="4">
         <text>apache</text>
@@ -385,34 +391,34 @@
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC56aXAuWmlwRW50cnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemlwRmlsZS51c2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgemlwRmlsZS5jbG9zZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1ldGFkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1ldGFkYXRhID0gS2VzbVNsaWNlTWV0YWRhdGEuZnJvbUpzb24oCiAgICAgICAgICAgICAgICAgICAgemlwRmlsZS5nZXRJbnB1dFN0cmVhbShtZXRhZGF0YUVudHJ5KS50b1N0cmluZygpCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIHZhbCBpbWFnZSA9IEltYWdlSU8ucmVhZCgKICAgICAgICAgICAgICAgICAgICB6aXBGaWxlLmdldElucHV0U3RyZWFtKGltYWdlRW50cnkpCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1ldGFkYXRhOiBLZXNtU2xpY2VNZXRhZGF0YQogICAgICAgICAgICB2YWwgaW1hZ2U6IEJ1ZmZlcmVkSW1hZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1ldGFkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5Lm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGJ5dGVzID0gQnl0ZUFycmF5KGVudHJ5LnNpemUudG9JbnQoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemlwRmlsZS5lbnRyaWVzLml0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBvcGVuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC56aXAuWmlwSW5wdXRTdHJlYW0K</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24uY29tbW9uLktlc21TbGljZU1ldGFkYXRhVGVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
