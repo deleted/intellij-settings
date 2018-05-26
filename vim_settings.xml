@@ -39,10 +39,10 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527289959835">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527295081116">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="69" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
@@ -191,16 +191,13 @@
       </file>
       <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1527273313957">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="63" />
-        <mark key="." line="113" column="63" />
-        <mark key="^" line="113" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527186732024">
+      <file name="/Dummy.txt" timestamp="1527295103771">
+        <mark key="d" line="0" column="30" />
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
@@ -377,8 +374,8 @@
       <jump line="33" column="53" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuU3RhbmRhcmRPcGVuT3B0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>mdOut</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -389,7 +386,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, create</text>
+        <text>mdOut</text>
       </register>
       <register name="/" type="4">
         <text>charser</text>
