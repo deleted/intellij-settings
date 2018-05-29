@@ -69,11 +69,12 @@
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527613110188">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="20" column="22" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527628314461">
+        <mark key="'" line="27" column="23" />
+        <mark key="[" line="81" column="28" />
+        <mark key="]" line="81" column="28" />
+        <mark key="." line="81" column="28" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -275,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="179" column="32" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="180" column="35" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="220" column="51" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -375,10 +375,11 @@
       <jump line="114" column="46" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="116" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="115" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sematics</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -389,10 +390,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>interacts</text>
+        <text>sematics</text>
       </register>
       <register name="/" type="4">
-        <text>jimfs</text>
+        <text>sematics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzbGljZVN0b3JlLnB1dChyZWNvcmQpLmpvaW4oKQogICAgICAgIGFzc2VydFRoYXQoc2xpY2VTdG9yZS5oYXMocmVjb3JkLmlkKSkuaXNUcnVlKCkKICAgICAgICBhc3NlcnRUaGF0KHNsaWNlU3RvcmUuZ2V0KHJlY29yZC5pZCkuam9pbigpKS5pc05vdE51bGwoKQo=</text>
@@ -432,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jimfs</last-search>
+      <last-search>sematics</last-search>
       <last-offset />
-      <last-pattern>jimfs</last-pattern>
+      <last-pattern>sematics</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -442,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>receptionist</entry>
         <entry>validateName</entry>
         <entry>guava</entry>
         <entry>grpc</entry>
@@ -462,6 +462,7 @@
         <entry>gogoke</entry>
         <entry>google</entry>
         <entry>jimfs</entry>
+        <entry>sematics</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbGYvdGhpcy8=</entry>
