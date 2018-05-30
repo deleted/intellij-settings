@@ -641,6 +641,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Vim Emulator">
         <Item>
           <IdeaActionID>VimPluginToggle</IdeaActionID>
