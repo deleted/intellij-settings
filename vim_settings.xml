@@ -69,12 +69,12 @@
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527631776818">
-        <mark key="'" line="27" column="23" />
-        <mark key="[" line="125" column="54" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="124" column="14" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527643305434">
+        <mark key="'" line="13" column="32" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="139" column="31" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -154,9 +154,9 @@
         <mark key="." line="114" column="46" />
         <mark key="^" line="114" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527639931198">
+      <file name="/Dummy.txt" timestamp="1527644133119">
         <mark key="d" line="0" column="30" />
-        <mark key="'" line="0" column="18" />
+        <mark key="'" line="1" column="24" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -274,11 +274,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/a2e6f6d75b7fa7e8eedb3062e5bfd24cc9fe8591/jimfs-1.1-sources.jar!/com/google/common/jimfs/FileSystemView.java" timestamp="1527642739922" />
     </filemarks>
     <jumps>
-      <jump line="179" column="32" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="180" column="35" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="220" column="51" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="146" column="30" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="181" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="219" column="37" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -376,6 +374,9 @@
       <jump line="116" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="115" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
+      <jump line="1" column="24" filename="/Dummy.txt" />
+      <jump line="10" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
+      <jump line="13" column="32" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -393,49 +394,49 @@
         <text>Responding to some of sara's comments. Added a list() function to the sliceStore</text>
       </register>
       <register name="/" type="4">
-        <text>sematics</text>
+        <text>.part</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzbGljZVN0b3JlLnB1dChyZWNvcmQpLmpvaW4oKQogICAgICAgIGFzc2VydFRoYXQoc2xpY2VTdG9yZS5oYXMocmVjb3JkLmlkKSkuaXNUcnVlKCkKICAgICAgICBhc3NlcnRUaGF0KHNsaWNlU3RvcmUuZ2V0KHJlY29yZC5pZCkuam9pbigpKS5pc05vdE51bGwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKCI5ZjdkOGNiOS04NTk4LTRmZDgtOGI3NC0xOTcwMDYxNGZmYzMiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7dGhpcy5oYXMoaXQpIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKCI5ZjdkOGNiOS04NTk4LTRmZDgtOGI3NC0xOTcwMDYxNGZmYzMiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7dGhpcy5oYXMoaXQpIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMubW92ZSh0bXBQYXRoLCByZWNvcmRQYXRoLCBTdGFuZGFyZENvcHlPcHRpb24uUkVQTEFDRV9FWElTVElORywgU3RhbmRhcmRDb3B5T3B0aW9uLkFUT01JQ19NT1ZFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkZWQgc29tZSBkb2NzdHJpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQYXRoLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBkaXJFeGlzdHMgPSBGaWxlcy5leGlzdHMocmVjb3JkUGF0aCkKLy8gICAgICAgIHZhbCBpbWFnZUV4aXN0cyA9IEZpbGVzLmV4aXN0cyhyZWNvcmRQYXRoLnJlc29sdmUoSU1BR0VfRklMRU5BTUUpKQovLyAgICAgICAgdmFsIG1ldGFkYXRhRXhpc3RzID0gRmlsZXMuZXhpc3RzKHJlY29yZFBhdGgucmVzb2x2ZShNRVRBX0ZJTEVOQU1FKSkKLy8gICAgICAgIHJldHVybiBkaXJFeGlzdHMgJiYgaW1hZ2VFeGlzdHMgJiYgbWV0YWRhdGFFeGlzdHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRtcFBhdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKCI5ZjdkOGNiOS04NTk4LTRmZDgtOGI3NC0xOTcwMDYxNGZmYzMiKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuU3RhbmRhcmRPcGVuT3B0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKCI5ZjdkOGNiOS04NTk4LTRmZDgtOGI3NC0xOTcwMDYxNGZmYzMiKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3JlYXRlID0gU3RhbmRhcmRPcGVuT3B0aW9uLkNSRUFURQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sematics</last-search>
+      <last-search>.part</last-search>
       <last-offset />
-      <last-pattern>sematics</last-pattern>
+      <last-pattern>.part</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -443,8 +444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validateName</entry>
-        <entry>guava</entry>
         <entry>grpc</entry>
         <entry>checkArgument</entry>
         <entry>client</entry>
@@ -463,6 +462,8 @@
         <entry>google</entry>
         <entry>jimfs</entry>
         <entry>sematics</entry>
+        <entry>,part</entry>
+        <entry>.part</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbGYvdGhpcy8=</entry>
