@@ -39,12 +39,12 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527727201311">
-        <mark key="'" line="158" column="19" />
-        <mark key="[" line="154" column="24" />
-        <mark key="]" line="154" column="24" />
-        <mark key="." line="154" column="24" />
-        <mark key="^" line="153" column="30" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527891226905">
+        <mark key="'" line="10" column="27" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="60" column="28" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -63,12 +63,12 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" timestamp="1527727874647">
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" timestamp="1527892401039">
         <mark key="'" line="55" column="26" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+        <mark key="[" line="134" column="54" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="136" column="52" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -367,7 +367,6 @@
       <jump line="115" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="1" column="24" filename="/Dummy.txt" />
-      <jump line="10" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="13" column="32" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="151" column="12" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="156" column="22" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
@@ -378,10 +377,11 @@
       <jump line="53" column="12" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
       <jump line="54" column="30" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
       <jump line="55" column="26" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
+      <jump line="10" column="27" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjZXB0aW9uT2ZUeXBlKEV4ZWN1dGlvbkV4Y2VwdGlvbjo6Y2xhc3MuamF2YSkuaXNUaHJvd25CeSB7ICAgICAgICAgICAgIGZ1dHVyZS5nZXQoKQogICAgICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -392,52 +392,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>CompletionException</text>
       </register>
       <register name="/" type="4">
-        <text>rootPath</text>
+        <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KEZpbGVzLmV4aXN0cyhwYXJ0aWFsUGF0aCkpLmlzVHJ1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2xpY2VTdG9yZSA9IEtlc21TbGljZVN0b3JlKHRtcERpcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjZXB0aW9uT2ZUeXBlKEV4ZWN1dGlvbkV4Y2VwdGlvbjo6Y2xhc3MuamF2YSkuaXNUaHJvd25CeSB7ICAgICAgICAgICAgIGZ1dHVyZS5nZXQoKQogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEppbWZzOiBpbi1tZW1vcnkgZmlsZXN5c3RlbSwgZm9yIHRlc3RpbmcKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnY29tLmdvb2dsZS5qaW1mcycsIG5hbWU6ICdqaW1mcycsIHZlcnNpb246ICcxLjEnCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc0luc3RhbmNlT2YoSU9FeGNlcHRpb246OmNsYXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VTdG9yZS5nZXQobm9uRXhpc3RhbnRTbGljZUlkKS5nZXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlcy5jcmVhdGVEaXJlY3RvcnkodG1wRGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZnV0ID0gc2xpY2VTdG9yZS5nZXQoIjAwMDAwMDAwIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGUgYSBmYWtlIGluLW1lbW9yeSBmaWxlc3lzdGVtCiAgICAgICAgdmFsIGZzOiBGaWxlU3lzdGVtID0gSmltZnMubmV3RmlsZVN5c3RlbShDb25maWd1cmF0aW9uLnVuaXgoKSkKICAgICAgICB2YWwgcm9vdFBhdGggPSBmcy5nZXRQYXRoKCIvdG1wIikK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcm9vdFBhdGggPSB0bXBEaXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEZpbGVzLmNyZWF0ZURpcmVjdG9yeShyb290UGF0aCkK</text>
+        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBmczogRmlsZVN5c3RlbSA9IEppbWZzLm5ld0ZpbGVTeXN0ZW0oQ29uZmlndXJhdGlvbi51bml4KCkpCi8vICAgICAgICB2YWwgcm9vdFBhdGggPSBmcy5nZXRQYXRoKCIvdG1wIikK</text>
+        <text encoding="base64">ICAgIC8vIEppbWZzOiBpbi1tZW1vcnkgZmlsZXN5c3RlbSwgZm9yIHRlc3RpbmcKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnY29tLmdvb2dsZS5qaW1mcycsIG5hbWU6ICdqaW1mcycsIHZlcnNpb246ICcxLjEnCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQodG1wRGlyICE9IG51bGwpCg==</text>
+        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rootPath</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>rootPath</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
         <entry>val</entry>
         <entry>handleCache</entry>
         <entry>kotlin</entry>
@@ -465,6 +464,7 @@
         <entry>.part</entry>
         <entry>i</entry>
         <entry>rootPath</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbGYvdGhpcy8=</entry>
