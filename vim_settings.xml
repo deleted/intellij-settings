@@ -39,12 +39,12 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527891226905">
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1527895751845">
         <mark key="'" line="10" column="27" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="28" />
+        <mark key="[" line="154" column="88" />
+        <mark key="]" line="154" column="88" />
+        <mark key="." line="154" column="88" />
+        <mark key="^" line="154" column="98" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -63,12 +63,12 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" timestamp="1527892401039">
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" timestamp="1527895562725">
         <mark key="'" line="55" column="26" />
-        <mark key="[" line="134" column="54" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="136" column="52" />
+        <mark key="[" line="139" column="39" />
+        <mark key="]" line="139" column="33" />
+        <mark key="." line="139" column="33" />
+        <mark key="^" line="139" column="33" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -198,12 +198,11 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527728045400">
-        <mark key="d" line="0" column="30" />
-        <mark key="'" line="1" column="24" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1527895775818">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
@@ -380,8 +379,8 @@
       <jump line="10" column="27" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjZXB0aW9uT2ZUeXBlKEV4ZWN1dGlvbkV4Y2VwdGlvbjo6Y2xhc3MuamF2YSkuaXNUaHJvd25CeSB7ICAgICAgICAgICAgIGZ1dHVyZS5nZXQoKQogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Responding to some of sara's comments. Added a list() function to the sliceStore</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -392,43 +391,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CompletionException</text>
+        <text>Responding to some of sara's comments. Added a list() function to the sliceStore</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2xpY2VTdG9yZSA9IEtlc21TbGljZVN0b3JlKHRtcERpcikK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZ1dHVyZS5pc0NvbXBsZXRlZEV4Y2VwdGlvbmFsbHkpLmlzVHJ1ZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjZXB0aW9uT2ZUeXBlKEV4ZWN1dGlvbkV4Y2VwdGlvbjo6Y2xhc3MuamF2YSkuaXNUaHJvd25CeSB7ICAgICAgICAgICAgIGZ1dHVyZS5nZXQoKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9LmlzRXF1YWxUb0lnbm9yaW5nTnVsbEZpZWxkcygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc0luc3RhbmNlT2YoSU9FeGNlcHRpb246OmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VTdG9yZS5nZXQobm9uRXhpc3RhbnRTbGljZUlkKS5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZnV0ID0gc2xpY2VTdG9yZS5nZXQoIjAwMDAwMDAwIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFGaWxlcy5leGlzdHMoZmlsZVBhdGgpKSB7CiAgICAgICAgICAgICAgICB2YWwgbXNnID0gIk5vIGFyY2hpdmUgcmVjb3JkIGZvdW5kIGF0IHBhdGg6ICR7ZmlsZVBhdGgudG9TdHJpbmcoKX0iCiAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IobXNnKQogICAgICAgICAgICAgICAgdGhyb3cgSU9FeGNlcHRpb24obXNnKQogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBmdXR1cmUuZXhjZXB0aW9uYWxseSB7IGV4YyAtPiBhc3NlcnRUaGF0KGV4YykuaXNJbnN0YW5jZU9mKElPRXhjZXB0aW9uOjpjbGFzcy5qYXZhKSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjZXB0aW9uT2ZUeXBlKEV4ZWN1dGlvbkV4Y2VwdGlvbjo6Y2xhc3MuamF2YSkuaXNUaHJvd25CeSB7ICAgICAgICAgICAgIGZ1dHVyZS5nZXQoKQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pc0luc3RhbmNlT2YoSU9FeGNlcHRpb246OmNsYXNzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIEppbWZzOiBpbi1tZW1vcnkgZmlsZXN5c3RlbSwgZm9yIHRlc3RpbmcKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnY29tLmdvb2dsZS5qaW1mcycsIG5hbWU6ICdqaW1mcycsIHZlcnNpb246ICcxLjEnCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VTdG9yZS5nZXQobm9uRXhpc3RhbnRTbGljZUlkKS5nZXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZnV0ID0gc2xpY2VTdG9yZS5nZXQoIjAwMDAwMDAwIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
