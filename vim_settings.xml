@@ -86,6 +86,12 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1528238606655">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="56" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/BufferedImageOutputStreamTest.java" timestamp="1521654252720">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="28" />
@@ -213,7 +219,7 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528235215799">
+      <file name="/Dummy.txt" timestamp="1528238642682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -397,8 +403,8 @@
       <jump line="105" column="36" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -409,7 +415,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>ffffffff</text>
       </register>
       <register name="/" type="4">
         <text>allOf</text>
@@ -424,31 +430,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudCA9IDA7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKytjb3VudDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZWNvcmQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8Vm9pZD4+IGVucXVldWVGdXR1cmVzID0gbmV3IEFycmF5TGlzdDxDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPj4oKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5xdWV1ZUZ1dHVyZXMuYWRkKGZ1dHVyZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJFbnF1ZWluZyAiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIENsZWFuIHVwIGFueSBwYXJ0aWFsbHkgd3JpdHRlbiByZWNvcmRzLgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludCBjb3VudCA9IDA7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgKytjb3VudDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZWNvcmQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8Vm9pZD4+IGVucXVldWVGdXR1cmVzID0gbmV3IEFycmF5TGlzdDxDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPj4oKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZW5xdWV1ZUZ1dHVyZXMuYWRkKGZ1dHVyZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJFbnF1ZWluZyAiKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIENsZWFuIHVwIGFueSBwYXJ0aWFsbHkgd3JpdHRlbiByZWNvcmRzLgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>s/0/e/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -502,8 +508,8 @@
         <entry>e</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>s/0/f/g</entry>
-        <entry>w</entry>
         <entry>s/0/e/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
