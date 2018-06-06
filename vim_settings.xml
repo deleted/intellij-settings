@@ -15,11 +15,11 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528153827240">
-        <mark key="[" line="59" column="41" />
-        <mark key="]" line="59" column="33" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="3" />
         <mark key="^" line="59" column="33" />
-        <mark key="." line="59" column="33" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" timestamp="1526504143666">
         <mark key="[" line="41" column="0" />
@@ -286,7 +286,7 @@
         <mark key="." line="48" column="65" />
         <mark key="^" line="48" column="65" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1528236257181">
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1528244024539">
         <mark key="'" line="52" column="35" />
         <mark key="[" line="131" column="73" />
         <mark key="]" line="131" column="73" />
@@ -403,8 +403,8 @@
       <jump line="105" column="36" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVzcG9uZGluZyB0byBzb21lIG9mIHNhcmEncyBjb21tZW50cy4gQWRkZWQgYSBsaXN0KCkgZnVuY3Rpb24gdG8gdGhlIHNsaWNlU3RvcmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -415,7 +415,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ffffffff</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>allOf</text>
