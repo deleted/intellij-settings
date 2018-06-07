@@ -148,6 +148,12 @@
         <mark key="^" line="101" column="26" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528331058200">
+        <mark key="[" line="91" column="33" />
+        <mark key="]" line="91" column="37" />
+        <mark key="." line="91" column="37" />
+        <mark key="^" line="91" column="37" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1526084060852">
         <mark key="[" line="145" column="41" />
         <mark key="]" line="145" column="41" />
@@ -422,7 +428,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HashSet())</text>
+        <text>True</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -433,7 +439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HashSet())</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>kotlin</text>
