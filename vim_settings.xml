@@ -113,10 +113,6 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/bin/net/threescan/util/UuidTestUtils.class" timestamp="1528153763530">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="93" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -184,6 +180,7 @@
         <mark key="^" line="98" column="62" />
         <mark key="." line="98" column="62" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528332799452" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
@@ -206,6 +203,9 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528332727709">
+        <mark key="'" line="863" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/IngestOneImage.java" timestamp="1522171830014">
         <mark key="[" line="14" column="46" />
@@ -317,7 +317,7 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1528155425909">
+      <file name="/fragment.java" timestamp="1528332893412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -325,10 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="46" filename="$USER_HOME$/3scan/kesm/gradle/jars.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Metadata.java" />
-      <jump line="178" column="28" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="37" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="172" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="173" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -425,6 +421,10 @@
       <jump line="32" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="88" column="30" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="39" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
+      <jump line="909" column="19" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
+      <jump line="349" column="28" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
+      <jump line="863" column="14" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -442,7 +442,7 @@
         <text>image_sender_class</text>
       </register>
       <register name="/" type="4">
-        <text>xact</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNsaWNlU3RvcmUuaGFzKFV1aWRUZXN0VXRpbHMuT05FX1VVSUQpKS5pc1RydWUoKQo=</text>
@@ -482,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>xact</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>xact</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -492,8 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sematics</entry>
-        <entry>,part</entry>
         <entry>.part</entry>
         <entry>i</entry>
         <entry>rootPath</entry>
@@ -512,6 +510,8 @@
         <entry>testlib</entry>
         <entry>xact_test</entry>
         <entry>xact</entry>
+        <entry>sender</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
