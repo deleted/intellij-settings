@@ -70,6 +70,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="54" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/mongo/images_testlib.py" timestamp="1528915709535">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="12" column="84" />
+        <mark key="^" line="12" column="84" />
+        <mark key="." line="12" column="84" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
         <mark key="]" line="115" column="52" />
@@ -119,6 +125,7 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1528916266438" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreRecordTest.kt" timestamp="1527286262979">
         <mark key="[" line="36" column="21" />
         <mark key="]" line="36" column="15" />
@@ -185,12 +192,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528915477904">
-        <mark key="'" line="162" column="23" />
-        <mark key="[" line="165" column="23" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="61" column="58" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528916163155">
+        <mark key="'" line="164" column="23" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="166" column="27" />
+        <mark key="^" line="166" column="27" />
+        <mark key="." line="166" column="27" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -268,7 +275,7 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528420671126">
+      <file name="/Dummy.txt" timestamp="1528916196179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -462,8 +469,8 @@
       <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltYWdlX2luZGV4LCBpbWFnZV9pZCwgaW1hZ2VfYXJyYXksIGVuZHBvaW50ID0gYXJnc190dXBsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>self.flags.num_sender_processes</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -474,43 +481,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>args_tuple</text>
+        <text>self.flags.num_sender_processes</text>
       </register>
       <register name="/" type="4">
         <text>send_image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20uYWNxLnNsaWNlX21ldGFkYXRhX3NoaW0uU2xpY2VNZXRhZGF0YVNoaW0gYXMgU2xpY2VNZXRhZGF0YVNoaW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY2FtZXJhX3hTaXplIjogaW1hZ2Vfc2hhcGVbMF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlX2luZGV4LCBpbWFnZV9pZCwgaW1hZ2VfYXJyYXksIGVuZHBvaW50ID0gYXJnc190dXBsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcChzZW5kX2ltYWdlLCBzZW5kZXJfYXJnc19saXN0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAneGFjdCc6CiAgICAgICAgc2VuZGVyLnNldENvbnNpc3RlbmN5V2FpdE1TKDYwICogMTAwMCkK</text>
+        <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZSBhcyBtb25nb19iYXNlCmltcG9ydCBrZXNtLm1vbmdvLmltYWdlcyBhcyBpbWFnZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9lbnVtKAogICAgICAgICAgICAic2VuZGVyX3Byb3RvY29sIiwKICAgICAgICAgICAgImdycGMiLCBbImdycGMiLCAieGFjdCJdLAogICAgICAgICAgICAiUHJvdG9jb2wgdG8gdXNlIGZvciBzZW5kaW5nIGltYWdlcyIKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9zdHJpbmcoCiAgICAgICAgICAgICJtb25nb191cmwiLCBOb25lLCAiV2hlcmUgdG8gY29ubmVjdCB0byBtb25nb2RiIikKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hcmtfZmxhZ19hc19yZXF1aXJlZCgibW9uZ29fdXJsIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2Vfc2VuZGVyX2NsYXNzID0gR1JQQ0ltYWdlU2VuZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBkYiA9IG1vbmdvX2Jhc2UuZ2V0X2RiX2Nvbm5lY3Rpb24oc2VsZi5mbGFncy5tb25nb191cmwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAneGFjdCc6CiAgICAgICAgaW1hZ2Vfc2VuZGVyX2NsYXNzID0gWGFjdEltYWdlU2VuZGVyCiAgICBlbGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAnZ3JwYyc6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uID0gaW1hZ2VzLkltYWdlTWV0YWRhdGFDb2xsZWN0aW9uKGRiPWRiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBrZXNtLnByb2plY3RzLktFU01BY3Euc2hhcmVkLmltYWdlX3NlbmRlci54YWN0IGltcG9ydCBYYWN0SW1hZ2VTZW5kZXIK</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZXNfdGVzdGxpYi5pbnNlcnRfZmFrZV9zbGljZV9tZXRhZGF0YV9zaXplKAogICAgICAgICAgICAgICAgaW1hZ2VzX2NvbGxlY3Rpb249Y29sbGVjdGlvbiwKICAgICAgICAgICAgICAgIHNpemU9aW1hZ2Vfc2hhcGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4obXYpID09IG1ldGFkYXRhLnNpemUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZXNfdGVzdGxpYi5pbnNlcnRfZmFrZV9zbGljZV9tZXRhZGF0YV9zaXplKAogICAgICAgICAgICAgICAgaW1hZ2VzX2NvbGxlY3Rpb249Y29sbGVjdGlvbiwKICAgICAgICAgICAgICAgIHNpemU9aW1hZ2Vfc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -621,6 +628,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
