@@ -150,7 +150,7 @@
         <mark key="^" line="101" column="26" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913413840">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913886947">
         <mark key="[" line="47" column="4" />
         <mark key="]" line="24" column="28" />
         <mark key="." line="24" column="28" />
@@ -184,6 +184,9 @@
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528914005833">
+        <mark key="'" line="160" column="21" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -353,31 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
-      <jump line="21" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
-      <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
-      <jump line="97" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="157" column="73" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="32" column="104" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" />
-      <jump line="40" column="8" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" />
-      <jump line="152" column="39" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="140" column="28" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="142" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="182" column="11" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="143" column="23" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="112" column="47" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/serialization/codec/BufferedImageSerializerTest.java" />
-      <jump line="174" column="21" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/serialization/codec/BufferedImageSerializerTest.java" />
-      <jump line="0" column="18" filename="/Dummy.txt" />
-      <jump line="187" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="122" column="24" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="76" column="22" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="123" column="24" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="81" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="19" column="14" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="33" column="53" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="106" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="109" column="14" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="111" column="35" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="116" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="115" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -453,6 +431,31 @@
       <jump line="13" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
       <jump line="175" column="27" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
       <jump line="178" column="46" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="22" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="71" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="73" column="9" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="76" column="61" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="78" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="89" column="15" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="135" column="17" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="136" column="17" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="139" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="140" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="141" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="146" column="16" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="148" column="52" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="155" column="48" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="156" column="47" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="159" column="15" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="7" column="17" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="182" column="44" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="181" column="53" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="180" column="16" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="173" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="170" column="51" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="162" column="38" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="160" column="21" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,7 +473,7 @@
         <text>nd_shim</text>
       </register>
       <register name="/" type="4">
-        <text>metadata</text>
+        <text>flags</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20uYWNxLnNsaWNlX21ldGFkYXRhX3NoaW0uU2xpY2VNZXRhZGF0YVNoaW0gYXMgU2xpY2VNZXRhZGF0YVNoaW0K</text>
@@ -510,9 +513,9 @@
       </register>
     </registers>
     <search>
-      <last-search>metadata</last-search>
+      <last-search>flags</last-search>
       <last-offset />
-      <last-pattern>metadata</last-pattern>
+      <last-pattern>flags</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -520,7 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>i</entry>
         <entry>rootPath</entry>
         <entry>throw</entry>
         <entry>bytes</entry>
@@ -540,6 +542,7 @@
         <entry>sender</entry>
         <entry>send</entry>
         <entry>metadata</entry>
+        <entry>flags</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
