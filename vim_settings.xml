@@ -185,8 +185,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528914005833">
-        <mark key="'" line="160" column="21" />
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528915477904">
+        <mark key="'" line="162" column="23" />
+        <mark key="[" line="165" column="23" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="61" column="58" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -356,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="35" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="116" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="115" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
@@ -454,12 +457,13 @@
       <jump line="180" column="16" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="173" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="170" column="51" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="162" column="38" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="160" column="21" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nd_shim</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltYWdlX2luZGV4LCBpbWFnZV9pZCwgaW1hZ2VfYXJyYXksIGVuZHBvaW50ID0gYXJnc190dXBsZQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -470,52 +474,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nd_shim</text>
+        <text>args_tuple</text>
       </register>
       <register name="/" type="4">
-        <text>flags</text>
+        <text>send_image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20uYWNxLnNsaWNlX21ldGFkYXRhX3NoaW0uU2xpY2VNZXRhZGF0YVNoaW0gYXMgU2xpY2VNZXRhZGF0YVNoaW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGltYWdlX2luZGV4LCBpbWFnZV9pZCwgaW1hZ2VfYXJyYXksIGVuZHBvaW50ID0gYXJnc190dXBsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsZW4obXYpID09IG1ldGFkYXRhLnNpemUK</text>
+        <text encoding="base64">ICAgIGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAneGFjdCc6CiAgICAgICAgc2VuZGVyLnNldENvbnNpc3RlbmN5V2FpdE1TKDYwICogMTAwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcyA9IHNlbGYuZG9jWyJwcm9wZXJ0aWVzIl0KICAgICAgICB3aWR0aCA9IHByb3BzWyJjYW1lcmFfeFNpemUiXQogICAgICAgIGhlaWdodCA9IHByb3BzWyJjYW1lcmFfeVNpemUiXQogICAgICAgIGNoYW5uZWxzID0gcHJvcHNbImNhbWVyYV9jaGFubmVscyJdCiAgICAgICAgYnl0ZXNfcGVyX2NoYW5uZWwgPSAxICAjIFdBUk5JTkc6IEhhcmRjb2RlZCB0byA4LWJpdCBwaXhlbHMKICAgICAgICBzaXplID0gd2lkdGggKiBoZWlnaHQgKiBjaGFubmVscyAqIGJ5dGVzX3Blcl9jaGFubmVsCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9lbnVtKAogICAgICAgICAgICAic2VuZGVyX3Byb3RvY29sIiwKICAgICAgICAgICAgImdycGMiLCBbImdycGMiLCAieGFjdCJdLAogICAgICAgICAgICAiUHJvdG9jb2wgdG8gdXNlIGZvciBzZW5kaW5nIGltYWdlcyIKICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20ucHJvdG8ucmVjZXB0aW9uaXN0X3BiMi5TbGljZU1ldGFwZGF0YSBhcyBTbGljZU1ldGFkYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20ucHJvdG8ucmVjZXB0aW9uaXN0X3BiMi5TbGljZU1ldGFkYXRhIGFzIFNsaWNlTWV0YWRhdGEK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2Vfc2VuZGVyX2NsYXNzID0gR1JQQ0ltYWdlU2VuZGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20ucHJvdG8ucmVjZXB0aW9uaXN0X3BiMi5TbGljZU1ldGFkYXRhIGFzIFNsaWNlTWV0YWRhdGEK</text>
+        <text encoding="base64">ICAgIGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAneGFjdCc6CiAgICAgICAgaW1hZ2Vfc2VuZGVyX2NsYXNzID0gWGFjdEltYWdlU2VuZGVyCiAgICBlbGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAnZ3JwYyc6Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBrZXNtLnByb2plY3RzLktFU01BY3Euc2hhcmVkLmltYWdlX3NlbmRlci54YWN0IGltcG9ydCBYYWN0SW1hZ2VTZW5kZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdpdGggbXVsdGlwcm9jZXNzaW5nLlBvb2wocHJvY2Vzc2VzPXNlbGYuZmxhZ3MubnVtX3NlbmRlcl9wcm9jZXNzZXMpIGFzIHBvb2w6CiAgICAgICAgIyAgICAga2VzbS5iYXNlLmluZm8oCiAgICAgICAgIyAgICAgICAgICJTdGFydGVkIHBvb2wsIGFib3V0IHRvIHN0YXJ0IHNlbmRpbmcge30gaW1hZ2VzLi4uIiwKICAgICAgICAjICAgICAgICAgc2VsZi5mbGFncy5udW1faW1hZ2VzKQoKICAgICAgICAjICAgICBwb29sLm1hcChzZW5kX2ltYWdlLCBzZW5kZXJfYXJnc19saXN0KQogICAgICAgICMgbWFwKHNlbmRfaW1hZ2UsIHNlbmRlcl9hcmdzX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBsZW4obXYpID09IG1ldGFkYXRhLnNpemUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flags</last-search>
+      <last-search>send_image</last-search>
       <last-offset />
-      <last-pattern>flags</last-pattern>
+      <last-pattern>send_image</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -523,7 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rootPath</entry>
         <entry>throw</entry>
         <entry>bytes</entry>
         <entry>0</entry>
@@ -543,6 +546,7 @@
         <entry>send</entry>
         <entry>metadata</entry>
         <entry>flags</entry>
+        <entry>send_image</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
