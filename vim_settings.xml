@@ -150,11 +150,11 @@
         <mark key="^" line="101" column="26" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528493791792">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913413840">
         <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="4" />
-        <mark key="." line="47" column="4" />
-        <mark key="^" line="45" column="10" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528332012920">
         <mark key="[" line="126" column="0" />
