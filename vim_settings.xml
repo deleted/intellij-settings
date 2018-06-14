@@ -70,11 +70,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="54" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/mongo/images_testlib.py" timestamp="1528915709535">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="12" column="84" />
-        <mark key="^" line="12" column="84" />
-        <mark key="." line="12" column="84" />
+      <file name="$USER_HOME$/kesm/kesm/mongo/images_testlib.py" timestamp="1528935970440">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1528933866566">
         <mark key="'" line="318" column="5" />
@@ -196,12 +196,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528916163155">
-        <mark key="'" line="164" column="23" />
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="166" column="27" />
-        <mark key="^" line="166" column="27" />
-        <mark key="." line="166" column="27" />
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528935623188">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="119" column="27" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -371,10 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="12" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="156" column="22" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="158" column="16" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="159" column="19" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="103" column="0" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
       <jump line="114" column="32" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
       <jump line="53" column="12" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
@@ -471,10 +466,14 @@
       <jump line="300" column="15" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="304" column="5" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="318" column="5" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="95" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.flags.num_sender_processes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9ib29sZWFuKAogICAgICAgICAgICAiZmFrZV9yZWNlcHRpb25pc3QiLCBGYWxzZSwKICAgICAgICAgICAgIkNyZWF0ZSBhIGZhY2UgcmVjZXB0aW9uaXN0IChzZXQgRmFsc2UgdG8gdXNlIGEgcmVhbCBvbmUpIgogICAgICAgICkKCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -488,49 +487,49 @@
         <text>self.flags.num_sender_processes</text>
       </register>
       <register name="/" type="4">
-        <text>localDev</text>
+        <text>MockIO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY2FtZXJhX3hTaXplIjogaW1hZ2Vfc2hhcGVbMF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcChzZW5kX2ltYWdlLCBzZW5kZXJfYXJnc19saXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9ib29sZWFuKAogICAgICAgICAgICAiZmFrZV9yZWNlcHRpb25pc3QiLCBGYWxzZSwKICAgICAgICAgICAgIkNyZWF0ZSBhIGZhY2UgcmVjZXB0aW9uaXN0IChzZXQgRmFsc2UgdG8gdXNlIGEgcmVhbCBvbmUpIgogICAgICAgICkKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZSBhcyBtb25nb19iYXNlCmltcG9ydCBrZXNtLm1vbmdvLmltYWdlcyBhcyBpbWFnZXMK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZsYWdzLmZha2VfcmVjZXB0aW9uaXN0OgogICAgICAgICAgICBrZXNtLmJhc2UuaW5mbygiU3RhcnRpbmcgcmVjZWl2ZXIiKQogICAgICAgICAgICBsaXN0ZW5fZW5kcG9pbnQgPSAidGNwOi8vKjoiICsgc3RyKHNlbGYuZmxhZ3MubGlzdGVuX3BvcnQpCiAgICAgICAgICAgIHJlY2VpdmVyID0gTW9ja0lPVGhyZWFkKGxpc3Rlbl9lbmRwb2ludCkKICAgICAgICAgICAgcmVjZWl2ZXIuc3RhcnQoKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9zdHJpbmcoCiAgICAgICAgICAgICJtb25nb191cmwiLCBOb25lLCAiV2hlcmUgdG8gY29ubmVjdCB0byBtb25nb2RiIikKCgo=</text>
+        <text encoding="base64">Y2xhc3MgTW9ja0lPVGhyZWFkKHhhY3RfdGVzdGxpYi5SZWNlaXZlckltcGxlbWVudGF0aW9uKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIHNlbGYudGlsZV9pZHMgPSBzZXQoKQogICAgICAgIHNlbGYucG5nX2lkcyA9IHNldCgpCiAgICAgICAgc2VsZi5jb21wbGV0ZWRfaWRzID0gc2V0KCkKCiAgICBAa2VzbS5iYXNlLm92ZXJyaWRlcyh4YWN0X3Rlc3RsaWIuUmVjZWl2ZXJJbXBsZW1lbnRhdGlvbikKICAgIGRlZiBjb21wbGV0ZV9jYWxsYmFjayhzZWxmLCBibG9iX2lkOiBzdHIsIGJsb2JfYnl0ZXMpOgogICAgICAgIHN1cGVyKCkuY29tcGxldGVfY2FsbGJhY2soYmxvYl9pZCwgYmxvYl9ieXRlcykKICAgICAgICBwYXlsb2FkID0gcGlja2xlLmxvYWRzKGJsb2JfYnl0ZXMpCgogICAgICAgIGZpcnN0X2ZpbGVwYXRoID0gbGlzdChwYXlsb2FkWyJkYXRhIl0ua2V5cygpKVswXQogICAgICAgIGlmIGZpcnN0X2ZpbGVwYXRoLmVuZHN3aXRoKCIuanBnIik6CiAgICAgICAgICAgIGltYWdlX2lkID0gZmlyc3RfZmlsZXBhdGguc3BsaXQoIi8iKVsxXQoKICAgICAgICAgICAgc2VsZi50aWxlX2lkcyB8PSB7aW1hZ2VfaWR9CiAgICAgICAgICAgIGtlc20uYmFzZS5pbmZvKCJSZWNlaXZlZCB0aWxlcyBmb3IgYmxvYl9pZCB7fSIsIGltYWdlX2lkKQogICAgICAgIGVsaWYgZmlyc3RfZmlsZXBhdGguZW5kc3dpdGgoIi5wbmciKToKICAgICAgICAgICAgZmlyc3RfZmlsZXBhdGggPSBsaXN0KHBheWxvYWRbImRhdGEiXS5rZXlzKCkpWzBdCiAgICAgICAgICAgIGZpbGVuYW1lID0gb3MucGF0aC5iYXNlbmFtZShmaXJzdF9maWxlcGF0aCkKICAgICAgICAgICAgaW1hZ2VfaWQsIGV4dGVuc2lvbiA9IGZpbGVuYW1lLnNwbGl0KCIuIikKICAgICAgICAgICAgYXNzZXJ0IGV4dGVuc2lvbiA9PSAicG5nIiwgZmlyc3RfZmlsZXBhdGgKCiAgICAgICAgICAgIHNlbGYucG5nX2lkcyB8PSB7aW1hZ2VfaWR9CiAgICAgICAgICAgIGtlc20uYmFzZS5pbmZvKCJSZWNlaXZlZCBpbWFnZSBmb3IgYmxvYl9pZCB7fSIsIGltYWdlX2lkKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGtlc20uYmFzZS5yYWlzZV9lcnJvcigiTWlzdW5kZXJzdG9vZCBwYXRoOiB7fSIsIGZpcnN0X2ZpbGVwYXRoKQoKICAgICAgICBpZiAoaW1hZ2VfaWQgaW4gc2VsZi50aWxlX2lkcykgYW5kIChpbWFnZV9pZCBpbiBzZWxmLnBuZ19pZHMpOgogICAgICAgICAgICBzZWxmLmNvbXBsZXRlZF9pZHMgfD0ge2ltYWdlX2lkfQogICAgICAgICAgICBrZXNtLmJhc2UuaW5mbygiSW1hZ2UgY29tcGxldGU6IHt9IiwgaW1hZ2VfaWQpCgogICAgICAgICMgUmV0dXJuIHNvbWUgbnVtYmVyLCBwaWNrbGVkLgogICAgICAgIHJldHVybiBwaWNrbGUuZHVtcHMoOTkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1hcmtfZmxhZ19hc19yZXF1aXJlZCgibW9uZ29fdXJsIikK</text>
+        <text encoding="base64">aW1wb3J0IGtlc20ueGFjdC54YWN0X3Rlc3RsaWIgYXMgeGFjdF90ZXN0bGliCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYiA9IG1vbmdvX2Jhc2UuZ2V0X2RiX2Nvbm5lY3Rpb24oc2VsZi5mbGFncy5tb25nb191cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcChzZW5kX2ltYWdlLCBzZW5kZXJfYXJnc19saXN0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uID0gaW1hZ2VzLkltYWdlTWV0YWRhdGFDb2xsZWN0aW9uKGRiPWRiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZSBhcyBtb25nb19iYXNlCmltcG9ydCBrZXNtLm1vbmdvLmltYWdlcyBhcyBpbWFnZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9zdHJpbmcoCiAgICAgICAgICAgICJtb25nb191cmwiLCBOb25lLCAiV2hlcmUgdG8gY29ubmVjdCB0byBtb25nb2RiIikKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZXNfdGVzdGxpYi5pbnNlcnRfZmFrZV9zbGljZV9tZXRhZGF0YV9zaXplKAogICAgICAgICAgICAgICAgaW1hZ2VzX2NvbGxlY3Rpb249Y29sbGVjdGlvbiwKICAgICAgICAgICAgICAgIHNpemU9aW1hZ2Vfc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hcmtfZmxhZ19hc19yZXF1aXJlZCgibW9uZ29fdXJsIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfaWQgPSBpbWFnZXNfdGVzdGxpYi5pbnNlcnRfZmFrZV9zbGljZV9tZXRhZGF0YV9zaXplKAogICAgICAgICAgICAgICAgaW1hZ2VzX2NvbGxlY3Rpb249Y29sbGVjdGlvbiwKICAgICAgICAgICAgICAgIHNpemU9aW1hZ2Vfc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYiA9IG1vbmdvX2Jhc2UuZ2V0X2RiX2Nvbm5lY3Rpb24oc2VsZi5mbGFncy5tb25nb191cmwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>57</text>
       </register>
     </registers>
     <search>
-      <last-search>localDev</last-search>
+      <last-search>MockIO</last-search>
       <last-offset />
-      <last-pattern>localDev</last-pattern>
+      <last-pattern>MockIO</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -538,7 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bytes</entry>
         <entry>0</entry>
         <entry>format(</entry>
         <entry>format</entry>
@@ -551,16 +549,16 @@
         <entry>kotlin</entry>
         <entry>testlib</entry>
         <entry>xact_test</entry>
-        <entry>xact</entry>
         <entry>sender</entry>
         <entry>send</entry>
         <entry>metadata</entry>
         <entry>flags</entry>
         <entry>send_image</entry>
         <entry>localDev</entry>
+        <entry>xact</entry>
+        <entry>MockIO</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>47</entry>
         <entry>s/width/height/g</entry>
         <entry>s/width/nChannels/g</entry>
@@ -580,6 +578,7 @@
         <entry>s/0/e/g</entry>
         <entry>103</entry>
         <entry>w</entry>
+        <entry>57</entry>
       </history-cmd>
       <history-expr />
       <history-input />
