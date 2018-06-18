@@ -128,11 +128,11 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1529348318044">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1529360172085">
         <mark key="'" line="137" column="11" />
-        <mark key="[" line="164" column="33" />
-        <mark key="]" line="165" column="3" />
-        <mark key="." line="165" column="3" />
+        <mark key="[" line="163" column="22" />
+        <mark key="]" line="163" column="22" />
+        <mark key="." line="163" column="22" />
         <mark key="^" line="165" column="3" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreRecordTest.kt" timestamp="1527286262979">
@@ -439,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>d</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -450,7 +450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>get(</text>
