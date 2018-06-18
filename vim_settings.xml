@@ -73,12 +73,12 @@
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1528936763206">
         <mark key="'" line="318" column="5" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1529348480382">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1529348483381">
         <mark key="'" line="70" column="35" />
         <mark key="[" line="73" column="35" />
-        <mark key="]" line="73" column="35" />
-        <mark key="." line="73" column="35" />
-        <mark key="^" line="70" column="35" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
@@ -232,8 +232,8 @@
         <mark key="]" line="123" column="18" />
         <mark key="." line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1528493120141">
-        <mark key="'" line="229" column="37" />
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1529357114626">
+        <mark key="'" line="111" column="17" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -336,17 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="30" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="28" column="19" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="33" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="40" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="89" column="30" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="32" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="88" column="30" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="39" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="909" column="19" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="349" column="28" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="863" column="14" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
@@ -436,6 +425,17 @@
       <jump line="56" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
       <jump line="68" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
       <jump line="70" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="232" column="35" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="79" column="26" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="83" column="49" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="139" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="191" column="32" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="121" column="42" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="117" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="111" column="17" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -453,7 +453,7 @@
         <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>info(</text>
+        <text>get(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiY2FtZXJhX3hTaXplIjogaW1hZ2Vfc2hhcGVbMF0sCg==</text>
@@ -493,9 +493,9 @@
       </register>
     </registers>
     <search>
-      <last-search>info(</last-search>
+      <last-search>get(</last-search>
       <last-offset />
-      <last-pattern>info(</last-pattern>
+      <last-pattern>get(</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -503,14 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kotlin</entry>
-        <entry>testlib</entry>
-        <entry>xact_test</entry>
-        <entry>sender</entry>
-        <entry>send</entry>
-        <entry>metadata</entry>
-        <entry>flags</entry>
-        <entry>send_image</entry>
         <entry>localDev</entry>
         <entry>xact</entry>
         <entry>MockIO</entry>
@@ -523,6 +515,14 @@
         <entry>log</entry>
         <entry>setLevel</entry>
         <entry>info(</entry>
+        <entry>storage chain</entry>
+        <entry>chain</entry>
+        <entry>uuid_queue</entry>
+        <entry>_uuid_queue</entry>
+        <entry>queue_size</entry>
+        <entry>size</entry>
+        <entry>_start_im</entry>
+        <entry>get(</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
