@@ -49,7 +49,7 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/geode/storage/client.py" timestamp="1529534570049" />
+      <file name="$USER_HOME$/kesm/kesm/geode/storage/client.py" timestamp="1529535313616" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
         <mark key="]" line="30" column="67" />
@@ -181,7 +181,11 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" timestamp="1529534520546" />
+      <file name="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" timestamp="1529536306721">
+        <mark key="'" line="29" column="42" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="41" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1526084060852">
         <mark key="[" line="145" column="41" />
         <mark key="]" line="145" column="41" />
@@ -200,11 +204,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529534678082">
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="44" column="25" />
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529536332215">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="17" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -346,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="49" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="229" column="37" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="13" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
       <jump line="175" column="27" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
@@ -446,10 +449,11 @@
       <jump line="119" column="49" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="37" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="55" column="68" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="29" column="42" filename="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>storage_client</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -460,13 +464,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>storage_client</text>
       </register>
       <register name="/" type="4">
-        <text>format(</text>
+        <text>service_stub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGVfaWQ6IHN0ciwKICAgICAgICBrZXNtX25hbWU6IHN0ciwKICAgICAgICBibG9ja19pbmRleDogaW50LAogICAgICAgIHNsaWNlX3dpZHRoX3B4OiBpbnQsCiAgICAgICAgbnVtX3NsaWNlc19wZXJfZmFjZTogaW50LAogICAgICAgIGZhY2VfbGVuZ3RoX3B4OiBpbnQsCiAgICAgICAgbnVtX2ZhY2VzOiBpbnQsCiAgICAgICAgY2hhbm5lbHM6IGludCwKICAgICAgICB2b3hlbF9zaXplX3VtOiBsaXN0LAogICAgICAgIGdfY2xpZW50OiBzdG9yYWdlX2NsaWVudC5HZW9kZVN0b3JhZ2VDbGllbnQpOgo=</text>
+        <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -503,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>format(</last-search>
+      <last-search>service_stub</last-search>
       <last-offset />
-      <last-pattern>format(</last-pattern>
+      <last-pattern>service_stub</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -513,8 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image_height</entry>
-        <entry>fake_rec</entry>
         <entry>logger</entry>
         <entry>init</entry>
         <entry>logging</entry>
@@ -533,6 +535,8 @@
         <entry>info(</entry>
         <entry>format</entry>
         <entry>format(</entry>
+        <entry>service</entry>
+        <entry>service_stub</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
