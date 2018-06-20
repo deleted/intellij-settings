@@ -27,6 +27,9 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="30" column="41" />
       </file>
+      <file name="/a.dummy" timestamp="1529533848215">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/KesmSliceMetadata.kt" timestamp="1525388123381">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -195,10 +198,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529532697272">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="6" />
-        <mark key="." line="52" column="6" />
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529533955219">
+        <mark key="[" line="57" column="14" />
+        <mark key="]" line="57" column="14" />
+        <mark key="." line="57" column="14" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -227,7 +231,7 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1529108263439">
         <mark key="'" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1529532681278">
+      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1529533762411">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="36" column="52" />
       </file>
@@ -442,8 +446,8 @@
       <jump line="55" column="68" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: storage_client.GeodeStorageClient):</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -454,7 +458,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>: storage_client.GeodeStorageClient):</text>
       </register>
       <register name="/" type="4">
         <text>format(</text>
