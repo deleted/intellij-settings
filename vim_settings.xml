@@ -49,6 +49,7 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="45" column="18" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/geode/storage/client.py" timestamp="1529534570049" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
         <mark key="]" line="30" column="67" />
@@ -180,6 +181,7 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" timestamp="1529534520546" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1526084060852">
         <mark key="[" line="145" column="41" />
         <mark key="]" line="145" column="41" />
@@ -198,11 +200,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529533955219">
-        <mark key="[" line="57" column="14" />
-        <mark key="]" line="57" column="14" />
-        <mark key="." line="57" column="14" />
-        <mark key="^" line="46" column="0" />
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529534678082">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
@@ -447,7 +449,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: storage_client.GeodeStorageClient):</text>
+        <text>4</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -458,7 +460,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: storage_client.GeodeStorageClient):</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>format(</text>
