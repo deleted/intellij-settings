@@ -42,6 +42,7 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
+      <file name="$USER_HOME$/kesm/Dockerfile.kesm" timestamp="1529605144352" />
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="18" />
@@ -72,8 +73,8 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1528936763206">
-        <mark key="'" line="318" column="5" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1529605494749">
+        <mark key="'" line="306" column="17" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1529361153778">
         <mark key="'" line="70" column="35" />
@@ -143,6 +144,10 @@
         <mark key="]" line="36" column="15" />
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/kesm/Dockerfile.tileserver" timestamp="1529605243450" />
+      <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1529605319315">
+        <mark key="'" line="66" column="31" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/BufferedImageOutputStream.java" timestamp="1521654373513">
         <mark key="[" line="8" column="6" />
@@ -335,6 +340,7 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServer.java" timestamp="1529605462711" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/common/KesmSliceTestHelpers.kt" timestamp="1528326854942">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -348,13 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="37" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="13" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
-      <jump line="175" column="27" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
-      <jump line="178" column="46" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="22" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="71" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="73" column="9" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="76" column="61" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="78" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
@@ -448,6 +447,13 @@
       <jump line="37" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="55" column="68" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="29" column="42" filename="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" />
+      <jump line="231" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="313" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="320" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="306" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="75" column="0" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
+      <jump line="156" column="11" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
+      <jump line="66" column="31" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -465,7 +471,7 @@
         <text>storage_client</text>
       </register>
       <register name="/" type="4">
-        <text>service_stub</text>
+        <text>tileserver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
@@ -505,9 +511,9 @@
       </register>
     </registers>
     <search>
-      <last-search>service_stub</last-search>
+      <last-search>tileserver</last-search>
       <last-offset />
-      <last-pattern>service_stub</last-pattern>
+      <last-pattern>tileserver</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -515,8 +521,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
-        <entry>init</entry>
         <entry>logging</entry>
         <entry>log</entry>
         <entry>setLevel</entry>
@@ -535,6 +539,8 @@
         <entry>format(</entry>
         <entry>service</entry>
         <entry>service_stub</entry>
+        <entry>docker</entry>
+        <entry>tileserver</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
