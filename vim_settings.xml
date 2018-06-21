@@ -42,14 +42,12 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/math/NormTest.java" timestamp="1529107954275" />
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="18" />
         <mark key="^" line="44" column="24" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/geode/storage/client.py" timestamp="1529535313616" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
         <mark key="]" line="30" column="67" />
@@ -279,7 +277,7 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528916196179">
+      <file name="/Dummy.txt" timestamp="1529542846849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
