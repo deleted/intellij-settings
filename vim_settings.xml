@@ -120,6 +120,7 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="28" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1529617496614" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.kt" timestamp="1528154363956">
         <mark key="[" line="22" column="72" />
         <mark key="]" line="22" column="71" />
@@ -178,11 +179,6 @@
         <mark key="]" line="126" column="0" />
         <mark key="^" line="33" column="27" />
         <mark key="." line="126" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" timestamp="1528493198403">
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="73" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" timestamp="1529543372762">
         <mark key="'" line="29" column="42" />
