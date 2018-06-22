@@ -160,19 +160,13 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528493085538">
-        <mark key="'" line="574" column="42" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="74" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913886947">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1529694005547">
         <mark key="[" line="47" column="4" />
         <mark key="]" line="24" column="28" />
         <mark key="." line="24" column="28" />
@@ -245,12 +239,6 @@
         <mark key="[" line="123" column="18" />
         <mark key="]" line="123" column="18" />
         <mark key="." line="123" column="18" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1529357114626">
-        <mark key="'" line="111" column="17" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1525995592565">
         <mark key="[" line="9" column="22" />
