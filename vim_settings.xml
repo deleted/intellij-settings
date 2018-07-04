@@ -27,6 +27,9 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="30" column="41" />
       </file>
+      <file name="/a.dummy" timestamp="1529533848215">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/KesmSliceMetadata.kt" timestamp="1525388123381">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -39,19 +42,14 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1528307421327">
-        <mark key="'" line="10" column="27" />
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="94" column="33" />
-        <mark key="." line="94" column="33" />
-        <mark key="^" line="94" column="33" />
-      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/math/NormTest.java" timestamp="1529107954275" />
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="18" />
         <mark key="^" line="44" column="24" />
         <mark key="." line="45" column="18" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/geode/storage/client.py" timestamp="1529535313616" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
         <mark key="]" line="30" column="67" />
@@ -70,17 +68,33 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="54" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/mongo/images_testlib.py" timestamp="1529363549821">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="19" column="34" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+      </file>
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1528936763206">
+        <mark key="'" line="318" column="5" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1529361153778">
+        <mark key="'" line="70" column="35" />
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="62" />
+        <mark key="." line="68" column="62" />
+        <mark key="^" line="68" column="62" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
         <mark key="]" line="115" column="52" />
         <mark key="^" line="115" column="14" />
         <mark key="." line="115" column="52" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSeverTest.kt" timestamp="1528419131426">
-        <mark key="[" line="7" column="63" />
-        <mark key="]" line="7" column="62" />
-        <mark key="." line="7" column="62" />
-        <mark key="^" line="7" column="62" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSeverTest.kt" timestamp="1528327103158">
+        <mark key="[" line="40" column="65" />
+        <mark key="]" line="40" column="63" />
+        <mark key="." line="40" column="63" />
+        <mark key="^" line="40" column="63" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -88,10 +102,12 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/sines.java" timestamp="1528956703478">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1529369467532">
+        <mark key="'" line="53" column="68" />
+        <mark key="[" line="82" column="83" />
+        <mark key="]" line="82" column="80" />
+        <mark key="." line="82" column="80" />
+        <mark key="^" line="82" column="80" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1528238606655">
         <mark key="[" line="20" column="56" />
@@ -105,30 +121,24 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="28" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1528247327011">
-        <mark key="'" line="126" column="27" />
-        <mark key="[" line="127" column="47" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="36" column="14" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.kt" timestamp="1528154363956">
         <mark key="[" line="22" column="72" />
         <mark key="]" line="22" column="71" />
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1528956784436">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1529369415552">
+        <mark key="'" line="141" column="80" />
+        <mark key="[" line="121" column="69" />
+        <mark key="]" line="121" column="49" />
+        <mark key="." line="121" column="49" />
+        <mark key="^" line="121" column="49" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreRecordTest.kt" timestamp="1527286262979">
         <mark key="[" line="36" column="21" />
@@ -142,27 +152,39 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528493085538">
+        <mark key="'" line="574" column="42" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="74" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="vim_settings.xml" timestamp="1528783773542">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1528247275049">
-        <mark key="'" line="105" column="36" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="101" column="26" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913886947">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528332012920">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="^" line="33" column="27" />
         <mark key="." line="126" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" timestamp="1528493198403">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="73" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" timestamp="1529536306721">
+        <mark key="'" line="29" column="42" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1526084060852">
         <mark key="[" line="145" column="41" />
@@ -182,6 +204,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529536332215">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="58" column="0" />
@@ -194,16 +222,35 @@
         <mark key="^" line="98" column="62" />
         <mark key="." line="98" column="62" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1528419922894">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1529108263439">
+        <mark key="'" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1529533762411">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="36" column="52" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526690608956">
         <mark key="[" line="123" column="18" />
         <mark key="]" line="123" column="18" />
         <mark key="." line="123" column="18" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1529357114626">
+        <mark key="'" line="111" column="17" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1525995592565">
         <mark key="[" line="9" column="22" />
@@ -218,7 +265,7 @@
         <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528332727709">
-        <mark key="'" line="866" column="14" />
+        <mark key="'" line="863" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/IngestOneImage.java" timestamp="1522171830014">
         <mark key="[" line="14" column="46" />
@@ -232,21 +279,7 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_gray_img.nsp.json" timestamp="1528155341077">
-        <mark key="'" line="2" column="48" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1528314002629">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="114" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528327710754">
+      <file name="/Dummy.txt" timestamp="1528916196179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -274,13 +307,6 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_color_img.nsp.json" timestamp="1528155398058">
-        <mark key="'" line="2" column="48" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
@@ -311,24 +337,10 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1528157514416">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="48" column="68" />
-        <mark key="]" line="48" column="65" />
-        <mark key="." line="48" column="65" />
-        <mark key="^" line="48" column="65" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/common/KesmSliceTestHelpers.kt" timestamp="1528326854942">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1528315949761">
-        <mark key="'" line="52" column="35" />
-        <mark key="[" line="102" column="19" />
-        <mark key="]" line="102" column="19" />
-        <mark key="^" line="136" column="0" />
-        <mark key="." line="102" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1528332893412">
         <mark key="[" line="0" column="0" />
@@ -338,110 +350,110 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="173" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="174" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="175" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="176" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="177" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="34" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="35" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="12" column="27" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
-      <jump line="15" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
-      <jump line="21" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
-      <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/build/libs/com/google/common/base/Preconditions.class" />
-      <jump line="97" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="157" column="73" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="32" column="104" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" />
-      <jump line="40" column="8" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" />
-      <jump line="152" column="39" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="140" column="28" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="142" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="182" column="11" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="143" column="23" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="112" column="47" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/serialization/codec/BufferedImageSerializerTest.java" />
-      <jump line="174" column="21" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/serialization/codec/BufferedImageSerializerTest.java" />
-      <jump line="0" column="18" filename="/Dummy.txt" />
-      <jump line="187" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="122" column="24" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="76" column="22" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="123" column="24" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="81" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="19" column="14" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="33" column="53" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="106" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="109" column="14" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="111" column="35" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="116" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="115" column="50" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="27" column="23" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="13" column="32" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="151" column="12" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="156" column="22" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="158" column="16" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="159" column="19" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="103" column="0" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="114" column="32" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="53" column="12" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="54" column="30" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="55" column="26" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="10" column="27" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="54" column="98" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/json/JsonUtils.java" />
-      <jump line="240" column="41" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/json/JsonUtils.java" />
-      <jump line="243" column="22" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/json/JsonUtils.java" />
-      <jump line="256" column="41" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/json/JsonUtils.java" />
-      <jump line="2" column="48" filename="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_color_img.nsp.json" />
-      <jump line="2" column="48" filename="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_gray_img.nsp.json" />
-      <jump line="52" column="35" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="48" column="61" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="122" column="28" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="133" column="39" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="135" column="37" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="136" column="74" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="5" column="27" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="14" column="37" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="111" column="17" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="1" column="18" filename="/Dummy.txt" />
-      <jump line="105" column="36" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" />
-      <jump line="125" column="27" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" />
-      <jump line="35" column="48" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" />
-      <jump line="126" column="27" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="110" column="46" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="19" column="35" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="22" column="12" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="24" column="37" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="44" column="12" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreTest.kt" />
-      <jump line="113" column="66" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="151" column="73" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="181" column="38" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="8" column="20" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="56" column="36" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="57" column="29" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="58" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="120" column="27" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="163" column="30" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="28" column="19" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="33" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="40" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="89" column="30" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="32" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="88" column="30" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="39" column="33" filename="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
-      <jump line="909" column="19" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
-      <jump line="349" column="28" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
-      <jump line="863" column="14" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
-      <jump line="8" column="18" filename="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" />
+      <jump line="229" column="37" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="13" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
+      <jump line="175" column="27" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
+      <jump line="178" column="46" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="22" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="71" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="73" column="9" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="76" column="61" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="78" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="89" column="15" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="135" column="17" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="136" column="17" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="139" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="140" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="141" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="146" column="16" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="148" column="52" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="155" column="48" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="156" column="47" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="159" column="15" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="7" column="17" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="182" column="44" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="181" column="53" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="180" column="16" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="173" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="170" column="51" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="160" column="21" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="300" column="15" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="304" column="5" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="318" column="5" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="95" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="13" column="72" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="74" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="79" column="34" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="120" column="22" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="26" column="30" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="33" column="1" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
+      <jump line="195" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
+      <jump line="240" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
+      <jump line="253" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
+      <jump line="20" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
+      <jump line="21" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
+      <jump line="12" column="45" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="80" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="82" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="133" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="74" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="162" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="152" column="27" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="137" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="28" column="25" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="38" column="13" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="74" column="21" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="88" column="21" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="111" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="112" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="78" column="47" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="89" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="91" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="103" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="106" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="51" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="52" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="56" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="68" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="70" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
+      <jump line="232" column="35" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="79" column="26" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="83" column="49" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="139" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="191" column="32" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="121" column="42" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="117" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="111" column="17" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="3" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="65" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="71" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="141" column="80" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="119" column="49" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="37" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="55" column="68" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="29" column="42" filename="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TemporaryDirectory</text>
+        <text>storage_client</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -452,52 +464,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TemporaryDirectory</text>
+        <text>storage_client</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>service_stub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSdWxlCiAgICB2YXIgc2xpY2VTdG9yZVRtcERpciA9IFRlbXBvcmFyeUZvbGRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY29yZC5nZXRJZCgpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdpdGggbXVsdGlwcm9jZXNzaW5nLlBvb2wocHJvY2Vzc2VzPXNlbGYuZmxhZ3MubnVtX3NlbmRlcl9wcm9jZXNzZXMpIGFzIHBvb2w6CiAgICAgICAgIyAgICAga2VzbS5iYXNlLmluZm8oCiAgICAgICAgIyAgICAgICAgICJTdGFydGVkIHBvb2wsIGFib3V0IHRvIHN0YXJ0IHNlbmRpbmcge30gaW1hZ2VzLi4uIiwKICAgICAgICAjICAgICAgICAgc2VsZi5mbGFncy5udW1faW1hZ2VzKQoKICAgICAgICAjICAgICBwb29sLm1hcChzZW5kX2ltYWdlLCBzZW5kZXJfYXJnc19saXN0KQogICAgICAgICMgbWFwKHNlbmRfaW1hZ2UsIHNlbmRlcl9hcmdzX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkZWJ1ZykgewogICAgICBDb25maWd1cmF0b3Iuc2V0QWxsTGV2ZWxzKCJyb290IiwgTGV2ZWwuREVCVUcpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbWFnZV9zZW5kZXJfY2xhc3MgPSBHUlBDSW1hZ2VTZW5kZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAneGFjdCc6CiAgICAgICAgaW1hZ2Vfc2VuZGVyX2NsYXNzID0gWGFjdEltYWdlU2VuZGVyCiAgICBlbGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAnZ3JwYyc6Cg==</text>
+        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLWRlYnVnIn0sCiAgICAgIGRlc2NyaXB0aW9uID0gIlNldCBsb2cgbGV2ZWwgdG8gREVCVUciCiAgKQogIHByaXZhdGUgYm9vbGVhbiBkZWJ1ZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAneGFjdCc6CiAgICAgICAgc2VuZGVyLnNldENvbnNpc3RlbmN5V2FpdE1TKDYwICogMTAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci4oIkFsbG9jYXRpbmcgb3V0cHV0IHN0cmVhbSBieXRlQXJyYXkuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAneGFjdCc6CiAgICAgICAgaW1hZ2Vfc2VuZGVyX2NsYXNzID0gWGFjdEltYWdlU2VuZGVyCiAgICBlbGlmIGZsYWdzLnNlbmRlcl9wcm90b2NvbCA9PSAnZ3JwYyc6CiAgICAgICAgaW1hZ2Vfc2VuZGVyX2NsYXNzID0gR1JQQ0ltYWdlU2VuZGVyCgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJSZWNwdGlvbmlzdFNlcnZpY2VJbXBsIGluc3RhbnRpYXRlZCEiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBrZXNtLnByb2plY3RzLktFU01BY3Euc2hhcmVkLmltYWdlX3NlbmRlci54YWN0IGltcG9ydCBYYWN0SW1hZ2VTZW5kZXIK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcuZm9ybWF0KAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>service_stub</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>service_stub</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -505,29 +517,28 @@
     </search>
     <history>
       <history-search>
-        <entry>.part</entry>
-        <entry>i</entry>
-        <entry>rootPath</entry>
-        <entry>throw</entry>
-        <entry>bytes</entry>
-        <entry>0</entry>
-        <entry>format(</entry>
+        <entry>logger</entry>
+        <entry>init</entry>
+        <entry>logging</entry>
+        <entry>log</entry>
+        <entry>setLevel</entry>
+        <entry>storage chain</entry>
+        <entry>chain</entry>
+        <entry>uuid_queue</entry>
+        <entry>_uuid_queue</entry>
+        <entry>queue_size</entry>
+        <entry>size</entry>
+        <entry>_start_im</entry>
+        <entry>get(</entry>
+        <entry>wrote</entry>
+        <entry>debug</entry>
+        <entry>info(</entry>
         <entry>format</entry>
-        <entry>put(</entry>
-        <entry>put</entry>
-        <entry>allOf</entry>
-        <entry>TileRequest</entry>
-        <entry>guava</entry>
-        <entry>shape</entry>
-        <entry>kotlin</entry>
-        <entry>testlib</entry>
-        <entry>xact_test</entry>
-        <entry>xact</entry>
-        <entry>sender</entry>
-        <entry>send</entry>
+        <entry>format(</entry>
+        <entry>service</entry>
+        <entry>service_stub</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>47</entry>
         <entry>s/width/height/g</entry>
         <entry>s/width/nChannels/g</entry>
@@ -546,6 +557,7 @@
         <entry>s/0/f/g</entry>
         <entry>s/0/e/g</entry>
         <entry>103</entry>
+        <entry>57</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -599,6 +611,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
