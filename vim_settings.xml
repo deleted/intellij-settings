@@ -70,7 +70,6 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="54" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/gerald/PetalChase.java" timestamp="1528956338959" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
         <mark key="]" line="115" column="52" />
@@ -195,7 +194,6 @@
         <mark key="^" line="98" column="62" />
         <mark key="." line="98" column="62" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/matty/Teleport.java" timestamp="1528955935156" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
@@ -220,7 +218,7 @@
         <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528332727709">
-        <mark key="'" line="863" column="14" />
+        <mark key="'" line="866" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/IngestOneImage.java" timestamp="1522171830014">
         <mark key="[" line="14" column="46" />
@@ -340,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="2" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="172" column="31" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="173" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
       <jump line="174" column="21" filename="$USER_HOME$/3scan/kesm/build.gradle" />
@@ -440,6 +437,7 @@
       <jump line="909" column="19" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="349" column="28" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="863" column="14" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
+      <jump line="8" column="18" filename="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
