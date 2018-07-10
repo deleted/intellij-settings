@@ -112,12 +112,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1529369467532">
-        <mark key="'" line="53" column="68" />
-        <mark key="[" line="82" column="83" />
-        <mark key="]" line="82" column="80" />
-        <mark key="." line="82" column="80" />
-        <mark key="^" line="82" column="80" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1531258935366">
+        <mark key="'" line="61" column="68" />
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1528238606655">
         <mark key="[" line="20" column="56" />
@@ -226,6 +226,12 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1531259269003">
+        <mark key="'" line="309" column="1" />
+        <mark key="[" line="286" column="39" />
+        <mark key="]" line="293" column="0" />
+        <mark key="." line="293" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceDiskStore.kt" timestamp="1527183142547">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="19" />
@@ -280,7 +286,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.java" timestamp="1531163082578" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.java" timestamp="1531258391799" />
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1530666256831">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="16" column="37" />
@@ -414,9 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="37" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="13" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
-      <jump line="175" column="27" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
       <jump line="178" column="46" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender_manager.py" />
       <jump line="18" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="22" column="7" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
@@ -514,10 +517,13 @@
       <jump line="37" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="55" column="68" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="29" column="42" filename="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" />
+      <jump line="235" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
+      <jump line="301" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
+      <jump line="303" column="1" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>storage_client</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgKiAgICAgICAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -528,64 +534,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>storage_client</text>
+        <text>gauge</text>
       </register>
       <register name="/" type="4">
-        <text>service_stub</text>
+        <text>counter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGUgYW5kIHJlZ2lzdGVyIGEgUHJvbWV0aGV1cyBDb3VudGVyLgogICAqCiAgICogPHA+VGhlIGdhdWdlIHdpbGwgaGF2ZSBhIG5hbWVzcGFjZSBhcyBkZXJpdmVkIGZyb20gdGhlIGNsYXNzIHBhdGggb2YgdGhlIGNhbGxlci4gVGhpcyBpcwogICAqIGRlc2lnbmVkIHRvIGJlIHVzZWQgaW4gdGhlIGZvbGxvd2luZyBwYXR0ZXJuOgogICAqCiAgICogPHByZT57QGNvZGUKICAgKiBwYWNrYWdlIG5ldC50aHJlZXNjYW4uZXhhbXBsZTsKICAgKgogICAqIGltcG9ydCBuZXQudGhyZWVzY2FuLnJ1bnRpbWUuTWV0cmljczsKICAgKiBpbXBvcnQgaW8ucHJvbWV0aGV1cy5jbGllbnQuQ291bnRlcjsKICAgKgogICAqIHB1YmxpYyBjbGFzcyBNeUNsYXNzIHsKICAgKiAgIHByaXZhdGUgc3RhdGljIGZpbmFsIENvdW50ZXIgZm9vQ291bnRlciA9IE1ldHJpY3MuY3JlYXRlQ291bnRlcigKICAgKiAgICAgICAiZm9vIiwiUmVwb3J0cyB0aGUgbGV2ZWwgb2YgZm9vIGluIHRoZSBzeXN0ZW0iKTsKICAgKiAgIHB1YmxpYyB2b2lkIGFkZFNvbWVGb28oZG91YmxlIGZvb1F1YW50aXR5KSB7CiAgICogICAgICAgZm9vQ291bnRlci5pbmMoZm9vUXVhbnRpdHkpOwogICAqICAgfQogICAqIH0KICAgKiB9PC9wcmU+CiAgICoKICAgKiBUaGUgYWJvdmUgY29kZSB3aWxsIHByb2R1Y2UgYSBtZXRyaWMgbmFtZWQgIm5ldF90aHJlZXNjYW5fZXhhbXBsZV9NeUNsYXNzX2ZvbyIKICAgKgogICAqIDxwPlRoaXMgaXMgaW50ZW5kZWQgdG8gaW50ZWdyYXRlIHdpdGggdGhlIGBNZXRyaWNzQ2FwdHVyZWAgdXRpbGl0eSBwcm92aWRlZCBpbiB0aGlzIG1vZHVsZS4KICAgKgogICAqIEBwYXJhbSBuYW1lIFRoZSBuYW1lIG9mIHRoZSBjb3VudGVyLgogICAqIEBwYXJhbSBoZWxwIFRoZSBoZWxwIHdoaWNoIGlzIHVzZWZ1bCBhcyBhIGRlc2NyaXB0aW9uLgogICAqIEByZXR1cm4KICAgKi8KICBwdWJsaWMgc3RhdGljIENvdW50ZXIgY3JlYXRlQ291bnRlcihTdHJpbmcgbmFtZSwgU3RyaW5nIGhlbHApIHsKICAgIFN0cmluZyBuYW1lc3BhY2UgPSBnZXRNZXRyaWNOYW1lc3BhY2UoMCk7CiAgICByZXR1cm4gQ291bnRlci5idWlsZCgpLm5hbWUobmFtZSkuaGVscChoZWxwKS5uYW1lc3BhY2UobmFtZXNwYWNlKS5yZWdpc3RlcihyZWdpc3RyeSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY29yZC5nZXRJZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZSBDb3VudGVyIHJlcXVlc3RDb3VudGVyID0gTWV0cmljcy5jcmVhdGVDb3VudGVyKAogICAgICAgICAgInVwbG9hZEltYWdlUmVxdWVzdENvdW50ZXIiLAogICAgICAgICAgIkNvdW50cyB0aGUgbnVtYmVyIG9mIFVwbG9hZEltYWdlIHJlcXVlc3RzIHJlY2VpdmVkIGJ5IFJlY2VwdGlvbmlzdHMuIgogICAgICApOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChkZWJ1ZykgewogICAgICBDb25maWd1cmF0b3Iuc2V0QWxsTGV2ZWxzKCJyb290IiwgTGV2ZWwuREVCVUcpOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY29yZC5nZXRJZCgpKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLWRlYnVnIn0sCiAgICAgIGRlc2NyaXB0aW9uID0gIlNldCBsb2cgbGV2ZWwgdG8gREVCVUciCiAgKQogIHByaXZhdGUgYm9vbGVhbiBkZWJ1ZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIGlmIChkZWJ1ZykgewogICAgICBDb25maWd1cmF0b3Iuc2V0QWxsTGV2ZWxzKCJyb290IiwgTGV2ZWwuREVCVUcpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci4oIkFsbG9jYXRpbmcgb3V0cHV0IHN0cmVhbSBieXRlQXJyYXkuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJSZWNwdGlvbmlzdFNlcnZpY2VJbXBsIGluc3RhbnRpYXRlZCEiKTsK</text>
+        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLWRlYnVnIn0sCiAgICAgIGRlc2NyaXB0aW9uID0gIlNldCBsb2cgbGV2ZWwgdG8gREVCVUciCiAgKQogIHByaXZhdGUgYm9vbGVhbiBkZWJ1ZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcuZm9ybWF0KAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci4oIkFsbG9jYXRpbmcgb3V0cHV0IHN0cmVhbSBieXRlQXJyYXkuIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>service_stub</last-search>
+      <last-search>counter</last-search>
       <last-offset />
-      <last-pattern>service_stub</last-pattern>
-      <last-replace>e</last-replace>
-      <last-substitute>0</last-substitute>
+      <last-pattern>counter</last-pattern>
+      <last-replace>summary</last-replace>
+      <last-substitute>counter</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.part</entry>
-        <entry>i</entry>
-        <entry>rootPath</entry>
-        <entry>throw</entry>
-        <entry>bytes</entry>
         <entry>0</entry>
         <entry>format(</entry>
         <entry>format</entry>
@@ -601,12 +602,13 @@
         <entry>xact</entry>
         <entry>sender</entry>
         <entry>send</entry>
+        <entry>Gauge</entry>
+        <entry>Summary</entry>
+        <entry>Counter</entry>
+        <entry>summary</entry>
+        <entry>counter</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
-        <entry>47</entry>
-        <entry>s/width/height/g</entry>
-        <entry>s/width/nChannels/g</entry>
         <entry encoding="base64">JzwsJz5zLycvOi9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>w:w</entry>
@@ -623,6 +625,10 @@
         <entry>s/0/e/g</entry>
         <entry>103</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL0dhdWdlL0NvdW50ZXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0NvdW50ZXIvU3VtbWFyeS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3N1bW1hcnkvc3VtbWFyeS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
