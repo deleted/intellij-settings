@@ -55,11 +55,11 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531262463309">
-        <mark key="[" line="134" column="9" />
-        <mark key="]" line="136" column="20" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531263234747">
+        <mark key="[" line="166" column="30" />
+        <mark key="]" line="167" column="28" />
         <mark key="^" line="136" column="20" />
-        <mark key="." line="136" column="20" />
+        <mark key="." line="167" column="28" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
@@ -292,7 +292,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.java" timestamp="1531258391799" />
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1530666256831">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="16" column="37" />
@@ -535,7 +534,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>(</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -546,7 +545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>counter</text>
