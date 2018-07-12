@@ -330,7 +330,7 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530664610926">
+      <file name="/Dummy.txt" timestamp="1531420399634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -521,8 +521,8 @@
       <jump line="195" column="21" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>forceC</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -533,7 +533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>storage_client</text>
+        <text>forceC</text>
       </register>
       <register name="/" type="4">
         <text>grpc</text>
