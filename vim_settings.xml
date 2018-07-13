@@ -50,11 +50,8 @@
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531438439171">
-        <mark key="'" line="160" column="80" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531439685225">
+        <mark key="'" line="154" column="80" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -338,7 +335,7 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531420399634">
+      <file name="/Dummy.txt" timestamp="1531439725290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -530,7 +527,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -541,60 +538,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mointoringInterceptor</text>
+        <text>receptionistService</text>
       </register>
       <register name="/" type="4">
-        <text>Bindable</text>
+        <text>:w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWNlcHRpb25pc3RHcnBjLmdldFNlcnZpY2VEZXNjcmlwdG9yKCksCg==</text>
+        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsLmNsYXNzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb25pdG9yaW5nSW50ZXJjZXB0b3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsIHJlY2VwdGlvbmlzdFNlcnZpY2UgPSAgbmV3IFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsKHRpbGVSZXF1ZXN0UXVldWUsIHNsaWNlU3RvcmUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY29yZC5nZXRJZCgpKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYnVpbGRlci5hZGRTZXJ2aWNlKG5ldyBSZWNlcHRpb25pc3RTZXJ2aWNlSW1wbCh0aWxlUmVxdWVzdFF1ZXVlLCBzbGljZVN0b3JlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgUmVjZXB0aW9uaXN0U2VydmljZUltcGwodGlsZVJlcXVlc3RRdWV1ZSwgc2xpY2VTdG9yZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChkZWJ1ZykgewogICAgICBDb25maWd1cmF0b3Iuc2V0QWxsTGV2ZWxzKCJyb290IiwgTGV2ZWwuREVCVUcpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWNlcHRpb25pc3RHcnBjLmdldFNlcnZpY2VEZXNjcmlwdG9yKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bindable</last-search>
+      <last-search>:w</last-search>
       <last-offset />
-      <last-pattern>Bindable</last-pattern>
+      <last-pattern>:w</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rootPath</entry>
         <entry>throw</entry>
         <entry>bytes</entry>
         <entry>0</entry>
@@ -614,6 +610,7 @@
         <entry>send</entry>
         <entry>grpc</entry>
         <entry>Bindable</entry>
+        <entry>:w</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
