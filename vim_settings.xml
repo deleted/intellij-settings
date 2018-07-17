@@ -9,6 +9,11 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1531854330206">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceImageDiskStore.kt" timestamp="1527036203521">
         <mark key="[" line="21" column="53" />
         <mark key="]" line="28" column="0" />
@@ -50,8 +55,12 @@
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531439685225">
-        <mark key="'" line="148" column="80" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531854355759">
+        <mark key="'" line="155" column="80" />
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="33" column="33" />
+        <mark key="^" line="33" column="33" />
+        <mark key="." line="33" column="33" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -152,6 +161,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/util/DoNothing.kt" timestamp="1531854144403">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiBufferedImageOutputStreamTest.java" timestamp="1521930598056">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="35" />
@@ -224,11 +238,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1530838647672">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1531854005124">
         <mark key="'" line="71" column="35" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="40" column="34" />
-        <mark key="." line="40" column="34" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
         <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1528315949761">
@@ -528,7 +542,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aG91Z2h0cyA9ICIuLi4iOwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -548,34 +562,34 @@
         <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aG91Z2h0cyA9ICIuLi4iOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb25pdG9yaW5nSW50ZXJjZXB0b3IK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsIHJlY2VwdGlvbmlzdFNlcnZpY2UgPSAgbmV3IFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsKHRpbGVSZXF1ZXN0UXVldWUsIHNsaWNlU3RvcmUpOwo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb29sID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgYnVpbGRlci5hZGRTZXJ2aWNlKG5ldyBSZWNlcHRpb25pc3RTZXJ2aWNlSW1wbCh0aWxlUmVxdWVzdFF1ZXVlLCBzbGljZVN0b3JlKSk7Cg==</text>
+        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgUmVjZXB0aW9uaXN0U2VydmljZUltcGwodGlsZVJlcXVlc3RRdWV1ZSwgc2xpY2VTdG9yZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb25pdG9yaW5nSW50ZXJjZXB0b3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsIHJlY2VwdGlvbmlzdFNlcnZpY2UgPSAgbmV3IFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsKHRpbGVSZXF1ZXN0UXVldWUsIHNsaWNlU3RvcmUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWNlcHRpb25pc3RHcnBjLmdldFNlcnZpY2VEZXNjcmlwdG9yKCksCg==</text>
+        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
