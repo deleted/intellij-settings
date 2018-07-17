@@ -55,12 +55,8 @@
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531854355759">
-        <mark key="'" line="155" column="80" />
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="33" column="33" />
-        <mark key="^" line="33" column="33" />
-        <mark key="." line="33" column="33" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531855243427">
+        <mark key="'" line="154" column="80" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -186,6 +182,12 @@
         <mark key="]" line="30" column="67" />
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531855485607">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/sines.java" timestamp="1528956703478">
         <mark key="[" line="2" column="20" />
@@ -541,8 +543,8 @@
       <jump line="92" column="71" filename="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/grpc/receptionist/ReceptionistGrpc.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aG91Z2h0cyA9ICIuLi4iOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -553,7 +555,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>receptionistService</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>:w</text>
