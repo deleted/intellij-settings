@@ -465,6 +465,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'kesm [localDevUp]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'kesm [localDevUp]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'net.threescan.acquisition.receptionist.I...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -614,6 +622,14 @@
           <IdeaActionID>GotoSuperMethod</IdeaActionID>
           <ShortCut>'Ctrl+U'</ShortCut>
           <Description>Super Method</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>Synchronize</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

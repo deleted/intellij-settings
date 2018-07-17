@@ -323,11 +323,11 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531795518569">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="35" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531796376063">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_gray_img.nsp.json" timestamp="1528155341077">
         <mark key="'" line="2" column="48" />
@@ -547,8 +547,8 @@
       <jump line="129" column="31" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>throw new AssertionError();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -559,7 +559,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>throw new AssertionError();</text>
+        <text>isValidTest</text>
       </register>
       <register name="/" type="4">
         <text>uuid</text>
@@ -568,35 +568,35 @@
         <text encoding="base64">cGFja2FnZSBuZXQudGhyZWVzY2FuLmVuZm9yY2VtZW50OwoKcHVibGljIGZpbmFsIGNsYXNzIEVuZm9yY2VVdGlscyB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>assertThat
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlcyBpcyBub3QgYSB2YWxpZCBVVUlEIiwgdXVpZAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV1aWQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKHV1aWQpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFVVSUQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
