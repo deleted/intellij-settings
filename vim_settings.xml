@@ -21,11 +21,10 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="59" column="33" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1531796965101">
+        <mark key="[" line="58" column="67" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" timestamp="1526504143666">
         <mark key="[" line="41" column="0" />
@@ -92,11 +91,11 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1531794254857">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1531797081889">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1530838647672">
         <mark key="'" line="71" column="35" />
@@ -190,12 +189,6 @@
         <mark key="]" line="8" column="9" />
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528493085538">
-        <mark key="'" line="574" column="42" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="74" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/enforcement/EnforceTestAssertions.java" timestamp="1531794897989">
         <mark key="[" line="9" column="49" />
@@ -293,12 +286,6 @@
         <mark key="]" line="123" column="18" />
         <mark key="." line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1529357114626">
-        <mark key="'" line="111" column="17" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1530666256831">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="16" column="37" />
@@ -323,11 +310,11 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531796376063">
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531796500575">
         <mark key="[" line="8" column="31" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="8" column="30" />
+        <mark key="]" line="9" column="62" />
+        <mark key="." line="9" column="62" />
+        <mark key="^" line="9" column="62" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_gray_img.nsp.json" timestamp="1528155341077">
         <mark key="'" line="2" column="48" />
@@ -369,6 +356,10 @@
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/enforcement/EnforceUtils.java" timestamp="1531793021803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/enforcement/EnforceInt.java" timestamp="1531797018616">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="112" column="4" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestHelper.kt" timestamp="1525392996259">
         <mark key="[" line="3" column="0" />
@@ -547,8 +538,8 @@
       <jump line="129" column="31" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -559,44 +550,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isValidTest</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>uuid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBuZXQudGhyZWVzY2FuLmVuZm9yY2VtZW50OwoKcHVibGljIGZpbmFsIGNsYXNzIEVuZm9yY2VVdGlscyB7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBFbmZvcmNlIHRoYXQge0Bjb2RlIGE8Yn0uCiAgICoKICAgKiBAcGFyYW0gYSBhbiBpbnQuCiAgICogQHBhcmFtIGIgYW4gaW50LgogICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogQHBhcmFtIGIgYW4gaW50Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW5mb3JjZVV1aWQK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRW5mb3JjZVV1aWQuaXNWYWxpZChtc2cuKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>assertThat
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlcyBpcyBub3QgYSB2YWxpZCBVVUlEIiwgdXVpZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV1aWQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKHV1aWQpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlcyBpcyBub3QgYSB2YWxpZCBVVUlEIiwgdXVpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
