@@ -73,6 +73,7 @@
         <mark key="^" line="115" column="14" />
         <mark key="." line="115" column="52" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalIOBase.java" timestamp="1531867170217" />
       <file name="$USER_HOME$/kesm/gradle.properties" timestamp="1531857843862">
         <mark key="[" line="1" column="23" />
       </file>
@@ -329,6 +330,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="54" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1531867350377" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.kt" timestamp="1526423858292">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="11" column="33" />
@@ -380,6 +382,9 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" timestamp="1531867021628">
+        <mark key="'" line="178" column="33" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1526327095971">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
@@ -429,10 +434,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1529533762411">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="36" column="52" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.java" timestamp="1531508811519" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceCacheRecord.kt" timestamp="1526686189085">
         <mark key="[" line="10" column="0" />
@@ -447,8 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="170" column="51" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="160" column="21" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="62" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
@@ -547,6 +546,8 @@
       <jump line="109" column="38" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="168" column="73" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="201" column="38" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
+      <jump line="178" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -564,7 +565,7 @@
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text>kotlin</text>
+        <text>writeAtomsAs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
@@ -600,13 +601,13 @@
         <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsIHJlY2VwdGlvbmlzdFNlcnZpY2UgPSAgbmV3IFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsKHRpbGVSZXF1ZXN0UXVldWUsIHNsaWNlU3RvcmUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>221</text>
       </register>
     </registers>
     <search>
-      <last-search>kotlin</last-search>
+      <last-search>writeAtomsAs</last-search>
       <last-offset />
-      <last-pattern>kotlin</last-pattern>
+      <last-pattern>writeAtomsAs</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -614,7 +615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>throw</entry>
         <entry>bytes</entry>
         <entry>0</entry>
         <entry>format(</entry>
@@ -634,9 +634,9 @@
         <entry>Bindable</entry>
         <entry>:w</entry>
         <entry>kotlin</entry>
+        <entry>writeAtomsAs</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>47</entry>
         <entry>s/width/height/g</entry>
         <entry>s/width/nChannels/g</entry>
@@ -656,6 +656,7 @@
         <entry>s/0/e/g</entry>
         <entry>103</entry>
         <entry>w</entry>
+        <entry>221</entry>
       </history-cmd>
       <history-expr />
       <history-input />
