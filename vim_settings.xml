@@ -55,8 +55,11 @@
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531855243427">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1531858158250">
         <mark key="'" line="154" column="80" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/ImageMetadata.java" timestamp="1522101799224">
         <mark key="[" line="9" column="0" />
@@ -69,6 +72,9 @@
         <mark key="]" line="115" column="52" />
         <mark key="^" line="115" column="14" />
         <mark key="." line="115" column="52" />
+      </file>
+      <file name="$USER_HOME$/kesm/gradle.properties" timestamp="1531857843862">
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
@@ -119,8 +125,8 @@
         <mark key="]" line="123" column="18" />
         <mark key="." line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1531421406326">
-        <mark key="'" line="129" column="31" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1531857685518">
+        <mark key="'" line="201" column="38" />
         <mark key="[" line="197" column="54" />
         <mark key="]" line="197" column="52" />
         <mark key="^" line="197" column="52" />
@@ -441,18 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="140" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="141" column="28" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="146" column="16" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="148" column="52" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="155" column="48" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="156" column="47" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="159" column="15" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="7" column="17" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="182" column="44" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="181" column="53" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="180" column="16" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="173" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="170" column="51" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="160" column="21" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
@@ -531,7 +525,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="33" column="4" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="43" column="21" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="65" column="6" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="190" column="31" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="191" column="21" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="192" column="21" filename="$USER_HOME$/kesm/build.gradle" />
@@ -541,10 +534,23 @@
       <jump line="129" column="31" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="46" column="4" filename="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/grpc/receptionist/ReceptionistGrpc.java" />
       <jump line="92" column="71" filename="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/grpc/receptionist/ReceptionistGrpc.java" />
+      <jump line="197" column="70" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="8" column="20" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="63" column="36" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="64" column="29" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="65" column="2" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="99" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="105" column="15" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="106" column="34" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="107" column="34" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="108" column="38" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="109" column="38" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="168" column="73" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="201" column="38" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Integer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aG91Z2h0cyA9ICJobW1tbXdodXQiOwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -558,52 +564,52 @@
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text>:w</text>
+        <text>kotlin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgY2xpZW50CmltcG9ydCBrZXNtLmdlb2RlLnN0b3JhZ2Uuc2VydmVyIGFzIHNlcnZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aG91Z2h0cyA9ICIuLi4iOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aG91Z2h0cyA9ICJobW1tbXdodXQiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0aG91Z2h0cyA9ICIuLi4iOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb29sID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb29sID0gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb25pdG9yaW5nSW50ZXJjZXB0b3IK</text>
+        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsIHJlY2VwdGlvbmlzdFNlcnZpY2UgPSAgbmV3IFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsKHRpbGVSZXF1ZXN0UXVldWUsIHNsaWNlU3RvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb25pdG9yaW5nSW50ZXJjZXB0b3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1vbml0b3JpbmdTZXJ2ZXJJbnRlcmNlcHRvciBtb25pdG9yaW5nSW50ZXJjZXB0b3IgPSBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKTsK</text>
+        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsIHJlY2VwdGlvbmlzdFNlcnZpY2UgPSAgbmV3IFJlY2VwdGlvbmlzdFNlcnZpY2VJbXBsKHRpbGVSZXF1ZXN0UXVldWUsIHNsaWNlU3RvcmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>:w</last-search>
+      <last-search>kotlin</last-search>
       <last-offset />
-      <last-pattern>:w</last-pattern>
+      <last-pattern>kotlin</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -619,7 +625,6 @@
         <entry>TileRequest</entry>
         <entry>guava</entry>
         <entry>shape</entry>
-        <entry>kotlin</entry>
         <entry>testlib</entry>
         <entry>xact_test</entry>
         <entry>xact</entry>
@@ -628,6 +633,7 @@
         <entry>grpc</entry>
         <entry>Bindable</entry>
         <entry>:w</entry>
+        <entry>kotlin</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
