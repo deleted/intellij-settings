@@ -91,11 +91,10 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1531797081889">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1531800548825">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1530838647672">
         <mark key="'" line="71" column="35" />
@@ -309,12 +308,6 @@
         <mark key="]" line="15" column="35" />
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531796500575">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="9" column="62" />
-        <mark key="." line="9" column="62" />
-        <mark key="^" line="9" column="62" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_gray_img.nsp.json" timestamp="1528155341077">
         <mark key="'" line="2" column="48" />
@@ -538,8 +531,8 @@
       <jump line="129" column="31" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpbnQgZm9vID0gMTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -559,35 +552,34 @@
         <text encoding="base64">ICAvKioKICAgKiBFbmZvcmNlIHRoYXQge0Bjb2RlIGE8Yn0uCiAgICoKICAgKiBAcGFyYW0gYSBhbiBpbnQuCiAgICogQHBhcmFtIGIgYW4gaW50LgogICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGIgYW4gaW50Lgo=</text>
+        <text encoding="base64">ICBpbnQgZm9vID0gMTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW5mb3JjZVV1aWQK</text>
+        <text encoding="base64">ICAgIGZvbysrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW5mb3JjZVV1aWQuaXNWYWxpZChtc2cuKQo=</text>
+        <text encoding="base64">ICBmb28rKzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBmb28rKzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">ICogQHBhcmFtIGIgYW4gaW50Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW5mb3JjZVV1aWQK</text>
       </register>
-      <register name="7" type="4">
-        <text>assertThat
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRW5mb3JjZVV1aWQuaXNWYWxpZChtc2cuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlcyBpcyBub3QgYSB2YWxpZCBVVUlEIiwgdXVpZAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
