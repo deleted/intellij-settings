@@ -103,6 +103,12 @@
         <mark key="." line="48" column="65" />
         <mark key="^" line="48" column="65" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1531935983032">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestHelper.kt" timestamp="1525392996259">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -158,11 +164,6 @@
         <mark key="]" line="8" column="15" />
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" timestamp="1529536306721">
-        <mark key="'" line="29" column="42" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/util/DoNothing.kt" timestamp="1531854144403">
         <mark key="[" line="3" column="6" />
