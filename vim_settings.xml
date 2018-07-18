@@ -86,13 +86,14 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1531359060935">
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1531954825269">
         <mark key="'" line="134" column="45" />
         <mark key="[" line="195" column="49" />
         <mark key="]" line="196" column="52" />
         <mark key="^" line="196" column="52" />
         <mark key="." line="196" column="52" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceTestAssertions.java" timestamp="1531954048981" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1531344190140">
         <mark key="'" line="79" column="35" />
         <mark key="[" line="23" column="25" />
@@ -276,6 +277,13 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531954414839">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
@@ -284,10 +292,6 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1529108263439">
         <mark key="'" line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1529533762411">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="36" column="52" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526690608956">
         <mark key="[" line="123" column="18" />
@@ -335,12 +339,17 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="46" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1531953940574">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+      </file>
       <file name="/Dummy.txt" timestamp="1531360025676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/MetricsCapture.java" timestamp="1531276457605" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="24" />
@@ -434,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="300" column="15" filename="$USER_HOME$/kesm/build.gradle" />
@@ -534,10 +542,11 @@
       <jump line="86" column="67" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="29" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/ServerInterceptors.java" />
       <jump line="66" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/ServerInterceptors.java" />
+      <jump line="28" column="2" filename="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjZXB0aW9uaXN0U2VydmljZUltcGwuYmluZFNlcnZpY2UK</text>
+      <register name="&quot;" type="4">
+        <text>invalidUuid</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -548,60 +557,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getMonitoringInterceptor()</text>
+        <text>invalidUuid</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>doesNotContain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0ZWQucHV0KCJzb21rZVN1bW1hcnkiLCA1LjApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjZXB0aW9uaXN0U2VydmljZUltcGwuYmluZFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIGFzc2VydEVuZm9yY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjZXB0aW9uaXN0U2VydmljZUltcGwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR3JwY1NlcnZlclJ1bGUuYmluCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgPEEsIEI+IHZvaWQgYXNzZXJ0RW5mb3JjZShFbmZvcmNlQmlDb25zdW1lcjxBLCBCPiBlbmZvcmNlLAogICAgICBFbmZvcmNlQmlDb25zdW1lcldpdGhGb3JtYXQ8QSwgQj4gZW5mb3JjZVdpdGhGb3JtYXQsCiAgICAgIEVuZm9yY2VCaUNvbnN1bWVyV2l0aFN1cHBsaWVyPEEsIEI+IGVuZm9yY2VXaXRoU3VwcGxpZXIsIEEgYSwgQiBiKSB7CiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkU2VydmljZShTZXJ2ZXJJbnRlcmNlcHRvcnMuaW50ZXJjZXB0KAogICAgICAgIAogICAgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjZXB0aW9uaXN0U2VydmljZUltcGwuYmluZFNlcnZpY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWMuZW5mb3JjZUhhc01ldHJpYygic29tZVN1bW1hcnkiKTsKICAgICAgbWMuZW5mb3JjZU1ldHJpY0VxdWFscygic29tZVN1bW1hcnkiLCAxMC4wKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjZXB0aW9uaXN0U2VydmljZUltcGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0ZWQucHV0KCJzb21lU3VtbWFyeSIsIDEwLjApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR3JwY1NlcnZlclJ1bGUuYmluCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0ZWQucHV0KCJzb21lU3VtbWFyeSIsIDUuMCk7Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkU2VydmljZShTZXJ2ZXJJbnRlcmNlcHRvcnMuaW50ZXJjZXB0KAogICAgICAgIAogICAgKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3VtbWFyeS5vYnNlcnZlKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgbWMuZW5mb3JjZUhhc01ldHJpYygic29tZVN1bW1hcnkiKTsKICAgICAgbWMuZW5mb3JjZU1ldHJpY0VxdWFscygic29tZVN1bW1hcnkiLCAxMC4wKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN1bW1hcnkgc3VtbWFyeSA9CiAgICAgICAgTWV0cmljcy5jcmVhdGVTdW1tYXJ5KCJzb21lU3VtbWFyeSIsICJBIHJlYWxseSBncmVhdCB2YWx1ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0ZWQucHV0KCJzb21lU3VtbWFyeSIsIDEwLjApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>85</text>
+        <text encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>doesNotContain</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
-      <last-replace>summary</last-replace>
-      <last-substitute>counter</last-substitute>
+      <last-pattern>doesNotContain</last-pattern>
+      <last-replace>isValid</last-replace>
+      <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xact_test</entry>
         <entry>xact</entry>
         <entry>sender</entry>
         <entry>send</entry>
@@ -621,9 +629,9 @@
         <entry>server</entry>
         <entry>intercept(</entry>
         <entry>bind</entry>
+        <entry>doesNotContain</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry>s/&quot;/\&quot;/g</entry>
         <entry>s/&quot;/\\&quot;/g</entry>
         <entry>ww</entry>
@@ -643,6 +651,7 @@
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
         <entry>41</entry>
         <entry>85</entry>
+        <entry encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
