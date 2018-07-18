@@ -277,12 +277,12 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531954414839">
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531955758983">
         <mark key="'" line="31" column="2" />
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="20" />
-        <mark key="^" line="28" column="20" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
