@@ -103,10 +103,12 @@
         <mark key="." line="48" column="65" />
         <mark key="^" line="48" column="65" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1531950210963">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1531953608850">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestHelper.kt" timestamp="1525392996259">
         <mark key="[" line="3" column="0" />
@@ -131,7 +133,7 @@
         <mark key="]" line="123" column="18" />
         <mark key="." line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" timestamp="1531940685192" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" timestamp="1531951905843" />
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1531857685518">
         <mark key="'" line="201" column="38" />
         <mark key="[" line="197" column="54" />
@@ -181,9 +183,6 @@
         <mark key="]" line="145" column="41" />
         <mark key="." line="145" column="41" />
         <mark key="^" line="145" column="41" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1529108263439">
-        <mark key="'" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
@@ -236,6 +235,7 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/resources/global-flags.properties" timestamp="1531952522979" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSeverTest.kt" timestamp="1528327103158">
         <mark key="[" line="40" column="65" />
         <mark key="]" line="40" column="63" />
@@ -248,6 +248,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" timestamp="1531952596602" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1531854005124">
         <mark key="'" line="71" column="35" />
         <mark key="[" line="122" column="0" />
@@ -272,9 +273,6 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528332727709">
-        <mark key="'" line="863" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
         <mark key="[" line="15" column="3" />
@@ -337,9 +335,6 @@
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/grpc/receptionist/ReceptionistGrpc.java" timestamp="1531423095505">
-        <mark key="'" line="92" column="71" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
@@ -444,6 +439,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/flags/Flag.java" timestamp="1531952661091">
+        <mark key="'" line="27" column="1" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/HandleCache.java" timestamp="1531940232007" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.java" timestamp="1531508811519" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceCacheRecord.kt" timestamp="1526686189085">
@@ -460,8 +458,6 @@
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1531950266963" />
     </filemarks>
     <jumps>
-      <jump line="160" column="21" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="300" column="15" filename="$USER_HOME$/kesm/build.gradle" />
@@ -560,10 +556,12 @@
       <jump line="201" column="38" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
       <jump line="178" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
+      <jump line="27" column="1" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/flags/Flag.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aWxlV3JpdGVyID0gUmVjZXB0aW9uaXN0VGlsZVdyaXRlcihoYW5kbGVDYWNoZSkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmUK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -577,49 +575,49 @@
         <text encoding="base64">dmFsIGhhbmRsZUNhY2hlID0g</text>
       </register>
       <register name="/" type="4">
-        <text>writeAtomsAs</text>
+        <text>Overrid</text>
       </register>
       <register name="0" type="4">
         <text>&quot;/tmp/imagecache/&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aWxlV3JpdGVyID0gUmVjZXB0aW9uaXN0VGlsZVdyaXRlcihoYW5kbGVDYWNoZSkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0IHsKICAgICAgICAgICAgc3RvcmFnZUNsaWVudCEhCiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXMKaW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFuZGxlQ2FjaGUK</text>
+        <text encoding="base64">ICAgIHZhbCB0aWxlV3JpdGVyID0gUmVjZXB0aW9uaXN0VGlsZVdyaXRlcihoYW5kbGVDYWNoZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbml0IHsKICAgICAgICAgICAgc3RvcmFnZUNsaWVudCEhCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdG9yYWdlQ2xpZW50ID0gZ2V0R2VvZGVTdG9yYWdlQ2xpZW50KCkKICAgIGluaXQgewogICAgICAgIHN0b3JhZ2VDbGllbnQhIQogICAgfQogICAgdmFsIGhhbmRsZUNhY2hlID0gSGFuZGxlQ2FjaGUoc3RvcmFnZUNsaWVudCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFuZGxlQ2FjaGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biB0ZXN0Q2FwdHVyZWRTbGljZXMoKXtgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdG9yYWdlQ2xpZW50ID0gZ2V0R2VvZGVTdG9yYWdlQ2xpZW50KCkKICAgIGluaXQgewogICAgICAgIHN0b3JhZ2VDbGllbnQhIQogICAgfQogICAgdmFsIGhhbmRsZUNhY2hlID0gSGFuZGxlQ2FjaGUoc3RvcmFnZUNsaWVudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIGZ1biBzZXR1cFRpbGVXcml0ZXIoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biB0ZXN0Q2FwdHVyZWRTbGljZXMoKXtgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>221</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>writeAtomsAs</last-search>
+      <last-search>Overrid</last-search>
       <last-offset />
-      <last-pattern>writeAtomsAs</last-pattern>
+      <last-pattern>Overrid</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -627,8 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bytes</entry>
-        <entry>0</entry>
         <entry>format(</entry>
         <entry>format</entry>
         <entry>put(</entry>
@@ -647,9 +643,10 @@
         <entry>:w</entry>
         <entry>kotlin</entry>
         <entry>writeAtomsAs</entry>
+        <entry>overriding</entry>
+        <entry>Overrid</entry>
       </history-search>
       <history-cmd>
-        <entry>47</entry>
         <entry>s/width/height/g</entry>
         <entry>s/width/nChannels/g</entry>
         <entry encoding="base64">JzwsJz5zLycvOi9n</entry>
@@ -669,6 +666,7 @@
         <entry>103</entry>
         <entry>w</entry>
         <entry>221</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
