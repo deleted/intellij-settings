@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Super Method">
@@ -662,7 +662,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -719,6 +719,14 @@
           <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
           <Description>Zoom In</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Gradle">
+        <Item>
+          <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
+          <Description>Gradle</Description>
         </Item>
       </Statistic>
     </option>
