@@ -271,13 +271,6 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" timestamp="1531961826904">
-        <mark key="'" line="19" column="54" />
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="55" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
@@ -333,11 +326,11 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="46" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1531961970215">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="28" column="63" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1532035083740">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+        <mark key="^" line="24" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1531360025676">
         <mark key="[" line="0" column="0" />
@@ -542,8 +535,8 @@
       <jump line="19" column="54" filename="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlzVmFsaWQodXVpZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -554,7 +547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>isEq</text>
@@ -563,40 +556,37 @@
         <text encoding="base64">ICAgICAgZXhwZWN0ZWQucHV0KCJzb21rZVN1bW1hcnkiLCA1LjApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlzVmFsaWQodXVpZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRW5mb3JjZS5sb2dnZXIuZXJyb3IobXNnKTsK</text>
+        <text encoding="base64">Ly8gICAgU3RyaW5nW10gYXJncyA9IG5ldyBTdHJpbmdbZXh0cmFBcmdzLmxlbmd0aCArIDFdOwovLyAgICBhcmdzWzBdID0gdXVpZDsKLy8gICAgU3lzdGVtLmFycmF5Y29weShleHRyYUFyZ3MsIDAsIGFyZ3MsIDEsIGV4dHJhQXJncy5sZW5ndGgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEFycmF5cy5jb3B5Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nW2FyZ3NdID0gCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-      String get() {
-        
-    }</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIGlzVmFsaWQodXVpZCk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgRW5mb3JjZS5sb2dnZXIuZXJyb3IobXNnKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEFycmF5cy5jb3B5Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -643,7 +633,6 @@
         <entry>s/0/f/g</entry>
         <entry>s/0/e/g</entry>
         <entry>103</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0dhdWdlL0NvdW50ZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvdW50ZXIvU3VtbWFyeS9n</entry>
         <entry encoding="base64">JzwsJz5zL3N1bW1hcnkvc3VtbWFyeS9n</entry>
@@ -652,6 +641,7 @@
         <entry>85</entry>
         <entry encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
