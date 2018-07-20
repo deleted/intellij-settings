@@ -83,8 +83,8 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1531954825269">
-        <mark key="'" line="134" column="45" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1532121020637">
+        <mark key="'" line="316" column="45" />
         <mark key="[" line="195" column="49" />
         <mark key="]" line="196" column="52" />
         <mark key="^" line="196" column="52" />
@@ -189,6 +189,7 @@
       <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
         <mark key="'" line="52" column="4" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532121599947" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -326,7 +327,7 @@
         <mark key="." line="27" column="46" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531360025676">
+      <file name="/Dummy.txt" timestamp="1532121815118">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -416,30 +417,17 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1531275572577">
-        <mark key="[" line="0" column="10" />
+      <file name="/fragment.java" timestamp="1532121191306">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" timestamp="1532121633365">
+        <mark key="'" line="43" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="25" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="95" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="13" column="72" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="74" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="79" column="34" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="120" column="22" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="26" column="30" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="33" column="1" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
-      <jump line="193" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
-      <jump line="195" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
-      <jump line="240" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
-      <jump line="253" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
-      <jump line="20" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
-      <jump line="21" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
       <jump line="12" column="45" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="82" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="133" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -524,6 +512,22 @@
       <jump line="496" column="24" filename="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/Enforce.java" />
       <jump line="514" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/Enforce.java" />
       <jump line="19" column="54" filename="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" />
+      <jump line="322" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="357" column="13" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="320" column="15" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="329" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="332" column="5" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="358" column="11" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="328" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="225" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="305" column="25" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="341" column="91" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="313" column="50" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="314" column="44" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="315" column="45" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="316" column="45" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="24" column="29" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
+      <jump line="43" column="11" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -541,7 +545,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>isEq</text>
+        <text>geodeStorageCli</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0ZWQucHV0KCJzb21rZVN1bW1hcnkiLCA1LjApOwo=</text>
@@ -581,9 +585,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isEq</last-search>
+      <last-search>geodeStorageCli</last-search>
       <last-offset />
-      <last-pattern>isEq</last-pattern>
+      <last-pattern>geodeStorageCli</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -591,10 +595,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
-        <entry>Gauge</entry>
-        <entry>Counter</entry>
-        <entry>counter</entry>
         <entry>compressImage</entry>
         <entry>t</entry>
         <entry>priv</entry>
@@ -611,6 +611,10 @@
         <entry>doesNotContain</entry>
         <entry>equals</entry>
         <entry>isEq</entry>
+        <entry>localDevUp</entry>
+        <entry>8001</entry>
+        <entry>localhost</entry>
+        <entry>geodeStorageCli</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/\\&quot;/g</entry>
