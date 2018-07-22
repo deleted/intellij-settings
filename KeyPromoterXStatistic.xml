@@ -465,6 +465,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Galaxia [run]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Galaxia [run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'kesm [localDevUp]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
