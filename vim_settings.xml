@@ -21,6 +21,12 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/model/Temple.java" timestamp="1532237920633">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1531796965101">
         <mark key="[" line="58" column="67" />
         <mark key="]" line="57" column="0" />
@@ -160,6 +166,12 @@
         <mark key="]" line="22" column="71" />
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
+      </file>
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/model/Ring.java" timestamp="1532237088718">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
@@ -324,6 +336,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/RingTest.java" timestamp="1532238387275">
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
@@ -529,7 +546,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ucHIK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -540,52 +557,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>point</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>uuid</text>
+        <text>loaded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBFbmZvcmNlIHRoYXQge0Bjb2RlIGE8Yn0uCiAgICoKICAgKiBAcGFyYW0gYSBhbiBpbnQuCiAgICogQHBhcmFtIGIgYW4gaW50LgogICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ucHIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXRoLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmluZ3MuZ2V0KGopLmFkZFBvaW50KHBvaW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vZGVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaiA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0IHBpeGVsc1BlclBldGFsIDwgMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaisrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IHBldGFsLmdldFBvaW50cygpLnNpemUoKTsgaisrKSB7CgogICAgICAgICAgdGhpcy5yaW5ncy5nZXQoaikuYWRkUG9pbnQocGV0YWwuZ2V0UG9pbnRzKCkuZ2V0KGopKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwaXhlbHNQZXJQZXRhbDsgaSsrKSB7CiAgICAgICAgcmluZ3MuYWRkKG5ldyBSaW5nKCkpOwogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uuid</last-search>
+      <last-search>loaded</last-search>
       <last-offset />
-      <last-pattern>uuid</last-pattern>
+      <last-pattern>loaded</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -593,7 +610,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rootPath</entry>
         <entry>throw</entry>
         <entry>bytes</entry>
         <entry>0</entry>
@@ -613,6 +629,7 @@
         <entry>send</entry>
         <entry>grpc</entry>
         <entry>uuid</entry>
+        <entry>loaded</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -633,8 +650,8 @@
         <entry>s/0/f/g</entry>
         <entry>s/0/e/g</entry>
         <entry>103</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
