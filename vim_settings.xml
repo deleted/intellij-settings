@@ -199,12 +199,12 @@
       <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
         <mark key="'" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532380365021">
-        <mark key="'" line="47" column="72" />
-        <mark key="[" line="47" column="63" />
-        <mark key="]" line="47" column="62" />
-        <mark key="." line="47" column="62" />
-        <mark key="^" line="47" column="62" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532468536630">
+        <mark key="'" line="67" column="72" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" timestamp="1532130262232">
         <mark key="'" line="36" column="6" />
@@ -267,7 +267,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/ServerInterceptors.java" timestamp="1531359511463">
         <mark key="'" line="66" column="11" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1532378519739">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1532467744983">
         <mark key="'" line="166" column="9" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
@@ -361,6 +361,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" timestamp="1532468434839" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="24" />
@@ -459,16 +460,15 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" timestamp="1532378556200">
-        <mark key="'" line="99" column="21" />
-        <mark key="[" line="93" column="36" />
-        <mark key="]" line="92" column="40" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" timestamp="1532468614596">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="106" column="81" />
         <mark key="." line="92" column="40" />
         <mark key="^" line="92" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" />
       <jump line="232" column="35" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="79" column="26" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="83" column="49" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
@@ -541,7 +541,6 @@
       <jump line="315" column="45" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="316" column="45" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="24" column="29" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
-      <jump line="43" column="11" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
       <jump line="49" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="91" column="41" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="95" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
@@ -568,10 +567,12 @@
       <jump line="166" column="9" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="47" column="72" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" />
       <jump line="181" column="54" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="25" column="27" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
+      <jump line="43" column="11" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dG9BcnJheShBcnJheShDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPikoKSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdlb2RlU3R1YiA9IEdlb2RlU2VydmljZUdycGMubmV3U3R1YihncnBjU2VydmVyUnVsZS5nZXRDaGFubmVsKCkpOwogICAgZ2VvZGVGdXR1cmVTdHViID0gR2VvZGVTZXJ2aWNlR3JwYy5uZXdGdXR1cmVTdHViKGdycGNTZXJ2ZXJSdWxlLmdldENoYW5uZWwoKSk7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -582,52 +583,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9BcnJheShBcnJheShDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPikoKSk=</text>
+        <text>GeodeSpec()</text>
       </register>
       <register name="/" type="4">
-        <text>allOf</text>
+        <text>geodeServiceImpl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLnNldEVuYWJsZUNyeXN0YWxHcm91cHModHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGdlb2RlU3R1YiA9IEdlb2RlU2VydmljZUdycGMubmV3U3R1YihncnBjU2VydmVyUnVsZS5nZXRDaGFubmVsKCkpOwogICAgZ2VvZGVGdXR1cmVTdHViID0gR2VvZGVTZXJ2aWNlR3JwYy5uZXdGdXR1cmVTdHViKGdycGNTZXJ2ZXJSdWxlLmdldENoYW5uZWwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWRzID0gc2xpY2VTdG9yZS5saXN0KCkKICAgICAgICB2YWwgcmVjb3JkID0gc2xpY2VTdG9yZS5nZXQoaWRzWzBdKS5qb2luKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIndyaXRlIHRpbGUiKQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuVGlsZVJlcXVlc3QocmVjb3JkPy5pbWFnZSwgcmVjb3JkPy5tZXRhZGF0YSkKICAgICAgICB0aWxlV3JpdGVyLndyaXRlVGlsZXMocmVxdWVzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQ2FwdHVyZWQgcmVjb3JkOiAiICsgcmVjb3JkPy5tZXRhZGF0YT8uYmxvYklkLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZUNsaWVudCA9IEdlb2RlU3RvcmFnZUNsaWVudCgKICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbAogICAgICAgICAgICBnZW9kZVN0dWIsCiAgICAgICAgICAgIGdlb2RlRnV0dXJlU3R1YiwKICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5nZXRBd3NTdG9yYWdlQ29ubmVjdGlvbigpLmdldElvRXhlY3V0b3IoKQogICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZGlkIGEgdGhpbmcuIikK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldEF3c1N0b3JhZ2VDb25uZWN0aW9uKCkuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZUNsaWVudCA9IEdlb2RlU3RvcmFnZUNsaWVudCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZGlkIGEgdGhpbmcuIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaWRzID0gc2xpY2VTdG9yZS5saXN0KCkKICAgICAgICB2YWwgcmVjb3JkID0gc2xpY2VTdG9yZS5nZXQoaWRzWzBdKS5qb2luKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ01hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIndyaXRlIHRpbGUiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>allOf</last-search>
+      <last-search>geodeServiceImpl</last-search>
       <last-offset />
-      <last-pattern>allOf</last-pattern>
+      <last-pattern>geodeServiceImpl</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doesNotContain</entry>
         <entry>equals</entry>
         <entry>isEq</entry>
         <entry>localDevUp</entry>
@@ -655,6 +655,7 @@
         <entry>features</entry>
         <entry encoding="base64">XDxWb2lkXD4=</entry>
         <entry>allOf</entry>
+        <entry>geodeServiceImpl</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/\\&quot;/g</entry>
