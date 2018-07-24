@@ -199,12 +199,12 @@
       <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
         <mark key="'" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532468536630">
-        <mark key="'" line="67" column="72" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="11" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="30" column="11" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532471884498">
+        <mark key="'" line="68" column="72" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" timestamp="1532130262232">
         <mark key="'" line="36" column="6" />
@@ -234,6 +234,7 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="126" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/geode/rpc/GeodeServiceGrpc.java" timestamp="1532471853349" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1526084060852">
         <mark key="[" line="145" column="41" />
         <mark key="]" line="145" column="41" />
@@ -361,7 +362,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" timestamp="1532468434839" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="24" />
@@ -411,7 +411,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/flags/Flag.java" timestamp="1532125044317" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/ImageMetadataTest.java" timestamp="1524693181899">
         <mark key="[" line="16" column="111" />
         <mark key="]" line="4" column="50" />
