@@ -144,11 +144,11 @@
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfKt.kt" timestamp="1532554759029">
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="34" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfKt.kt" timestamp="1532559991919">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfB.kt" timestamp="1532546906171">
         <mark key="[" line="15" column="7" />
@@ -184,6 +184,7 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tools/GeodeCommand.java" timestamp="1532561532277" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -215,12 +216,12 @@
       <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
         <mark key="'" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532472665192">
-        <mark key="'" line="73" column="72" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="37" column="40" />
-        <mark key="." line="37" column="40" />
-        <mark key="^" line="37" column="40" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532561607861">
+        <mark key="'" line="72" column="72" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" timestamp="1532130262232">
         <mark key="'" line="36" column="6" />
@@ -469,7 +470,7 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1532554338569">
+      <file name="/fragment.java" timestamp="1532560122104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="0" />
@@ -579,8 +580,8 @@
       <jump line="124" column="48" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Collection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIEdlb2RlU2VydmljZUltcGwuaW5pdGlhbGl6ZUZyb21TcGVjKGZlYXR1cmVzLCBnZW9kZVNwZWMsIFByb3Zpc2lvbmVkVGhyb3VnaHB1dCgxMEwsIDEwTCkpCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -594,49 +595,49 @@
         <text>Collection</text>
       </register>
       <register name="/" type="4">
-        <text>AwsStorage</text>
+        <text>stub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdlb2RlU3R1YiA9IEdlb2RlU2VydmljZUdycGMubmV3U3R1YihncnBjU2VydmVyUnVsZS5nZXRDaGFubmVsKCkpOwogICAgZ2VvZGVGdXR1cmVTdHViID0gR2VvZGVTZXJ2aWNlR3JwYy5uZXdGdXR1cmVTdHViKGdycGNTZXJ2ZXJSdWxlLmdldENoYW5uZWwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGsgaW4gY29uc3RydWN0b3JzIHt9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEdlb2RlU2VydmljZUltcGwuaW5pdGlhbGl6ZUZyb21TcGVjKGZlYXR1cmVzLCBnZW9kZVNwZWMsIFByb3Zpc2lvbmVkVGhyb3VnaHB1dCgxMEwsIDEwTCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RydWN0b3JzLmZvckVhY2goKGspIC0+IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrLnRvU3RyaW5nKCkpCiAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdG9yYWdlQ2xpZW50OiBHZW9kZVN0b3JhZ2VDbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnN0cnVjdG9ycyA9IEdlb2RlU3RvcmFnZUNsaWVudDo6Y2xhc3MuY29uc3RydWN0b3JzCiAgICAgICAgICAgIGNvbnN0cnVjdG9ycy5zdHJlYW0oKS5mb3JFYWNoIHsgayAtPiBTeXN0ZW0ub3V0LnByaW50bG4oay50b1N0cmluZygpKSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMuZW5hYmxlQ3J5c3RhbEdyb3VwcyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGsgaW4gY29uc3RydWN0b3JzIHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLnNldEVuYWJsZUNyeXN0YWxHcm91cHMoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RydWN0b3JzLmZvckVhY2goKGspIC0+IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrLnRvU3RyaW5nKCkpCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnZW9kZVN0b3JhZ2VDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdG9yYWdlQ2xpZW50OiBHZW9kZVN0b3JhZ2VDbGllbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5hd3NTdG9yYWdlQ29ubmVjdGlvbi5pb0V4ZWN1dG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMuZW5hYmxlQ3J5c3RhbEdyb3VwcyA9IGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzLnNldEVuYWJsZUNyeXN0YWxHcm91cHMoZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlQ2xpZW50ISEK</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZW9kZVN0b3JhZ2VDbGllbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AwsStorage</last-search>
+      <last-search>stub</last-search>
       <last-offset />
-      <last-pattern>AwsStorage</last-pattern>
+      <last-pattern>stub</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -658,12 +659,12 @@
         <entry>geodeServiceImpl</entry>
         <entry>grpcServerRule</entry>
         <entry>channel</entry>
-        <entry>stub</entry>
         <entry>kotlin</entry>
         <entry>kotlin_v</entry>
         <entry>KOTLIN_V</entry>
         <entry>jdk</entry>
         <entry>AwsStorage</entry>
+        <entry>stub</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
