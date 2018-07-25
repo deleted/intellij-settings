@@ -89,7 +89,7 @@
         <mark key="." line="316" column="35" />
         <mark key="^" line="315" column="48" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/resources/global-flags.properties" timestamp="1532125067224">
+      <file name="$USER_HOME$/kesm/src/test/resources/global-flags.properties" timestamp="1532482048244">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -131,19 +131,12 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/aws/AwsTestBase.java" timestamp="1532130074034">
-        <mark key="'" line="58" column="2" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1528238606655">
         <mark key="[" line="20" column="56" />
         <mark key="]" line="20" column="57" />
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-testing/1.12.0/a851fbf2a5bb5a5bd5d9b2e4cfe499512bc677f5/grpc-testing-1.12.0-sources.jar!/io/grpc/testing/GrpcServerRule.java" timestamp="1532472096661" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/BufferedImageOutputStreamTest.java" timestamp="1521654252720">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="28" />
@@ -235,7 +228,6 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/geode/rpc/GeodeServiceGrpc.java" timestamp="1532471853349" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1526084060852">
         <mark key="[" line="145" column="41" />
         <mark key="]" line="145" column="41" />
@@ -358,7 +350,7 @@
         <mark key="." line="27" column="46" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532129342312">
+      <file name="/Dummy.txt" timestamp="1532481679049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -459,13 +451,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" timestamp="1532472059814">
-        <mark key="'" line="83" column="4" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="106" column="81" />
-        <mark key="." line="92" column="40" />
-        <mark key="^" line="92" column="40" />
       </file>
     </filemarks>
     <jumps>
