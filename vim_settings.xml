@@ -59,11 +59,11 @@
         <mark key="." line="137" column="25" />
         <mark key="^" line="122" column="37" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532548568252">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="36" column="9" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532554929788">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="14" />
+        <mark key="^" line="38" column="14" />
+        <mark key="." line="38" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
@@ -144,11 +144,11 @@
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfKt.kt" timestamp="1532552086246">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="8" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfKt.kt" timestamp="1532554759029">
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfB.kt" timestamp="1532546906171">
         <mark key="[" line="15" column="7" />
@@ -168,6 +168,9 @@
         <mark key="]" line="36" column="14" />
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
+      </file>
+      <file name="/fragment.kt" timestamp="1532554228089">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.kt" timestamp="1528154363956">
         <mark key="[" line="22" column="72" />
@@ -374,6 +377,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" timestamp="1532554139967" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="24" />
@@ -465,7 +469,7 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1532544601738">
+      <file name="/fragment.java" timestamp="1532554338569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="0" />
@@ -576,7 +580,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>Collection</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -587,52 +591,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>Collection</text>
       </register>
       <register name="/" type="4">
-        <text>jdk</text>
+        <text>AwsStorage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdlb2RlU3R1YiA9IEdlb2RlU2VydmljZUdycGMubmV3U3R1YihncnBjU2VydmVyUnVsZS5nZXRDaGFubmVsKCkpOwogICAgZ2VvZGVGdXR1cmVTdHViID0gR2VvZGVTZXJ2aWNlR3JwYy5uZXdGdXR1cmVTdHViKGdycGNTZXJ2ZXJSdWxlLmdldENoYW5uZWwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdG9yYWdlQ2xpZW50OiBHZW9kZVN0b3JhZ2VDbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGsgaW4gY29uc3RydWN0b3JzIHt9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMuZW5hYmxlQ3J5c3RhbEdyb3VwcyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3RydWN0b3JzLmZvckVhY2goKGspIC0+IHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrLnRvU3RyaW5nKCkpCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLnNldEVuYWJsZUNyeXN0YWxHcm91cHMoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdG9yYWdlQ2xpZW50OiBHZW9kZVN0b3JhZ2VDbGllbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnZW9kZVN0b3JhZ2VDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMuZW5hYmxlQ3J5c3RhbEdyb3VwcyA9IGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5hd3NTdG9yYWdlQ29ubmVjdGlvbi5pb0V4ZWN1dG9yCg==</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzLnNldEVuYWJsZUNyeXN0YWxHcm91cHMoZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZW9kZVN0b3JhZ2VDbGllbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlQ2xpZW50ISEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5hd3NTdG9yYWdlQ29ubmVjdGlvbi5pb0V4ZWN1dG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlQ2xpZW50ISEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jdk</last-search>
+      <last-search>AwsStorage</last-search>
       <last-offset />
-      <last-pattern>jdk</last-pattern>
+      <last-pattern>AwsStorage</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -640,7 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>S3End</entry>
         <entry>getValye</entry>
         <entry>Dynamo</entry>
         <entry>access_key</entry>
@@ -660,6 +663,7 @@
         <entry>kotlin_v</entry>
         <entry>KOTLIN_V</entry>
         <entry>jdk</entry>
+        <entry>AwsStorage</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
