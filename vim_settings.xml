@@ -59,11 +59,11 @@
         <mark key="." line="137" column="25" />
         <mark key="^" line="122" column="37" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532544353582">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="23" column="8" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532544542732">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="10" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
@@ -452,7 +452,7 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1532121191306">
+      <file name="/fragment.java" timestamp="1532544601738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="0" />
@@ -562,8 +562,8 @@
       <jump line="83" column="4" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5hd3NTdG9yYWdlQ29ubmVjdGlvbi5pb0V4ZWN1dG9yCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -574,7 +574,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>stub</text>
