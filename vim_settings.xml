@@ -59,11 +59,11 @@
         <mark key="." line="137" column="25" />
         <mark key="^" line="122" column="37" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532544542732">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="10" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532546708871">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
@@ -89,11 +89,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1532125558220">
-        <mark key="[" line="316" column="35" />
-        <mark key="]" line="316" column="35" />
-        <mark key="." line="316" column="35" />
-        <mark key="^" line="315" column="48" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1532547449943">
+        <mark key="'" line="127" column="57" />
+        <mark key="[" line="219" column="44" />
+        <mark key="]" line="219" column="49" />
+        <mark key="." line="219" column="49" />
+        <mark key="^" line="219" column="49" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/resources/global-flags.properties" timestamp="1532482048244">
         <mark key="[" line="2" column="0" />
@@ -142,6 +143,18 @@
         <mark key="]" line="20" column="57" />
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="56" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfKt.kt" timestamp="1532547396256">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfB.kt" timestamp="1532546906171">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/BufferedImageOutputStreamTest.java" timestamp="1521654252720">
         <mark key="[" line="46" column="14" />
@@ -356,7 +369,7 @@
         <mark key="." line="27" column="46" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532481679049">
+      <file name="/Dummy.txt" timestamp="1532547429416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -460,22 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="26" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="83" column="49" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="139" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="162" column="23" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="191" column="32" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="56" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="121" column="42" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="117" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="111" column="17" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="3" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="141" column="80" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="119" column="49" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="37" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="55" column="68" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="29" column="42" filename="$USER_HOME$/kesm/kesm/geode/storage/testlib.py" />
       <jump line="235" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
       <jump line="301" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
@@ -490,10 +487,7 @@
       <jump line="95" column="20" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="99" column="12" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="206" column="18" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="185" column="18" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="179" column="18" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="116" column="18" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="219" column="18" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="134" column="45" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="45" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="27" column="17" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -529,7 +523,6 @@
       <jump line="313" column="50" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="314" column="44" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="315" column="45" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="316" column="45" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="24" column="29" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
       <jump line="49" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="91" column="41" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
@@ -560,10 +553,30 @@
       <jump line="25" column="27" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
       <jump line="43" column="11" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
       <jump line="83" column="4" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
+      <jump line="316" column="49" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="124" column="27" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="122" column="15" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="116" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="185" column="73" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="218" column="38" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="8" column="20" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="67" column="36" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="68" column="36" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="69" column="29" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="70" column="2" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="117" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="123" column="15" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="125" column="64" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="126" column="38" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="186" column="73" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="231" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="29" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="219" column="46" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="127" column="57" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>:</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -574,52 +587,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>stub</text>
+        <text>KOTLIN_V</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdlb2RlU3R1YiA9IEdlb2RlU2VydmljZUdycGMubmV3U3R1YihncnBjU2VydmVyUnVsZS5nZXRDaGFubmVsKCkpOwogICAgZ2VvZGVGdXR1cmVTdHViID0gR2VvZGVTZXJ2aWNlR3JwYy5uZXdGdXR1cmVTdHViKGdycGNTZXJ2ZXJSdWxlLmdldENoYW5uZWwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5hd3NTdG9yYWdlQ29ubmVjdGlvbi5pb0V4ZWN1dG9yCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdG9yYWdlQ2xpZW50OiBHZW9kZVN0b3JhZ2VDbGllbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMuZW5hYmxlQ3J5c3RhbEdyb3VwcyA9IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlQ2xpZW50ISEK</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzLnNldEVuYWJsZUNyeXN0YWxHcm91cHMoZmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZW9kZVN0b3JhZ2VDbGllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5hd3NTdG9yYWdlQ29ubmVjdGlvbi5pb0V4ZWN1dG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZUNsaWVudCA9IEdlb2RlU3RvcmFnZUNsaWVudCgKICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbAogICAgICAgICAgICBnZW9kZVN0dWIsCiAgICAgICAgICAgIGdlb2RlRnV0dXJlU3R1YiwKICAgICAgICAgICAgZ2VvZGVTZXJ2aWNlSW1wbC5nZXRBd3NTdG9yYWdlQ29ubmVjdGlvbigpLmdldElvRXhlY3V0b3IoKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlQ2xpZW50ISEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stub</last-search>
+      <last-search>KOTLIN_V</last-search>
       <last-offset />
-      <last-pattern>stub</last-pattern>
+      <last-pattern>KOTLIN_V</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -627,9 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>8001</entry>
-        <entry>localhost</entry>
-        <entry>geodeStorageCli</entry>
         <entry>s3end</entry>
         <entry>S3End</entry>
         <entry>getValye</entry>
@@ -647,9 +657,11 @@
         <entry>grpcServerRule</entry>
         <entry>channel</entry>
         <entry>stub</entry>
+        <entry>kotlin</entry>
+        <entry>kotlin_v</entry>
+        <entry>KOTLIN_V</entry>
       </history-search>
       <history-cmd>
-        <entry>s/&quot;/\\&quot;/g</entry>
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
@@ -668,6 +680,7 @@
         <entry>85</entry>
         <entry encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</entry>
         <entry>q</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
