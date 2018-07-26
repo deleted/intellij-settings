@@ -46,6 +46,12 @@
         <mark key="." line="94" column="33" />
         <mark key="^" line="94" column="33" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1532630335253">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="28" />
+        <mark key="^" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="18" />
@@ -89,8 +95,8 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1532570923835">
-        <mark key="'" line="329" column="15" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1532629773361">
+        <mark key="'" line="20" column="34" />
         <mark key="[" line="219" column="44" />
         <mark key="]" line="219" column="49" />
         <mark key="." line="219" column="49" />
@@ -225,6 +231,12 @@
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" timestamp="1532130262232">
         <mark key="'" line="36" column="6" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532629165857">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -317,7 +329,7 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1529108263439">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1532629427258">
         <mark key="'" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526690608956">
@@ -476,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="4" filename="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="52" column="4" filename="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="53" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="95" column="20" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
@@ -576,10 +587,11 @@
       <jump line="333" column="5" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="358" column="13" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="329" column="15" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="20" column="34" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuUnVuCg==</text>
+      <register name="&quot;" type="4">
+        <text>val geodeSpec: GeodeSpec</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -590,52 +602,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>val geodeSpec: GeodeSpec</text>
       </register>
       <register name="/" type="4">
-        <text>localDevUp</text>
+        <text>DOCKER_COMP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdlb2RlU3R1YiA9IEdlb2RlU2VydmljZUdycGMubmV3U3R1YihncnBjU2VydmVyUnVsZS5nZXRDaGFubmVsKCkpOwogICAgZ2VvZGVGdXR1cmVTdHViID0gR2VvZGVTZXJ2aWNlR3JwYy5uZXdGdXR1cmVTdHViKGdycGNTZXJ2ZXJSdWxlLmdldENoYW5uZWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuUnVuCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW5SbnUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuZHluYW1vZGJ2Mi5tb2RlbC5Qcm92aXNpb25lZFRocm91Z2hwdXQK</text>
+        <text encoding="base64">ICAgIHZhbCB0d3J0ID0gVGlsZVdyaXRlclJhbmdlVGVzdChnZW9kZVNwZWMpCiAgICB0d3J0LnJ1bigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBnZW9kZVNwZWMgPSBHZW9kZVNwZWMoInN0YWdpbmciLCAiM3NjYW4tc2xhYiIsICJzdGFnaW5nIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4udGVzdGluZy5UZXN0QXNzZXJ0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuUnVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZ2VvZGUuc3RvcmFnZS5HZW9kZVN0b3JhZ2VUZXN0QmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW5SbnUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZ2VvZGUuc3RvcmFnZS5HZW9kZVNwZWNUZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuZHluYW1vZGJ2Mi5tb2RlbC5Qcm92aXNpb25lZFRocm91Z2hwdXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnV0LmhhbmRsZShyZXN1bHQsIGV4Yy0+IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEdlb2RlU2VydmljZUltcGwuaW5pdGlhbGl6ZUZyb21TcGVjKGZlYXR1cmVzLCBnZW9kZVNwZWMsIFByb3Zpc2lvbmVkVGhyb3VnaHB1dCgxMEwsIDEwTCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4udGVzdGluZy5UZXN0QXNzZXJ0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>localDevUp</last-search>
+      <last-search>DOCKER_COMP</last-search>
       <last-offset />
-      <last-pattern>localDevUp</last-pattern>
+      <last-pattern>DOCKER_COMP</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -643,7 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>purge</entry>
         <entry>delete</entry>
         <entry>prugeTest</entry>
         <entry>purgeTest</entry>
@@ -663,6 +674,7 @@
         <entry>%d</entry>
         <entry>zoomSerializer</entry>
         <entry>localDevUp</entry>
+        <entry>DOCKER_COMP</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
