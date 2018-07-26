@@ -217,7 +217,7 @@
       <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
         <mark key="'" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532564243550">
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532565811605">
         <mark key="'" line="74" column="72" />
         <mark key="[" line="34" column="69" />
         <mark key="]" line="72" column="21" />
@@ -386,12 +386,12 @@
         <mark key="." line="31" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532380031446">
-        <mark key="'" line="181" column="54" />
-        <mark key="[" line="181" column="41" />
-        <mark key="]" line="181" column="41" />
-        <mark key="." line="181" column="41" />
-        <mark key="^" line="178" column="8" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532565962328">
+        <mark key="'" line="110" column="6" />
+        <mark key="[" line="192" column="42" />
+        <mark key="]" line="192" column="46" />
+        <mark key="." line="192" column="46" />
+        <mark key="^" line="192" column="46" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceImageDiskStore.kt" timestamp="1527036203521">
         <mark key="[" line="21" column="53" />
@@ -479,10 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
-      <jump line="303" column="1" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
-      <jump line="46" column="46" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="13" column="66" filename="$USER_HOME$/kesm/src/test/java/net/threescan/runtime/MetricsCaptureTest.java" />
       <jump line="12" column="59" filename="$USER_HOME$/kesm/src/test/java/net/threescan/runtime/MetricsCaptureTest.java" />
       <jump line="73" column="47" filename="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="55" column="4" filename="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
@@ -579,10 +575,14 @@
       <jump line="213" column="48" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="0" column="2" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="124" column="48" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="120" column="29" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="192" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="57" column="59" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="110" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>levevel</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -593,10 +593,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>levevel</text>
       </register>
       <register name="/" type="4">
-        <text>stub</text>
+        <text>zoomSerializer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdlb2RlU3R1YiA9IEdlb2RlU2VydmljZUdycGMubmV3U3R1YihncnBjU2VydmVyUnVsZS5nZXRDaGFubmVsKCkpOwogICAgZ2VvZGVGdXR1cmVTdHViID0gR2VvZGVTZXJ2aWNlR3JwYy5uZXdGdXR1cmVTdHViKGdycGNTZXJ2ZXJSdWxlLmdldENoYW5uZWwoKSk7Cg==</text>
@@ -636,9 +636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stub</last-search>
+      <last-search>zoomSerializer</last-search>
       <last-offset />
-      <last-pattern>stub</last-pattern>
+      <last-pattern>zoomSerializer</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -646,9 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getValye</entry>
-        <entry>Dynamo</entry>
-        <entry>access_key</entry>
         <entry>@Before</entry>
         <entry>purge</entry>
         <entry>delete</entry>
@@ -666,6 +663,9 @@
         <entry>jdk</entry>
         <entry>AwsStorage</entry>
         <entry>stub</entry>
+        <entry>logger</entry>
+        <entry>%d</entry>
+        <entry>zoomSerializer</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
