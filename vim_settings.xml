@@ -395,12 +395,12 @@
         <mark key="." line="31" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532631649532">
-        <mark key="'" line="111" column="6" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532643104678">
+        <mark key="'" line="210" column="18" />
         <mark key="[" line="64" column="40" />
-        <mark key="]" line="64" column="31" />
-        <mark key="." line="64" column="31" />
-        <mark key="^" line="64" column="31" />
+        <mark key="]" line="207" column="37" />
+        <mark key="." line="207" column="37" />
+        <mark key="^" line="207" column="37" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceImageDiskStore.kt" timestamp="1527036203521">
         <mark key="[" line="21" column="53" />
@@ -488,8 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="53" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="95" column="20" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="99" column="12" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="206" column="18" filename="$USER_HOME$/kesm/build.gradle" />
@@ -588,6 +586,8 @@
       <jump line="358" column="13" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="329" column="15" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="20" column="34" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="207" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="210" column="18" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -605,7 +605,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>DOCKER_COMP</text>
+        <text>thenCompose</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
@@ -645,9 +645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DOCKER_COMP</last-search>
+      <last-search>thenCompose</last-search>
       <last-offset />
-      <last-pattern>DOCKER_COMP</last-pattern>
+      <last-pattern>thenCompose</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -655,8 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
-        <entry>prugeTest</entry>
         <entry>purgeTest</entry>
         <entry>features</entry>
         <entry encoding="base64">XDxWb2lkXD4=</entry>
@@ -675,6 +673,8 @@
         <entry>zoomSerializer</entry>
         <entry>localDevUp</entry>
         <entry>DOCKER_COMP</entry>
+        <entry>writeSlice</entry>
+        <entry>thenCompose</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
