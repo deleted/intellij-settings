@@ -316,6 +316,7 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/transform/image/BufferedImageSlicer.java" timestamp="1532644979130" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" timestamp="1532125326671">
         <mark key="'" line="190" column="26" />
         <mark key="[" line="96" column="8" />
@@ -331,6 +332,9 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1532629427258">
         <mark key="'" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" timestamp="1532645069972">
+        <mark key="'" line="178" column="33" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526690608956">
         <mark key="[" line="123" column="18" />
@@ -395,8 +399,8 @@
         <mark key="." line="31" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532643104678">
-        <mark key="'" line="210" column="18" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532644462792">
+        <mark key="'" line="57" column="46" />
         <mark key="[" line="64" column="40" />
         <mark key="]" line="207" column="37" />
         <mark key="." line="207" column="37" />
@@ -488,8 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="20" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="99" column="12" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="206" column="18" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="179" column="18" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="134" column="45" filename="$USER_HOME$/kesm/build.gradle" />
@@ -578,7 +580,6 @@
       <jump line="0" column="2" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="120" column="29" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="192" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="57" column="59" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="110" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="124" column="48" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="330" column="15" filename="$USER_HOME$/kesm/build.gradle" />
@@ -588,6 +589,9 @@
       <jump line="20" column="34" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="207" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="210" column="18" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="57" column="46" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="66" column="30" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
+      <jump line="178" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -605,7 +609,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>thenCompose</text>
+        <text>writeAtomsAsync</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
@@ -645,9 +649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>thenCompose</last-search>
+      <last-search>writeAtomsAsync</last-search>
       <last-offset />
-      <last-pattern>thenCompose</last-pattern>
+      <last-pattern>writeAtomsAsync</last-pattern>
       <last-replace>isValid</last-replace>
       <last-substitute>doesNotContain</last-substitute>
       <last-dir>1</last-dir>
@@ -655,9 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>purgeTest</entry>
-        <entry>features</entry>
-        <entry encoding="base64">XDxWb2lkXD4=</entry>
         <entry>allOf</entry>
         <entry>geodeServiceImpl</entry>
         <entry>grpcServerRule</entry>
@@ -675,6 +676,9 @@
         <entry>DOCKER_COMP</entry>
         <entry>writeSlice</entry>
         <entry>thenCompose</entry>
+        <entry>zoomSerial</entry>
+        <entry>writeAtomsAsyn</entry>
+        <entry>writeAtomsAsync</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
