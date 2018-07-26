@@ -15,6 +15,7 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/inprocess/InProcessServerBuilder.java" timestamp="1532563556054" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="3" />
@@ -216,12 +217,12 @@
       <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
         <mark key="'" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532561607861">
-        <mark key="'" line="72" column="72" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="36" column="40" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532564243550">
+        <mark key="'" line="74" column="72" />
+        <mark key="[" line="34" column="69" />
+        <mark key="]" line="72" column="21" />
+        <mark key="." line="72" column="21" />
+        <mark key="^" line="72" column="21" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" timestamp="1532130262232">
         <mark key="'" line="36" column="6" />
@@ -580,8 +581,8 @@
       <jump line="124" column="48" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEdlb2RlU2VydmljZUltcGwuaW5pdGlhbGl6ZUZyb21TcGVjKGZlYXR1cmVzLCBnZW9kZVNwZWMsIFByb3Zpc2lvbmVkVGhyb3VnaHB1dCgxMEwsIDEwTCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -592,7 +593,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Collection</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>stub</text>
