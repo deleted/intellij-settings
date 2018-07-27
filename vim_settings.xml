@@ -459,6 +459,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1532718791977">
+        <mark key="'" line="211" column="21" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/ImageMetadataTest.java" timestamp="1524693181899">
         <mark key="[" line="16" column="111" />
         <mark key="]" line="4" column="50" />
@@ -512,15 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="33" column="38" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="54" column="81" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="63" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="65" column="53" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="71" column="56" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="73" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="79" column="8" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="80" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="85" column="8" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="86" column="67" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="29" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/ServerInterceptors.java" />
@@ -612,6 +606,15 @@
       <jump line="48" column="4" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/GoofyReceptionistTileWriterTest.java" />
       <jump line="12" column="40" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="128" column="26" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="37" column="4" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="38" column="37" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="54" column="6" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="207" column="31" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="208" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="209" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="210" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
+      <jump line="211" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -629,7 +632,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>FileSystem</text>
+        <text>grpc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVVSUQgem9vbTBVdWlkID0gc2xpY2VNZXRhZGF0YS5nZXRab29tQ3J5c3RhbHMoKS5nZXQoMCk7Cg==</text>
@@ -669,9 +672,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FileSystem</last-search>
+      <last-search>grpc</last-search>
       <last-offset />
-      <last-pattern>FileSystem</last-pattern>
+      <last-pattern>grpc</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -679,7 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grpcServerRule</entry>
         <entry>channel</entry>
         <entry>kotlin</entry>
         <entry>kotlin_v</entry>
@@ -699,6 +701,7 @@
         <entry>writeAtomsAsync</entry>
         <entry>0</entry>
         <entry>FileSystem</entry>
+        <entry>grpc</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
