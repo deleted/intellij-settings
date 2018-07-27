@@ -46,7 +46,7 @@
         <mark key="." line="94" column="33" />
         <mark key="^" line="94" column="33" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1532630335253">
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1532647577083">
         <mark key="[" line="63" column="21" />
         <mark key="]" line="63" column="28" />
         <mark key="^" line="63" column="28" />
@@ -351,6 +351,13 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/GoofyReceptionistTileWriterTest.java" timestamp="1532649322833">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="62" column="47" />
+        <mark key="]" line="62" column="47" />
+        <mark key="^" line="62" column="47" />
+        <mark key="." line="62" column="47" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1526327095971">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
@@ -488,7 +495,7 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1532570562285">
+      <file name="/fragment.java" timestamp="1532647828778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="0" />
@@ -496,8 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="18" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="179" column="18" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="134" column="45" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="45" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="27" column="17" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -596,10 +601,12 @@
       <jump line="57" column="46" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="66" column="30" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
       <jump line="178" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
+      <jump line="47" column="4" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/GoofyReceptionistTileWriterTest.java" />
+      <jump line="48" column="4" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/GoofyReceptionistTileWriterTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocmVsYXRpdmVQb2ludCkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -610,60 +617,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>writeAtomsAsync</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
+        <text encoding="base64">ICAgIFVVSUQgem9vbTBVdWlkID0gc2xpY2VNZXRhZGF0YS5nZXRab29tQ3J5c3RhbHMoKS5nZXQoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocmVsYXRpdmVQb2ludCkK</text>
+        <text encoding="base64">ICAgIFVVSUQgem9vbTFVdWlkID0gVXVpZFRlc3RVdGlscy5UV09fVVVJRDsKICAgIFVVSUQgem9vbTJVdWlkID0gVXVpZFRlc3RVdGlscy5USFJFRV9VVUlEOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocmVsYXRpdmVQb2ludCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQWxsIGZ1dHVyZXMgY29tcGxldGVkLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQWxsIGZ1dHVyZXMgY29tcGxldGVkLiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB0d3J0ID0gVGlsZVdyaXRlclJhbmdlVGVzdChnZW9kZVNwZWMpCiAgICB0d3J0LnJ1bigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZW9kZVNwZWMgPSBHZW9kZVNwZWMoInN0YWdpbmciLCAiM3NjYW4tc2xhYiIsICJzdGFnaW5nIikK</text>
+        <text encoding="base64">ICAgIHZhbCB0d3J0ID0gVGlsZVdyaXRlclJhbmdlVGVzdChnZW9kZVNwZWMpCiAgICB0d3J0LnJ1bigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuUnVuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBnZW9kZVNwZWMgPSBHZW9kZVNwZWMoInN0YWdpbmciLCAiM3NjYW4tc2xhYiIsICJzdGFnaW5nIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW5SbnUK</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuUnVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/0/2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>writeAtomsAsync</last-search>
+      <last-search>0</last-search>
       <last-offset />
-      <last-pattern>writeAtomsAsync</last-pattern>
-      <last-replace>isValid</last-replace>
-      <last-substitute>doesNotContain</last-substitute>
+      <last-pattern>0</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>allOf</entry>
         <entry>geodeServiceImpl</entry>
         <entry>grpcServerRule</entry>
         <entry>channel</entry>
@@ -683,10 +689,9 @@
         <entry>zoomSerial</entry>
         <entry>writeAtomsAsyn</entry>
         <entry>writeAtomsAsync</entry>
+        <entry>0</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>628</entry>
@@ -705,6 +710,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry>w</entry>
+        <entry>s/0/1/g</entry>
+        <entry>s/0/2/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
