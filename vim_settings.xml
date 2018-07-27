@@ -405,10 +405,11 @@
         <mark key="." line="27" column="46" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileWriterManager.java" timestamp="1532724398476">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileWriterManager.java" timestamp="1532726579000">
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="46" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1532719560888">
         <mark key="[" line="0" column="0" />
@@ -623,8 +624,8 @@
       <jump line="211" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>handle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJlcXVlc3RRdWV1ZS5yZW1vdmUocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -635,7 +636,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>handle</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>grpc</text>
@@ -644,34 +645,34 @@
         <text encoding="base64">ICAgIFVVSUQgem9vbTBVdWlkID0gc2xpY2VNZXRhZGF0YS5nZXRab29tQ3J5c3RhbHMoKS5nZXQoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJlcXVlc3RRdWV1ZS5yZW1vdmUocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBlcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlcXVlc3RRdWV1ZS5wdXQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkFycmF5QmxvY2tpbmdRdWV1ZTsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkJsb2NraW5nUXVldWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbGVXcml0ZXI9dGlsZVdyaXRlcjsKICAgICAgICB0aGlzLnRpbGVSZXF1ZXN0UXVldWUgPSBuZXcgQmxvCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlcXVlc3RRdWV1ZSA9IG5ldyBBcnJheUJsb2NraW5nUXVldWU8PihxdWV1ZVNpemUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVVSUQgem9vbTFVdWlkID0gVXVpZFRlc3RVdGlscy5UV09fVVVJRDsKICAgIFVVSUQgem9vbTJVdWlkID0gVXVpZFRlc3RVdGlscy5USFJFRV9VVUlEOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQmxvY2tpbmdRdWV1ZTxSZWNlcHRpb25pc3RUaWxlV3JpdGVyLlRpbGVSZXF1ZXN0PiByZXF1ZXN0UXVldWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocmVsYXRpdmVQb2ludCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBlcnJvcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQWxsIGZ1dHVyZXMgY29tcGxldGVkLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>s/0/2/g</text>
