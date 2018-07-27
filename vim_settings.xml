@@ -405,11 +405,10 @@
         <mark key="." line="27" column="46" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileWriterManager.java" timestamp="1532722697938">
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileWriterManager.java" timestamp="1532724398476">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1532719560888">
         <mark key="[" line="0" column="0" />
@@ -465,6 +464,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532724064218" />
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1532718791977">
         <mark key="'" line="211" column="21" />
       </file>
@@ -624,7 +624,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>InterruptedException</text>
+        <text>handle</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -635,7 +635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InterruptedException</text>
+        <text>handle</text>
       </register>
       <register name="/" type="4">
         <text>grpc</text>
@@ -644,34 +644,34 @@
         <text encoding="base64">ICAgIFVVSUQgem9vbTBVdWlkID0gc2xpY2VNZXRhZGF0YS5nZXRab29tQ3J5c3RhbHMoKS5nZXQoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbGVXcml0ZXI9dGlsZVdyaXRlcjsKICAgICAgICB0aGlzLnRpbGVSZXF1ZXN0UXVldWUgPSBuZXcgQmxvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBlcnJvcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVVSUQgem9vbTFVdWlkID0gVXVpZFRlc3RVdGlscy5UV09fVVVJRDsKICAgIFVVSUQgem9vbTJVdWlkID0gVXVpZFRlc3RVdGlscy5USFJFRV9VVUlEOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocmVsYXRpdmVQb2ludCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbGVXcml0ZXI9dGlsZVdyaXRlcjsKICAgICAgICB0aGlzLnRpbGVSZXF1ZXN0UXVldWUgPSBuZXcgQmxvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQWxsIGZ1dHVyZXMgY29tcGxldGVkLiIpCg==</text>
+        <text encoding="base64">ICAgIFVVSUQgem9vbTFVdWlkID0gVXVpZFRlc3RVdGlscy5UV09fVVVJRDsKICAgIFVVSUQgem9vbTJVdWlkID0gVXVpZFRlc3RVdGlscy5USFJFRV9VVUlEOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ2VvZGVTcGVjID0gR2VvZGVTcGVjKCJzdGFnaW5nIiwgIjNzY2FuLXNsYWIiLCAic3RhZ2luZyIpCg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8ocmVsYXRpdmVQb2ludCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB0d3J0ID0gVGlsZVdyaXRlclJhbmdlVGVzdChnZW9kZVNwZWMpCiAgICB0d3J0LnJ1bigpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiQWxsIGZ1dHVyZXMgY29tcGxldGVkLiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/0/2/g</text>
