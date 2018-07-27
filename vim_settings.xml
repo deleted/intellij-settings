@@ -178,7 +178,6 @@
       <file name="/fragment.kt" timestamp="1532554228089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/mongo/images.py" timestamp="1532650109606" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterDaemonTest.kt" timestamp="1528154363956">
         <mark key="[" line="22" column="72" />
         <mark key="]" line="22" column="71" />
@@ -257,7 +256,6 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1532715240446" />
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1528332012920">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -419,7 +417,6 @@
         <mark key="." line="207" column="37" />
         <mark key="^" line="207" column="37" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/receptionist_support.py" timestamp="1532650063862" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceImageDiskStore.kt" timestamp="1527036203521">
         <mark key="[" line="21" column="53" />
         <mark key="]" line="28" column="0" />
@@ -498,6 +495,9 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1532717182130">
+        <mark key="'" line="128" column="26" />
+      </file>
       <file name="/fragment.java" timestamp="1532647828778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -506,8 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="45" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="45" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="27" column="17" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="33" column="38" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="54" column="81" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -606,6 +604,8 @@
       <jump line="178" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" />
       <jump line="47" column="4" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/GoofyReceptionistTileWriterTest.java" />
       <jump line="48" column="4" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/GoofyReceptionistTileWriterTest.java" />
+      <jump line="12" column="40" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="128" column="26" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -623,7 +623,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>FileSystem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVVSUQgem9vbTBVdWlkID0gc2xpY2VNZXRhZGF0YS5nZXRab29tQ3J5c3RhbHMoKS5nZXQoMCk7Cg==</text>
@@ -663,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>FileSystem</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
+      <last-pattern>FileSystem</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geodeServiceImpl</entry>
         <entry>grpcServerRule</entry>
         <entry>channel</entry>
         <entry>kotlin</entry>
@@ -693,6 +692,7 @@
         <entry>writeAtomsAsyn</entry>
         <entry>writeAtomsAsync</entry>
         <entry>0</entry>
+        <entry>FileSystem</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
