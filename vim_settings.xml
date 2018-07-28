@@ -52,11 +52,11 @@
         <mark key="^" line="63" column="28" />
         <mark key="." line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1532738878250">
-        <mark key="[" line="24" column="64" />
-        <mark key="]" line="24" column="64" />
-        <mark key="." line="24" column="64" />
-        <mark key="^" line="24" column="64" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1532740393279">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -83,10 +83,10 @@
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532739516566">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="39" />
-        <mark key="." line="37" column="39" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532739919165">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
         <mark key="[" line="96" column="16" />
@@ -657,7 +657,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>private</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -668,7 +668,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>future</text>
@@ -677,34 +677,34 @@
         <text encoding="base64">ICAgIFVVSUQgem9vbTBVdWlkID0gc2xpY2VNZXRhZGF0YS5nZXRab29tQ3J5c3RhbHMoKS5nZXQoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdXR1cmUuY29tcGxldGUobnVsbCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVxdWVzdFNldC5zdHJlYW0oKS5tYXAodCAtPiB0LmdldEJsb2JJZCgpLnRvU3RyaW5nKCkpKQogICAgICAgIC5jb250YWluc09ubHkodGVzdFJlY29yZDEuZ2V0SWQoKSwgdGVzdFJlY29yZDIuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNldDxUaWxlUmVxdWVzdD4gcmVxdWVzdFNldCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgIHF1ZXVlLmRyYWluVG8ocmVxdWVzdFNldCk7CiAgICBhc3NlcnRUaGF0KHJlcXVlc3RTZXQpLmhhc1NpemUoMik7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVxdWVzdFNldC5zdHJlYW0oKS5tYXAodCAtPiB0LmdldEJsb2JJZCgpLnRvU3RyaW5nKCkpKQogICAgICAgIC5jb250YWluc09ubHkodGVzdFJlY29yZDEuZ2V0SWQoKSwgdGVzdFJlY29yZDIuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNldDxUaWxlUmVxdWVzdD4gcmVxdWVzdFNldCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgIHF1ZXVlLmRyYWluVG8ocmVxdWVzdFNldCk7CiAgICBhc3NlcnRUaGF0KHJlcXVlc3RTZXQpLmhhc1NpemUoMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICBwdWJsaWMgaW50IGdldE51bWJlck9mUmVzZXJ2YXRpb25zKCkgewogICAgcmV0dXJuIHRoaXMucmVzZXJ2YXRpb25TZXQuc2l6ZSgpOwogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFycmF5QmxvY2tpbmdRdWV1ZTxSZWNlcHRpb25pc3RUaWxlV3JpdGVyLlRpbGVSZXF1ZXN0PiBxdWV1ZSA9IG5ldyBBcnJheUJsb2NraW5nUXVldWU8PigyKTsK</text>
+        <text encoding="base64">ICAKICBwdWJsaWMgaW50IGdldE51bWJlck9mUmVzZXJ2YXRpb25zKCkgewogICAgcmV0dXJuIHRoaXMucmVzZXJ2YXRpb25TZXQuc2l6ZSgpOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBPYmplY3QgTW9ja2l0byA9IDsK</text>
+        <text encoding="base64">ICAgIEFycmF5QmxvY2tpbmdRdWV1ZTxSZWNlcHRpb25pc3RUaWxlV3JpdGVyLlRpbGVSZXF1ZXN0PiBxdWV1ZSA9IG5ldyBBcnJheUJsb2NraW5nUXVldWU8PigyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBPYmplY3QgTW9ja2l0byA9IDsK</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
