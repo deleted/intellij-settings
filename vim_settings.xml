@@ -131,11 +131,11 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1532740890028">
-        <mark key="[" line="43" column="94" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="32" />
-        <mark key="." line="43" column="29" />
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1532741698414">
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="44" column="50" />
+        <mark key="^" line="44" column="50" />
+        <mark key="." line="44" column="50" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
@@ -462,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -473,7 +473,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lf</text>
