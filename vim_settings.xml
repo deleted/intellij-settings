@@ -52,11 +52,12 @@
         <mark key="^" line="63" column="28" />
         <mark key="." line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1532745266225">
-        <mark key="[" line="60" column="26" />
-        <mark key="]" line="60" column="18" />
-        <mark key="." line="60" column="18" />
-        <mark key="^" line="60" column="18" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1532976197439">
+        <mark key="'" line="109" column="42" />
+        <mark key="[" line="122" column="66" />
+        <mark key="]" line="122" column="66" />
+        <mark key="." line="122" column="66" />
+        <mark key="^" line="125" column="6" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
@@ -83,11 +84,11 @@
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532975076169">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
-        <mark key="^" line="35" column="8" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532976341117">
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="82" column="22" />
+        <mark key="." line="82" column="22" />
+        <mark key="^" line="82" column="24" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
         <mark key="[" line="96" column="16" />
@@ -533,7 +534,7 @@
         <mark key="^" line="136" column="0" />
         <mark key="." line="102" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1532975182597">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1532976413698">
         <mark key="[" line="140" column="46" />
         <mark key="]" line="140" column="46" />
         <mark key="^" line="140" column="53" />
@@ -554,12 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/Enforce.java" />
-      <jump line="496" column="24" filename="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/Enforce.java" />
-      <jump line="514" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/Enforce.java" />
-      <jump line="19" column="54" filename="$USER_HOME$/kesm/src/test/java/net/threescan/enforcement/EnforceUuidTest.java" />
-      <jump line="322" column="0" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="357" column="13" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="320" column="15" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="332" column="5" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="328" column="17" filename="$USER_HOME$/kesm/build.gradle" />
@@ -654,10 +649,16 @@
       <jump line="108" column="28" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="109" column="4" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="110" column="89" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
+      <jump line="20" column="45" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
+      <jump line="30" column="42" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
+      <jump line="35" column="14" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
+      <jump line="40" column="34" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
+      <jump line="68" column="45" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
+      <jump line="89" column="42" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testExceptoinalSubmit</text>
+        <text>b</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -668,52 +669,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testExceptoinalSubmit</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>future</text>
+        <text>Exception</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTdWJtaXQoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDApOwoKICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+IHRpbGVXcml0ZUNvbXBsZXRlID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlPD4oKTsKICAgIE1vY2tpdG8ud2hlbihtb2NrVGlsZVdyaXRlci53cml0ZVRpbGVzKE1vY2tpdG8uYW55KFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuVGlsZVJlcXVlc3QuY2xhc3MpKSkKICAgICAgICAudGhlblJldHVybih0aWxlV3JpdGVDb21wbGV0ZSk7CgogICAgVGlsZVJlcXVlc3RNYW5hZ2VyLlJlc2VydmF0aW9uIHJlc2VydmF0aW9uID0gdGlsZVJlcXVlc3RNYW5hZ2VyLmdldFJlc2VydmF0aW9uKDgwMDApOwogICAgUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5UaWxlUmVxdWVzdCBtb2NrVGlsZVJlcXVlc3QgPQogICAgICAgIE1vY2tpdG8ubW9jayhSZWNlcHRpb25pc3RUaWxlV3JpdGVyLlRpbGVSZXF1ZXN0LmNsYXNzKTsKCiAgICBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBzdWJtaXRDb21wbGV0ZSA9CiAgICAgICAgdGlsZVJlcXVlc3RNYW5hZ2VyCiAgICAgICAgICAgIC5zdWJtaXQocmVzZXJ2YXRpb24sIG1vY2tUaWxlUmVxdWVzdCkKICAgICAgICAgICAgLnRoZW5SdW4oCiAgICAgICAgICAgICAgICAoKSAtPiB7CiAgICAgICAgICAgICAgICAgIGFzc2VydEZhbHNlKHRpbGVSZXF1ZXN0TWFuYWdlci5yZXNlcnZhdGlvblNldC5jb250YWlucyhyZXNlcnZhdGlvbikpOwogICAgICAgICAgICAgICAgICBNb2NraXRvLnZlcmlmeShtb2NrVGlsZVdyaXRlcikud3JpdGVUaWxlcyhNb2NraXRvLmVxKG1vY2tUaWxlUmVxdWVzdCkpOwogICAgICAgICAgICAgICAgfSk7CiAgICBhc3NlcnRUaGF0KHRpbGVSZXF1ZXN0TWFuYWdlci5yZXNlcnZhdGlvblNldC5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgIHRpbGVXcml0ZUNvbXBsZXRlLmNvbXBsZXRlKG51bGwpOwogICAgc3VibWl0Q29tcGxldGUuam9pbigpOwogICAgYXNzZXJ0VGhhdCh0aWxlUmVxdWVzdE1hbmFnZXIucmVzZXJ2YXRpb25TZXQuc2l6ZSgpKS5pc0VxdWFsVG8oMCk7CiAgfQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNsYXNzIFRvb01hbnlSZXNlcnZhdGlvbnMgZXh0ZW5kcyBFeGNlcHRpb24gewogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gNjY2TDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBFbnN1cmUgcmVzZXJ2YXRpb25zIGFyZSBhbGxvY2F0ZWQgb3VyIHJlamVjdGVkIGFwcHJvcHJpYXRlbHkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdENvbXBsZXRlLmpvaW4oKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN1Ym1pdENvbXBsZXRlLmpvaW4oKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1dHVyZTIuam9pbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZ1dHVyZTIuam9pbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1vY2tpdG8ud2hlbihtb2NrVGlsZVdyaXRlci53cml0ZVRpbGVzKG1vY2tUaWxlUmVxdWVzdDIpKS50aGVuVGhyb3codGlsZVdyaXRlQ29tcGxldGUyKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGVycm9yICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHQuY29tcGxldGVFeGNlcHRpb25hbGx5KGVycm9yKTsKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICByZXN1bHQuY29tcGxldGUobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8ud2hlbihtb2NrVGlsZVdyaXRlci53cml0ZVRpbGVzKG1vY2tUaWxlUmVxdWVzdDIpKS50aGVuVGhyb3codGlsZVdyaXRlQ29tcGxldGUyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+IHJlc3VsdCA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGVycm9yICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHQuY29tcGxldGVFeGNlcHRpb25hbGx5KGVycm9yKTsKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICByZXN1bHQuY29tcGxldGUobnVsbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+IHJlc3VsdCA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>future</last-search>
+      <last-search>Exception</last-search>
       <last-offset />
-      <last-pattern>future</last-pattern>
+      <last-pattern>Exception</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -721,7 +722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jdk</entry>
         <entry>AwsStorage</entry>
         <entry>stub</entry>
         <entry>logger</entry>
@@ -741,6 +741,7 @@
         <entry>Mockito</entry>
         <entry>manager</entry>
         <entry>future</entry>
+        <entry>Exception</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/f/g</entry>
