@@ -9,29 +9,11 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/bin/test/net/threescan/acquisition/receptionist/nspi/img/tiny_color_img.nsp.json" timestamp="1525906249446">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="3" />
         <mark key="^" line="59" column="33" />
         <mark key="." line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" timestamp="1526504143666">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="30" column="41" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/KesmSliceMetadata.kt" timestamp="1525388123381">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tools/SingleCrystalCommand.java" timestamp="1525213781620">
         <mark key="[" line="36" column="62" />
@@ -39,56 +21,17 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1528307421327">
-        <mark key="'" line="10" column="27" />
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="94" column="33" />
-        <mark key="." line="94" column="33" />
-        <mark key="^" line="94" column="33" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1532647577083">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="63" column="28" />
-        <mark key="^" line="63" column="28" />
-        <mark key="." line="63" column="28" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1532976197439">
-        <mark key="'" line="109" column="42" />
-        <mark key="[" line="122" column="66" />
-        <mark key="]" line="122" column="66" />
-        <mark key="." line="122" column="66" />
-        <mark key="^" line="125" column="6" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1532977505970">
+        <mark key="'" line="114" column="23" />
+        <mark key="[" line="168" column="14" />
+        <mark key="]" line="168" column="15" />
+        <mark key="." line="168" column="15" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/experimental/acq/generate_nsp_test_image.py" timestamp="1524869114046">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="18" />
         <mark key="^" line="44" column="24" />
         <mark key="." line="45" column="18" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531344058860">
-        <mark key="'" line="95" column="20" />
-        <mark key="[" line="137" column="25" />
-        <mark key="]" line="137" column="25" />
-        <mark key="." line="137" column="25" />
-        <mark key="^" line="122" column="37" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532554929788">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="14" />
-        <mark key="^" line="38" column="14" />
-        <mark key="." line="38" column="14" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="30" column="67" />
-        <mark key="^" line="30" column="67" />
-        <mark key="." line="30" column="67" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532976341117">
-        <mark key="[" line="84" column="32" />
-        <mark key="]" line="82" column="22" />
-        <mark key="." line="82" column="22" />
-        <mark key="^" line="82" column="24" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
         <mark key="[" line="96" column="16" />
@@ -120,19 +63,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1531344190140">
-        <mark key="'" line="79" column="35" />
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="68" column="33" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
-        <mark key="[" line="115" column="60" />
-        <mark key="]" line="115" column="52" />
-        <mark key="^" line="115" column="14" />
-        <mark key="." line="115" column="52" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSeverTest.kt" timestamp="1528327103158">
         <mark key="[" line="40" column="65" />
         <mark key="]" line="40" column="63" />
@@ -145,35 +75,12 @@
         <mark key="^" line="8" column="49" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/sines.java" timestamp="1528956703478">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1531358206072">
         <mark key="'" line="60" column="68" />
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="16" />
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1528238606655">
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="20" column="57" />
-        <mark key="." line="20" column="57" />
-        <mark key="^" line="20" column="56" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfKt.kt" timestamp="1532559991919">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="31" column="44" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfB.kt" timestamp="1532546906171">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1532732164958">
         <mark key="'" line="154" column="24" />
@@ -218,12 +125,6 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreRecordTest.kt" timestamp="1527286262979">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="15" />
-        <mark key="." line="36" column="15" />
-        <mark key="^" line="36" column="15" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/runtime/MetricsCaptureTest.java" timestamp="1531346878283">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -235,30 +136,11 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
-        <mark key="'" line="52" column="4" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532570452044">
-        <mark key="'" line="74" column="72" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="74" column="51" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" timestamp="1532130262232">
         <mark key="'" line="36" column="6" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532631260889">
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="80" column="15" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" timestamp="1532977458173">
+        <mark key="'" line="155" column="18" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1528247275049">
         <mark key="'" line="105" column="36" />
@@ -291,52 +173,17 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1531346801917">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="^" line="238" column="12" />
-        <mark key="." line="269" column="0" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceDiskStore.kt" timestamp="1527183142547">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
       <file name="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" timestamp="1529536332215">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="44" column="17" />
         <mark key="." line="44" column="17" />
         <mark key="^" line="44" column="17" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/ServerInterceptors.java" timestamp="1531359511463">
-        <mark key="'" line="66" column="11" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1532467744983">
-        <mark key="'" line="166" column="9" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="42" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/common/KesmSliceMetadataTest.java" timestamp="1528154399133">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="98" column="62" />
         <mark key="^" line="98" column="62" />
         <mark key="." line="98" column="62" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1528419922894">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/transform/image/BufferedImageSlicer.java" timestamp="1532645637503">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" timestamp="1532125326671">
         <mark key="'" line="190" column="26" />
@@ -351,16 +198,8 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1532629427258">
-        <mark key="'" line="21" column="26" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" timestamp="1532645069972">
         <mark key="'" line="178" column="33" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526690608956">
-        <mark key="[" line="123" column="18" />
-        <mark key="]" line="123" column="18" />
-        <mark key="." line="123" column="18" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1530666256831">
         <mark key="[" line="9" column="22" />
@@ -368,18 +207,236 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1526327095971">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="154" column="3" />
+        <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_gray_img.nsp.json" timestamp="1528155341077">
+        <mark key="'" line="2" column="48" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceImageDiskStore.kt" timestamp="1527036203521">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/docker_deps.yml" timestamp="1525458652596">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1532718791977">
+        <mark key="'" line="211" column="21" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecoderTest.java" timestamp="1522367194767">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1528157514416">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="48" column="68" />
+        <mark key="]" line="48" column="65" />
+        <mark key="." line="48" column="65" />
+        <mark key="^" line="48" column="65" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1528315949761">
+        <mark key="'" line="52" column="35" />
+        <mark key="[" line="102" column="19" />
+        <mark key="]" line="102" column="19" />
+        <mark key="^" line="136" column="0" />
+        <mark key="." line="102" column="19" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1532738851038">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="109" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/bin/test/net/threescan/acquisition/receptionist/nspi/img/tiny_color_img.nsp.json" timestamp="1525906249446">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterThread.kt" timestamp="1526504143666">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="30" column="41" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/KesmSliceMetadata.kt" timestamp="1525388123381">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="14" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1528307421327">
+        <mark key="'" line="10" column="27" />
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="94" column="33" />
+        <mark key="^" line="94" column="33" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1532647577083">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="28" />
+        <mark key="^" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531344058860">
+        <mark key="'" line="95" column="20" />
+        <mark key="[" line="137" column="25" />
+        <mark key="]" line="137" column="25" />
+        <mark key="." line="137" column="25" />
+        <mark key="^" line="122" column="37" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/Wtf.java" timestamp="1532554929788">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="14" />
+        <mark key="^" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="30" column="67" />
+        <mark key="^" line="30" column="67" />
+        <mark key="." line="30" column="67" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532976341117">
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="82" column="22" />
+        <mark key="." line="82" column="22" />
+        <mark key="^" line="82" column="24" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1531344190140">
+        <mark key="'" line="79" column="35" />
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="68" column="33" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
+        <mark key="[" line="115" column="60" />
+        <mark key="]" line="115" column="52" />
+        <mark key="^" line="115" column="14" />
+        <mark key="." line="115" column="52" />
+      </file>
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/sines.java" timestamp="1528956703478">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1528238606655">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="56" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfKt.kt" timestamp="1532559991919">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/WtfB.kt" timestamp="1532546906171">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/KesmSliceStoreRecordTest.kt" timestamp="1527286262979">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1531343994130">
+        <mark key="'" line="52" column="4" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532570452044">
+        <mark key="'" line="74" column="72" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="74" column="51" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532631260889">
+        <mark key="[" line="79" column="20" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="80" column="15" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/ImageMetadata.java" timestamp="1524697749682">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1531346801917">
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="^" line="238" column="12" />
+        <mark key="." line="269" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceDiskStore.kt" timestamp="1527183142547">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/ServerInterceptors.java" timestamp="1531359511463">
+        <mark key="'" line="66" column="11" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1532467744983">
+        <mark key="'" line="166" column="9" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/_IngestOneImage.java" timestamp="1524606609851">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="42" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1528419922894">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/transform/image/BufferedImageSlicer.java" timestamp="1532645637503">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1532629427258">
+        <mark key="'" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526690608956">
+        <mark key="[" line="123" column="18" />
+        <mark key="]" line="123" column="18" />
+        <mark key="." line="123" column="18" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/GoofyReceptionistTileWriterTest.java" timestamp="1532649322833">
         <mark key="'" line="48" column="4" />
         <mark key="[" line="62" column="47" />
         <mark key="]" line="62" column="47" />
         <mark key="^" line="62" column="47" />
         <mark key="." line="62" column="47" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1526327095971">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="154" column="3" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1528332727709">
         <mark key="'" line="863" column="14" />
@@ -390,25 +447,13 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiBufferedImageOutputStreamTest.java" timestamp="1521930598056">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="35" />
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_gray_img.nsp.json" timestamp="1528155341077">
-        <mark key="'" line="2" column="48" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/common/concurrent/Futures.java" timestamp="1532977677887" />
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1532739413522">
         <mark key="'" line="110" column="89" />
         <mark key="[" line="137" column="68" />
@@ -453,23 +498,11 @@
         <mark key="." line="207" column="37" />
         <mark key="^" line="207" column="37" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceImageDiskStore.kt" timestamp="1527036203521">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="7" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestHelper.kt" timestamp="1525392996259">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/docker_deps.yml" timestamp="1525458652596">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="31" column="21" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/resources/net/threescan/acquisition/receptionist/nspi/img/tiny_color_img.nsp.json" timestamp="1528155398058">
         <mark key="'" line="2" column="48" />
@@ -489,9 +522,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1532718791977">
-        <mark key="'" line="211" column="21" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/ImageMetadataTest.java" timestamp="1524693181899">
         <mark key="[" line="16" column="111" />
         <mark key="]" line="4" column="50" />
@@ -504,19 +534,6 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecoderTest.java" timestamp="1522367194767">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1528157514416">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="48" column="68" />
-        <mark key="]" line="48" column="65" />
-        <mark key="." line="48" column="65" />
-        <mark key="^" line="48" column="65" />
-      </file>
       <file name="$USER_HOME$/kesm/bin/test/global-flags.properties" timestamp="1532125075376">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -526,13 +543,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1528315949761">
-        <mark key="'" line="52" column="35" />
-        <mark key="[" line="102" column="19" />
-        <mark key="]" line="102" column="19" />
-        <mark key="^" line="136" column="0" />
-        <mark key="." line="102" column="19" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1532976413698">
         <mark key="[" line="140" column="46" />
@@ -546,19 +556,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1532738851038">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="109" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="15" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="332" column="5" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="328" column="17" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="225" column="4" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="305" column="25" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="341" column="91" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="313" column="50" filename="$USER_HOME$/kesm/build.gradle" />
@@ -655,10 +654,14 @@
       <jump line="40" column="34" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="68" column="45" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="89" column="42" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
+      <jump line="24" column="6" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
+      <jump line="148" column="18" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
+      <jump line="155" column="18" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
+      <jump line="114" column="23" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -669,52 +672,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Exception</text>
+        <text>CheckedJoin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNsYXNzIFRvb01hbnlSZXNlcnZhdGlvbnMgZXh0ZW5kcyBFeGNlcHRpb24gewogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gNjY2TDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBFbnN1cmUgcmVzZXJ2YXRpb25zIGFyZSBhbGxvY2F0ZWQgb3VyIHJlamVjdGVkIGFwcHJvcHJpYXRlbHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmdXR1cmUyLmpvaW4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Ym1pdENvbXBsZXRlLmpvaW4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdENvbXBsZXRlLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1dHVyZTIuam9pbigpOwo=</text>
+        <text encoding="base64">ICAgKiBFbnN1cmUgcmVzZXJ2YXRpb25zIGFyZSBhbGxvY2F0ZWQgb3VyIHJlamVjdGVkIGFwcHJvcHJpYXRlbHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1vY2tpdG8ud2hlbihtb2NrVGlsZVdyaXRlci53cml0ZVRpbGVzKG1vY2tUaWxlUmVxdWVzdDIpKS50aGVuVGhyb3codGlsZVdyaXRlQ29tcGxldGUyKTsK</text>
+        <text encoding="base64">ICAgIHN1Ym1pdENvbXBsZXRlLmpvaW4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGVycm9yICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHQuY29tcGxldGVFeGNlcHRpb25hbGx5KGVycm9yKTsKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICByZXN1bHQuY29tcGxldGUobnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+IHJlc3VsdCA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIGZ1dHVyZTIuam9pbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Exception</last-search>
+      <last-search>CheckedJoin</last-search>
       <last-offset />
-      <last-pattern>Exception</last-pattern>
+      <last-pattern>CheckedJoin</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -722,7 +725,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AwsStorage</entry>
         <entry>stub</entry>
         <entry>logger</entry>
         <entry>%d</entry>
@@ -742,6 +744,7 @@
         <entry>manager</entry>
         <entry>future</entry>
         <entry>Exception</entry>
+        <entry>CheckedJoin</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/f/g</entry>
