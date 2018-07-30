@@ -62,6 +62,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/devops/ansible/roles/aws_ecr_login/defaults/main.yml" timestamp="1532993866068" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSeverTest.kt" timestamp="1528327103158">
         <mark key="[" line="40" column="65" />
         <mark key="]" line="40" column="63" />
@@ -258,6 +259,7 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/kesm2/devops/ansible/roles/ts_service/tasks/main.yml" timestamp="1532993724479" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1528157514416">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="48" column="68" />
@@ -501,6 +503,7 @@
         <mark key="." line="207" column="37" />
         <mark key="^" line="207" column="37" />
       </file>
+      <file name="$USER_HOME$/kesm2/devops/ansible/roles/aws_ecr_login/tasks/main.yml" timestamp="1532993754014" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestHelper.kt" timestamp="1525392996259">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
