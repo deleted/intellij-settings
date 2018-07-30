@@ -242,7 +242,8 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532987730958">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1532990417681">
+        <mark key="'" line="185" column="42" />
         <mark key="[" line="174" column="34" />
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
@@ -554,8 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="25" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="341" column="91" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="313" column="50" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="314" column="44" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="315" column="45" filename="$USER_HOME$/kesm/build.gradle" />
@@ -654,6 +653,8 @@
       <jump line="148" column="18" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
       <jump line="155" column="18" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
       <jump line="114" column="23" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
+      <jump line="190" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="185" column="42" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -671,7 +672,7 @@
         <text>Void</text>
       </register>
       <register name="/" type="4">
-        <text>CheckedJoin</text>
+        <text>new Hash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RNYXAucHV0KDAsIFV1aWRUZXN0VXRpbHMuWkVST19VVUlEKTsKICAgIHRlc3RNYXAucHV0KDEsIFV1aWRUZXN0VXRpbHMuT05FX1VVSUQpOwogICAgdGVzdE1hcC5wdXQoMiwgVXVpZFRlc3RVdGlscy5UV09fVVVJRCk7Cg==</text>
@@ -707,13 +708,13 @@
         <text encoding="base64">ICAgICAgICBFbmZvcmNlLmlzRXF1YWwoaW5wdXRab29tQ3J5c3RhbHMua2V5U2V0KCksIGV4cGVjdGVkUmFuZ2UpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>182</text>
       </register>
     </registers>
     <search>
-      <last-search>CheckedJoin</last-search>
+      <last-search>new Hash</last-search>
       <last-offset />
-      <last-pattern>CheckedJoin</last-pattern>
+      <last-pattern>new Hash</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -721,7 +722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stub</entry>
         <entry>logger</entry>
         <entry>%d</entry>
         <entry>zoomSerializer</entry>
@@ -741,9 +741,9 @@
         <entry>future</entry>
         <entry>Exception</entry>
         <entry>CheckedJoin</entry>
+        <entry>new Hash</entry>
       </history-search>
       <history-cmd>
-        <entry>s/0/f/g</entry>
         <entry>s/0/e/g</entry>
         <entry>103</entry>
         <entry encoding="base64">JzwsJz5zL0dhdWdlL0NvdW50ZXIvZw==</entry>
@@ -763,6 +763,7 @@
         <entry>155</entry>
         <entry>141</entry>
         <entry>w</entry>
+        <entry>182</entry>
       </history-cmd>
       <history-expr />
       <history-input />
