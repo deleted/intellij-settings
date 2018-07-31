@@ -86,6 +86,9 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" timestamp="1533068253129">
+        <mark key="'" line="210" column="29" />
+      </file>
       <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1528956784436">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="15" />
@@ -171,6 +174,7 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/acq/crystal.py" timestamp="1533068321645" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1526327095971">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
@@ -201,8 +205,8 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533066938566">
-        <mark key="'" line="185" column="42" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533068581364">
+        <mark key="'" line="134" column="13" />
         <mark key="[" line="174" column="34" />
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
@@ -266,7 +270,7 @@
         <mark key="." line="82" column="22" />
         <mark key="^" line="82" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1533066777479" />
+      <file name="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1533068348550" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
         <mark key="]" line="115" column="52" />
@@ -449,14 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="50" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="314" column="44" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="315" column="45" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="24" column="29" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
-      <jump line="49" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
-      <jump line="91" column="41" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
-      <jump line="95" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
-      <jump line="176" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="35" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="53" column="28" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="55" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
@@ -549,6 +545,14 @@
       <jump line="114" column="23" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="190" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="185" column="42" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="210" column="29" filename="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="154" column="27" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="44" column="22" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="64" column="14" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="73" column="12" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="79" column="25" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="134" column="13" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -566,7 +570,7 @@
         <text>Void</text>
       </register>
       <register name="/" type="4">
-        <text>faceIndex</text>
+        <text>sliceNumber</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RNYXAucHV0KDAsIFV1aWRUZXN0VXRpbHMuWkVST19VVUlEKTsKICAgIHRlc3RNYXAucHV0KDEsIFV1aWRUZXN0VXRpbHMuT05FX1VVSUQpOwogICAgdGVzdE1hcC5wdXQoMiwgVXVpZFRlc3RVdGlscy5UV09fVVVJRCk7Cg==</text>
@@ -606,9 +610,9 @@
       </register>
     </registers>
     <search>
-      <last-search>faceIndex</last-search>
+      <last-search>sliceNumber</last-search>
       <last-offset />
-      <last-pattern>faceIndex</last-pattern>
+      <last-pattern>sliceNumber</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -616,10 +620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>%d</entry>
-        <entry>zoomSerializer</entry>
-        <entry>localDevUp</entry>
-        <entry>DOCKER_COMP</entry>
         <entry>writeSlice</entry>
         <entry>thenCompose</entry>
         <entry>zoomSerial</entry>
@@ -636,6 +636,10 @@
         <entry>CheckedJoin</entry>
         <entry>new Hash</entry>
         <entry>faceIndex</entry>
+        <entry>block</entry>
+        <entry>create</entry>
+        <entry>sliceindex</entry>
+        <entry>sliceNumber</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/e/g</entry>
