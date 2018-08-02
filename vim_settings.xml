@@ -65,10 +65,10 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1533172166530">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-        <mark key="^" line="162" column="31" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="161" column="31" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/BufferedImageOutputStreamTest.java" timestamp="1521654252720">
         <mark key="[" line="46" column="14" />
@@ -158,12 +158,6 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1533234159958">
-        <mark key="[" line="137" column="130" />
-        <mark key="]" line="137" column="127" />
-        <mark key="." line="137" column="127" />
-        <mark key="^" line="137" column="127" />
-      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="5" column="0" />
@@ -184,12 +178,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533231142728">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="31" column="2" />
-        <mark key="]" line="31" column="8" />
-        <mark key="^" line="31" column="8" />
-        <mark key="." line="31" column="8" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533236820836">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecoderTest.java" timestamp="1522367194767">
         <mark key="[" line="27" column="22" />
@@ -242,12 +236,6 @@
         <mark key="]" line="30" column="67" />
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532976341117">
-        <mark key="[" line="84" column="32" />
-        <mark key="]" line="82" column="22" />
-        <mark key="." line="82" column="22" />
-        <mark key="^" line="82" column="24" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1533068348550" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
@@ -342,7 +330,7 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533230480392">
+      <file name="/Dummy.txt" timestamp="1533236626749">
         <mark key="'" line="0" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -389,9 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="21" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" />
-      <jump line="36" column="6" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageClientTest.java" />
       <jump line="153" column="37" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="163" column="85" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="166" column="9" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
@@ -489,10 +474,13 @@
       <jump line="124" column="15" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="59" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="0" column="36" filename="/Dummy.txt" />
+      <jump line="10" column="45" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="15" column="36" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="16" column="36" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0RmFsc2UodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LmNvbnRhaW5zKHJlc2VydmF0aW9uKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZ2VvZGUuZ2VvbWV0cnkuQ3J5c3RhbFNsaWNlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2VUZW1wbGF0ZTsKaW1wb3J0IG5ldC50aHJlZXNjYW4uZ2VvZGUuZ2VvbWV0cnkuWlBvaW50Owo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -503,52 +491,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>enforcement</text>
       </register>
       <register name="/" type="4">
-        <text>invert</text>
+        <text>Zslice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0VGhhdCh0aWxlUmVxdWVzdE1hbmFnZXIucmVzZXJ2YXRpb25TZXQpLmRvZXNOb3RDb250YWluKHJlc2VydmF0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0RmFsc2UodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LmNvbnRhaW5zKHJlc2VydmF0aW9uKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZ2VvZGUuZ2VvbWV0cnkuQ3J5c3RhbFNsaWNlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2VUZW1wbGF0ZTsKaW1wb3J0IG5ldC50aHJlZXNjYW4uZ2VvZGUuZ2VvbWV0cnkuWlBvaW50Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0RmFsc2UodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LmNvbnRhaW5zKHJlc2VydmF0aW9uKSk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBSZWNlcHRpb25pc3Q6IEludmVydCB0aGUgaW5kaWNlcyBvbiB0aGUgem9vbUNyeXN0YWwgbWFwIHdoZW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCA2YjgzNGE1N2JjMGFhNzlhZWMxODY1NWJjZTYwYzkyMjBhN2I2Y2U0Cj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkIGEgbWVzc2FnZSBzdHJpbmcgdG8gdGhlIFRvb01hbnlSZXNlcnZhdGlvbnMgZXhjZXB0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0RmFsc2UodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LmNvbnRhaW5zKHJlc2VydmF0aW9uKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy56b29tQ3J5c3RhbHMgPSB6b29tQ3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0RmFsc2UodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LmNvbnRhaW5zKHJlc2VydmF0aW9uKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBleGM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvbmVMaXN0LmFkZChwbmdGdXR1cmUpOwo=</text>
+        <text encoding="base64">QWRkIGEgbWVzc2FnZSBzdHJpbmcgdG8gdGhlIFRvb01hbnlSZXNlcnZhdGlvbnMgZXhjZXB0aW9uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvbmVMaXN0LmFkZCgK</text>
+        <text encoding="base64">ICAgICAgdGhpcy56b29tQ3J5c3RhbHMgPSB6b29tQ3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBleGM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
       </register>
     </registers>
     <search>
-      <last-search>invert</last-search>
+      <last-search>Zslice</last-search>
       <last-offset />
-      <last-pattern>invert</last-pattern>
+      <last-pattern>Zslice</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -556,9 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>writeAtomsAsync</entry>
-        <entry>0</entry>
-        <entry>FileSystem</entry>
         <entry>grpc</entry>
         <entry>tileWriter</entry>
         <entry>Mockito</entry>
@@ -576,6 +561,9 @@
         <entry>Writing slice at</entry>
         <entry>slicer</entry>
         <entry>invert</entry>
+        <entry>Zlice</entry>
+        <entry>CrystalSlice</entry>
+        <entry>Zslice</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/e/g</entry>
