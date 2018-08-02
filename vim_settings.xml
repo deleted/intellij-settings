@@ -44,18 +44,18 @@
         <mark key="^" line="137" column="127" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/ImageUtils.java" timestamp="1533086778758" />
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533170309267">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533171453695">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="91" column="65" />
-        <mark key="]" line="92" column="38" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
         <mark key="^" line="92" column="38" />
-        <mark key="." line="92" column="38" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1532718791977">
         <mark key="'" line="211" column="21" />
       </file>
       <file name="$USER_HOME$/kesm2/devops/ansible/roles/ts_service/tasks/main.yml" timestamp="1532993724479" />
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1533087019156">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1533171351528">
         <mark key="'" line="22" column="66" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532976341117">
@@ -224,8 +224,8 @@
       <jump line="59" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>256</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy56b29tQ3J5c3RhbHMgPSB6b29tQ3IK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -236,7 +236,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>invert</text>
@@ -245,34 +245,34 @@
         <text encoding="base64">ICAgIHRlc3RNYXAucHV0KDAsIFV1aWRUZXN0VXRpbHMuWkVST19VVUlEKTsKICAgIHRlc3RNYXAucHV0KDEsIFV1aWRUZXN0VXRpbHMuT05FX1VVSUQpOwogICAgdGVzdE1hcC5wdXQoMiwgVXVpZFRlc3RVdGlscy5UV09fVVVJRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBleGM7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy56b29tQ3J5c3RhbHMgPSB6b29tQ3IK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvbmVMaXN0LmFkZChwbmdGdXR1cmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBleGM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvbmVMaXN0LmFkZCgK</text>
+        <text encoding="base64">ICAgIGRvbmVMaXN0LmFkZChwbmdGdXR1cmUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgKTsK</text>
+        <text encoding="base64">ICAgIGRvbmVMaXN0LmFkZCgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdyaXRlci5nZXQK</text>
+        <text encoding="base64">ICAgIAogICAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuaGFuZGxlKChub3RoaW5nLCBleGMpIC0+IHsKICAgICAgICAgICAgQ29tcGxldGFibGVGdXR1cmU8Vm9pZD4gcmVzdWx0ID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlPD4oKTsKICAgICAgICAgICAgaWYgKGV4YyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJDYXVnaHQgYW4gZXJyb3Igd3JpdGluZyBzbGljZSB7fSB0byBjcnlzdGFsIHt9Iiwgc2xpY2UsIGNyeXN0YWwpOwogICAgICAgICAgICAgIHJlc3VsdC5jb21wbGV0ZUV4Y2VwdGlvbmFsbHkoZXhjLmdldENhdXNlKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIHJlc3VsdC5jb21wbGV0ZShudWxsKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwoKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHdyaXRlci5nZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4Y2VwdGlvbmFsbHkoKGV4YykgLT4gewogICAgICAgICAgICAgICAgaWYgKGV4Yy5nZXRDYXVzZSgpLmdldENsYXNzKCkgPT0gIEFzc2VydGlvbkVycm9yLmNsYXNzKSB7CiAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJDYXVnaHQgQXNzZXJ0aW9uRXJyb3Igd3JpdGluZyBzbGljZSB7fSB0byBjcnlzdGFsIHt9IiwgYmFzZVNsaWNlLnRvU3RyaW5nKCksIHJlcXVlc3QuYmFzZUNyeXN0YWwudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGV4Yy5nZXRDYXVzZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAuaGFuZGxlKChub3RoaW5nLCBleGMpIC0+IHsKICAgICAgICAgICAgQ29tcGxldGFibGVGdXR1cmU8Vm9pZD4gcmVzdWx0ID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlPD4oKTsKICAgICAgICAgICAgaWYgKGV4YyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJDYXVnaHQgYW4gZXJyb3Igd3JpdGluZyBzbGljZSB7fSB0byBjcnlzdGFsIHt9Iiwgc2xpY2UsIGNyeXN0YWwpOwogICAgICAgICAgICAgIHJlc3VsdC5jb21wbGV0ZUV4Y2VwdGlvbmFsbHkoZXhjLmdldENhdXNlKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIHJlc3VsdC5jb21wbGV0ZShudWxsKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwoKICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Yy5nZXRDbGFzcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4Y2VwdGlvbmFsbHkoKGV4YykgLT4gewogICAgICAgICAgICAgICAgaWYgKGV4Yy5nZXRDYXVzZSgpLmdldENsYXNzKCkgPT0gIEFzc2VydGlvbkVycm9yLmNsYXNzKSB7CiAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJDYXVnaHQgQXNzZXJ0aW9uRXJyb3Igd3JpdGluZyBzbGljZSB7fSB0byBjcnlzdGFsIHt9IiwgYmFzZVNsaWNlLnRvU3RyaW5nKCksIHJlcXVlc3QuYmFzZUNyeXN0YWwudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGV4Yy5nZXRDYXVzZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4Ywo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Yy5nZXRDbGFzcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
