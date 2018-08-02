@@ -206,8 +206,8 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533162768418">
-        <mark key="'" line="134" column="13" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533167477290">
+        <mark key="'" line="258" column="18" />
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="18" />
         <mark key="^" line="261" column="33" />
@@ -458,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="129" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="187" column="43" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
       <jump line="190" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/aws/CommonAwsClientBuilder.java" />
@@ -558,6 +557,7 @@
       <jump line="69" column="6" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" />
       <jump line="67" column="53" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" />
       <jump line="22" column="66" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" />
+      <jump line="258" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -575,7 +575,7 @@
         <text>level</text>
       </register>
       <register name="/" type="4">
-        <text>sliceTemp</text>
+        <text>Writing slice at</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RNYXAucHV0KDAsIFV1aWRUZXN0VXRpbHMuWkVST19VVUlEKTsKICAgIHRlc3RNYXAucHV0KDEsIFV1aWRUZXN0VXRpbHMuT05FX1VVSUQpOwogICAgdGVzdE1hcC5wdXQoMiwgVXVpZFRlc3RVdGlscy5UV09fVVVJRCk7Cg==</text>
@@ -615,9 +615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sliceTemp</last-search>
+      <last-search>Writing slice at</last-search>
       <last-offset />
-      <last-pattern>sliceTemp</last-pattern>
+      <last-pattern>Writing slice at</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -625,7 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>thenCompose</entry>
         <entry>zoomSerial</entry>
         <entry>writeAtomsAsyn</entry>
         <entry>writeAtomsAsync</entry>
@@ -645,6 +644,7 @@
         <entry>sliceindex</entry>
         <entry>sliceNumber</entry>
         <entry>sliceTemp</entry>
+        <entry>Writing slice at</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/e/g</entry>
