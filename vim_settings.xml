@@ -14,6 +14,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/devops/ansible/roles/aws_ecr_login/defaults/main.yml" timestamp="1532993866068" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1533172166530">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="162" column="31" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" timestamp="1533085436463">
         <mark key="'" line="210" column="29" />
       </file>
@@ -43,19 +49,19 @@
         <mark key="." line="137" column="127" />
         <mark key="^" line="137" column="127" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/ImageUtils.java" timestamp="1533086778758" />
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533171453695">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/ImageUtils.java" timestamp="1533171909180" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533172244254">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
+        <mark key="[" line="124" column="47" />
+        <mark key="]" line="124" column="47" />
         <mark key="^" line="92" column="38" />
-        <mark key="." line="92" column="0" />
+        <mark key="." line="124" column="47" />
       </file>
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1532718791977">
         <mark key="'" line="211" column="21" />
       </file>
       <file name="$USER_HOME$/kesm2/devops/ansible/roles/ts_service/tasks/main.yml" timestamp="1532993724479" />
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1533171351528">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1533171967305">
         <mark key="'" line="22" column="66" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1532976341117">
@@ -102,7 +108,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/BufferedImageSlicer.java" timestamp="1533087077708" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/BufferedImageSlicer.java" timestamp="1533172033610" />
       <file name="$USER_HOME$/kesm2/devops/ansible/roles/aws_ecr_login/tasks/main.yml" timestamp="1532993754014" />
       <file name="$USER_HOME$/kesm2/kesm/acq/slice_metadata_shim.py" timestamp="1533066808357" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceCacheRecord.kt" timestamp="1526686189085">
@@ -120,6 +126,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1533172194727" />
     </filemarks>
     <jumps>
       <jump line="106" column="21" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/GeodeStorageTestBase.java" />
@@ -224,8 +231,8 @@
       <jump line="59" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy56b29tQ3J5c3RhbHMgPSB6b29tQ3IK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -236,7 +243,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>invert</text>
