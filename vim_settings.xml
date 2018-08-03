@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/CRCdByteReceiver.java" timestamp="1516391524119">
@@ -71,6 +71,9 @@
         <mark key="]" line="30" column="67" />
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" timestamp="1533321025221">
+        <mark key="'" line="158" column="50" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1533254135494">
         <mark key="[" line="69" column="11" />
@@ -378,7 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="85" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="166" column="9" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="47" column="72" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" />
       <jump line="181" column="54" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
@@ -478,6 +480,7 @@
       <jump line="15" column="36" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="16" column="36" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="295" column="26" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="158" column="50" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -495,7 +498,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>Zslice</text>
+        <text>downsampleWithPadZB</text>
       </register>
       <register name="0" type="4">
         <text>handle.getDescription().getShape();</text>
@@ -535,9 +538,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Zslice</last-search>
+      <last-search>downsampleWithPadZB</last-search>
       <last-offset />
-      <last-pattern>Zslice</last-pattern>
+      <last-pattern>downsampleWithPadZB</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -545,8 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grpc</entry>
-        <entry>tileWriter</entry>
         <entry>Mockito</entry>
         <entry>manager</entry>
         <entry>future</entry>
@@ -565,6 +566,8 @@
         <entry>Zlice</entry>
         <entry>CrystalSlice</entry>
         <entry>Zslice</entry>
+        <entry>downsampleWithPad</entry>
+        <entry>downsampleWithPadZB</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/e/g</entry>
