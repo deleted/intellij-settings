@@ -72,11 +72,11 @@
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1533251522346">
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="11" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1533254135494">
+        <mark key="[" line="69" column="11" />
+        <mark key="]" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+        <mark key="^" line="69" column="11" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
         <mark key="[" line="96" column="16" />
@@ -132,7 +132,7 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1533251470720">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1533254052943">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
@@ -267,6 +267,7 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1533253595293" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="5" column="0" />
@@ -303,6 +304,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/ImageUtils.java" timestamp="1533253477985" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="24" />
@@ -327,12 +329,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533251355948">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533253826378">
         <mark key="'" line="16" column="36" />
-        <mark key="[" line="195" column="46" />
-        <mark key="]" line="195" column="46" />
-        <mark key="^" line="94" column="47" />
-        <mark key="." line="195" column="46" />
+        <mark key="[" line="251" column="14" />
+        <mark key="]" line="248" column="42" />
+        <mark key="^" line="248" column="42" />
+        <mark key="." line="248" column="42" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
@@ -340,6 +342,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" timestamp="1533253433559" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/ImageMetadataTest.java" timestamp="1524693181899">
         <mark key="[" line="16" column="111" />
         <mark key="]" line="4" column="50" />
@@ -475,7 +478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HashMap</text>
+        <text>handle.getDescription().getShape();</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -491,8 +494,8 @@
       <register name="/" type="4">
         <text>Zslice</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0VGhhdCh0aWxlUmVxdWVzdE1hbmFnZXIucmVzZXJ2YXRpb25TZXQpLmRvZXNOb3RDb250YWluKHJlc2VydmF0aW9uKTsK</text>
+      <register name="0" type="4">
+        <text>handle.getDescription().getShape();</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlcXVlc3QuZ2V0Wm9vbUNyeXN0YWxzKCkK</text>
