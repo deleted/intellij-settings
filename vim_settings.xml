@@ -33,6 +33,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="14" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/CrystalIOBase.java" timestamp="1533321809972">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tools/SingleCrystalCommand.java" timestamp="1525213781620">
         <mark key="[" line="36" column="62" />
         <mark key="]" line="36" column="61" />
