@@ -27,6 +27,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="30" column="41" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1533323472537" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/KesmSliceMetadata.kt" timestamp="1525388123381">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -272,6 +273,7 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/math/zbox/ZSliceOffsetView.java" timestamp="1533323000746" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1526327095971">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
@@ -309,7 +311,7 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533236626749">
+      <file name="/Dummy.txt" timestamp="1533324815217">
         <mark key="'" line="0" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
