@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/CRCdByteReceiver.java" timestamp="1516391524119">
@@ -95,6 +95,9 @@
         <mark key="]" line="19" column="34" />
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1533255212569">
+        <mark key="[" line="141" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
@@ -329,12 +332,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533253826378">
-        <mark key="'" line="16" column="36" />
-        <mark key="[" line="251" column="14" />
-        <mark key="]" line="248" column="42" />
-        <mark key="^" line="248" column="42" />
-        <mark key="." line="248" column="42" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533255172442">
+        <mark key="'" line="295" column="26" />
+        <mark key="[" line="295" column="26" />
+        <mark key="]" line="296" column="6" />
+        <mark key="^" line="296" column="6" />
+        <mark key="." line="296" column="6" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
@@ -375,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="37" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="163" column="85" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="166" column="9" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
       <jump line="47" column="72" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" />
@@ -475,10 +477,11 @@
       <jump line="10" column="45" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="15" column="36" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="16" column="36" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="295" column="26" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>handle.getDescription().getShape();</text>
+        <text>h</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -489,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HashMap</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>Zslice</text>
