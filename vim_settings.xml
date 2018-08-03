@@ -315,6 +315,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/math/zbox/ZSlice.java" timestamp="1533322592763" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/ImageUtils.java" timestamp="1533253477985" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
@@ -328,6 +329,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="7" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/math/zbox/ZSliceTemplate.java" timestamp="1533322649810" />
       <file name="$USER_HOME$/3scan/kesm/docker_deps.yml" timestamp="1525458652596">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="31" column="21" />
