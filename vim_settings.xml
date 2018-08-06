@@ -294,9 +294,12 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1533582482202">
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1533587513345">
         <mark key="'" line="146" column="24" />
-        <mark key="[" line="146" column="85" />
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="42" />
+        <mark key="^" line="37" column="42" />
+        <mark key="." line="37" column="42" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/enforcement/EnforceUuid.java" timestamp="1532035083740">
         <mark key="[" line="27" column="46" />
@@ -310,7 +313,7 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533342957710">
+      <file name="/Dummy.txt" timestamp="1533587358176">
         <mark key="'" line="0" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -342,12 +345,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533582626103">
-        <mark key="'" line="101" column="8" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="4" />
-        <mark key="^" line="100" column="87" />
-        <mark key="." line="101" column="4" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533587309373">
+        <mark key="'" line="106" column="18" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="14" />
+        <mark key="^" line="105" column="68" />
+        <mark key="." line="106" column="14" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
@@ -389,7 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="46" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="127" column="57" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="213" column="48" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="0" column="2" filename="$USER_HOME$/kesm/build.gradle" />
@@ -489,10 +491,11 @@
       <jump line="150" column="63" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="146" column="24" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="101" column="8" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="106" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBFbmZvcmNlSW50LmlzRXhhY3RNdWx0aXBsZU9mKGJhc2VJbWFnZVNoYXBlLmdldEhlaWdodCgpLCB0aWxlU2hhcGUuZ2V0SGVpZ2h0KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -503,43 +506,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFbmZvcmNlSW50LmlzRXhhY3RNdWx0aXBsZU9mKGJhc2VJbWFnZVNoYXBlLmdldEhlaWdodCgpLCB0aWxlU2hhcGUuZ2V0SGVpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYmFzZUltYWdlU2hhcGUuZ2V0SGVpZ2h0KCkgLyB0aWxlU2hhcGUuZ2V0SGVpZ2h0KCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgTWF0aFV0aWxzLmNlaWxEaXYoYmFzZUltYWdlU2hhcGUuZ2V0SGVpZ2h0KCksIHRpbGVTaGFwZS5nZXRIZWlnaHQoKSksCiAgICAgICAgICAgICAgTWF0aFV0aWxzLmNlaWxEaXYoYmFzZUltYWdlU2hhcGUuZ2V0V2lkdGgoKSwgdGlsZVNoYXBlLmdldFdpZHRoKCkpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgbmV0LnRocmVlc2Nhbi5lbmZvcmNlbWVudC5FbmZvcmNlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2U7CmltcG9ydCBuZXQudGhyZWVzY2FuLmdlb2RlLmdlb21ldHJ5LkNyeXN0YWxTbGljZVRlbXBsYXRlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5aUG9pbnQ7Cj4+Pj4+Pj4gUmVjZXB0aW9uaXN0OiBJbnZlcnQgdGhlIGluZGljZXMgb24gdGhlIHpvb21DcnlzdGFsIG1hcCB3aGVuCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCA0Nzk5M2M1NmJiZmUxMTU3MDIxZGU2ODRkOTU4MWVmZmI1M2ZlZDc1Cg==</text>
+        <text encoding="base64">PT09PT09PQppbXBvcnQgbmV0LnRocmVlc2Nhbi5lbmZvcmNlbWVudC5FbmZvcmNlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2U7CmltcG9ydCBuZXQudGhyZWVzY2FuLmdlb2RlLmdlb21ldHJ5LkNyeXN0YWxTbGljZVRlbXBsYXRlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5aUG9pbnQ7Cj4+Pj4+Pj4gUmVjZXB0aW9uaXN0OiBJbnZlcnQgdGhlIGluZGljZXMgb24gdGhlIHpvb21DcnlzdGFsIG1hcCB3aGVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRIZWlnaHQoKSAvIHRpbGVTaGFwZS5nZXRIZWlnaHQoKSwKICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRXaWR0aCgpIC8gdGlsZVNoYXBlLmdldFdpZHRoKCksCg==</text>
+        <text encoding="base64">PDw8PDw8PCA0Nzk5M2M1NmJiZmUxMTU3MDIxZGU2ODRkOTU4MWVmZmI1M2ZlZDc1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZW5mb3JjZW1lbnQuRW5mb3JjZQppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2U7CmltcG9ydCBuZXQudGhyZWVzY2FuLmdlb2RlLmdlb21ldHJ5LkNyeXN0YWxTbGljZVRlbXBsYXRlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5aUG9pbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRIZWlnaHQoKSAvIHRpbGVTaGFwZS5nZXRIZWlnaHQoKSwKICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRXaWR0aCgpIC8gdGlsZVNoYXBlLmdldFdpZHRoKCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9yKGludCB6b29tSW5kZXggOiB0aGlzLnpvb21DcnlzdGFscy5rZXlTZXQoKSkgewogICAgICAgIGxvZ2dlci5pbmZvKCJDcnlzdGFsIFpvb20gTGV2ZWw6ICVkIFVVSUQ6ICVzIiwgem9vbUluZGV4LCB6b29tQ3J5c3RhbHMuZ2V0KHpvb21JbmRleCkpOwogICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZW5mb3JjZW1lbnQuRW5mb3JjZQppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2U7CmltcG9ydCBuZXQudGhyZWVzY2FuLmdlb2RlLmdlb21ldHJ5LkNyeXN0YWxTbGljZVRlbXBsYXRlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5aUG9pbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgZW5mb3JjZVpCb3hJbkNyeXN0YWwoQ3J5c3RhbEhhbmRsZTw/PiBoYW5kbGUsIFpCb3ggc2xpY2UpewogICAgaGFuZGxlLmVuZm9yY2VDb250YWlucyhzbGljZS5nZXRaQm94KCkpOwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgZm9yKGludCB6b29tSW5kZXggOiB0aGlzLnpvb21DcnlzdGFscy5rZXlTZXQoKSkgewogICAgICAgIGxvZ2dlci5pbmZvKCJDcnlzdGFsIFpvb20gTGV2ZWw6ICVkIFVVSUQ6ICVzIiwgem9vbUluZGV4LCB6b29tQ3J5c3RhbHMuZ2V0KHpvb21JbmRleCkpOwogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Height/Width/g</text>
