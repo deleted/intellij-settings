@@ -101,7 +101,7 @@
         <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1533345480120">
-        <mark key="[" line="141" column="0" />
+        <mark key="[" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
@@ -342,12 +342,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533347321819">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533581552475">
         <mark key="'" line="302" column="6" />
-        <mark key="[" line="134" column="14" />
-        <mark key="]" line="134" column="14" />
-        <mark key="^" line="132" column="25" />
-        <mark key="." line="134" column="14" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
@@ -491,8 +491,8 @@
       <jump line="146" column="24" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tileSize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -506,49 +506,49 @@
         <text>tileSize</text>
       </register>
       <register name="/" type="4">
-        <text>TileRequest</text>
+        <text encoding="base64">Pj4+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBUaWxlUmVxdWVzdChCdWZmZXJlZEltYWdlIGltYWdlLCBLZXNtU2xpY2VNZXRhZGF0YSBtZXRhKSB7CiAgICAgIHRoaXMoCiAgICAgICAgICBtZXRhLmdldEJsb2JJZCgpLAogICAgICAgICAgaW1hZ2UsCiAgICAgICAgICBuZXcgSW1hZ2VTaGFwZShUSUxFX1NJWkUsIFRJTEVfU0laRSksCiAgICAgICAgICBtZXRhLmdldFNsaWNlSW5kZXgoKSwKICAgICAgICAgIG1ldGEuZ2V0RmFjZUluZGV4KCksCiAgICAgICAgICBtZXRhLmdldENyeXN0YWxJZCgpLAogICAgICAgICAgbWV0YS5nZXRab29tQ3J5c3RhbHMoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRIZWlnaHQoKSAvIHRpbGVTaGFwZS5nZXRIZWlnaHQoKSwKICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRXaWR0aCgpIC8gdGlsZVNoYXBlLmdldFdpZHRoKCksCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZW5mb3JjZW1lbnQuRW5mb3JjZQppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2U7CmltcG9ydCBuZXQudGhyZWVzY2FuLmdlb2RlLmdlb21ldHJ5LkNyeXN0YWxTbGljZVRlbXBsYXRlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5aUG9pbnQ7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9yKGludCB6b29tSW5kZXggOiB0aGlzLnpvb21DcnlzdGFscy5rZXlTZXQoKSkgewogICAgICAgIGxvZ2dlci5pbmZvKCJDcnlzdGFsIFpvb20gTGV2ZWw6ICVkIFVVSUQ6ICVzIiwgem9vbUluZGV4LCB6b29tQ3J5c3RhbHMuZ2V0KHpvb21JbmRleCkpOwogICAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgZW5mb3JjZVpCb3hJbkNyeXN0YWwoQ3J5c3RhbEhhbmRsZTw/PiBoYW5kbGUsIFpCb3ggc2xpY2UpewogICAgaGFuZGxlLmVuZm9yY2VDb250YWlucyhzbGljZS5nZXRaQm94KCkpOwogIH0KCg==</text>
+        <text encoding="base64">PT09PT09PQppbXBvcnQgbmV0LnRocmVlc2Nhbi5lbmZvcmNlbWVudC5FbmZvcmNlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2U7CmltcG9ydCBuZXQudGhyZWVzY2FuLmdlb2RlLmdlb21ldHJ5LkNyeXN0YWxTbGljZVRlbXBsYXRlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5aUG9pbnQ7Cj4+Pj4+Pj4gUmVjZXB0aW9uaXN0OiBJbnZlcnQgdGhlIGluZGljZXMgb24gdGhlIHpvb21DcnlzdGFsIG1hcCB3aGVuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZm9yY2VaQm94SW5DcnlzdGFsKGxvc3NsZXNzLCBzbGljZUV4dGVudCk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCA0Nzk5M2M1NmJiZmUxMTU3MDIxZGU2ODRkOTU4MWVmZmI1M2ZlZDc1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5mb3JjZVpCb3hJbkNyeXN0YWwoaGFuZGxlLCBzbGljZVpCb3gpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRIZWlnaHQoKSAvIHRpbGVTaGFwZS5nZXRIZWlnaHQoKSwKICAgICAgICAgICAgICBiYXNlSW1hZ2VTaGFwZS5nZXRXaWR0aCgpIC8gdGlsZVNoYXBlLmdldFdpZHRoKCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZS5lbmZvcmNlQ29udGFpbnMoTGlzdHMubmV3QXJyYXlMaXN0KHNsaWNlLmdldFN0YXJ0KCksIHNsaWNlLmdldEVuZCgpKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZW5mb3JjZW1lbnQuRW5mb3JjZQppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5DcnlzdGFsU2xpY2U7CmltcG9ydCBuZXQudGhyZWVzY2FuLmdlb2RlLmdlb21ldHJ5LkNyeXN0YWxTbGljZVRlbXBsYXRlOwppbXBvcnQgbmV0LnRocmVlc2Nhbi5nZW9kZS5nZW9tZXRyeS5aUG9pbnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuZ2V0Wm9vbUNyeXN0YWxzKCkK</text>
+        <text encoding="base64">ICAgICAgZm9yKGludCB6b29tSW5kZXggOiB0aGlzLnpvb21DcnlzdGFscy5rZXlTZXQoKSkgewogICAgICAgIGxvZ2dlci5pbmZvKCJDcnlzdGFsIFpvb20gTGV2ZWw6ICVkIFVVSUQ6ICVzIiwgem9vbUluZGV4LCB6b29tQ3J5c3RhbHMuZ2V0KHpvb21JbmRleCkpOwogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ01hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgZW5mb3JjZVpCb3hJbkNyeXN0YWwoQ3J5c3RhbEhhbmRsZTw/PiBoYW5kbGUsIFpCb3ggc2xpY2UpewogICAgaGFuZGxlLmVuZm9yY2VDb250YWlucyhzbGljZS5nZXRaQm94KCkpOwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
       </register>
     </registers>
     <search>
-      <last-search>TileRequest</last-search>
+      <last-search encoding="base64">Pj4+</last-search>
       <last-offset />
-      <last-pattern>TileRequest</last-pattern>
+      <last-pattern encoding="base64">Pj4+</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -556,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Exception</entry>
         <entry>CheckedJoin</entry>
         <entry>new Hash</entry>
         <entry>faceIndex</entry>
@@ -576,6 +575,7 @@
         <entry>validate</entry>
         <entry>tilerequest</entry>
         <entry>TileRequest</entry>
+        <entry encoding="base64">Pj4+</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/e/g</entry>
