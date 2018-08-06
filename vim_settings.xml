@@ -100,8 +100,10 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1533345480120">
-        <mark key="[" line="152" column="0" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1533594808237">
+        <mark key="[" line="149" column="34" />
+        <mark key="]" line="149" column="34" />
+        <mark key="." line="149" column="34" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
@@ -184,6 +186,7 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/tiles/math.py" timestamp="1533595178355" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532631260889">
         <mark key="[" line="79" column="20" />
         <mark key="]" line="81" column="0" />
@@ -500,7 +503,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getSliceMetadata</text>
+        <text>getOutputSliceTemplate().newSliceAt</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -511,7 +514,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getSliceMetadata</text>
+        <text>getOutputSliceTemplate().newSliceAt</text>
       </register>
       <register name="/" type="4">
         <text>Height</text>
