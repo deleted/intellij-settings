@@ -45,11 +45,14 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/mongo/images.py" timestamp="1533674780643" />
-      <file name="$USER_HOME$/kesm2/kesm/acq/slice_metadata_shim.py" timestamp="1533674803876">
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="61" column="23" />
-        <mark key="." line="61" column="23" />
+      <file name="$USER_HOME$/kesm2/kesm/mongo/images.py" timestamp="1533676004888">
+        <mark key="'" line="658" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm2/kesm/acq/slice_metadata_shim.py" timestamp="1533675970312">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/math/zbox/ZSliceTemplate.java" timestamp="1533322649810" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533674584702">
@@ -83,14 +86,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
-      <jump line="210" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
-      <jump line="211" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
-      <jump line="148" column="24" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
-      <jump line="80" column="2" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
-      <jump line="69" column="13" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
-      <jump line="108" column="28" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="110" column="89" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="20" column="45" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="30" column="42" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
@@ -183,6 +178,14 @@
       <jump line="93" column="62" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
       <jump line="145" column="88" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
       <jump line="96" column="45" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
+      <jump line="635" column="33" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="195" column="27" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="194" column="28" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="689" column="42" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="685" column="23" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="684" column="13" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="659" column="46" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="658" column="30" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -200,7 +203,7 @@
         <text>props</text>
       </register>
       <register name="/" type="4">
-        <text>downsampleWithPad</text>
+        <text>_index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFJlc291cmNlUGF0aCBUSU5ZX0NPTE9SX0lNRyA9CiAgICAgIFJlc291cmNlUGF0aC5vZihOc3BpVGVzdFJlc291cmNlcy5jbGFzcywgImltZy90aW55X2NvbG9yX2ltZy5uc3AiKTsKCiAgcHVibGljIHN0YXRpYyBmaW5hbCBSZXNvdXJjZVBhdGggVElOWV9DT0xPUl9JTUdfTUVUQURBVEEgPQogICAgICBSZXNvdXJjZVBhdGgub2YoTnNwaVRlc3RSZXNvdXJjZXMuY2xhc3MsICJpbWcvdGlueV9jb2xvcl9pbWcubnNwLmpzb24iKTsK</text>
@@ -240,9 +243,9 @@
       </register>
     </registers>
     <search>
-      <last-search>downsampleWithPad</last-search>
+      <last-search>_index</last-search>
       <last-offset />
-      <last-pattern>downsampleWithPad</last-pattern>
+      <last-pattern>_index</last-pattern>
       <last-replace>Width</last-replace>
       <last-substitute>Height</last-substitute>
       <last-dir>1</last-dir>
@@ -250,7 +253,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Writing slice at</entry>
         <entry>slicer</entry>
         <entry>invert</entry>
         <entry>Zlice</entry>
@@ -270,6 +272,7 @@
         <entry>valid</entry>
         <entry>sliceTemplate</entry>
         <entry>downsampleWithPad</entry>
+        <entry>_index</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
