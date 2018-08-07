@@ -389,11 +389,7 @@
         <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1533597975506">
-        <mark key="'" line="111" column="40" />
-        <mark key="[" line="97" column="3" />
-        <mark key="]" line="97" column="3" />
-        <mark key="^" line="97" column="3" />
-        <mark key="." line="97" column="3" />
+        <mark key="'" line="110" column="40" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1532738851038">
         <mark key="[" line="54" column="0" />
