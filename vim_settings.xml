@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/CRCdByteReceiver.java" timestamp="1516391524119">
@@ -69,17 +69,14 @@
         <mark key="^" line="38" column="14" />
         <mark key="." line="38" column="14" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1533231225264">
-        <mark key="'" line="22" column="66" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterDaemon.kt" timestamp="1528153230040">
         <mark key="[" line="30" column="69" />
         <mark key="]" line="30" column="67" />
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" timestamp="1533321025221">
-        <mark key="'" line="158" column="50" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" timestamp="1533673202500">
+        <mark key="'" line="93" column="62" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1533340248968" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
@@ -158,9 +155,6 @@
         <mark key="]" line="22" column="71" />
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
-      </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" timestamp="1533085436463">
-        <mark key="'" line="210" column="29" />
       </file>
       <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1528956784436">
         <mark key="[" line="8" column="17" />
@@ -352,12 +346,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533672815775">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533673042032">
         <mark key="'" line="139" column="10" />
-        <mark key="[" line="180" column="30" />
-        <mark key="]" line="180" column="30" />
-        <mark key="^" line="180" column="44" />
-        <mark key="." line="180" column="30" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="246" column="5" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
@@ -365,9 +359,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" timestamp="1533672591366">
-        <mark key="'" line="23" column="60" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" timestamp="1533673108159">
+        <mark key="'" line="96" column="45" />
         <mark key="[" line="145" column="89" />
+        <mark key="]" line="145" column="88" />
+        <mark key="^" line="145" column="88" />
+        <mark key="." line="145" column="88" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiTestResources.java" timestamp="1533593510125">
         <mark key="]" line="17" column="68" />
@@ -416,11 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/kesm2/build.gradle" />
-      <jump line="38" column="37" filename="$USER_HOME$/kesm2/build.gradle" />
-      <jump line="54" column="6" filename="$USER_HOME$/kesm2/build.gradle" />
-      <jump line="207" column="31" filename="$USER_HOME$/kesm2/build.gradle" />
-      <jump line="208" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
       <jump line="209" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
       <jump line="210" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
       <jump line="211" column="21" filename="$USER_HOME$/kesm2/build.gradle" />
@@ -516,10 +508,15 @@
       <jump line="136" column="51" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="139" column="10" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="23" column="60" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
+      <jump line="99" column="26" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
+      <jump line="153" column="62" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
+      <jump line="93" column="62" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
+      <jump line="145" column="88" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
+      <jump line="96" column="45" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getZoomCrystals</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -533,49 +530,49 @@
         <text>getZoomCrystals</text>
       </register>
       <register name="/" type="4">
-        <text>sliceTemplate</text>
+        <text>downsampleWithPad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFJlc291cmNlUGF0aCBUSU5ZX0NPTE9SX0lNRyA9CiAgICAgIFJlc291cmNlUGF0aC5vZihOc3BpVGVzdFJlc291cmNlcy5jbGFzcywgImltZy90aW55X2NvbG9yX2ltZy5uc3AiKTsKCiAgcHVibGljIHN0YXRpYyBmaW5hbCBSZXNvdXJjZVBhdGggVElOWV9DT0xPUl9JTUdfTUVUQURBVEEgPQogICAgICBSZXNvdXJjZVBhdGgub2YoTnNwaVRlc3RSZXNvdXJjZXMuY2xhc3MsICJpbWcvdGlueV9jb2xvcl9pbWcubnNwLmpzb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZm9yY2VaQm94SW5DcnlzdGFsKGxvc3NsZXNzLCBzbGljZUV4dGVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgZW5mb3JjZVpCb3hJbkNyeXN0YWwoQ3J5c3RhbEhhbmRsZTw/PiBoYW5kbGUsIFpCb3ggc2xpY2UpewogICAgaGFuZGxlLmVuZm9yY2VDb250YWlucyhMaXN0cy5uZXdBcnJheUxpc3Qoc2xpY2UuZ2V0U3RhcnQoKSwgc2xpY2UuZ2V0RW5kKCkpKTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBtYXhLZXkoTWFwPEludGVnZXIsID8+IG1hcCkgewogICAgICByZXR1cm4gbWFwLmtleVNldCgpLnN0cmVhbSgpLm1hcFRvSW50KHggLT4geCkubWF4KCkuZ2V0QXNJbnQoKTsKICAgIH0KCiAgICAvKioKICAgICAqIEludmVydCB0aGUga2V5cyB0byBhIHpvb21DcnlzdGFscyBtYXAuCiAgICAgKgogICAgICogQHBhcmFtIGlucHV0Q3J5c3RhbHMKICAgICAqIEByZXR1cm4gb3V0cHV0IGNyeXN0YWxzCiAgICAgKi8KICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgcHJvdGVjdGVkIHN0YXRpYyBNYXA8SW50ZWdlciwgVVVJRD4gaW52ZXJ0Wm9vbUNyeXN0YWxJbmRpY2VzKE1hcDxJbnRlZ2VyLCBVVUlEPiBpbnB1dENyeXN0YWxzKSB7CiAgICAgIGludCBtYXhab29tID0gbWF4S2V5KGlucHV0Q3J5c3RhbHMpOwoKICAgICAgLy8gTWFrZSBzdXJlIHRoYXQga2V5cyBjb3ZlciB0aGUgZW50aXJlIHJhbmdlCiAgICAgIFNldDxJbnRlZ2VyPiBleHBlY3RlZFJhbmdlID0KICAgICAgICAgIEludFN0cmVhbS5yYW5nZSgwLCBtYXhab29tICsgMSkuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CiAgICAgIEVuZm9yY2UuaXNFcXVhbCgKICAgICAgICAgIGlucHV0Q3J5c3RhbHMua2V5U2V0KCksCiAgICAgICAgICBleHBlY3RlZFJhbmdlLAogICAgICAgICAgIlpvb20gY3J5c3RhbCB0YWdzIHdlcmUgbm90IGEgY29udGlndW91cyByYW5nZToge30iKTsKCiAgICAgIE1hcDxJbnRlZ2VyLCBVVUlEPiBvdXRwdXRDcnlzdGFscyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgLy8gaW52ZXJ0IHRoZSBrZXlzCiAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IG1heFpvb207IGkrKykgewogICAgICAgIG91dHB1dENyeXN0YWxzLnB1dChpLCBpbnB1dENyeXN0YWxzLmdldChtYXhab29tIC0gaSkpOwogICAgICB9CgogICAgICByZXR1cm4gb3V0cHV0Q3J5c3RhbHM7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5mb3JjZVpCb3hJbkNyeXN0YWwoaGFuZGxlLCBzbGljZVpCb3gpOwo=</text>
+        <text encoding="base64">ICAgIGVuZm9yY2VaQm94SW5DcnlzdGFsKGxvc3NsZXNzLCBzbGljZUV4dGVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgZW5mb3JjZVpCb3hJbkNyeXN0YWwoQ3J5c3RhbEhhbmRsZTw/PiBoYW5kbGUsIFpCb3ggc2xpY2UpewogICAgaGFuZGxlLmVuZm9yY2VDb250YWlucyhMaXN0cy5uZXdBcnJheUxpc3Qoc2xpY2UuZ2V0U3RhcnQoKSwgc2xpY2UuZ2V0RW5kKCkpKTsKICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dNYW5hZ2VyLmdldEZvcm1hdHRlckxvZ2dlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgZW5mb3JjZVpCb3hJbkNyeXN0YWwoaGFuZGxlLCBzbGljZVpCb3gpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ01hbmFnZXIuZ2V0Rm9ybWF0dGVyTG9nZ2VyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqLkxvZ2dlcjsKaW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dNYW5hZ2VyOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dNYW5hZ2VyLmdldEZvcm1hdHRlckxvZ2dlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ01hbmFnZXIuZ2V0Rm9ybWF0dGVyTG9nZ2VyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQppbXBvcnQgb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqLkxvZ2dlcjsKaW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dNYW5hZ2VyOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>305</text>
       </register>
     </registers>
     <search>
-      <last-search>sliceTemplate</last-search>
+      <last-search>downsampleWithPad</last-search>
       <last-offset />
-      <last-pattern>sliceTemplate</last-pattern>
+      <last-pattern>downsampleWithPad</last-pattern>
       <last-replace>Width</last-replace>
       <last-substitute>Height</last-substitute>
       <last-dir>1</last-dir>
@@ -589,7 +586,6 @@
         <entry>Zlice</entry>
         <entry>CrystalSlice</entry>
         <entry>Zslice</entry>
-        <entry>downsampleWithPad</entry>
         <entry>downsampleWithPadZB</entry>
         <entry>tilerequest</entry>
         <entry>TileRequest</entry>
@@ -603,6 +599,7 @@
         <entry>TileRequest(</entry>
         <entry>valid</entry>
         <entry>sliceTemplate</entry>
+        <entry>downsampleWithPad</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
