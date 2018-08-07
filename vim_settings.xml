@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1533323472537" />
@@ -9,10 +9,20 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1533231225264">
+        <mark key="'" line="22" column="66" />
+      </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" timestamp="1533673202500">
         <mark key="'" line="93" column="62" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1533340248968" />
+      <file name="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" timestamp="1533678295720">
+        <mark key="'" line="107" column="8" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1533672349341">
         <mark key="[" line="149" column="34" />
         <mark key="]" line="149" column="34" />
@@ -23,6 +33,9 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
         <mark key="^" line="161" column="31" />
+      </file>
+      <file name="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" timestamp="1533085436463">
+        <mark key="'" line="210" column="29" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/tiles/math.py" timestamp="1533595178355" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/math/zbox/ZSliceOffsetView.java" timestamp="1533323000746" />
@@ -47,6 +60,9 @@
       </file>
       <file name="$USER_HOME$/kesm2/kesm/mongo/images.py" timestamp="1533676004888">
         <mark key="'" line="658" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist_tests.py" timestamp="1533678228881">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/acq/slice_metadata_shim.py" timestamp="1533675970312">
         <mark key="[" line="48" column="0" />
@@ -86,10 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="89" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
-      <jump line="20" column="45" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
-      <jump line="30" column="42" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
-      <jump line="35" column="14" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="40" column="34" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="68" column="45" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="89" column="42" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
@@ -186,6 +198,10 @@
       <jump line="684" column="13" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
       <jump line="659" column="46" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
       <jump line="658" column="30" filename="$USER_HOME$/kesm2/kesm/mongo/images.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist_tests.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" />
+      <jump line="95" column="8" filename="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" />
+      <jump line="106" column="8" filename="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -203,7 +219,7 @@
         <text>props</text>
       </register>
       <register name="/" type="4">
-        <text>_index</text>
+        <text>num</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFJlc291cmNlUGF0aCBUSU5ZX0NPTE9SX0lNRyA9CiAgICAgIFJlc291cmNlUGF0aC5vZihOc3BpVGVzdFJlc291cmNlcy5jbGFzcywgImltZy90aW55X2NvbG9yX2ltZy5uc3AiKTsKCiAgcHVibGljIHN0YXRpYyBmaW5hbCBSZXNvdXJjZVBhdGggVElOWV9DT0xPUl9JTUdfTUVUQURBVEEgPQogICAgICBSZXNvdXJjZVBhdGgub2YoTnNwaVRlc3RSZXNvdXJjZXMuY2xhc3MsICJpbWcvdGlueV9jb2xvcl9pbWcubnNwLmpzb24iKTsK</text>
@@ -243,9 +259,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_index</last-search>
+      <last-search>num</last-search>
       <last-offset />
-      <last-pattern>_index</last-pattern>
+      <last-pattern>num</last-pattern>
       <last-replace>Width</last-replace>
       <last-substitute>Height</last-substitute>
       <last-dir>1</last-dir>
@@ -253,8 +269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slicer</entry>
-        <entry>invert</entry>
         <entry>Zlice</entry>
         <entry>CrystalSlice</entry>
         <entry>Zslice</entry>
@@ -273,6 +287,8 @@
         <entry>sliceTemplate</entry>
         <entry>downsampleWithPad</entry>
         <entry>_index</entry>
+        <entry>create_fake</entry>
+        <entry>num</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
