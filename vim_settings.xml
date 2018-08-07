@@ -367,6 +367,9 @@
         <mark key="." line="17" column="68" />
         <mark key="^" line="17" column="68" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/math/zbox/BoundedByZBox.java" timestamp="1533599414309">
+        <mark key="[" line="51" column="77" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/ImageMetadataTest.java" timestamp="1524693181899">
         <mark key="[" line="16" column="111" />
         <mark key="]" line="4" column="50" />
@@ -523,7 +526,7 @@
         <text>getOutputSliceTemplate().newSliceAt</text>
       </register>
       <register name="/" type="4">
-        <text>tileRequestManager</text>
+        <text>contains</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFJlc291cmNlUGF0aCBUSU5ZX0NPTE9SX0lNRyA9CiAgICAgIFJlc291cmNlUGF0aC5vZihOc3BpVGVzdFJlc291cmNlcy5jbGFzcywgImltZy90aW55X2NvbG9yX2ltZy5uc3AiKTsKCiAgcHVibGljIHN0YXRpYyBmaW5hbCBSZXNvdXJjZVBhdGggVElOWV9DT0xPUl9JTUdfTUVUQURBVEEgPQogICAgICBSZXNvdXJjZVBhdGgub2YoTnNwaVRlc3RSZXNvdXJjZXMuY2xhc3MsICJpbWcvdGlueV9jb2xvcl9pbWcubnNwLmpzb24iKTsK</text>
@@ -563,9 +566,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tileRequestManager</last-search>
+      <last-search>contains</last-search>
       <last-offset />
-      <last-pattern>tileRequestManager</last-pattern>
+      <last-pattern>contains</last-pattern>
       <last-replace>Width</last-replace>
       <last-substitute>Height</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>faceIndex</entry>
         <entry>block</entry>
         <entry>create</entry>
         <entry>sliceindex</entry>
@@ -593,6 +595,7 @@
         <entry encoding="base64">Pj4+</entry>
         <entry>Height</entry>
         <entry>tileRequestManager</entry>
+        <entry>contains</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvdW50ZXIvU3VtbWFyeS9n</entry>
