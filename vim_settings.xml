@@ -100,7 +100,7 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1533594808237">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1533672349341">
         <mark key="[" line="149" column="34" />
         <mark key="]" line="149" column="34" />
         <mark key="." line="149" column="34" />
@@ -316,7 +316,7 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533594030605">
+      <file name="/Dummy.txt" timestamp="1533672618916">
         <mark key="'" line="0" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -352,18 +352,22 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533671865509">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1533672815775">
         <mark key="'" line="139" column="10" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="^" line="346" column="39" />
-        <mark key="." line="345" column="0" />
+        <mark key="[" line="180" column="30" />
+        <mark key="]" line="180" column="30" />
+        <mark key="^" line="180" column="44" />
+        <mark key="." line="180" column="30" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/geometry/ZPointTestKT.kt" timestamp="1525139400012">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" timestamp="1533672591366">
+        <mark key="'" line="23" column="60" />
+        <mark key="[" line="145" column="89" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiTestResources.java" timestamp="1533593510125">
         <mark key="]" line="17" column="68" />
@@ -412,7 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/kesm2/build.gradle" />
       <jump line="37" column="4" filename="$USER_HOME$/kesm2/build.gradle" />
       <jump line="38" column="37" filename="$USER_HOME$/kesm2/build.gradle" />
       <jump line="54" column="6" filename="$USER_HOME$/kesm2/build.gradle" />
@@ -512,10 +515,11 @@
       <jump line="158" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="136" column="51" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="139" column="10" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="23" column="60" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZm9yY2VaQm94SW5DcnlzdGFsKGxvc3NsZXNzLCBzbGljZUV4dGVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getZoomCrystals</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -526,10 +530,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>getZoomCrystals</text>
       </register>
       <register name="/" type="4">
-        <text>valid</text>
+        <text>sliceTemplate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFJlc291cmNlUGF0aCBUSU5ZX0NPTE9SX0lNRyA9CiAgICAgIFJlc291cmNlUGF0aC5vZihOc3BpVGVzdFJlc291cmNlcy5jbGFzcywgImltZy90aW55X2NvbG9yX2ltZy5uc3AiKTsKCiAgcHVibGljIHN0YXRpYyBmaW5hbCBSZXNvdXJjZVBhdGggVElOWV9DT0xPUl9JTUdfTUVUQURBVEEgPQogICAgICBSZXNvdXJjZVBhdGgub2YoTnNwaVRlc3RSZXNvdXJjZXMuY2xhc3MsICJpbWcvdGlueV9jb2xvcl9pbWcubnNwLmpzb24iKTsK</text>
@@ -569,9 +573,9 @@
       </register>
     </registers>
     <search>
-      <last-search>valid</last-search>
+      <last-search>sliceTemplate</last-search>
       <last-offset />
-      <last-pattern>valid</last-pattern>
+      <last-pattern>sliceTemplate</last-pattern>
       <last-replace>Width</last-replace>
       <last-substitute>Height</last-substitute>
       <last-dir>1</last-dir>
@@ -579,7 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sliceTemp</entry>
         <entry>Writing slice at</entry>
         <entry>slicer</entry>
         <entry>invert</entry>
@@ -599,6 +602,7 @@
         <entry>validate</entry>
         <entry>TileRequest(</entry>
         <entry>valid</entry>
+        <entry>sliceTemplate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
