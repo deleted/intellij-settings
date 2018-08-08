@@ -81,10 +81,11 @@
         <mark key="'" line="93" column="62" />
         <mark key="[" line="177" column="30" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1533690793791">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1533761974892">
+        <mark key="[" line="113" column="108" />
+        <mark key="]" line="113" column="94" />
+        <mark key="." line="113" column="94" />
+        <mark key="^" line="113" column="94" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
         <mark key="[" line="96" column="16" />
@@ -121,6 +122,9 @@
         <mark key="]" line="115" column="52" />
         <mark key="^" line="115" column="14" />
         <mark key="." line="115" column="52" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" timestamp="1533760676702">
+        <mark key="'" line="111" column="39" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSeverTest.kt" timestamp="1528327103158">
         <mark key="[" line="40" column="65" />
@@ -437,10 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="6" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
-      <jump line="148" column="18" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
-      <jump line="155" column="18" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/common/concurrent/FuturesTest.java" />
-      <jump line="114" column="23" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" />
       <jump line="190" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="185" column="42" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" />
@@ -537,10 +537,14 @@
       <jump line="90" column="21" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="266" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="42" column="30" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" />
+      <jump line="24" column="34" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" />
+      <jump line="101" column="85" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" />
+      <jump line="111" column="39" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>long backoffMs</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -551,52 +555,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>long backoffMs</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFJlc291cmNlUGF0aCBUSU5ZX0NPTE9SX0lNRyA9CiAgICAgIFJlc291cmNlUGF0aC5vZihOc3BpVGVzdFJlc291cmNlcy5jbGFzcywgImltZy90aW55X2NvbG9yX2ltZy5uc3AiKTsKCiAgcHVibGljIHN0YXRpYyBmaW5hbCBSZXNvdXJjZVBhdGggVElOWV9DT0xPUl9JTUdfTUVUQURBVEEgPQogICAgICBSZXNvdXJjZVBhdGgub2YoTnNwaVRlc3RSZXNvdXJjZXMuY2xhc3MsICJpbWcvdGlueV9jb2xvcl9pbWcubnNwLmpzb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+IGZ1dHVyZSA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dNYW5hZ2VyOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ai5Mb2dNYW5hZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICAgIkRvd25zYW1wbGluZzogQWJvdXQgdG8gd3JpdGUgc2xpY2Uge30gdG8gY3J5c3RhbCB7fSIsIG9mZnNldFNsaWNlLiwgY3J5c3RhbElkKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUaWxlUmVxdWVzdChCdWZmZXJlZEltYWdlIGltYWdlLCBLZXNtU2xpY2VNZXRhZGF0YSBtZXRhLCBpbnQgdGlsZVNpemUpIHsKICAgICAgdGhpcygKICAgICAgICAgIG1ldGEuZ2V0QmxvYklkKCksCiAgICAgICAgICBpbWFnZSwKICAgICAgICAgIG5ldyBJbWFnZVNoYXBlKHRpbGVTaXplLCB0aWxlU2l6ZSksCiAgICAgICAgICBtZXRhLmdldFNsaWNlSW5kZXgoKSwKICAgICAgICAgIG1ldGEuZ2V0RmFjZUluZGV4KCksCiAgICAgICAgICBtZXRhLmdldENyeXN0YWxJZCgpLAogICAgICAgICAgbWV0YS5nZXRab29tQ3J5c3RhbHMoKSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICAgIkRvd25zYW1wbGluZzogQWJvdXQgdG8gd3JpdGUgc2xpY2Uge30gdG8gY3J5c3RhbCB7fSIsIG9mZnNldFNsaWNlLiwgY3J5c3RhbElkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUaWxlUmVxdWVzdChCdWZmZXJlZEltYWdlIGltYWdlLCBLZXNtU2xpY2VNZXRhZGF0YSBtZXRhLCBpbnQgdGlsZVNpemUpIHsKICAgICAgdGhpcygKICAgICAgICAgIG1ldGEuZ2V0QmxvYklkKCksCiAgICAgICAgICBpbWFnZSwKICAgICAgICAgIG5ldyBJbWFnZVNoYXBlKHRpbGVTaXplLCB0aWxlU2l6ZSksCiAgICAgICAgICBtZXRhLmdldFNsaWNlSW5kZXgoKSwKICAgICAgICAgIG1ldGEuZ2V0RmFjZUluZGV4KCksCiAgICAgICAgICBtZXRhLmdldENyeXN0YWxJZCgpLAogICAgICAgICAgbWV0YS5nZXRab29tQ3J5c3RhbHMoKSk7CiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBtYXhLZXkoTWFwPEludGVnZXIsID8+IG1hcCkgewogICAgICByZXR1cm4gbWFwLmtleVNldCgpLnN0cmVhbSgpLm1hcFRvSW50KHggLT4geCkubWF4KCkuZ2V0QXNJbnQoKTsKICAgIH0KCiAgICAvKioKICAgICAqIEludmVydCB0aGUga2V5cyB0byBhIHpvb21DcnlzdGFscyBtYXAuCiAgICAgKgogICAgICogQHBhcmFtIGlucHV0Q3J5c3RhbHMKICAgICAqIEByZXR1cm4gb3V0cHV0IGNyeXN0YWxzCiAgICAgKi8KICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgcHJvdGVjdGVkIHN0YXRpYyBNYXA8SW50ZWdlciwgVVVJRD4gaW52ZXJ0Wm9vbUNyeXN0YWxJbmRpY2VzKE1hcDxJbnRlZ2VyLCBVVUlEPiBpbnB1dENyeXN0YWxzKSB7CiAgICAgIGludCBtYXhab29tID0gbWF4S2V5KGlucHV0Q3J5c3RhbHMpOwoKICAgICAgLy8gTWFrZSBzdXJlIHRoYXQga2V5cyBjb3ZlciB0aGUgZW50aXJlIHJhbmdlCiAgICAgIFNldDxJbnRlZ2VyPiBleHBlY3RlZFJhbmdlID0KICAgICAgICAgIEludFN0cmVhbS5yYW5nZSgwLCBtYXhab29tICsgMSkuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CiAgICAgIEVuZm9yY2UuaXNFcXVhbCgKICAgICAgICAgIGlucHV0Q3J5c3RhbHMua2V5U2V0KCksCiAgICAgICAgICBleHBlY3RlZFJhbmdlLAogICAgICAgICAgIlpvb20gY3J5c3RhbCB0YWdzIHdlcmUgbm90IGEgY29udGlndW91cyByYW5nZToge30iKTsKCiAgICAgIE1hcDxJbnRlZ2VyLCBVVUlEPiBvdXRwdXRDcnlzdGFscyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgLy8gaW52ZXJ0IHRoZSBrZXlzCiAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IG1heFpvb207IGkrKykgewogICAgICAgIG91dHB1dENyeXN0YWxzLnB1dChpLCBpbnB1dENyeXN0YWxzLmdldChtYXhab29tIC0gaSkpOwogICAgICB9CgogICAgICByZXR1cm4gb3V0cHV0Q3J5c3RhbHM7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZm9yY2VaQm94SW5DcnlzdGFsKGxvc3NsZXNzLCBzbGljZUV4dGVudCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBtYXhLZXkoTWFwPEludGVnZXIsID8+IG1hcCkgewogICAgICByZXR1cm4gbWFwLmtleVNldCgpLnN0cmVhbSgpLm1hcFRvSW50KHggLT4geCkubWF4KCkuZ2V0QXNJbnQoKTsKICAgIH0KCiAgICAvKioKICAgICAqIEludmVydCB0aGUga2V5cyB0byBhIHpvb21DcnlzdGFscyBtYXAuCiAgICAgKgogICAgICogQHBhcmFtIGlucHV0Q3J5c3RhbHMKICAgICAqIEByZXR1cm4gb3V0cHV0IGNyeXN0YWxzCiAgICAgKi8KICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgcHJvdGVjdGVkIHN0YXRpYyBNYXA8SW50ZWdlciwgVVVJRD4gaW52ZXJ0Wm9vbUNyeXN0YWxJbmRpY2VzKE1hcDxJbnRlZ2VyLCBVVUlEPiBpbnB1dENyeXN0YWxzKSB7CiAgICAgIGludCBtYXhab29tID0gbWF4S2V5KGlucHV0Q3J5c3RhbHMpOwoKICAgICAgLy8gTWFrZSBzdXJlIHRoYXQga2V5cyBjb3ZlciB0aGUgZW50aXJlIHJhbmdlCiAgICAgIFNldDxJbnRlZ2VyPiBleHBlY3RlZFJhbmdlID0KICAgICAgICAgIEludFN0cmVhbS5yYW5nZSgwLCBtYXhab29tICsgMSkuYm94ZWQoKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CiAgICAgIEVuZm9yY2UuaXNFcXVhbCgKICAgICAgICAgIGlucHV0Q3J5c3RhbHMua2V5U2V0KCksCiAgICAgICAgICBleHBlY3RlZFJhbmdlLAogICAgICAgICAgIlpvb20gY3J5c3RhbCB0YWdzIHdlcmUgbm90IGEgY29udGlndW91cyByYW5nZToge30iKTsKCiAgICAgIE1hcDxJbnRlZ2VyLCBVVUlEPiBvdXRwdXRDcnlzdGFscyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgLy8gaW52ZXJ0IHRoZSBrZXlzCiAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IG1heFpvb207IGkrKykgewogICAgICAgIG91dHB1dENyeXN0YWxzLnB1dChpLCBpbnB1dENyeXN0YWxzLmdldChtYXhab29tIC0gaSkpOwogICAgICB9CgogICAgICByZXR1cm4gb3V0cHV0Q3J5c3RhbHM7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>305</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>Width</last-replace>
       <last-substitute>Height</last-substitute>
       <last-dir>1</last-dir>
@@ -604,8 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>downsampleWithPadZB</entry>
-        <entry>tilerequest</entry>
         <entry>TileRequest</entry>
         <entry>Height</entry>
         <entry>tileRequestManager</entry>
@@ -624,6 +626,8 @@
         <entry>downsampling</entry>
         <entry>Downsampling</entry>
         <entry>logger</entry>
+        <entry>retry</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
