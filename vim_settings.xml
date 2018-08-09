@@ -21,11 +21,11 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/model/Temple.java" timestamp="1533748352985">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/model/Temple.java" timestamp="1533781204800">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1531796965101">
         <mark key="[" line="58" column="67" />
@@ -137,11 +137,11 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1533747306334">
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1533780996728">
         <mark key="[" line="46" column="15" />
-        <mark key="]" line="46" column="15" />
-        <mark key="^" line="47" column="11" />
-        <mark key="." line="46" column="15" />
+        <mark key="]" line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+        <mark key="." line="46" column="25" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
@@ -284,6 +284,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/RingTest.java" timestamp="1533781015036">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="41" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
@@ -469,7 +475,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcG9pbnRUb1BpeGVsTWFwLmZvckVhY2goKHBvaW50LCBpZHgpIC0+IHsKICAgICAgICBpZiAocG9pbnQuaW5kZXggIT0gaWR4KSB7CiAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiSW5kZXggbWlzbWF0Y2ghIik7CiAgICAgICAgfQogICAgICB9KTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxMWFBvaW50LCBJbnRlZ2VyPiBwb2ludFRvUGl4ZWxNYXA7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -480,7 +486,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>point</text>
+        <text>idx</text>
       </register>
       <register name="/" type="4">
         <text>put(</text>
@@ -489,31 +495,31 @@
         <text encoding="base64">ICBwcml2YXRlIEJvdW5kZWRQYXJhbWV0ZXIgc3BlZWRQYXJhbSA9CiAgICAgIG5ldyBCb3VuZGVkUGFyYW1ldGVyKCJTcGVlZCIsIDIwMDAsIDUwMDAsIDEwMDApLnNldERlc2NyaXB0aW9uKCJTcGVlZCBvZiBsaWdodCB3YXZlIik7CgogIHByaXZhdGUgQm91bmRlZFBhcmFtZXRlciBqaXR0ZXJQYXJhbSA9CiAgICAgIG5ldyBCb3VuZGVkUGFyYW1ldGVyKCJKaXR0ZXIiLCAxLCAxLCAzKS5zZXREZXNjcmlwdGlvbigiSml0dGVyIHRoZSBsaWdodHMgb24gZWFjaCBwZXRhbCIpOwoKICBwcml2YXRlIFNpbkxGTyBwaXhlbExGTyA9IG5ldyBTaW5MRk8oMCwgUGV0YWwubnVtUGl4ZWxzLCBzcGVlZFBhcmFtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcG9pbnRUb1BpeGVsTWFwLmZvckVhY2goKHBvaW50LCBpZHgpIC0+IHsKICAgICAgICBpZiAocG9pbnQuaW5kZXggIT0gaWR4KSB7CiAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiSW5kZXggbWlzbWF0Y2ghIik7CiAgICAgICAgfQogICAgICB9KTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxMWFBvaW50LCBJbnRlZ2VyPiBwb2ludFRvUGl4ZWxNYXA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBvaW50VG9QaXhlbE1hcC5wdXQocG9pbnQsIHBpeGVsSWR4KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50IGdldFBpeGVsSW5kZXgoTFhQb2ludCBwb2ludCkgewogICAgcmV0dXJuIHBvaW50LmluZGV4OwogIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMucG9pbnRUb1BpeGVsTWFwID0gQ29sbGVjdGlvbnMudW5tb2RpZmlhYmxlTWFwKGYucG9pbnRUb1BpeGVsTWFwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxMWFBvaW50LCBJbnRlZ2VyPiBwb2ludE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPExYUG9pbnQsIEludGVnZXI+IHBvaW50VG9QaXhlbE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAodGhpcy4pCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBSZXR1cm4gdGhlIGdsb2JhbCBwaXhlbCBpbmRleCBvZiB0aGUgZ2l2ZW4gbW9kZWwgcG9pbnQKICAgKgogICAqIEBwYXJhbSBwb2ludCB0aGUgcG9pbnQgaW4gcXVlc3Rpb24KICAgKiBAcmV0dXJuIFRoZSBnbG9iYWwgcGl4ZWwgaW5kZXgKICAgKi8KICBwdWJsaWMgaW50IGdldFBpeGVsSW5kZXgoTFhQb2ludCBwb2ludCkgewogICAgcmV0dXJuIHRoaXMucG9pbnRUb1BpeGVsTWFwLmdldChwb2ludCk7CiAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGczLXBldGFscy10by1zcG9rZXMK</text>
+        <text encoding="base64">ICAgICAgaW50IGlkeCA9IG1vZGVsLmdldFBpeGVsSW5kZXgocG9pbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBvcmcudGVtcGxlZ2FsYXhpYS5wYXR0ZXJucy50ZWQuUmluZ1Rlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgcG9pbnRUb1BpeGVsTWFwLmZvckVhY2goKHBvaW50LCBpZHgpIC0+IHsKICAgICAgICBpZiAocG9pbnQuaW5kZXggIT0gaWR4KSB7CiAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiSW5kZXggbWlzbWF0Y2ghIik7CiAgICAgICAgfQogICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBseC5yZWdpc3RlclBhdHRlcm4oUmluZ1Rlc3QuY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1076,7 +1082,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50IGdldFBpeGVsSW5kZXgoTFhQb2ludCBwb2ludCkgewogICAgcmV0dXJuIHBvaW50LmluZGV4OwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
