@@ -415,12 +415,11 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1533772890747">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="43" />
-        <mark key="^" line="39" column="43" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1533776254292">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1533772970427">
         <mark key="[" line="0" column="0" />
@@ -430,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="42" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="210" column="29" filename="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="154" column="27" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
@@ -530,10 +528,11 @@
       <jump line="101" column="85" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" />
       <jump line="111" column="39" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" />
       <jump line="36" column="26" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -547,58 +546,57 @@
         <text>reserveAndSubmit</text>
       </register>
       <register name="/" type="4">
-        <text>ZSlice</text>
+        <text>True</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFJlc291cmNlUGF0aCBUSU5ZX0NPTE9SX0lNRyA9CiAgICAgIFJlc291cmNlUGF0aC5vZihOc3BpVGVzdFJlc291cmNlcy5jbGFzcywgImltZy90aW55X2NvbG9yX2ltZy5uc3AiKTsKCiAgcHVibGljIHN0YXRpYyBmaW5hbCBSZXNvdXJjZVBhdGggVElOWV9DT0xPUl9JTUdfTUVUQURBVEEgPQogICAgICBSZXNvdXJjZVBhdGgub2YoTnNwaVRlc3RSZXNvdXJjZXMuY2xhc3MsICJpbWcvdGlueV9jb2xvcl9pbWcubnNwLmpzb24iKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoc2xpY2VTdG9yZS5oYXModGVzdFJlY29yZDEuZ2V0SWQoKSkpLmlzVHJ1ZSgpOwogICAgYXNzZXJ0VGhhdChzbGljZVN0b3JlLmhhcyh0ZXN0UmVjb3JkMi5nZXRJZCgpKSkuaXNUcnVlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIE1vY2tpdG8udmVyaWZ5KG1vY2tUaWxlV3JpdGVyLCBNb2NraXRvLnRpbWVzKDIpKQogICAgICAgIC53cml0ZVRpbGVzKE1vY2tpdG8uYW55KFRpbGVSZXF1ZXN0LmNsYXNzKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZlci5wcm9jZXNzTGVmdG92ZXJTbGljZXMoc2xpY2VTdG9yZSwgbW9ja1RpbGVXcml0ZXIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1vY2tUaWxlV3JpdGVyLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>TileRequestManager = Mockito.mock(TileRequestManager.class);
     ReceptionistTileWriter ti</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFByb2Nlc3MgYW55IHNsaWNlcyB0aGF0IHdlcmUgYWxyZWFkeSBwcmVzZW50IGF0IGJvb3QuCiAgICBBcnJheUxpc3Q8Q29tcGxldGFibGVGdXR1cmU8Vm9pZD4+IGVucXVldWVGdXR1cmVzID0gbmV3IEFycmF5TGlzdDxDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPj4oKTsKICAgIGZvciAoU3RyaW5nIGJsb2JJZCA6IHNsaWNlU3RvcmUubGlzdCgpKSB7CiAgICAgIGVucXVldWVGdXR1cmVzLmFkZCgKICAgICAgICAgIHNsaWNlU3RvcmUKICAgICAgICAgICAgICAuZ2V0KGJsb2JJZCkKICAgICAgICAgICAgICAudGhlbkFjY2VwdCgKICAgICAgICAgICAgICAgICAgKEtlc21TbGljZVN0b3JlUmVjb3JkIHJlY29yZCkgLT4gewogICAgICAgICAgICAgICAgICAgIFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuVGlsZVJlcXVlc3QgdGlsZVJlcXVlc3QgPSBuZXcgUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5UaWxlUmVxdWVzdChyZWNvcmQuZ2V0SW1hZ2UoKSwgcmVjb3JkLmdldE1ldGFkYXRhKCkpOwogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlByb2Nlc3NpbmcgYmxvYiAlcyBmcm9tIEtlc21TbGljZVN0b3JlLiIsIHJlY29yZC5nZXRJZCgpKTsKICAgICAgICAgICAgICAgICAgICB0aWxlV3JpdGVyLndyaXRlVGlsZXModGlsZVJlcXVlc3QpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudGhlblJ1bigoKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJGaW5pc2hlZCBQcm9jZXNzaW5nIGJsb2IgJXMgZnJvbSBLZXNtU2xpY2VTdG9yZS4gRGVsZXRpbmcgdGhlIHJlY29yZC4iLCByZWNvcmQuZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNsaWNlU3RvcmUuZGVsZXRlKHJlY29yZC5nZXRJZCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuam9pbigpOwogICAgICAgICAgICAgICAgICB9KSk7CiAgICB9CgogICAgbG9nZ2VyLmluZm8oIldhaXRpbmcgZm9yICVkIGJsb2Igd3JpdGVzIGZyb20gaW1hZ2VzIGxlZnQgaW4gdGhlIFNsaWNlU3RvcmUgdG8gZmluaXNoLiIsIGVucXVldWVGdXR1cmVzLnNpemUoKSk7CiAgICBGdXR1cmVzLmFsbE9mKGVucXVldWVGdXR1cmVzKS5qb2luKCk7CgogICAgbG9nZ2VyLmluZm8oIkFsbCBTbGljZVN0b3JlIGltYWdlcyBwcm9jZXNzZWQuIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2xpY2VTdG9yZS5kZWxldGUocmVjb3JkLmdldElkKCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiRmluaXNoZWQgUHJvY2Vzc2luZyBibG9iICVzIGZyb20gS2VzbVNsaWNlU3RvcmUiLCByZWNvcmQuZ2V0SWQoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiRW5xdWV1ZWQgJWQgS2VzbVNsaWNlcyB0aGF0IHdlcmUgaW4gc3RvcmFnZSBhdCBzZXJ2ZXIgYm9vdCB0aW1lIiwgZW5xdWV1ZUZ1dHVyZXMuc2l6ZSgpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygKICAgICAgICAgICAgICAgICAgICAgICAgIkVucXVldWVkIHJlc2lkdWFsIHNsaWNlIGJsb2IgZnJvbSBLZXNtU2xpY2VTdG9yZTogJXMiLCByZWNvcmQuZ2V0SWQoKSk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>305</text>
+        <text encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</text>
       </register>
     </registers>
     <search>
-      <last-search>ZSlice</last-search>
+      <last-search>True</last-search>
       <last-offset />
-      <last-pattern>ZSlice</last-pattern>
-      <last-replace>Width</last-replace>
-      <last-substitute>Height</last-substitute>
+      <last-pattern>True</last-pattern>
+      <last-replace>False</last-replace>
+      <last-substitute>True</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Height</entry>
         <entry>tileRequestManager</entry>
         <entry>contains</entry>
         <entry encoding="base64">PDw8</entry>
@@ -618,9 +616,9 @@
         <entry>retry</entry>
         <entry>todo</entry>
         <entry>ZSlice</entry>
+        <entry>True</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvc3VtbWFyeS9n</entry>
         <entry>41</entry>
         <entry>85</entry>
         <entry encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</entry>
@@ -640,6 +638,7 @@
         <entry>276</entry>
         <entry>180</entry>
         <entry>305</entry>
+        <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
