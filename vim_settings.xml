@@ -15,7 +15,7 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/aws/sns.py" timestamp="1536358292091" />
+      <file name="$USER_HOME$/kesm2/kesm/aws/sns.py" timestamp="1536360188508" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="3" />
@@ -273,7 +273,7 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/image_tag_service.py" timestamp="1536358962443">
+      <file name="$USER_HOME$/kesm2/kesm/acq/image_tag_service.py" timestamp="1536359878360">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="56" />
         <mark key="." line="8" column="56" />
@@ -561,7 +561,7 @@
         <text>mongo_base</text>
       </register>
       <register name="/" type="4">
-        <text>mongo_url</text>
+        <text>python</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZQo=</text>
@@ -601,9 +601,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mongo_url</last-search>
+      <last-search>python</last-search>
       <last-offset />
-      <last-pattern>mongo_url</last-pattern>
+      <last-pattern>python</last-pattern>
       <last-replace>False</last-replace>
       <last-substitute>True</last-substitute>
       <last-dir>1</last-dir>
@@ -611,7 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TileRequest(</entry>
         <entry>valid</entry>
         <entry>sliceTemplate</entry>
         <entry>downsampleWithPad</entry>
@@ -631,6 +630,7 @@
         <entry>setup</entry>
         <entry>aws</entry>
         <entry>mongo_url</entry>
+        <entry>python</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
