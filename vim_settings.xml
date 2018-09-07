@@ -15,7 +15,7 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/aws/sns.py" timestamp="1536355891426" />
+      <file name="$USER_HOME$/kesm2/kesm/aws/sns.py" timestamp="1536358292091" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="3" />
@@ -167,9 +167,10 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" timestamp="1536355639102">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="73" />
+      <file name="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" timestamp="1536358724981">
+        <mark key="'" line="200" column="21" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="75" column="43" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" timestamp="1533085436463">
         <mark key="'" line="210" column="29" />
@@ -272,11 +273,11 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/image_tag_service.py" timestamp="1536355645284">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="73" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/kesm2/kesm/acq/image_tag_service.py" timestamp="1536358962443">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+        <mark key="^" line="8" column="56" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1530666256831">
         <mark key="[" line="9" column="22" />
@@ -309,6 +310,7 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/devops/docker/all_local/docker-compose.yml" timestamp="1536358795912" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiBufferedImageOutputStreamTest.java" timestamp="1521930598056">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="35" />
@@ -442,14 +444,6 @@
       <file name="$USER_HOME$/kesm2/kesm/acq/drivers/auxbox/interface_tests.py" timestamp="1536281274890" />
     </filemarks>
     <jumps>
-      <jump line="158" column="50" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="292" column="14" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="302" column="6" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="60" column="21" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
-      <jump line="103" column="4" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
-      <jump line="104" column="21" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
-      <jump line="105" column="21" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="109" column="21" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="113" column="52" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="133" column="21" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
@@ -542,10 +536,18 @@
       <jump line="19" column="22" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
       <jump line="17" column="41" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
       <jump line="158" column="52" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="43" column="41" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
+      <jump line="7" column="30" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
+      <jump line="53" column="12" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
+      <jump line="64" column="11" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
+      <jump line="65" column="41" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
+      <jump line="67" column="26" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
+      <jump line="70" column="69" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
+      <jump line="200" column="21" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20ucHJvamVjdHMuS0VTTUFjcS5wcm9jZXNzZXMubWFuYWdlZF9wcm9jZXNzIGFzIG1hbmFnZWRfcHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -556,53 +558,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>mongo_base</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>mongo_url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20ucHJvamVjdHMuS0VTTUFjcS5wcm9jZXNzZXMubWFuYWdlZF9wcm9jZXNzIGFzIG1hbmFnZWRfcHJvY2Vzcwo=</text>
+        <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1vY2tpdG8udmVyaWZ5KG1vY2tUaWxlV3JpdGVyLCBNb2NraXRvLnRpbWVzKDIpKQogICAgICAgIC53cml0ZVRpbGVzKE1vY2tpdG8uYW55KFRpbGVSZXF1ZXN0LmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZlci5wcm9jZXNzTGVmdG92ZXJTbGljZXMoc2xpY2VTdG9yZSwgbW9ja1RpbGVXcml0ZXIpOwo=</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8udmVyaWZ5KG1vY2tUaWxlV3JpdGVyLCBNb2NraXRvLnRpbWVzKDIpKQogICAgICAgIC53cml0ZVRpbGVzKE1vY2tpdG8uYW55KFRpbGVSZXF1ZXN0LmNsYXNzKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vY2tUaWxlV3JpdGVyLgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>TileRequestManager = Mockito.mock(TileRequestManager.class);
-    ReceptionistTileWriter ti</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZlci5wcm9jZXNzTGVmdG92ZXJTbGljZXMoc2xpY2VTdG9yZSwgbW9ja1RpbGVXcml0ZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</text>
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>mongo_url</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>mongo_url</last-pattern>
       <last-replace>False</last-replace>
       <last-substitute>True</last-substitute>
       <last-dir>1</last-dir>
@@ -610,8 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
-        <entry>validate</entry>
         <entry>TileRequest(</entry>
         <entry>valid</entry>
         <entry>sliceTemplate</entry>
@@ -630,6 +629,8 @@
         <entry>cache</entry>
         <entry>saved</entry>
         <entry>setup</entry>
+        <entry>aws</entry>
+        <entry>mongo_url</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
