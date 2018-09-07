@@ -390,15 +390,13 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/base/notify.py" timestamp="1536354028743" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" timestamp="1533757917711">
         <mark key="'" line="96" column="45" />
         <mark key="[" line="145" column="89" />
         <mark key="]" line="145" column="88" />
         <mark key="^" line="145" column="88" />
         <mark key="." line="145" column="88" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/math/zbox/BoundedByZBox.java" timestamp="1533599414309">
-        <mark key="[" line="51" column="77" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/ImageMetadataTest.java" timestamp="1524693181899">
         <mark key="[" line="16" column="111" />
