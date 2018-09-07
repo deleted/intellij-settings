@@ -435,6 +435,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/acq/drivers/auxbox/interface_tests.py" timestamp="1536281274890" />
     </filemarks>
     <jumps>
       <jump line="44" column="22" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
