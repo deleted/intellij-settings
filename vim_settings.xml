@@ -15,7 +15,6 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/aws/sns.py" timestamp="1536360960357" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/KesmSliceMetadata.kt" timestamp="1528244541441">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="3" />
@@ -28,7 +27,6 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/projects/KESMWeb/packages/tile-viewer/sliceTileSource.js" timestamp="1536355065831" />
       <file name="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" timestamp="1536355719989">
         <mark key="'" line="158" column="52" />
       </file>
@@ -41,6 +39,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="14" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/aws/sns.py" timestamp="1536882980186" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tools/SingleCrystalCommand.java" timestamp="1525213781620">
         <mark key="[" line="36" column="62" />
         <mark key="]" line="36" column="61" />
@@ -80,8 +79,6 @@
         <mark key="^" line="30" column="67" />
         <mark key="." line="30" column="67" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/experimental/users/gerald/focus_stepper.py" timestamp="1536274378759" />
-      <file name="$USER_HOME$/kesm2/kesm/projects/KESMWeb/packages/kesmcollections/images.js" timestamp="1536354918837" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceMetadata.java" timestamp="1525387664381">
         <mark key="[" line="96" column="16" />
         <mark key="]" line="46" column="26" />
@@ -211,7 +208,6 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/aws/sns_tests.py" timestamp="1536356264807" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913886947">
         <mark key="[" line="47" column="4" />
         <mark key="]" line="24" column="28" />
@@ -254,7 +250,6 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/sqs/SqsQueue.java" timestamp="1536353213217" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/common/KesmSliceMetadataTest.java" timestamp="1528154399133">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="98" column="62" />
@@ -285,7 +280,6 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/projects/KESMWeb/packages/tile-viewer/readme.md" timestamp="1536355005676" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1528419922894">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="15" />
@@ -297,6 +291,11 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536883259505">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
@@ -310,7 +309,6 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/devops/docker/all_local/docker-compose.yml" timestamp="1536358795912" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiBufferedImageOutputStreamTest.java" timestamp="1521930598056">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="35" />
@@ -397,7 +395,6 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/base/notify.py" timestamp="1536354028743" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" timestamp="1533757917711">
         <mark key="'" line="96" column="45" />
         <mark key="[" line="145" column="89" />
@@ -441,7 +438,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/drivers/auxbox/interface_tests.py" timestamp="1536281274890" />
     </filemarks>
     <jumps>
       <jump line="109" column="21" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
@@ -547,7 +543,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgb3MuCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -558,7 +554,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mongo_base</text>
+        <text>sqs_queue_arn</text>
       </register>
       <register name="/" type="4">
         <text>python</text>
@@ -567,34 +563,34 @@
         <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgb3MuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc2VsZi5fc3FzX2NsaWVudC5jcmVhdGVfcXVldWUoCiAgICAgICAgICAgIFF1ZXVlTmFtZT1zZWxmLnF1ZXVlX25hbWUKICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1vY2tpdG8udmVyaWZ5KG1vY2tUaWxlV3JpdGVyLCBNb2NraXRvLnRpbWVzKDIpKQogICAgICAgIC53cml0ZVRpbGVzKE1vY2tpdG8uYW55KFRpbGVSZXF1ZXN0LmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFNlcnZlci5wcm9jZXNzTGVmdG92ZXJTbGljZXMoc2xpY2VTdG9yZSwgbW9ja1RpbGVXcml0ZXIpOwo=</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8udmVyaWZ5KG1vY2tUaWxlV3JpdGVyLCBNb2NraXRvLnRpbWVzKDIpKQogICAgICAgIC53cml0ZVRpbGVzKE1vY2tpdG8uYW55KFRpbGVSZXF1ZXN0LmNsYXNzKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</text>
