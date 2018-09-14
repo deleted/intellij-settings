@@ -171,12 +171,11 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536951681682">
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536964514612">
         <mark key="'" line="91" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="14" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
@@ -213,6 +212,12 @@
         <mark key="]" line="14" column="28" />
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1533776254292">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/bin/test/net/threescan/acquisition/receptionist/nspi/img/tiny_color_img.nsp.json" timestamp="1525906249446">
         <mark key="[" line="0" column="0" />
@@ -302,6 +307,9 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" timestamp="1536964622200">
+        <mark key="'" line="81" column="28" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileWriterRangeTest.kt" timestamp="1532631260889">
         <mark key="[" line="79" column="20" />
         <mark key="]" line="81" column="0" />
@@ -369,6 +377,12 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1536276620069">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/scanner/ScanContext.java" timestamp="1511821152266">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="24" />
@@ -394,12 +408,11 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/auxbox/interface.py" timestamp="1536961602376" />
-      <file name="$USER_HOME$/kesm/kesm/base/app.py" timestamp="1536887413016">
+      <file name="$USER_HOME$/kesm/kesm/base/app.py" timestamp="1536964529107">
         <mark key="'" line="598" column="11" />
-        <mark key="[" line="621" column="49" />
-        <mark key="]" line="607" column="12" />
-        <mark key="^" line="607" column="22" />
-        <mark key="." line="607" column="12" />
+        <mark key="[" line="618" column="0" />
+        <mark key="]" line="618" column="0" />
+        <mark key="." line="618" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/common/storage/ImageMetadataTest.java" timestamp="1524693181899">
         <mark key="[" line="16" column="111" />
@@ -431,21 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="30" column="29" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="102" column="49" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="105" column="4" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="120" column="47" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="110" column="40" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="258" column="86" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="244" column="29" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="38" column="1" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="39" column="24" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="279" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="309" column="16" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="308" column="16" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="55" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="43" column="24" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
@@ -531,10 +529,25 @@
       <jump line="598" column="11" filename="$USER_HOME$/kesm/kesm/base/app.py" />
       <jump line="91" column="9" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="29" column="8" filename="$USER_HOME$/kesm/kesm/mongo/images.py" />
+      <jump line="141" column="48" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="146" column="40" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="151" column="53" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="163" column="8" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="17" column="54" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="27" column="56" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="29" column="5" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="30" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="34" column="14" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="40" column="16" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="43" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="44" column="14" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="58" column="25" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="74" column="69" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
+      <jump line="81" column="28" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgIGRlZiBjbGVhbnVwKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEhvb2sgdGhhdCBleGVjdXRlcyB3aGVuIHRoZSBjb21tYW5kIGV4aXRzIChub3JtYWxseSBvciBleGNlcHRpb25hbGx5KS4KICAgICAgICBTdWJjbGFzc2VzIGNhbiBvcHRpb25hbGx5IGltcGxlbWVudCB0aGlzLgogICAgICAgICIiIgogICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -545,52 +558,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>image_collection</text>
+        <text>cleanup</text>
       </register>
       <register name="/" type="4">
-        <text>tag(</text>
+        <text>shutdown</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFZBTElEQVRPUiA9IGtqc29uc2NoZW1hLkpTT05TY2hlbWFWYWxpZGF0b3Ioeyd0eXBlJzogJ29iamVjdCd9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgIGRlZiBjbGVhbnVwKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEhvb2sgdGhhdCBleGVjdXRlcyB3aGVuIHRoZSBjb21tYW5kIGV4aXRzIChub3JtYWxseSBvciBleGNlcHRpb25hbGx5KS4KICAgICAgICBTdWJjbGFzc2VzIGNhbiBvcHRpb25hbGx5IGltcGxlbWVudCB0aGlzLgogICAgICAgICIiIgogICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkYXRlKG1zZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGVhbnVwKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZBTElEQVRPUiA9IGxhbWJkYSB4OiB4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb25zY2hlbWEK</text>
+        <text encoding="base64">ICAgIGRlZiBjbGVhbnVwKHNlbGYpOgogICAgICAgIHNlbGYuX3NlcnZpY2VfcHJvY2Vzcy5jbGVhbnVwKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtlc20uYXdzLnNxcy5nZXRfcXVldWVfYXJuKCkK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtlc20uYmFzZS5hc3NlcnRfYnVpbHRpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZhbGlkYXRlKG1zZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIFZBTElEQVRPUiA9IGxhbWJkYSB4OiB4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fc25zX3N1YnNjcmlwdGlvbl9hcm4gaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb25zY2hlbWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zbnNfc3Vic2NyaXB0aW9uX2FybiA9IHNlbGYuX3Nuc19zZW5kZXIuc3Vic2NyaWJlKHF1ZXVlX2FybikK</text>
+        <text encoding="base64">ICAgIGtlc20uYXdzLnNxcy5nZXRfcXVldWVfYXJuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tag(</last-search>
+      <last-search>shutdown</last-search>
       <last-offset />
-      <last-pattern>tag(</last-pattern>
+      <last-pattern>shutdown</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -598,7 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>downsamping</entry>
         <entry>downsampling</entry>
         <entry>Downsampling</entry>
         <entry>logger</entry>
@@ -618,6 +630,7 @@
         <entry>yappi</entry>
         <entry>'</entry>
         <entry>tag(</entry>
+        <entry>shutdown</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
