@@ -102,6 +102,7 @@
       <file name="$USER_HOME$/kesm2/kesm/projects/KESMWeb/packages/base/server/images.js" timestamp="1536354801171">
         <mark key="'" line="60" column="18" />
       </file>
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1536889448824" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1528154494471">
         <mark key="[" line="115" column="60" />
         <mark key="]" line="115" column="52" />
@@ -287,11 +288,12 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536887894555">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="90" column="40" />
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536889174109">
+        <mark key="'" line="91" column="9" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
@@ -423,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="24" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="101" column="8" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="106" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="30" column="29" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -523,10 +524,11 @@
       <jump line="23" column="11" filename="$USER_HOME$/kesm/kesm/base/app.py" />
       <jump line="25" column="4" filename="$USER_HOME$/kesm/kesm/base/app.py" />
       <jump line="598" column="11" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="91" column="9" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIGtlc20uYXdzLnNxcy5nZXRfcXVldWVfYXJuKCkK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -537,60 +539,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>yappi</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIGtlc20uYXdzLnNxcy5nZXRfcXVldWVfYXJuKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fc25zX3N1YnNjcmlwdGlvbl9hcm4gaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgIGtlc20uYmFzZS5hc3NlcnRfYnVpbHRpbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zbnNfc3Vic2NyaXB0aW9uX2FybiA9IHNlbGYuX3Nuc19zZW5kZXIuc3Vic2NyaWJlKHF1ZXVlX2FybikK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fc25zX3N1YnNjcmlwdGlvbl9hcm4gaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zbnNfc3Vic2NyaXB0aW9uX2FybiA9IHNlbGYuX3Nuc19zZW5kZXIuc3Vic2NyaWJlKHF1ZXVlX2FybikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYiA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9kYiA9IGRiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zcXNfcXVldWVfdXJsID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYiA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3MuCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9kYiA9IGRiCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</text>
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>yappi</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>yappi</last-pattern>
-      <last-replace>False</last-replace>
-      <last-substitute>True</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create_fake</entry>
         <entry>num</entry>
         <entry>downsamping</entry>
         <entry>downsampling</entry>
@@ -610,9 +611,9 @@
         <entry>extract</entry>
         <entry>_run</entry>
         <entry>yappi</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry>41</entry>
         <entry>85</entry>
         <entry encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</entry>
         <entry>q</entry>
@@ -632,6 +633,7 @@
         <entry>180</entry>
         <entry>305</entry>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
