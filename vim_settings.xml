@@ -39,8 +39,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/aws/sns.py" timestamp="1536886579907">
+      <file name="$USER_HOME$/kesm/kesm/aws/sns.py" timestamp="1536950501849">
         <mark key="'" line="185" column="8" />
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tools/SingleCrystalCommand.java" timestamp="1525213781620">
         <mark key="[" line="36" column="62" />
@@ -288,12 +292,12 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536948970229">
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536950768149">
         <mark key="'" line="91" column="9" />
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="38" />
-        <mark key="." line="67" column="38" />
-        <mark key="^" line="67" column="38" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
@@ -404,7 +408,10 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/aws/sns_tests.py" timestamp="1536887571845" />
+      <file name="$USER_HOME$/kesm/kesm/aws/sns_tests.py" timestamp="1536950570711">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="67" />
+      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1536187383389">
         <mark key="[" line="104" column="46" />
         <mark key="]" line="104" column="0" />
@@ -527,8 +534,8 @@
       <jump line="91" column="9" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGtlc20uYXdzLnNxcy5nZXRfcXVldWVfYXJuKCkK</text>
+      <register name="&quot;" type="4">
+        <text>PermissiveSNSSender</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -539,43 +546,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>PermissiveSNSSender</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20ubW9uZ28ubW9uZ29fYmFzZQo=</text>
+        <text encoding="base64">ICAgIFZBTElEQVRPUiA9IGtqc29uc2NoZW1hLkpTT05TY2hlbWFWYWxpZGF0b3Ioeyd0eXBlJzogJ29iamVjdCd9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtlc20uYXdzLnNxcy5nZXRfcXVldWVfYXJuKCkK</text>
+        <text encoding="base64">ICAgIFZBTElEQVRPUiA9IGxhbWJkYSB4OiB4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtlc20uYmFzZS5hc3NlcnRfYnVpbHRpbigpCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb25zY2hlbWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgIGtlc20uYXdzLnNxcy5nZXRfcXVldWVfYXJuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fc25zX3N1YnNjcmlwdGlvbl9hcm4gaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgIGtlc20uYmFzZS5hc3NlcnRfYnVpbHRpbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zbnNfc3Vic2NyaXB0aW9uX2FybiA9IHNlbGYuX3Nuc19zZW5kZXIuc3Vic2NyaWJlKHF1ZXVlX2FybikK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fc25zX3N1YnNjcmlwdGlvbl9hcm4gaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zbnNfc3Vic2NyaXB0aW9uX2FybiA9IHNlbGYuX3Nuc19zZW5kZXIuc3Vic2NyaWJlKHF1ZXVlX2FybikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYiA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9kYiA9IGRiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
