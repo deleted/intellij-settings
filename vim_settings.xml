@@ -16,12 +16,12 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/aws/sns.py" timestamp="1536951050631">
-        <mark key="'" line="185" column="8" />
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="56" column="20" />
-        <mark key="." line="56" column="20" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/kesm/kesm/aws/sns.py" timestamp="1536972676184">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="63" column="51" />
+        <mark key="." line="63" column="51" />
+        <mark key="^" line="63" column="51" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tools/SingleCrystalCommand.java" timestamp="1525213781620">
         <mark key="[" line="36" column="62" />
@@ -119,11 +119,10 @@
       <file name="$USER_HOME$/kesm/kesm/mongo/images_tests.py" timestamp="1536966291370">
         <mark key="'" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1536968441049">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="20" />
+      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1536973240858">
+        <mark key="[" line="24" column="59" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913886947">
         <mark key="[" line="47" column="4" />
@@ -180,12 +179,12 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536967209828">
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536973109612">
         <mark key="'" line="91" column="9" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="41" column="48" />
+        <mark key="[" line="76" column="54" />
+        <mark key="]" line="76" column="21" />
+        <mark key="." line="76" column="21" />
+        <mark key="^" line="76" column="21" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
@@ -450,7 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="16" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="158" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="136" column="51" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="139" column="10" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
@@ -550,10 +548,11 @@
       <jump line="31" column="42" filename="$USER_HOME$/kesm/kesm/aws/sns_tests.py" />
       <jump line="22" column="26" filename="$USER_HOME$/kesm/kesm/aws/sns_tests.py" />
       <jump line="12" column="5" filename="$USER_HOME$/kesm/kesm/aws/sns_tests.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/kesm/kesm/aws/sns.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gc3FzX2NsaWVudDogCiAgICAgICAgOnBhcmFtIHF1ZXVlX3VybDogCiAgICAgICAgOnJldHVybjogCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -564,52 +563,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>TOPIC</text>
+        <text>class Protocol</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9kYiBpcyBOb25lOgogICAgICAgICAgICBzZWxmLl9kYiA9IGtlc20ubW9uZ28ubW9uZ29fYmFzZS5nZXRfZGJfY29ubmVjdGlvbihzZWxmLl9tb25nb191cmwpCgogICAgICAgIHNlbGYuX2ltYWdlX2NvbGxlY3Rpb24gPSBrZXNtLm1vbmdvLmltYWdlcy5JbWFnZU1ldGFkYXRhQ29sbGVjdGlvbigKICAgICAgICAgICAgZGI9c2VsZi5fZGIsIGNsb2NrPXNlbGYuY2xvY2soKSkK</text>
+        <text encoding="base64">aW1wb3J0IGtlc20uYXdzLnNxcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gc3FzX2NsaWVudDogCiAgICAgICAgOnBhcmFtIHF1ZXVlX3VybDogCiAgICAgICAgOnJldHVybjogCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBURVNUX1NOU19BUk4gPSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBrZXNtLmF3cy5hd3NfdGVzdHMK</text>
+        <text encoding="base64">ICAgICAgICBhZGRfdGFnX21zZyA9IHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9kYiBpcyBOb25lOgogICAgICAgICAgICBzZWxmLl9kYiA9IGtlc20ubW9uZ28ubW9uZ29fYmFzZS5nZXRfZGJfY29ubmVjdGlvbihzZWxmLl9tb25nb191cmwpCgogICAgICAgIHNlbGYuX2ltYWdlX2NvbGxlY3Rpb24gPSBrZXNtLm1vbmdvLmltYWdlcy5JbWFnZU1ldGFkYXRhQ29sbGVjdGlvbigKICAgICAgICAgICAgZGI9c2VsZi5fZGIsIGNsb2NrPXNlbGYuY2xvY2soKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICJpbWFnZV9pZCI6IHNlbGYudGVzdF9pbWFnZV9pZCwKICAgICAgICAgICJhY3Rpb24iOiAiYWRkIiwKICAgICAgICAgICJ0YWciOiBURVNUX1RBRyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9kYiBpcyBOb25lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbGVhbnVwKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIEhvb2sgdGhhdCBleGVjdXRlcyB3aGVuIHRoZSBjb21tYW5kIGV4aXRzIChub3JtYWxseSBvciBleGNlcHRpb25hbGx5KS4KICAgICAgICBTdWJjbGFzc2VzIGNhbiBvcHRpb25hbGx5IGltcGxlbWVudCB0aGlzLgogICAgICAgICIiIgogICAgICAgIHBhc3MKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGVhbnVwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdBcHByb3hpbWF0ZU51bWJlck9mTWVzc2FnZXMnLAogICAgICAgICAgICAgICAgJ0FwcHJveGltYXRlTnVtYmVyT2ZNZXNzYWdlc0RlbGF5ZWQnLAogICAgICAgICAgICAgICAgJ0FwcHJveGltYXRlTnVtYmVyT2ZNZXNzYWdlc05vdFZpc2libGUnLAogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TOPIC</last-search>
+      <last-search>class Protocol</last-search>
       <last-offset />
-      <last-pattern>TOPIC</last-pattern>
+      <last-pattern>class Protocol</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +616,6 @@
     </search>
     <history>
       <history-search>
-        <entry>retry</entry>
         <entry>todo</entry>
         <entry>ZSlice</entry>
         <entry>True</entry>
@@ -637,6 +635,7 @@
         <entry>images_collection</entry>
         <entry>test_topic</entry>
         <entry>TOPIC</entry>
+        <entry>class Protocol</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
