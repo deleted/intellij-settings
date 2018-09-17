@@ -119,11 +119,11 @@
       <file name="$USER_HOME$/kesm/kesm/mongo/images_tests.py" timestamp="1536966291370">
         <mark key="'" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1537207624248">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="26" />
-        <mark key="^" line="41" column="26" />
-        <mark key="." line="41" column="26" />
+      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1537209615068">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/shared/image_sender/grpc_stream.py" timestamp="1528913886947">
         <mark key="[" line="47" column="4" />
@@ -180,12 +180,12 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1536973109612">
-        <mark key="'" line="91" column="9" />
-        <mark key="[" line="76" column="54" />
-        <mark key="]" line="76" column="21" />
-        <mark key="." line="76" column="21" />
-        <mark key="^" line="76" column="21" />
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537210560239">
+        <mark key="'" line="157" column="38" />
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="14" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/nspi/TileWriteManager.java" timestamp="1532718094241">
         <mark key="[" line="2" column="6" />
@@ -450,12 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="136" column="51" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="139" column="10" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="23" column="60" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
-      <jump line="99" column="26" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
-      <jump line="153" column="62" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
       <jump line="93" column="62" filename="$USER_HOME$/kesm2/src/test/java/net/threescan/image/zbox/DownsampleSlicerTest.java" />
       <jump line="145" column="88" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
       <jump line="96" column="45" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" />
@@ -550,10 +544,16 @@
       <jump line="22" column="26" filename="$USER_HOME$/kesm/kesm/aws/sns_tests.py" />
       <jump line="12" column="5" filename="$USER_HOME$/kesm/kesm/aws/sns_tests.py" />
       <jump line="16" column="4" filename="$USER_HOME$/kesm/kesm/aws/sns.py" />
+      <jump line="44" column="25" filename="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="92" column="28" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="125" column="35" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="53" column="13" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="157" column="38" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>break</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYiA9IE5vbmUK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -564,52 +564,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>break</text>
+        <text>ReceiptHandle']</text>
       </register>
       <register name="/" type="4">
-        <text>class Protocol</text>
+        <text>_db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20uYXdzLnNxcwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICBzZWxmLl9nZXRfcXVldWVfc2l6ZShzcXNfY2xpZW50LCBzcXNfcXVldWVfdXJsKSwKICAgICAgICAgICAgMQogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYiA9IE5vbmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbWFnZV9jb2xsZWN0aW9uID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gc3FzX2NsaWVudDogCiAgICAgICAgOnBhcmFtIHF1ZXVlX3VybDogCiAgICAgICAgOnJldHVybjogCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHN0cihtc2cua2V5cygpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCAnUmVjZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfdGFnX21zZyA9IHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX3Byb2MgPSBrZXNtLmFjcS5pbWFnZV90YWdfc2VydmljZS5JbWFnZVRhZ1NlcnZpY2VQcm9jZXNzKAogICAgICAgICAgc2VsZi5tb2NrX2ltYWdlX2NvbGxlY3Rpb24sCiAgICAgICAgICBzZWxmLnNuc190b3BpY19hcm4sCiAgICAgICAgICBzcXNfY2xpZW50PWtlc20uYXdzLnNxcy5nZXRfc3FzX3Rlc3RpbmdfY2xpZW50KCksCiAgICAgICAgICBzbnNfY2xpZW50PWtlc20uYXdzLnNucy5nZXRfc25zX3Rlc3RpbmdfY2xpZW50KCkKICAgICAgICApCgogICAgICAgIHNlcnZpY2VfcHJvYy5zdGFydCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJpbWFnZV9pZCI6IHNlbGYudGVzdF9pbWFnZV9pZCwKICAgICAgICAgICJhY3Rpb24iOiAiYWRkIiwKICAgICAgICAgICJ0YWciOiBURVNUX1RBRyAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFdBUk5JTkc6IFRoaXMgZG9lc24ndCB3b3JrIGF0IGFsbC4gRG9uJ3QgZXZlbiBkbyB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class Protocol</last-search>
+      <last-search>_db</last-search>
       <last-offset />
-      <last-pattern>class Protocol</last-pattern>
+      <last-pattern>_db</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -617,10 +617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
-        <entry>ZSlice</entry>
-        <entry>True</entry>
-        <entry>cache</entry>
         <entry>saved</entry>
         <entry>setup</entry>
         <entry>aws</entry>
@@ -637,6 +633,10 @@
         <entry>test_topic</entry>
         <entry>TOPIC</entry>
         <entry>class Protocol</entry>
+        <entry>siz</entry>
+        <entry>assert F</entry>
+        <entry>ReceiptHandle</entry>
+        <entry>_db</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
