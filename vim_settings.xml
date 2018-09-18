@@ -32,22 +32,22 @@
       <file name="/Clipboard.txt" timestamp="1537223460272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1537231133410">
-        <mark key="'" line="143" column="21" />
+      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1537298436953">
+        <mark key="'" line="142" column="10" />
         <mark key="[" line="23" column="9" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="16" column="9" />
+        <mark key="]" line="143" column="10" />
+        <mark key="." line="143" column="10" />
+        <mark key="^" line="143" column="10" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1537226902557">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537297461394">
-        <mark key="'" line="122" column="25" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="167" column="60" />
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537298354320">
+        <mark key="'" line="125" column="24" />
+        <mark key="[" line="129" column="55" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="95" column="18" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/mongo/images.py" timestamp="1533676004888">
         <mark key="'" line="658" column="30" />
@@ -105,7 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" />
       <jump line="95" column="8" filename="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" />
       <jump line="106" column="8" filename="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" />
       <jump line="90" column="21" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
@@ -189,7 +188,6 @@
       <jump line="44" column="25" filename="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" />
       <jump line="20" column="18" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="92" column="28" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
-      <jump line="125" column="35" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="53" column="13" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="157" column="38" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="54" column="20" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" />
@@ -205,10 +203,12 @@
       <jump line="128" column="37" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="104" column="39" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="122" column="25" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="125" column="24" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="142" column="10" filename="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEV4Y2VwdGlvbg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -219,60 +219,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEV4Y2VwdGlvbg==</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZGVsZXRlX21lc3NhZ2UocmVjZWlwdF9oYW5kbGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX3Byb2Nlc3MgPSBzZXJ2aWNlX3Byb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9zdHJpbmcoCiAgICAgICAgICAgICJtb25nb191cmwiLCAibW9uZ29kYjovLzNzY2FuLW1vbmdvOjI3MDE3L21ldGVvciIsCiAgICAgICAgICAgICJVUkwgb2YgdGhlIG1vbmdvIGRhdGFiYXNlIHRvIHdoaWNoIGltYWdlIHRhZ3Mgd2lsbCBiZSB3cml0dGVuLiIKICAgICAgICApCgo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb25nb191cmwgPSBzZWxmLmZsYWdzLm1vbmdvX3VybAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9kZWxldGVfbWVzc2FnZShyZWNlaXB0X2hhbmRsZSkKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgICdJbnZhbGlkIGFjdGlvbiAie30iLiBFeHBlY3RlZCAiYWRkIiBvciAicmVtb3ZlIi4nCiAgICAgICAgICAgICAgICAuZm9ybWF0KGFjdGlvbikKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVzc2FnZXMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VzLmFwcGVuZCgocmVjZWlwdF9oYW5kbGUsIG1zZykpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zbnNfc2VuZGVyLnZhbGlkYXRlKG1zZykgICMgZW5zdXJlIHRoZSBtZXNzYWdlIG1lZXRzIHRoZSBzY2hlbWEK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBqCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9kZWxldGVfbWVzc2FnZShyZWNlaXB0X2hhbmRsZSkKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgICdJbnZhbGlkIGFjdGlvbiAie30iLiBFeHBlY3RlZCAiYWRkIiBvciAicmVtb3ZlIi4nCiAgICAgICAgICAgICAgICAuZm9ybWF0KGFjdGlvbikKICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX3Byb2Nlc3MgPSBzZXJ2aWNlX3Byb2Nlc3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLkRFRklORV9zdHJpbmcoCiAgICAgICAgICAgICJtb25nb191cmwiLCAibW9uZ29kYjovLzNzY2FuLW1vbmdvOjI3MDE3L21ldGVvciIsCiAgICAgICAgICAgICJVUkwgb2YgdGhlIG1vbmdvIGRhdGFiYXNlIHRvIHdoaWNoIGltYWdlIHRhZ3Mgd2lsbCBiZSB3cml0dGVuLiIKICAgICAgICApCgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtb25nb191cmwgPSBzZWxmLmZsYWdzLm1vbmdvX3VybAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>132</text>
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_run</entry>
         <entry>yappi</entry>
         <entry>'</entry>
         <entry>tag(</entry>
@@ -292,10 +291,9 @@
         <entry>extract_fr</entry>
         <entry>extract</entry>
         <entry>validate</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</entry>
-        <entry>q</entry>
         <entry>:w</entry>
         <entry>s/0/1/g</entry>
         <entry>s/0/2/g</entry>
@@ -314,6 +312,8 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>w</entry>
         <entry>17</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>132</entry>
       </history-cmd>
       <history-expr />
       <history-input />
