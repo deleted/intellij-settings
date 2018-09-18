@@ -32,12 +32,12 @@
       <file name="/Clipboard.txt" timestamp="1537223460272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1537227347456">
+      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1537231133410">
         <mark key="'" line="143" column="21" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="18" column="11" />
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1537226902557">
         <mark key="'" line="33" column="0" />
@@ -255,7 +255,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>17</text>
       </register>
     </registers>
     <search>
@@ -291,7 +291,6 @@
         <entry>def check</entry>
       </history-search>
       <history-cmd>
-        <entry>85</entry>
         <entry encoding="base64">JzwsJz5zL2RvZXNOb3RDb250YWluL2lzVmFsaWQvZw==</entry>
         <entry>q</entry>
         <entry>:w</entry>
@@ -311,6 +310,7 @@
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>w</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
