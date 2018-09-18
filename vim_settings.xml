@@ -42,11 +42,11 @@
       <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1537226902557">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537227449400">
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537229782633">
         <mark key="'" line="157" column="38" />
-        <mark key="[" line="159" column="51" />
-        <mark key="]" line="105" column="54" />
-        <mark key="." line="105" column="54" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
         <mark key="^" line="105" column="54" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/mongo/images.py" timestamp="1533676004888">
@@ -204,8 +204,8 @@
       <jump line="143" column="21" filename="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFzIGU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -231,28 +231,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBrZXNtLmJhc2Uub3ZlcnJpZGVzCg==</text>
+        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2VfcHJvYy50cmlnZ2VyX3NodXRkb3duKCkKICAgICAgICBzZWxmLnNlcnZpY2VfcHJvYy5qb2luKCkK</text>
+        <text encoding="base64">ICAgIEBrZXNtLmJhc2Uub3ZlcnJpZGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3dhaXRfZm9yX3F1ZXVlX2VtcHR5KAogICAgICAgICMgICAgIHNlcnZpY2VfcHJvYy5fc3FzX2NsaWVudCwKICAgICAgICAjICAgICBzZXJ2aWNlX3Byb2MuX3Nxc19xdWV1ZV91cmwKICAgICAgICAjICkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2VfcHJvYy50cmlnZ2VyX3NodXRkb3duKCkKICAgICAgICBzZWxmLnNlcnZpY2VfcHJvYy5qb2luKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuX3dhaXRfZm9yX3F1ZXVlX2VtcHR5KAogICAgICAgICMgICAgIHNlcnZpY2VfcHJvYy5fc3FzX2NsaWVudCwKICAgICAgICAjICAgICBzZXJ2aWNlX3Byb2MuX3Nxc19xdWV1ZV91cmwKICAgICAgICAjICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3dhaXRfZm9yX3F1ZXVlX2VtcHR5KAogICAgICAgICMgICAgIHNlbGYuc2VydmljZV9wcm9jLl9zcXNfY2xpZW50LAogICAgICAgICMgICAgIHNlbGYuc2VydmljZV9wcm9jLl9zcXNfcXVldWVfdXJsCiAgICAgICAgIyApCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3dhaXRfZm9yX3F1ZXVlX2VtcHR5KAogICAgICAgICMgICAgIHNlcnZpY2VfcHJvYy5fc3FzX2NsaWVudCwKICAgICAgICAjICAgICBzZXJ2aWNlX3Byb2MuX3Nxc19xdWV1ZV91cmwKICAgICAgICAjICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3dhaXRfZm9yX3F1ZXVlX2VtcHR5KAogICAgICAgICMgICAgIHNlbGYuc2VydmljZV9wcm9jLl9zcXNfY2xpZW50LAogICAgICAgICMgICAgIHNlbGYuc2VydmljZV9wcm9jLl9zcXNfcXVldWVfdXJsCiAgICAgICAgIyApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
