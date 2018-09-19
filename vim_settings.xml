@@ -42,12 +42,15 @@
       <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1537226902557">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537308934551">
-        <mark key="'" line="113" column="9" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="148" column="87" />
-        <mark key="." line="148" column="87" />
-        <mark key="^" line="148" column="87" />
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537316780489">
+        <mark key="'" line="151" column="53" />
+        <mark key="[" line="150" column="53" />
+        <mark key="]" line="150" column="53" />
+        <mark key="." line="150" column="53" />
+        <mark key="^" line="150" column="58" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" timestamp="1537316811736">
+        <mark key="'" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/mongo/images.py" timestamp="1533676004888">
         <mark key="'" line="658" column="30" />
@@ -105,13 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="65" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="97" column="79" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
-      <jump line="153" column="44" filename="$USER_HOME$/kesm2/kesm/acq/shared/receptionist_support.py" />
-      <jump line="212" column="41" filename="$USER_HOME$/kesm2/kesm/acq/shared/receptionist_support.py" />
-      <jump line="261" column="34" filename="$USER_HOME$/kesm2/kesm/acq/shared/receptionist_support.py" />
-      <jump line="184" column="41" filename="$USER_HOME$/kesm2/kesm/acq/shared/receptionist_support.py" />
-      <jump line="43" column="58" filename="$USER_HOME$/kesm2/kesm/projects/KESMWeb/packages/base/server/images.js" />
       <jump line="60" column="18" filename="$USER_HOME$/kesm2/kesm/projects/KESMWeb/packages/base/server/images.js" />
       <jump line="118" column="6" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
       <jump line="152" column="8" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
@@ -205,10 +201,17 @@
       <jump line="38" column="36" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="62" column="8" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
       <jump line="113" column="9" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="21" column="42" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="150" column="8" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="151" column="53" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" />
+      <jump line="16" column="5" filename="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" />
+      <jump line="59" column="42" filename="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" />
+      <jump line="60" column="45" filename="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: list</text>
+        <text>mongo_url</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -219,52 +222,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: list</text>
+        <text>mongo_url</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text>kesm_mongo_url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZGVsZXRlX21lc3NhZ2UocmVjZWlwdF9oYW5kbGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb29wKHNlbGYpOgogICAgICAgIG1lc3NhZ2VzID0gc2VsZi5fZ2V0X3VwZGF0ZV9tZXNzYWdlcygpCiAgICAgICAgZm9yIHJlY2VpcHRfaGFuZGxlLCBtc2cgaW4gbWVzc2FnZXM6CiAgICAgICAgICAgIHNlbGYuX3Byb2Nlc3NfdXBkYXRlX21lc3NhZ2UocmVjZWlwdF9oYW5kbGUsIG1zZykKCg==</text>
+        <text encoding="base64">ICAgICAgICBtb25nb191cmwgPSBrZXNtLm1vbmdvLm1vbmdvX2Jhc2UuZ2V0X2RiX2Nvbm5lY3Rpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBSZXRyZWl2ZSBhbnkgdXBkYXRlIG1lc3NhZ2VzIGZyb20gdGhlIFNRUyBxdWV1ZS4KICAgICAgICA6cmV0dXJuOiBnZW5lcmF0b3IgdGhhdCB5aWVsZHMgKHJlY2VpcHRIYW5kbGUsIG1zZyBkaWN0KSB0dXBsZXMKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBtb25nb191cmwgPSBrZXNtLm1vbmdvLm1vbmdvX2Jhc2UuZ2V0X2RiX2Nvbm5lY3Rpb24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb29wKHNlbGYpOgogICAgICAgIG1lc3NhZ2VzID0gc2VsZi5fZ2V0X3VwZGF0ZV9tZXNzYWdlcygpCiAgICAgICAgZm9yIHJlY2VpcHRfaGFuZGxlLCBtc2cgaW4gbWVzc2FnZXM6CiAgICAgICAgICAgIHNlbGYuX3Byb2Nlc3NfdXBkYXRlX21lc3NhZ2UocmVjZWlwdF9oYW5kbGUsIG1zZykKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWxldGVfbWVzc2FnZShyZWNlaXB0X2hhbmRsZSkK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBSZXRyZWl2ZSBhbnkgdXBkYXRlIG1lc3NhZ2VzIGZyb20gdGhlIFNRUyBxdWV1ZS4KICAgICAgICA6cmV0dXJuOiBnZW5lcmF0b3IgdGhhdCB5aWVsZHMgKHJlY2VpcHRIYW5kbGUsIG1zZyBkaWN0KSB0dXBsZXMKICAgICAgICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIChyZWNlaXB0X2hhbmRsZSwgZXh0cmFjdGVkX21lc3NhZ2UpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2VzbS5iYXNlLmluZm8oIiIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWxldGVfbWVzc2FnZShyZWNlaXB0X2hhbmRsZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIChyZWNlaXB0X2hhbmRsZSwgZXh0cmFjdGVkX21lc3NhZ2UpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2VzbS5iYXNlLmluZm8oIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9kZWxldGVfbWVzc2FnZShyZWNlaXB0X2hhbmRsZSkKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgICdJbnZhbGlkIGFjdGlvbiAie30iLiBFeHBlY3RlZCAiYWRkIiBvciAicmVtb3ZlIi4nCiAgICAgICAgICAgICAgICAuZm9ybWF0KGFjdGlvbikKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21zZy9leHRyYWN0ZWRfbWVzc2FnZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search>kesm_mongo_url</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern>kesm_mongo_url</last-pattern>
       <last-replace>extracted_message</last-replace>
       <last-substitute>msg</last-substitute>
       <last-dir>1</last-dir>
@@ -272,8 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tag(</entry>
-        <entry>shutdown</entry>
         <entry>images_collection</entry>
         <entry>test_topic</entry>
         <entry>TOPIC</entry>
@@ -292,6 +293,8 @@
         <entry>&quot;</entry>
         <entry>msg</entry>
         <entry>return</entry>
+        <entry>mongo_url</entry>
+        <entry>kesm_mongo_url</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/1/g</entry>
