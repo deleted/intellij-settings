@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="receptionist" type="PLAIN_TEXT" />
+      <mapping ext="taggerd" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
