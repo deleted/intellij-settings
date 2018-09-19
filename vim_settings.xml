@@ -25,8 +25,8 @@
       <file name="$USER_HOME$/kesm/docker_deps.yml" timestamp="1537381326231">
         <mark key="[" line="125" column="41" />
       </file>
-      <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1537385174318">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1537399569214">
+        <mark key="[" line="11" column="45" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="10" column="31" />
         <mark key="." line="8" column="0" />
