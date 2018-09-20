@@ -54,12 +54,12 @@
       <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1537226902557">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537393472549">
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1537407227440">
         <mark key="'" line="77" column="18" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="35" />
+        <mark key="[" line="86" column="21" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" timestamp="1537381658047">
         <mark key="'" line="16" column="5" />
@@ -225,7 +225,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>sqs_queue_url</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -236,7 +236,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>sqs_queue_url</text>
       </register>
       <register name="/" type="4">
         <text>repositories</text>
