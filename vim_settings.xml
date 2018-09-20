@@ -25,11 +25,11 @@
       <file name="$USER_HOME$/kesm/docker_deps.yml" timestamp="1537381326231">
         <mark key="[" line="125" column="41" />
       </file>
-      <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1537402872761">
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="11" column="31" />
+      <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1537403890229">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="18" column="73" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="18" column="73" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" timestamp="1533085436463">
         <mark key="'" line="210" column="29" />
