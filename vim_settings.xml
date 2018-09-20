@@ -242,12 +242,6 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1528419922894">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterPool.kt" timestamp="1525889041796">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="60" />
@@ -268,6 +262,12 @@
         <mark key="]" line="16" column="37" />
         <mark key="." line="16" column="37" />
         <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1528419922894">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1526327095971">
         <mark key="[" line="150" column="0" />
@@ -310,7 +310,6 @@
         <mark key="^" line="89" column="7" />
         <mark key="." line="89" column="7" />
       </file>
-      <file name="$USER_HOME$/prj/temple/Galaxia/lib/P3LX.jar!/heronarts/lx/model/LXPoint.class" timestamp="1533746361588" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceImageDiskStore.kt" timestamp="1527036203521">
         <mark key="[" line="21" column="53" />
         <mark key="]" line="28" column="0" />
@@ -496,7 +495,7 @@
         <text>idx</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>serial</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIEJvdW5kZWRQYXJhbWV0ZXIgc3BlZWRQYXJhbSA9CiAgICAgIG5ldyBCb3VuZGVkUGFyYW1ldGVyKCJTcGVlZCIsIDIwMDAsIDUwMDAsIDEwMDApLnNldERlc2NyaXB0aW9uKCJTcGVlZCBvZiBsaWdodCB3YXZlIik7CgogIHByaXZhdGUgQm91bmRlZFBhcmFtZXRlciBqaXR0ZXJQYXJhbSA9CiAgICAgIG5ldyBCb3VuZGVkUGFyYW1ldGVyKCJKaXR0ZXIiLCAxLCAxLCAzKS5zZXREZXNjcmlwdGlvbigiSml0dGVyIHRoZSBsaWdodHMgb24gZWFjaCBwZXRhbCIpOwoKICBwcml2YXRlIFNpbkxGTyBwaXhlbExGTyA9IG5ldyBTaW5MRk8oMCwgUGV0YWwubnVtUGl4ZWxzLCBzcGVlZFBhcmFtKTsK</text>
@@ -1096,9 +1095,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search>serial</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern>serial</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -1106,9 +1105,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shape</entry>
-        <entry>kotlin</entry>
-        <entry>testlib</entry>
         <entry>xact_test</entry>
         <entry>xact</entry>
         <entry>sender</entry>
@@ -1126,6 +1122,9 @@
         <entry>pointToPixelMap</entry>
         <entry>put(</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry>json</entry>
+        <entry>JSON</entry>
+        <entry>serial</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
