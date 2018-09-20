@@ -138,6 +138,9 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" timestamp="1537462671767">
+        <mark key="'" line="345" column="19" />
+      </file>
       <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/ted/Sines.java" timestamp="1533780996728">
         <mark key="[" line="46" column="15" />
         <mark key="]" line="46" column="25" />
@@ -379,11 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="15" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="304" column="5" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="318" column="5" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="12" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
-      <jump line="30" column="25" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="23" column="0" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="95" column="23" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
       <jump line="13" column="72" filename="$USER_HOME$/kesm/kesm/experimental/acq/kesms-with-machine-guns.py" />
@@ -479,6 +477,11 @@
       <jump line="16" column="0" filename="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/model/Temple.java" />
       <jump line="21" column="0" filename="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/GalaxiaGui.java" />
       <jump line="38" column="0" filename="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/model/Temple.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
+      <jump line="184" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
+      <jump line="261" column="19" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
+      <jump line="268" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
+      <jump line="345" column="19" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -496,7 +499,7 @@
         <text>idx</text>
       </register>
       <register name="/" type="4">
-        <text>serial</text>
+        <text>tag(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIEJvdW5kZWRQYXJhbWV0ZXIgc3BlZWRQYXJhbSA9CiAgICAgIG5ldyBCb3VuZGVkUGFyYW1ldGVyKCJTcGVlZCIsIDIwMDAsIDUwMDAsIDEwMDApLnNldERlc2NyaXB0aW9uKCJTcGVlZCBvZiBsaWdodCB3YXZlIik7CgogIHByaXZhdGUgQm91bmRlZFBhcmFtZXRlciBqaXR0ZXJQYXJhbSA9CiAgICAgIG5ldyBCb3VuZGVkUGFyYW1ldGVyKCJKaXR0ZXIiLCAxLCAxLCAzKS5zZXREZXNjcmlwdGlvbigiSml0dGVyIHRoZSBsaWdodHMgb24gZWFjaCBwZXRhbCIpOwoKICBwcml2YXRlIFNpbkxGTyBwaXhlbExGTyA9IG5ldyBTaW5MRk8oMCwgUGV0YWwubnVtUGl4ZWxzLCBzcGVlZFBhcmFtKTsK</text>
@@ -1096,9 +1099,9 @@
       </register>
     </registers>
     <search>
-      <last-search>serial</last-search>
+      <last-search>tag(</last-search>
       <last-offset />
-      <last-pattern>serial</last-pattern>
+      <last-pattern>tag(</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -1106,7 +1109,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xact_test</entry>
         <entry>xact</entry>
         <entry>sender</entry>
         <entry>send</entry>
@@ -1126,6 +1128,7 @@
         <entry>json</entry>
         <entry>JSON</entry>
         <entry>serial</entry>
+        <entry>tag(</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
