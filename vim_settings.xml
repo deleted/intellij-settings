@@ -156,12 +156,12 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1537535478657">
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1537922220363">
         <mark key="'" line="29" column="27" />
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="9" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="18" column="9" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
@@ -1108,7 +1108,7 @@
         <text encoding="base64">ICAgICAgICBzbnNUb3BpYyAtIG5ldyAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>475</text>
       </register>
     </registers>
     <search>
@@ -1144,7 +1144,6 @@
         <entry>map</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>47</entry>
         <entry>s/width/height/g</entry>
         <entry>s/width/nChannels/g</entry>
@@ -1164,6 +1163,7 @@
         <entry>103</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>475</entry>
       </history-cmd>
       <history-expr />
       <history-input />
