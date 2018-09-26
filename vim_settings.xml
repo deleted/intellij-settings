@@ -45,11 +45,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1537468885970">
-        <mark key="'" line="42" column="44" />
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1537993599330">
+        <mark key="'" line="56" column="21" />
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="21" />
+        <mark key="^" line="54" column="21" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tools/SingleCrystalCommand.java" timestamp="1525213781620">
         <mark key="[" line="36" column="62" />
@@ -156,12 +157,12 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1537922220363">
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1537994190599">
         <mark key="'" line="29" column="27" />
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="18" />
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="31" column="72" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
@@ -193,6 +194,7 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.6/dad3a9fbbedf8781dfd138539cd82638ebad5678/jackson-databind-2.9.6-sources.jar!/com/fasterxml/jackson/databind/ObjectWriter.java" timestamp="1537993438801" />
       <file name="$USER_HOME$/prj/temple/Galaxia/src/main/java/org/templegalaxia/patterns/TemplePattern.java" timestamp="1532241543225">
         <mark key="[" line="23" column="9" />
         <mark key="]" line="23" column="19" />
@@ -274,7 +276,7 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="65" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/json/JsonFunctions.java" timestamp="1537465483966">
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/json/JsonFunctions.java" timestamp="1537993359262">
         <mark key="'" line="574" column="26" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tileserver/TileServerController.java" timestamp="1526690608956">
@@ -387,7 +389,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1537466621473">
+      <file name="/fragment.java" timestamp="1537993661242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -395,7 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
       <jump line="21" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" />
       <jump line="12" column="45" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="80" column="23" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -495,10 +496,11 @@
       <jump line="574" column="26" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/json/JsonFunctions.java" />
       <jump line="29" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="24" column="27" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" />
+      <jump line="57" column="21" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>future</text>
+        <text>msgBody</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -509,10 +511,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>future</text>
+        <text>msgBody</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>Value</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+IHRhZyhTdHJpbmcgaW1hZ2VJZCwgU3RyaW5nIHRhZykgewogICAgICAgIAogICAgfQo=</text>
@@ -1108,21 +1110,20 @@
         <text encoding="base64">ICAgICAgICBzbnNUb3BpYyAtIG5ldyAK</text>
       </register>
       <register name=":" type="4">
-        <text>475</text>
+        <text encoding="base64">JzwsJz5zL1ZhbHVlL1Byb3BlcnR5L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search>Value</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
-      <last-replace>e</last-replace>
-      <last-substitute>0</last-substitute>
+      <last-pattern>Value</last-pattern>
+      <last-replace>Property</last-replace>
+      <last-substitute>Value</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uuid</entry>
         <entry>loaded</entry>
         <entry>deltaMS</entry>
         <entry>getValue</entry>
@@ -1142,9 +1143,9 @@
         <entry>actoin</entry>
         <entry>serialize</entry>
         <entry>map</entry>
+        <entry>Value</entry>
       </history-search>
       <history-cmd>
-        <entry>47</entry>
         <entry>s/width/height/g</entry>
         <entry>s/width/nChannels/g</entry>
         <entry encoding="base64">JzwsJz5zLycvOi9n</entry>
@@ -1164,6 +1165,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
         <entry>475</entry>
+        <entry encoding="base64">JzwsJz5zL1ZhbHVlL1Byb3BlcnR5L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
