@@ -45,11 +45,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538088955505">
-        <mark key="'" line="57" column="21" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538091146535">
+        <mark key="'" line="64" column="21" />
+        <mark key="[" line="50" column="60" />
+        <mark key="]" line="50" column="60" />
+        <mark key="." line="50" column="60" />
+        <mark key="^" line="50" column="73" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/tools/SingleCrystalCommand.java" timestamp="1525213781620">
         <mark key="[" line="36" column="62" />
@@ -156,12 +157,12 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538088652256">
-        <mark key="'" line="29" column="27" />
-        <mark key="[" line="32" column="53" />
-        <mark key="]" line="30" column="83" />
-        <mark key="." line="30" column="83" />
-        <mark key="^" line="30" column="83" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538091590443">
+        <mark key="'" line="38" column="27" />
+        <mark key="[" line="46" column="43" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="46" column="39" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/geode/storage/tileserver/TileServerControllerTest.java" timestamp="1526694418573">
         <mark key="[" line="25" column="0" />
@@ -499,7 +500,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toString</text>
+        <text>join</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -510,7 +511,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>join</text>
       </register>
       <register name="/" type="4">
         <text>Value</text>
@@ -519,31 +520,31 @@
         <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+IHRhZyhTdHJpbmcgaW1hZ2VJZCwgU3RyaW5nIHRhZykgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2dCb2R5LmFzVGV4dCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEltYWdlVGFnU25zUHVibGlzYGhlci5UYWdVcGRhdGVNZXNzYWdlIHRhZ1VwZGF0ZU1lc3NhZ2UgPSBwYXJzZVNxc01lc3NhZ2UobXNnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KEpzb25GdW5jdGlvbnMudG9TdHJpbmcodGFnVXBkYXRlTWVzc2FnZSkpLmlzRXF1YWxUbyhKc29uRnVuY3Rpb25zLnRvU3RyaW5nKGV4cGVjdGVkTWVzc2FnZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGFnVXBkYXRlTWVzc2FnZSB1bndpbmRUYWdVcGRhdGVNZXNzYWdlRnJvbUpzb24oU3RyaW5nIGpzb25TdHJpbmcpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuc25zLm1vZGVsLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnQm9keSA9IEpzb25GdW5jdGlvbnMucGFyc2VKc29uVG9UcmVlKG1zZy5nZXRCb2R5KCkpLmdldCgiTWVzc2FnZSIpLmFzVGV4dCgpOwogICAgICAgIEpzb25Ob2RlIHBhcnNlZEJvZHkgPSBKc29uRnVuY3Rpb25zLnBhcnNlSnNvblRvVHJlZShtc2dCb2R5KTsKICAgICAgICBTdHJpbmcgbXNnSnNvbiA9IHBhcnNlZEJvZHkuZ2V0KCJkZWZhdWx0IikuYXNUZXh0KCk7CiAgICAgICAgSW1hZ2VUYWdTbnNQdWJsaXNoZXIuVGFnVXBkYXRlTWVzc2FnZSB0YWdVcGRhdGVNZXNzYWdlID0gSnNvbkZ1bmN0aW9ucy5wYXJzZUpzb25Bc0NsYXNzKG1zZ0pzb24sIEltYWdlVGFnU25zUHVibGlzaGVyLlRhZ1VwZGF0ZU1lc3NhZ2UuY2xhc3MpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSA9IG1zZy5nZXRCb2R5KCk7Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">QEpzb25Qcm9wZXJ0eSAKQEpzb25Qcm9wZXJ0eSAKQEpzb25Qcm9wZXJ0eSA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBtc2dCb2R5LmFzVGV4dCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzbnNUb3BpYyA9IG5ldyBTbnNUb3BpYyhjbGllbnQsIHNuc1RvcGljQXJuKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGFnVXBkYXRlTWVzc2FnZSB1bndpbmRUYWdVcGRhdGVNZXNzYWdlRnJvbUpzb24oU3RyaW5nIGpzb25TdHJpbmcpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <keys>
@@ -1106,7 +1107,7 @@
         </keys>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1dHVyZS5jb21wbGV0ZShuZXcgU25zVG9waWMoc25zQ2xpZW50LCB0b3BpY0FybikpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbWF6b25hd3Muc2VydmljZXMuc25zLm1vZGVsLio7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1ZhbHVlL1Byb3BlcnR5L2c=</text>
