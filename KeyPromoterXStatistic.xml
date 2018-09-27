@@ -105,6 +105,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ImageTagSnsPublisherTest.testTagUntag'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ImageTagSnsPublisherTest.testTagUntag'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'net.threescan.acquisition.receptionist.I...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun ':test'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BufferedImageOutputStreamTest.imageCursorTest'">
@@ -398,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ImageTagSnsPublisherTest.testTagUntag'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'KesmSliceMetadataTest.testJson'">
@@ -614,7 +622,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -622,7 +630,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>7</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop ':test'">
@@ -758,7 +766,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
