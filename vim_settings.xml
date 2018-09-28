@@ -3,18 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538163050804">
-        <mark key="'" line="274" column="0" />
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="67" column="26" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="67" column="26" />
+      <file name="/Dummy.txt" timestamp="1538165472863">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/net/aws/sns/SnsTopicTest.java" timestamp="1538165789201">
+        <mark key="[" line="67" column="61" />
+        <mark key="]" line="67" column="35" />
+        <mark key="^" line="67" column="35" />
+        <mark key="." line="67" column="35" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" timestamp="1538157829166">
         <mark key="'" line="350" column="26" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1538157378654">
         <mark key="'" line="32" column="5" />
+      </file>
+      <file name="/fragment.java" timestamp="1538165455058">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -58,6 +63,9 @@
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIENvbW1vbkF3c0NsaWVudEJ1aWxkZXIuZ2V0U25zQ2xpZW50KCkK</text>
       </register>
+      <register name=":" type="4">
+        <text>68</text>
+      </register>
       <register name="-" type="4">
         <text>A</text>
       </register>
@@ -79,6 +87,11 @@
         <entry>tag</entry>
         <entry>tag(</entry>
       </history-search>
+      <history-cmd>
+        <entry>68</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -86,6 +99,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
