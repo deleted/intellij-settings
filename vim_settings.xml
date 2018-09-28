@@ -94,6 +94,7 @@
       <file name="$USER_HOME$/kesm/kesm/mongo/images.py" timestamp="1536951567269">
         <mark key="'" line="29" column="8" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1538175481230" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/managed_process.py" timestamp="1537307966050">
         <mark key="'" line="46" column="21" />
         <mark key="[" line="76" column="14" />
