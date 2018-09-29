@@ -25,11 +25,12 @@
       <file name="$USER_HOME$/kesm/docker_deps.yml" timestamp="1537381326231">
         <mark key="[" line="125" column="41" />
       </file>
-      <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1537405373724">
-        <mark key="[" line="19" column="89" />
-        <mark key="]" line="19" column="87" />
-        <mark key="^" line="19" column="87" />
-        <mark key="." line="19" column="87" />
+      <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1538178996180">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/acq/drivers/abstract/imaging.py" timestamp="1533085436463">
         <mark key="'" line="210" column="29" />
@@ -85,6 +86,13 @@
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/transform/image/DownsampleSlicer.java" timestamp="1533231225264">
         <mark key="'" line="22" column="66" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/mongo/images_testlib.py" timestamp="1533678295720">
+        <mark key="'" line="107" column="8" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/net/aws/s3/S3BulkUploadManager.java" timestamp="1533760676702">
         <mark key="'" line="111" column="39" />
       </file>
@@ -103,11 +111,32 @@
       </file>
       <file name="$USER_HOME$/kesm/Dockerfile.batch_ecs" timestamp="1537385121925" />
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/auxbox/interface_testlib.py" timestamp="1536960446128" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1533593915015">
+        <mark key="'" line="146" column="24" />
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="43" />
+        <mark key="." line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+      </file>
       <file name="/Dummy.txt" timestamp="1537223291338">
         <mark key="'" line="0" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1536187680115">
+        <mark key="'" line="97" column="79" />
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="175" column="35" />
+        <mark key="." line="175" column="35" />
+        <mark key="^" line="175" column="35" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/image/zbox/DownsampleSlicer.java" timestamp="1533757917711">
+        <mark key="'" line="96" column="45" />
+        <mark key="[" line="145" column="89" />
+        <mark key="]" line="145" column="88" />
+        <mark key="^" line="145" column="88" />
+        <mark key="." line="145" column="88" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/auxbox/interface.py" timestamp="1536961602376" />
       <file name="$USER_HOME$/kesm/kesm/base/app.py" timestamp="1536964529107">
@@ -123,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="22" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
-      <jump line="17" column="41" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
       <jump line="158" column="52" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/managed_process.py" />
       <jump line="43" column="41" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
       <jump line="7" column="30" filename="$USER_HOME$/kesm2/kesm/projects/KESMAcq/processes/receptionist.py" />
@@ -223,10 +250,12 @@
       <jump line="51" column="0" filename="$USER_HOME$/kesm/kesm/devops/docker/docker_util.py" />
       <jump line="150" column="27" filename="$USER_HOME$/kesm/kesm/devops/docker/docker_util.py" />
       <jump line="181" column="24" filename="$USER_HOME$/kesm/kesm/devops/docker/docker_util.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/kesm/Dockerfile.taggerd" />
+      <jump line="6" column="0" filename="$USER_HOME$/kesm/Dockerfile.taggerd" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFtcCiAgIi0ta2VzbV9tb25nb191cmwiLCAibW9uZ29kYjovLzNzY2FuOk0xY3Iwc2MwcDNAbW9uZ28xLmNsb3VkLjNzY2FuLmNvbToyNzAxNy9tZXRlb3I/YXV0aFNvdXJjZT1hZG1pbiIsIFwKICAiLS1zbnNfdG9waWNfYXJuIiwgImFybjphd3M6c25zOnVzLXdlc3QtMjoyNjI4ODE1MDc2ODc6aW1hZ2VfdGFnX3VwZGF0ZXMiIFwKICAiLS1zcXNfcXVldWVfdXJsIiwgImh0dHBzOi8vc3FzLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tLzI2Mjg4MTUwNzY4Ny9pbWFnZV90YWdfdXBkYXRlcyIgXApdCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -240,57 +269,56 @@
         <text>sqs_queue_url</text>
       </register>
       <register name="/" type="4">
-        <text>repositories</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZGVsZXRlX21lc3NhZ2UocmVjZWlwdF9oYW5kbGUpCg==</text>
+        <text encoding="base64">ICAiLS1rZXNtX21vbmdvX3VybCIsICJtb25nb2RiOi8vM3NjYW46TTFjcjBzYzBwM0Btb25nbzEuY2xvdWQuM3NjYW4uY29tOjI3MDE3L21ldGVvcj9hdXRoU291cmNlPWFkbWluIiwgXAogICItLXNuc190b3BpY19hcm4iLCAiYXJuOmF3czpzbnM6dXMtd2VzdC0yOjI2Mjg4MTUwNzY4NzppbWFnZV90YWdfdXBkYXRlcyIgXAogICItLXNxc19xdWV1ZV91cmwiLCAiaHR0cHM6Ly9zcXMudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vMjYyODgxNTA3Njg3L2ltYWdlX3RhZ191cGRhdGVzIiBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFtcCiAgIi0ta2VzbV9tb25nb191cmwiLCAibW9uZ29kYjovLzNzY2FuOk0xY3Iwc2MwcDNAbW9uZ28xLmNsb3VkLjNzY2FuLmNvbToyNzAxNy9tZXRlb3I/YXV0aFNvdXJjZT1hZG1pbiIsIFwKICAiLS1zbnNfdG9waWNfYXJuIiwgImFybjphd3M6c25zOnVzLXdlc3QtMjoyNjI4ODE1MDc2ODc6aW1hZ2VfdGFnX3VwZGF0ZXMiIFwKICAiLS1zcXNfcXVldWVfdXJsIiwgImh0dHBzOi8vc3FzLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tLzI2Mjg4MTUwNzY4Ny9pbWFnZV90YWdfdXBkYXRlcyIgXApdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndoYXRldmVyID0gInNvbWUgdmFsdWUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1ldGEuY2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndoYXRldmVyID0gInNvbWUgdmFsdWUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApKClcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1ldGEuY2xpZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uX25hbWU9InVzLXdlc3QtMiIK</text>
+        <text encoding="base64">ICAgICAgICApKClcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uX25hbWU9InVzLXdlc3QtMiIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">V09SS0RJUiAvcm9vdC8zc2Nhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9yb290LzNzY2FuLzNzY2FuLWFuYWx5c2lzLW5vdGVib29rcwo=</text>
+        <text encoding="base64">V09SS0RJUiAvcm9vdC8zc2Nhbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>167</text>
+        <text encoding="base64">JzwsJz5zLywvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>repositories</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>repositories</last-pattern>
-      <last-replace>extracted_message</last-replace>
-      <last-substitute>msg</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace />
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TOPIC</entry>
         <entry>class Protocol</entry>
         <entry>siz</entry>
         <entry>assert F</entry>
@@ -303,17 +331,16 @@
         <entry>extract_fr</entry>
         <entry>extract</entry>
         <entry>validate</entry>
-        <entry>&quot;</entry>
         <entry>msg</entry>
         <entry>return</entry>
         <entry>mongo_url</entry>
         <entry>kesm_mongo_url</entry>
         <entry>arn</entry>
         <entry>repositories</entry>
+        <entry>&quot;</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>s/0/2/g</entry>
-        <entry>10</entry>
         <entry>70</entry>
         <entry>68</entry>
         <entry>155</entry>
@@ -332,6 +359,8 @@
         <entry>132</entry>
         <entry encoding="base64">JzwsJz5zL21zZy9leHRyYWN0ZWRfbWVzc2FnZS9n</entry>
         <entry>167</entry>
+        <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
