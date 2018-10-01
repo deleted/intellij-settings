@@ -204,12 +204,12 @@
         <mark key="^" line="154" column="3" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1538429732102">
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1538431783203">
         <mark key="'" line="77" column="18" />
-        <mark key="[" line="187" column="72" />
-        <mark key="]" line="187" column="70" />
-        <mark key="." line="187" column="70" />
-        <mark key="^" line="187" column="70" />
+        <mark key="[" line="166" column="23" />
+        <mark key="]" line="166" column="18" />
+        <mark key="." line="166" column="18" />
+        <mark key="^" line="166" column="18" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" timestamp="1537381658047">
         <mark key="'" line="16" column="5" />
@@ -408,11 +408,11 @@
         <mark key="^" line="8" column="56" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/auxbox/interface_testlib.py" timestamp="1536960446128" />
-      <file name="$USER_HOME$/kesm/health_server.py" timestamp="1538429664802">
-        <mark key="[" line="21" column="69" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/kesm/health_server.py" timestamp="1538432464670">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1528419922894">
         <mark key="[" line="6" column="16" />
@@ -681,7 +681,7 @@
         <text encoding="base64">ICAgIHByaW50KCJzdGFydGluZyBzZXJ2ZXIiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywvL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -729,7 +729,6 @@
         <entry>305</entry>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>w</entry>
         <entry>17</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>132</entry>
@@ -737,6 +736,7 @@
         <entry>167</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
