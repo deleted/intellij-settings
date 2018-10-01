@@ -2,14 +2,60 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1538435847363">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/net/aws/sns/SnsTopicTest.java" timestamp="1538435538761">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="63" column="17" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" timestamp="1538435564089">
+        <mark key="'" line="96" column="44" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="133" column="56" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="96" column="44" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodG9waWMuZ2V0VG9waWNBcm4oKSkuaXNFcXVhbFRvKGV4cGVjdGVkVG9waWMuZ2V0VG9waWNBcm4oKSk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodG9waWMuZ2V0VG9waWNBcm4oKSkuaXNFcXVhbFRvKGV4cGVjdGVkVG9waWMuZ2V0VG9waWNBcm4oKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFNuc1RvcGljIHRvcGljID0gU25zVG9waWMubG9hZEJ5QXJuKGdldFRlc3RBbWF6b25TbnNDbGllbnQoKSwgYXJuKS5nZXQoKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>expectedTopic</text>
+      </register>
+      <register name="/" type="4">
+        <text>loadByArn</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>loadByArn</last-search>
+      <last-offset />
+      <last-pattern>loadByArn</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>loadByArn</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
