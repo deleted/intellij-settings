@@ -6,14 +6,40 @@
       <file name="/Dummy.txt" timestamp="1538440142874">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538440692677">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+        <mark key="^" line="29" column="48" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/net/aws/sns/SnsTopicTest.java" timestamp="1538440107398">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="13" column="38" />
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" timestamp="1538435564089">
-        <mark key="'" line="96" column="44" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538440826018">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="30" />
+        <mark key="." line="61" column="30" />
+        <mark key="^" line="61" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" timestamp="1538440914407">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538440776900">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="32" column="55" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="32" column="55" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1538440876707">
+        <mark key="[" line="67" column="16" />
+        <mark key="]" line="67" column="36" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -22,16 +48,22 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQodG9waWMuZ2V0VG9waWNBcm4oKSkuaXNFcXVhbFRvKGV4cGVjdGVkVG9waWMuZ2V0VG9waWNBcm4oKSk7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBMb2FkIGFuIGV4aXN0aW5nIFNuc1RvcGljIGlmIHlvdSBrbm93IHRoZSBBUk4gRW5mb3JjZSB0aGF0IGl0IGV4aXN0cyBmaXJzdC4KICAgKgogICAqIEBwYXJhbSBzbnNDbGllbnQgQW4gU05TIENsaWVudAogICAqIEBwYXJhbSB0b3BpY0FybiBBbWF6b24gUmVzb3VyY2UgTmFtZSBvZiBhbiBleGlzdGluZyB0b3BpYy4KICAgKiBAcmV0dXJuCiAgICovCiAgQFN1cHByZXNzV2FybmluZ3MoIkZ1dHVyZVJldHVyblZhbHVlSWdub3JlZCIpCiAgcHVibGljIHN0YXRpYyBDb21wbGV0YWJsZUZ1dHVyZTxTbnNUb3BpYz4gbG9hZEJ5QXJuKEFtYXpvblNOU0FzeW5jIHNuc0NsaWVudCwgU3RyaW5nIHRvcGljQXJuKSB7CiAgICBDb21wbGV0YWJsZUZ1dHVyZTxTbnNUb3BpYz4gcmV0dXJuRnV0dXJlID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlPD4oKTsKICAgIFN0cmluZyB0b3BpY05hbWUgPSBwYXJzZVRvcGljTmFtZUZyb21Bcm4odG9waWNBcm4pOwogICAgZ2V0VG9waWNBcm5XaXRoTmFtZShzbnNDbGllbnQsIHRvcGljTmFtZSkKICAgICAgICAudGhlbkFjY2VwdCgKICAgICAgICAgICAgZm91bmRBcm4gLT4gewogICAgICAgICAgICAgIEVuZm9yY2UuaXNOb3ROdWxsKGZvdW5kQXJuLCAiTm8gdG9waWMgZXhpc3RzIHdpdGggbmFtZSAlcyIsIHRvcGljTmFtZSk7CiAgICAgICAgICAgICAgRW5mb3JjZS5pc0VxdWFsKAogICAgICAgICAgICAgICAgICBmb3VuZEFybiwKICAgICAgICAgICAgICAgICAgdG9waWNBcm4sCiAgICAgICAgICAgICAgICAgICJEZXRlY3RlZCBBUk4gJXMgZG9lcyBub3QgbWF0Y2ggJXMuIFRoZXJlIGNhbiBiZSBvbmx5IG9uZS4iLAogICAgICAgICAgICAgICAgICBmb3VuZEFybiwKICAgICAgICAgICAgICAgICAgdG9waWNBcm4pOwogICAgICAgICAgICAgIHJldHVybkZ1dHVyZS5jb21wbGV0ZShuZXcgU25zVG9waWMoc25zQ2xpZW50LCB0b3BpY0FybikpOwogICAgICAgICAgICB9KQogICAgICAgIC5leGNlcHRpb25hbGx5KAogICAgICAgICAgICAoZXhjKSAtPiB7CiAgICAgICAgICAgICAgcmV0dXJuRnV0dXJlLmNvbXBsZXRlRXhjZXB0aW9uYWxseShleGMpOwogICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9KTsKICAgIHJldHVybiByZXR1cm5GdXR1cmU7CiAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ExecutionException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBMb2FkIGFuIGV4aXN0aW5nIFNuc1RvcGljIGlmIHlvdSBrbm93IHRoZSBBUk4gRW5mb3JjZSB0aGF0IGl0IGV4aXN0cyBmaXJzdC4KICAgKgogICAqIEBwYXJhbSBzbnNDbGllbnQgQW4gU05TIENsaWVudAogICAqIEBwYXJhbSB0b3BpY0FybiBBbWF6b24gUmVzb3VyY2UgTmFtZSBvZiBhbiBleGlzdGluZyB0b3BpYy4KICAgKiBAcmV0dXJuCiAgICovCiAgQFN1cHByZXNzV2FybmluZ3MoIkZ1dHVyZVJldHVyblZhbHVlSWdub3JlZCIpCiAgcHVibGljIHN0YXRpYyBDb21wbGV0YWJsZUZ1dHVyZTxTbnNUb3BpYz4gbG9hZEJ5QXJuKEFtYXpvblNOU0FzeW5jIHNuc0NsaWVudCwgU3RyaW5nIHRvcGljQXJuKSB7CiAgICBDb21wbGV0YWJsZUZ1dHVyZTxTbnNUb3BpYz4gcmV0dXJuRnV0dXJlID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlPD4oKTsKICAgIFN0cmluZyB0b3BpY05hbWUgPSBwYXJzZVRvcGljTmFtZUZyb21Bcm4odG9waWNBcm4pOwogICAgZ2V0VG9waWNBcm5XaXRoTmFtZShzbnNDbGllbnQsIHRvcGljTmFtZSkKICAgICAgICAudGhlbkFjY2VwdCgKICAgICAgICAgICAgZm91bmRBcm4gLT4gewogICAgICAgICAgICAgIEVuZm9yY2UuaXNOb3ROdWxsKGZvdW5kQXJuLCAiTm8gdG9waWMgZXhpc3RzIHdpdGggbmFtZSAlcyIsIHRvcGljTmFtZSk7CiAgICAgICAgICAgICAgRW5mb3JjZS5pc0VxdWFsKAogICAgICAgICAgICAgICAgICBmb3VuZEFybiwKICAgICAgICAgICAgICAgICAgdG9waWNBcm4sCiAgICAgICAgICAgICAgICAgICJEZXRlY3RlZCBBUk4gJXMgZG9lcyBub3QgbWF0Y2ggJXMuIFRoZXJlIGNhbiBiZSBvbmx5IG9uZS4iLAogICAgICAgICAgICAgICAgICBmb3VuZEFybiwKICAgICAgICAgICAgICAgICAgdG9waWNBcm4pOwogICAgICAgICAgICAgIHJldHVybkZ1dHVyZS5jb21wbGV0ZShuZXcgU25zVG9waWMoc25zQ2xpZW50LCB0b3BpY0FybikpOwogICAgICAgICAgICB9KQogICAgICAgIC5leGNlcHRpb25hbGx5KAogICAgICAgICAgICAoZXhjKSAtPiB7CiAgICAgICAgICAgICAgcmV0dXJuRnV0dXJlLmNvbXBsZXRlRXhjZXB0aW9uYWxseShleGMpOwogICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9KTsKICAgIHJldHVybiByZXR1cm5GdXR1cmU7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgc25zVG9waWMgPSBTbnNUb3BpYy5sb2FkQnlBcm4oY2xpZW50LCBzbnNUb3BpY0FybikuZ2V0KCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodG9waWMuZ2V0VG9waWNBcm4oKSkuaXNFcXVhbFRvKGV4cGVjdGVkVG9waWMuZ2V0VG9waWNBcm4oKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFNuc1RvcGljIHRvcGljID0gU25zVG9waWMubG9hZEJ5QXJuKGdldFRlc3RBbWF6b25TbnNDbGllbnQoKSwgYXJuKS5nZXQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ExecutionException</text>
+        <text>tagUpdateSnsTopicArn</text>
       </register>
       <register name="/" type="4">
         <text>loadByArn</text>
