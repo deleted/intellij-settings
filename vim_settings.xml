@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1538615796225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538674164899">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538676978752">
         <mark key="'" line="83" column="11" />
-        <mark key="[" line="83" column="42" />
-        <mark key="]" line="83" column="63" />
-        <mark key="." line="83" column="63" />
-        <mark key="^" line="83" column="63" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="42" column="14" />
+        <mark key="^" line="126" column="117" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/net/aws/sns/SnsTopicTest.java" timestamp="1538440107398">
         <mark key="[" line="12" column="30" />
@@ -20,18 +20,18 @@
         <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/json/JsonFunctions.java" timestamp="1538674228929" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538615882744">
-        <mark key="'" line="81" column="31" />
-        <mark key="[" line="81" column="31" />
-        <mark key="]" line="81" column="31" />
-        <mark key="^" line="73" column="44" />
-        <mark key="." line="81" column="31" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538678072410">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="325" column="67" />
+        <mark key="]" line="331" column="26" />
+        <mark key="^" line="327" column="11" />
+        <mark key="." line="331" column="26" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538613000048">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="39" column="28" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538676672167">
+        <mark key="[" line="49" column="80" />
+        <mark key="]" line="49" column="80" />
+        <mark key="." line="49" column="80" />
+        <mark key="^" line="49" column="79" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1538615889164">
         <mark key="'" line="62" column="0" />
@@ -81,61 +81,70 @@
       <jump line="314" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="71" column="86" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="73" column="44" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="81" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="62" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="38" column="58" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="37" column="56" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="83" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
+      <jump line="81" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="317" column="52" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="324" column="77" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="107" column="42" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="51" column="10" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="86" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="84" column="1" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="284" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="325" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="88" column="8" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toString</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC50aGVuUnVuKAogICAgICAgICAgICAgICAgICAgICAgICAgICgpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJGaW5pc2hlZCB3cml0aW5nIGRvd25zYW1wbGVkIHB5cmFtaWQgbGV2ZWxzIGZvciBibG9iICVzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmdldEJsb2JJZCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>TileRequest.</text>
       </register>
       <register name="/" type="4">
-        <text>snsTopic.publish</text>
+        <text>MongoTags</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gaW1hZ2VJZCBJRCBvZiB0aGUgYSBLRVNNIHNsaWNlIGltYWdlIGJsb2IKICAgKiBAcGFyYW0gdGFnIFRoZSB0YWcgdG8gYWRkCg==</text>
+        <text encoding="base64">ICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0FWRUQgPSAic2F2ZWQiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC50aGVuUnVuKAogICAgICAgICAgICAgICAgICAgICAgICAgICgpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJGaW5pc2hlZCB3cml0aW5nIGRvd25zYW1wbGVkIHB5cmFtaWQgbGV2ZWxzIGZvciBibG9iICVzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmdldEJsb2JJZCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIHwgRXhlY3V0aW9uRXhjZXB0aW9uIGV4YykgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigKICAgICAgICAgIFN0cmluZy5mb3JtYXQoIlNvbWV0aGluZyB3ZW50IHdyb25nIHdoaWxlIGxvYWRpbmcgdGhlIFNOUyB0b3BpYzogJXMiLCBleGMuZ2V0TWVzc2FnZSgpKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU3RyaW5nIGNvbnN0YW50cyB0byBzZW5kIHRvIHRoZSBtb25nbyB0YWdnZXIgc2VydmljZS4KICAgICAqLwogICAgY2xhc3MgTW9uZ29UYWdzIHsKICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0FWRUQgPSAic2F2ZWQiOwogICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUSUxFRCA9ICJ0aWxlZCI7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW5SdW4odGlsZUltYWdlVGltZXI6OnNldER1cmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW5SdW4oCiAgICAgICAgICAgICAgICAoKSAtPiB7CiAgICAgICAgICAgICAgICAgIGNvbXByZXNzVGltZXIuc2V0RHVyYXRpb24oKTsKICAgICAgICAgICAgICAgICAgc2V0TW9uZ29UYWcocmVxdWVzdC5nZXRCbG9iSWQoKSwgInNhdmVkIikKICAgICAgICAgICAgICAgICAgICAgIC50aGVuUnVuKAogICAgICAgICAgICAgICAgICAgICAgICAgICgpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oCiAgICAgICAgICAgICAgICAgICAgICAiRmluaXNoZWQgd3JpdGluZyBkb3duc2FtcGxlZCBweXJhbWlkIGxldmVscyBmb3IgYmxvYiAlcyIsCiAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmdldEJsb2JJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJGaW5pc2hlZCB3cml0aW5nIFBORyBzbGljZSBmb3IgYmxvYiAlcy4iLCByZXF1ZXN0LmdldEJsb2JJZCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZmluYWwgU3RyaW5nIEFERCA9ICJhZGQiOwogIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVNT1ZFID0gInJlbW92ZSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkZpbmlzaGVkIHdyaXRpbmcgUE5HIHNsaWNlIGZvciBibG9iICVzLiIsIHJlcXVlc3QuZ2V0QmxvYklkKCkpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50ZXJmYWNlIFN0cmluZ3MgewoKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBmaW5hbCBTdAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gaW1hZ2VJZAogICAqIEBwYXJhbSB0YWcK</text>
+      <register name="9" type="8">
+        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
       <register name=":" type="4">
         <text>63</text>
       </register>
     </registers>
     <search>
-      <last-search>snsTopic.publish</last-search>
+      <last-search>MongoTags</last-search>
       <last-offset />
-      <last-pattern>snsTopic.publish</last-pattern>
+      <last-pattern>MongoTags</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -154,6 +163,11 @@
         <entry>addTag</entry>
         <entry>get(</entry>
         <entry>snsTopic.publish</entry>
+        <entry>tiled</entry>
+        <entry>saved</entry>
+        <entry>MongoTagsa</entry>
+        <entry>clas</entry>
+        <entry>MongoTags</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
@@ -167,6 +181,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
