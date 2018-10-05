@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/json/PrintableJsonPojo.java" timestamp="1538760479610" />
       <file name="/Dummy.txt" timestamp="1538679627512">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/build/gen/buildconfig/classes/main/de/fuerstenau/buildconfig/BuildConfig.class" timestamp="1538760597842" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538687426356">
         <mark key="'" line="83" column="11" />
         <mark key="[" line="52" column="12" />
@@ -110,7 +112,7 @@
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>setMongo</text>
+        <text>buildDescr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0FWRUQgPSAic2F2ZWQiOwo=</text>
@@ -147,15 +149,14 @@
       </register>
     </registers>
     <search>
-      <last-search>setMongo</last-search>
+      <last-search>buildDescr</last-search>
       <last-offset />
-      <last-pattern>setMongo</last-pattern>
+      <last-pattern>buildDescr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loadByArn</entry>
         <entry>this</entry>
         <entry>default</entry>
         <entry>this.mongoTagPub</entry>
@@ -175,6 +176,7 @@
         <entry>MongoTags</entry>
         <entry>mongoTag</entry>
         <entry>setMongo</entry>
+        <entry>buildDescr</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
