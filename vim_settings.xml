@@ -7,6 +7,21 @@
       <file name="/Dummy.txt" timestamp="1538679627512">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538687128491">
+        <mark key="'" line="288" column="19" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="81" column="32" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1538615889164">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="40" />
+        <mark key="." line="66" column="40" />
+        <mark key="^" line="66" column="40" />
+      </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/software.yml" timestamp="1538762662501" />
       <file name="$USER_HOME$/kesm/build/gen/buildconfig/classes/main/de/fuerstenau/buildconfig/BuildConfig.class" timestamp="1538760597842" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538687426356">
         <mark key="'" line="83" column="11" />
@@ -22,26 +37,12 @@
         <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/json/JsonFunctions.java" timestamp="1538674228929" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538687128491">
-        <mark key="'" line="288" column="19" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="81" column="32" />
-        <mark key="." line="85" column="0" />
-      </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1538763059239" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538676672167">
         <mark key="[" line="49" column="80" />
         <mark key="]" line="49" column="80" />
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="79" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" timestamp="1538687221398" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1538615889164">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="66" column="38" />
-        <mark key="]" line="66" column="40" />
-        <mark key="." line="66" column="40" />
-        <mark key="^" line="66" column="40" />
       </file>
     </filemarks>
     <jumps>
