@@ -38,12 +38,16 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/json/JsonFunctions.java" timestamp="1538674228929" />
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1538763059239" />
+      <file name="$USER_HOME$/kesm/kesm/devops/ts" timestamp="1538763948247">
+        <mark key="'" line="230" column="49" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538676672167">
         <mark key="[" line="49" column="80" />
         <mark key="]" line="49" column="80" />
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="79" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/templates/condarc.j2" timestamp="1538763772400" />
     </filemarks>
     <jumps>
       <jump line="133" column="56" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
@@ -104,6 +108,13 @@
       <jump line="76" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="80" column="20" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="288" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm/kesm/devops/ts" />
+      <jump line="146" column="0" filename="$USER_HOME$/kesm/kesm/devops/ts" />
+      <jump line="211" column="40" filename="$USER_HOME$/kesm/kesm/devops/ts" />
+      <jump line="214" column="35" filename="$USER_HOME$/kesm/kesm/devops/ts" />
+      <jump line="215" column="50" filename="$USER_HOME$/kesm/kesm/devops/ts" />
+      <jump line="228" column="13" filename="$USER_HOME$/kesm/kesm/devops/ts" />
+      <jump line="230" column="49" filename="$USER_HOME$/kesm/kesm/devops/ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -113,7 +124,7 @@
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>buildDescr</text>
+        <text>branch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0FWRUQgPSAic2F2ZWQiOwo=</text>
@@ -150,16 +161,14 @@
       </register>
     </registers>
     <search>
-      <last-search>buildDescr</last-search>
+      <last-search>branch</last-search>
       <last-offset />
-      <last-pattern>buildDescr</last-pattern>
+      <last-pattern>branch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
-        <entry>default</entry>
         <entry>this.mongoTagPub</entry>
         <entry>setMongoTag</entry>
         <entry>logger</entry>
@@ -178,6 +187,8 @@
         <entry>mongoTag</entry>
         <entry>setMongo</entry>
         <entry>buildDescr</entry>
+        <entry>conda_bra</entry>
+        <entry>branch</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
