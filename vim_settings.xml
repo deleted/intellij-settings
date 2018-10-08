@@ -16,10 +16,15 @@
         <mark key="^" line="81" column="32" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1539036096798">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="66" column="38" />
-        <mark key="]" line="66" column="40" />
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1539039860705">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="64" column="15" />
+        <mark key="]" line="64" column="37" />
         <mark key="." line="66" column="40" />
         <mark key="^" line="66" column="40" />
       </file>
@@ -28,6 +33,12 @@
         <mark key="'" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/hecc/pipelines/CopyCrystalRoiCommandTest.java" timestamp="1539036122262" />
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/defaults/main.yml" timestamp="1539039786909">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538791193645">
         <mark key="'" line="83" column="11" />
       </file>
@@ -67,7 +78,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="56" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
       <jump line="96" column="44" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
       <jump line="20" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="46" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
@@ -144,55 +154,79 @@
       <jump line="32" column="41" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
       <jump line="34" column="23" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
       <jump line="68" column="12" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
+      <jump line="22" column="46" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
+      <jump line="4" column="27" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
+      <jump line="5" column="27" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
+      <jump line="6" column="27" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
+      <jump line="16" column="2" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
+      <jump line="37" column="9" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="72" column="44" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="115" column="53" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="2" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="3" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="4" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="5" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="6" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="7" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="8" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="9" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="10" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="11" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="12" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="13" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="14" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="15" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="16" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="17" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
+        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>port</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgID4+PiBzbnNfc2VuZGVyLnB1Ymxpc2gobXNnKQogICAgPj4+IG1lc3NhZ2VzID0gc3FzX2NsaWVudC5yZWNlaXZlX21lc3NhZ2UoUXVldWVVcmw9c29tZVNxc1F1ZXVlVXJsKVsnTWVzc2FnZXMnXQo=</text>
+      <register name="0" type="4">
+        <text>--tagUpdateSnsTopicName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
+        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFwcFJ1bm5lci5ydW5FbWJlZGRlZFdpdGhvdXRBcHBJbml0KHByb2dyYW1OYW1lLCBBcnJheXMuYXNMaXN0KFJlY2VwdGlvbmlzdFNlcnZlci5jbGFzcyksIGFyZ3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEFwcFJ1bm5lci5ydW5FbWJlZGRlZFdpdGhvdXRBcHBJbml0KHByb2dyYW1OYW1lLCBBcnJheXMuYXNMaXN0KFJlY2VwdGlvbmlzdFNlcnZlci5jbGFzcyksIGFyZ3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHByb3RlY3RlZCB2b2lkIHJ1bigpIHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IG5ldyBTaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yKCkgewo=</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHByb3RlY3RlZCB2b2lkIHJ1bigpIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IG5ldyBTaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>port</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>port</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -200,7 +234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>msgBody</entry>
         <entry>addTag</entry>
         <entry>get(</entry>
         <entry>snsTopic.publish</entry>
@@ -220,6 +253,7 @@
         <entry>receptionistserver</entry>
         <entry>receptionist</entry>
         <entry>'</entry>
+        <entry>port</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
