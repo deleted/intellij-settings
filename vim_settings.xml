@@ -16,6 +16,7 @@
         <mark key="^" line="81" column="32" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/Dockerfile.receptionist" timestamp="1539042474268" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
