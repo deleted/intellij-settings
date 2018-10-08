@@ -37,13 +37,14 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539036555893">
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539038397343">
         <mark key="'" line="68" column="12" />
-        <mark key="[" line="67" column="26" />
-        <mark key="]" line="68" column="12" />
-        <mark key="^" line="68" column="12" />
-        <mark key="." line="68" column="12" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/hecc/service/HeccGrpcServiceCommandTest.java" timestamp="1539038086512" />
       <file name="$USER_HOME$/kesm/kesm/devops/ts" timestamp="1538763948247">
         <mark key="'" line="230" column="49" />
       </file>
@@ -145,11 +146,11 @@
       <jump line="68" column="12" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;receptionist-server&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;receptionist-server&quot;</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -158,31 +159,31 @@
         <text encoding="base64">ICAgID4+PiBzbnNfc2VuZGVyLnB1Ymxpc2gobXNnKQogICAgPj4+IG1lc3NhZ2VzID0gc3FzX2NsaWVudC5yZWNlaXZlX21lc3NhZ2UoUXVldWVVcmw9c29tZVNxc1F1ZXVlVXJsKVsnTWVzc2FnZXMnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKiogU3RyaW5nIGNvbnN0YW50cyBmb3IgdGFncyB0byBzZW5kIHRvIHRoZSBtb25nbyB0YWdnZXIgc2VydmljZS4gKi8KICBzdGF0aWMgY2xhc3MgTW9uZ29UYWdzIHsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNBVkVEID0gInNhdmVkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRJTEVEID0gInRpbGVkIjsKCiAgICBwcml2YXRlIE1vbmdvVGFncygpIHt9IC8vIHByaXZhdGUgY29uc3RydWN0b3Igc28gRXJyb3JQcm9uZSBkb2Vzbid0IGNvbXBsYWluLgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBUYWcuY2xhc3M7Cg==</text>
+        <text encoding="base64">ICAgIEFwcFJ1bm5lci5ydW5FbWJlZGRlZFdpdGhvdXRBcHBJbml0KHByb2dyYW1OYW1lLCBBcnJheXMuYXNMaXN0KFJlY2VwdGlvbmlzdFNlcnZlci5jbGFzcyksIGFyZ3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC50aGVuUnVuKAogICAgICAgICAgICAgICAgICAgICAgICAgICgpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJGaW5pc2hlZCB3cml0aW5nIGRvd25zYW1wbGVkIHB5cmFtaWQgbGV2ZWxzIGZvciBibG9iICVzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmdldEJsb2JJZCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3RyaW5nIGNvbnN0YW50cyB0byBzZW5kIHRvIHRoZSBtb25nbyB0YWdnZXIgc2VydmljZS4KICAgICAqLwogICAgY2xhc3MgTW9uZ29UYWdzIHsKICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0FWRUQgPSAic2F2ZWQiOwogICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUSUxFRCA9ICJ0aWxlZCI7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHByb3RlY3RlZCB2b2lkIHJ1bigpIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IG5ldyBTaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW5SdW4oCiAgICAgICAgICAgICAgICAoKSAtPiB7CiAgICAgICAgICAgICAgICAgIGNvbXByZXNzVGltZXIuc2V0RHVyYXRpb24oKTsKICAgICAgICAgICAgICAgICAgc2V0TW9uZ29UYWcocmVxdWVzdC5nZXRCbG9iSWQoKSwgInNhdmVkIikKICAgICAgICAgICAgICAgICAgICAgIC50aGVuUnVuKAogICAgICAgICAgICAgICAgICAgICAgICAgICgpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pKTsK</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJGaW5pc2hlZCB3cml0aW5nIFBORyBzbGljZSBmb3IgYmxvYiAlcy4iLCByZXF1ZXN0LmdldEJsb2JJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
@@ -239,6 +240,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
