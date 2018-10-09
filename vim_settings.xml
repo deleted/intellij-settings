@@ -3,116 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1538165472863">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" timestamp="1538780618192">
+        <mark key="'" line="213" column="37" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+        <mark key="^" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/net/aws/sns/SnsTopicTest.java" timestamp="1538166463615">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="77" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/net/aws/sns/SnsTopicTest.java" timestamp="1538780328212" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538780681913">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" timestamp="1538157829166">
-        <mark key="'" line="350" column="26" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1538166980198">
-        <mark key="'" line="32" column="5" />
-        <mark key="[" line="63" column="68" />
-        <mark key="]" line="112" column="33" />
-        <mark key="^" line="112" column="33" />
-        <mark key="." line="112" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1538165455058">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538780638081">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="36" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="5" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="122" column="34" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
-      <jump line="184" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
-      <jump line="261" column="19" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
-      <jump line="268" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
-      <jump line="345" column="19" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
-      <jump line="384" column="19" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
-      <jump line="350" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/receptionist_support.py" />
-      <jump line="279" column="25" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="294" column="42" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="57" column="73" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="69" column="45" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="74" column="24" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="270" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="55" column="3" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="190" column="53" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="216" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="195" column="47" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="196" column="74" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="212" column="48" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="213" column="37" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0VGhhdCh0b3BpYy5nZXRUb3BpY0FybigpKS5pc0VxdWFsVG8oZXhwZWN0ZWRUb3BpYy5nZXRUb3BpY0FybigpKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFJBV19NRVNTQUdFX0RFTElWRVJZX0FUVFJJQlVURV9LRVkgPSAiUmF3TWVzc2FnZURlbGl2ZXJ5IjsKCiAgLyoqIEFuIGVudW0gZm9yIHRoZSBzcGVjaWZpYyB0eXBlcyBvZiBwcm90b2NvbHMgY2FuIGJlIHN1YnNjcmliZWQgdG8gU05TIFRvcGljcy4gKi8KICBwdWJsaWMgZW51bSBQcm90b2NvbCB7CiAgICBTUVMoInNxcyIpLAogICAgTEFNQkRBKCJsYW1iZGEiKSwKICAgIEhUVFAoImh0dHAiKSwKICAgIEhUVFBTKCJodHRwcyIpLAogICAgU01TKCJzbXMiKSwKICAgIEFQUExJQ0FUSU9OKCJhcHBsaWNhdGlvbiIpLAogICAgRU1BSUwoImVtYWlsIiksCiAgICBFTUFJTF9KU09OKCJlbWFpbC1qc29uIik7CiAgICBwdWJsaWMgZmluYWwgU3RyaW5nIHZhbHVlOwoKICAgIFByb3RvY29sKFN0cmluZyB2YWx1ZSkgewogICAgICB0aGlzLnZhbHVlID0gdmFsdWU7CiAgICB9CiAgfQoKICAvKioKICAgKiBQYXJzZSB0aGUgdG9waWMgbmFtZSBmcm9tIHRoZSB0b3BpYyBhcm4uCiAgICoKICAgKiBAcGFyYW0gdG9waWNBcm4gdG9waWMgYXJuCiAgICogQHJldHVybiB0b3BpYyBuYW1lCiAgICo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Disabled if left null.</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9uZ29UYWdQdWJsaXNoZXIudGFnKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3QuZ2V0QmxvYklkKCkudG9TdHJpbmcoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidGlsZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbW9uZ29UYWdQdWJsaXNoZXIudGFnKHJlcXVlc3QuZ2V0QmxvYklkKCkudG9TdHJpbmcoKSwgInNhdmVkIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICApOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltYWdlVGFnVXBkYXRlU25zVG9waWNBcm4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbW1vbkF3c0NsaWVudEJ1aWxkZXIuZ2V0U25zQ2xpZW50KCkK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>Disabled if left null.</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>ReceptoinistTileWr</text>
+        <text>subscribe</text>
       </register>
     </registers>
     <search>
-      <last-search>ReceptoinistTileWr</last-search>
+      <last-search>subscribe</last-search>
       <last-offset />
-      <last-pattern>ReceptoinistTileWr</last-pattern>
+      <last-pattern>subscribe</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>flag</entry>
-        <entry>TileWriter</entry>
-        <entry>tag</entry>
-        <entry>tag(</entry>
-        <entry>ReceptoinistTileWr</entry>
+        <entry>subscr</entry>
+        <entry>subscribe</entry>
       </history-search>
-      <history-cmd>
-        <entry>68</entry>
-        <entry>w</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
