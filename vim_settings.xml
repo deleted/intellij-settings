@@ -21,6 +21,12 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1539124626929">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="16" column="17" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539038397343">
         <mark key="'" line="68" column="12" />
         <mark key="[" line="19" column="0" />
@@ -29,15 +35,15 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/hecc/service/HeccGrpcServiceCommandTest.java" timestamp="1539038086512" />
-      <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" timestamp="1539107567732">
-        <mark key="'" line="40" column="6" />
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" timestamp="1539124429123">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="55" column="41" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1539123018726">
         <mark key="'" line="14" column="15" />
-        <mark key="[" line="95" column="20" />
-        <mark key="]" line="96" column="70" />
-        <mark key="." line="96" column="70" />
-        <mark key="^" line="96" column="70" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/docker_compose_state.yml" timestamp="1539047581060">
         <mark key="[" line="7" column="0" />
@@ -46,17 +52,11 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/docker_compose_maker.yml" timestamp="1539045950779" />
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/webserver.yml" timestamp="1539124518562" />
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/README.md" timestamp="1539045983490" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538687128491">
-        <mark key="'" line="288" column="19" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="81" column="32" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/Dockerfile.receptionist" timestamp="1539042474268" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
@@ -193,17 +193,17 @@
       <jump line="40" column="6" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXNtLmJhc2UuaW5mbygiRGVjIikK</text>
+      <register name="&quot;" type="4">
+        <text>{{ environment_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>{{ environment_name }}</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
-      <register name="0" type="4">
-        <text>image_tag_update_sns_topic</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVjZXB0aW9uaXN0X2dlb2RlX3NwZWM6CiAgdGFibGVfcHJlZml4OiAie3sgZW52aXJvbm1lbnRfbmFtZSB9fS4iCiAga2V5X3ByZWZpeDogInt7IGVudmlyb25tZW50X25hbWUgfX0iCiAgYnVja2V0X25hbWU6IDNzY2FuLXNsYWIKCnJlY2VwdGlvbmlzdF9wYXBlcnRyYWlsX2xvZzoKICBwb3J0OiAyMTM5NAogIGhvc3RfbnVtOiA3CgpyZWNlcHRpb25pc3RfZmxhZ3M6CiAgLSAiLS1tYXhRdWV1ZVNpemU9MTIiCiAgLSAiLS1tYXhUaWxpbmdKb2JzPTgiCiAgLSAiLS1wb3J0PXt7IHJlY2VpdmVyX3BvcnQgfX0iCiAgLSAiLS1nZW9kZVNwZWM9J3t7IHJlY2VwdGlvbmlzdF9nZW9kZV9zcGVjIHwgdG9fanNvbiB9fSciCiAgLSAiLS1zbGljZVN0b3JlRGlyPXt7IHJlY2VwdGlvbmlzdF9zdG9yYWdlX3BhdGggfX0iCiAgLSAiLS10YWdVcGRhdGVTbnNUb3BpY05hbWU9e3sgaW1hZ2VfdGFnX3VwZGF0ZV9zbnNfdG9waWMgfX0iCiAgLSAiLUc6bmV0LnRocmVlc2Nhbi5ydW50aW1lLkxvZ2dpbmcubG9nVG9QYXBlcnRyYWlsPXRydWUiCiAgLSAiLUc6bmV0LnRocmVlc2Nhbi5ydW50aW1lLk1ldHJpY3MuZW5hYmxlTWV0cmljc1NlcnZlcj10cnVlIgogIC0gIi1HOm5ldC50aHJlZXNjYW4ucnVudGltZS5Mb2dnaW5nLnBhcGVydHJhaWxIb3N0PXt7IHJlY2VwdGlvbmlzdF9wYXBlcnRyYWlsX2xvZy5ob3N0X251bSB9fSIKICAtICItRzpuZXQudGhyZWVzY2FuLnJ1bnRpbWUuTG9nZ2luZy5wYXBlcnRyYWlsUG9ydD17eyByZWNlcHRpb25pc3RfcGFwZXJ0cmFpbF9sb2cucG9ydCB9fSIKCgpzZXJ2aWNlX2NvbXBvc2U6CiAgdmVyc2lvbjogJzInCiAgc2VydmljZXM6CiAgICAzc2Nhbi1yZWNlcHRpb25pc3Q6CiAgICAgIGltYWdlOiAie3sgUmVjZXB0aW9uaXN0X2ltYWdlIH19IgogICAgICBjb21tYW5kOiAie3sgcmVjZXB0aW9uaXN0X2ZsYWdzIHwgam9pbignICcpIH19IgogICAgICByZXN0YXJ0OiBhbHdheXMKICAgICAgcG9ydHM6CiAgICAgICAgLSAie3sgcmVjZWl2ZXJfcG9ydCB9fTp7eyByZWNlaXZlcl9wb3J0IH19IgogICAgICAgIC0gOTA5MDo5MDkwCiAgICAgIGVudmlyb25tZW50OgogICAgICAgIC0gQVdTX0FDQ0VTU19LRVlfSUQ9e3sgcmVjZXB0aW9uaXN0X2VjMl9pZCB9fQogICAgICAgIC0gQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXt7IHJlY2VwdGlvbmlzdF9lYzJfc2VjcmV0IH19CiAgICAgICAgLSBBV1NfUkVHSU9OPXVzLXdlc3QtMgogICAgICB2b2x1bWVzOgogICAgICAgIC0gInt7IHJlY2VwdGlvbmlzdF9zdG9yYWdlX3BhdGggfX06e3sgcmVjZXB0aW9uaXN0X3N0b3JhZ2VfcGF0aCB9fSIKICAgICAgbG9nZ2luZzogInt7IGdsb2JhbF9sb2dnaW5nX2RyaXZlciB9fSIKICAgICAgaG9zdG5hbWU6ICJ7eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXNtLmJhc2UuaW5mbygiRGVjIikK</text>
