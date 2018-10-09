@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/README.md" timestamp="1539045983490" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538687128491">
         <mark key="'" line="288" column="19" />
         <mark key="[" line="85" column="0" />
@@ -22,7 +23,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1539039860705">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1539046234476">
         <mark key="'" line="17" column="2" />
         <mark key="[" line="64" column="15" />
         <mark key="]" line="64" column="37" />
@@ -60,6 +61,13 @@
       <file name="$USER_HOME$/kesm/kesm/devops/ts" timestamp="1538763948247">
         <mark key="'" line="230" column="49" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" timestamp="1539046302737">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="31" column="40" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538676672167">
         <mark key="[" line="49" column="80" />
         <mark key="]" line="49" column="80" />
@@ -77,11 +85,9 @@
         <mark key="]" line="89" column="19" />
         <mark key="." line="89" column="19" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/docker_compose_maker.yml" timestamp="1539045950779" />
     </filemarks>
     <jumps>
-      <jump line="96" column="44" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="20" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
-      <jump line="46" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="78" column="83" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="84" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="34" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
@@ -179,55 +185,58 @@
       <jump line="15" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="16" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="17" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="7" column="32" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
+      <jump line="8" column="13" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
+      <jump line="40" column="6" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
+      <register name="&quot;" type="4">
+        <text>image_tag_update_sns_topic</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>port</text>
+        <text>image</text>
       </register>
       <register name="0" type="4">
-        <text>--tagUpdateSnsTopicName</text>
+        <text>image_tag_update_sns_topic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
+        <text encoding="base64">ICAtIC0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
+        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFwcFJ1bm5lci5ydW5FbWJlZGRlZFdpdGhvdXRBcHBJbml0KHByb2dyYW1OYW1lLCBBcnJheXMuYXNMaXN0KFJlY2VwdGlvbmlzdFNlcnZlci5jbGFzcyksIGFyZ3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEFwcFJ1bm5lci5ydW5FbWJlZGRlZFdpdGhvdXRBcHBJbml0KHByb2dyYW1OYW1lLCBBcnJheXMuYXNMaXN0KFJlY2VwdGlvbmlzdFNlcnZlci5jbGFzcyksIGFyZ3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHByb3RlY3RlZCB2b2lkIHJ1bigpIHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IG5ldyBTaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yKCkgewo=</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHByb3RlY3RlZCB2b2lkIHJ1bigpIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IG5ldyBTaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>port</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>port</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -235,7 +244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addTag</entry>
         <entry>get(</entry>
         <entry>snsTopic.publish</entry>
         <entry>tiled</entry>
@@ -255,6 +263,7 @@
         <entry>receptionist</entry>
         <entry>'</entry>
         <entry>port</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
