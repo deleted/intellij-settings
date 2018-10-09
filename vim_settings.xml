@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1538679627512">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
       </file>
@@ -79,6 +76,12 @@
         <mark key="[" line="116" column="29" />
         <mark key="]" line="116" column="30" />
         <mark key="." line="116" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/docker_compose_state.yml" timestamp="1539047581060">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1538791258156">
         <mark key="[" line="89" column="18" />
@@ -190,8 +193,8 @@
       <jump line="40" column="6" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>image_tag_update_sns_topic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlY3JlYXRlOiBhbHdheXMK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -203,31 +206,31 @@
         <text>image_tag_update_sns_topic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIC0K</text>
+        <text encoding="base64">ICAgIHJlY3JlYXRlOiBhbHdheXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
+        <text encoding="base64">ICAtIC0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
+        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwcFJ1bm5lci5ydW5FbWJlZGRlZFdpdGhvdXRBcHBJbml0KHByb2dyYW1OYW1lLCBBcnJheXMuYXNMaXN0KFJlY2VwdGlvbmlzdFNlcnZlci5jbGFzcyksIGFyZ3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEFwcFJ1bm5lci5ydW5FbWJlZGRlZFdpdGhvdXRBcHBJbml0KHByb2dyYW1OYW1lLCBBcnJheXMuYXNMaXN0KFJlY2VwdGlvbmlzdFNlcnZlci5jbGFzcyksIGFyZ3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHByb3RlY3RlZCB2b2lkIHJ1bigpIHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvciA9IG5ldyBTaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yKCkgewo=</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHByb3RlY3RlZCB2b2lkIHJ1bigpIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
