@@ -4,11 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/aws_ecr_login/README.md" timestamp="1539193632552" />
-      <file name="$USER_HOME$/kesm/kesm/aws/sns.py" timestamp="1539199550519">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1539107716904" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/AppRunner.java" timestamp="1539034783069" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/hecc/pipelines/CopyCrystalRoiCommandTest.java" timestamp="1539036122262" />
