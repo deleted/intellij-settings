@@ -23,12 +23,12 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539038397343">
-        <mark key="'" line="68" column="12" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539211322749">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="78" column="89" />
+        <mark key="]" line="78" column="31" />
+        <mark key="." line="78" column="31" />
+        <mark key="^" line="78" column="31" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/hecc/service/HeccGrpcServiceCommandTest.java" timestamp="1539038086512" />
       <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1539200104789">
@@ -42,10 +42,10 @@
         <mark key="]" line="55" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/docker_compose_state.yml" timestamp="1539193551241">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="30" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/docker_compose_maker.yml" timestamp="1539193564313" />
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/webserver.yml" timestamp="1539124518562" />
@@ -58,18 +58,20 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/kesm/Dockerfile.receptionist" timestamp="1539042474268" />
-      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1538687128491">
+        <mark key="'" line="288" column="19" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="81" column="32" />
+        <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1539046234476">
+      <file name="$USER_HOME$/kesm/Dockerfile.receptionist" timestamp="1539042474268" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1539211216495">
         <mark key="'" line="17" column="2" />
-        <mark key="[" line="64" column="15" />
-        <mark key="]" line="64" column="37" />
-        <mark key="." line="66" column="40" />
-        <mark key="^" line="66" column="40" />
+        <mark key="[" line="130" column="74" />
+        <mark key="]" line="129" column="17" />
+        <mark key="." line="129" column="17" />
+        <mark key="^" line="129" column="17" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/CrystalDataModel.java" timestamp="1539107723304" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539035772804">
@@ -87,16 +89,10 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="79" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1538791258156">
-        <mark key="[" line="89" column="18" />
-        <mark key="]" line="89" column="19" />
-        <mark key="." line="89" column="19" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/dynamodb/DynamoTableModel.java" timestamp="1539122879916" />
       <file name="$USER_HOME$/kesm/kesm/devops/docker/docker_builder.py" timestamp="1539206171493" />
     </filemarks>
     <jumps>
-      <jump line="34" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="42" column="49" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="75" column="40" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="31" column="45" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
@@ -196,46 +192,47 @@
       <jump line="40" column="6" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
       <jump line="105" column="49" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="412" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVGhlcmUncyBzb21lIGFtYmlndWl0eSBhcm91bmQgd2hldGhlciB0aGUgZGVmYXVsdCB3aWxsIGJlIHRoZXJlIG9yIG5vdC4KICAgICMgVGhlIHRlc3QgY2xpZW50IGFuZCByZWFsIEFXUyBzZWVtIHRvIGRpZmZlciBoZXJlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>(disabled)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(disabled)</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVjZXB0aW9uaXN0X2dlb2RlX3NwZWM6CiAgdGFibGVfcHJlZml4OiAie3sgZW52aXJvbm1lbnRfbmFtZSB9fS4iCiAga2V5X3ByZWZpeDogInt7IGVudmlyb25tZW50X25hbWUgfX0iCiAgYnVja2V0X25hbWU6IDNzY2FuLXNsYWIKCnJlY2VwdGlvbmlzdF9wYXBlcnRyYWlsX2xvZzoKICBwb3J0OiAyMTM5NAogIGhvc3RfbnVtOiA3CgpyZWNlcHRpb25pc3RfZmxhZ3M6CiAgLSAiLS1tYXhRdWV1ZVNpemU9MTIiCiAgLSAiLS1tYXhUaWxpbmdKb2JzPTgiCiAgLSAiLS1wb3J0PXt7IHJlY2VpdmVyX3BvcnQgfX0iCiAgLSAiLS1nZW9kZVNwZWM9J3t7IHJlY2VwdGlvbmlzdF9nZW9kZV9zcGVjIHwgdG9fanNvbiB9fSciCiAgLSAiLS1zbGljZVN0b3JlRGlyPXt7IHJlY2VwdGlvbmlzdF9zdG9yYWdlX3BhdGggfX0iCiAgLSAiLS10YWdVcGRhdGVTbnNUb3BpY05hbWU9e3sgaW1hZ2VfdGFnX3VwZGF0ZV9zbnNfdG9waWMgfX0iCiAgLSAiLUc6bmV0LnRocmVlc2Nhbi5ydW50aW1lLkxvZ2dpbmcubG9nVG9QYXBlcnRyYWlsPXRydWUiCiAgLSAiLUc6bmV0LnRocmVlc2Nhbi5ydW50aW1lLk1ldHJpY3MuZW5hYmxlTWV0cmljc1NlcnZlcj10cnVlIgogIC0gIi1HOm5ldC50aHJlZXNjYW4ucnVudGltZS5Mb2dnaW5nLnBhcGVydHJhaWxIb3N0PXt7IHJlY2VwdGlvbmlzdF9wYXBlcnRyYWlsX2xvZy5ob3N0X251bSB9fSIKICAtICItRzpuZXQudGhyZWVzY2FuLnJ1bnRpbWUuTG9nZ2luZy5wYXBlcnRyYWlsUG9ydD17eyByZWNlcHRpb25pc3RfcGFwZXJ0cmFpbF9sb2cucG9ydCB9fSIKCgpzZXJ2aWNlX2NvbXBvc2U6CiAgdmVyc2lvbjogJzInCiAgc2VydmljZXM6CiAgICAzc2Nhbi1yZWNlcHRpb25pc3Q6CiAgICAgIGltYWdlOiAie3sgUmVjZXB0aW9uaXN0X2ltYWdlIH19IgogICAgICBjb21tYW5kOiAie3sgcmVjZXB0aW9uaXN0X2ZsYWdzIHwgam9pbignICcpIH19IgogICAgICByZXN0YXJ0OiBhbHdheXMKICAgICAgcG9ydHM6CiAgICAgICAgLSAie3sgcmVjZWl2ZXJfcG9ydCB9fTp7eyByZWNlaXZlcl9wb3J0IH19IgogICAgICAgIC0gOTA5MDo5MDkwCiAgICAgIGVudmlyb25tZW50OgogICAgICAgIC0gQVdTX0FDQ0VTU19LRVlfSUQ9e3sgcmVjZXB0aW9uaXN0X2VjMl9pZCB9fQogICAgICAgIC0gQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXt7IHJlY2VwdGlvbmlzdF9lYzJfc2VjcmV0IH19CiAgICAgICAgLSBBV1NfUkVHSU9OPXVzLXdlc3QtMgogICAgICB2b2x1bWVzOgogICAgICAgIC0gInt7IHJlY2VwdGlvbmlzdF9zdG9yYWdlX3BhdGggfX06e3sgcmVjZXB0aW9uaXN0X3N0b3JhZ2VfcGF0aCB9fSIKICAgICAgbG9nZ2luZzogInt7IGdsb2JhbF9sb2dnaW5nX2RyaXZlciB9fSIKICAgICAgaG9zdG5hbWU6ICJ7eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0iCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBKdXN0IGVuc3VyZSB0aGF0IEFwcFJ1bm5lciBjYW4gZXhlY3V0ZSB0aGUgYmFzZSBlbnRyeXBvaW50IHdpdGhvdXQgZXJyb3IuCiAgICoKICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAqLwogIEBUZXN0CiAgcHVibGljIHZvaWQgZW50cnlwb2ludFNtb2tlVGVzdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgU3RyaW5nIHByb2dyYW1OYW1lID0gInJlY2VwdGlvbmlzdF9zZXJ2ZXIiOwogICAgaW50IHBvcnQgPSBmaW5kUmFuZG9tT3BlblBvcnRPbkFsbExvY2FsSW50ZXJmYWNlcygpOwogICAgU3RyaW5nW10gYXJncyA9CiAgICAgICAgbmV3IFN0cmluZ1tdIHsKICAgICAgICAgICJyZWNlcHRpb25pc3Rfc2VydmVyIiwKICAgICAgICAgIGdldEdlb2RlU3BlY0ZsYWcoKSwKICAgICAgICAgICItLXBvcnQiLAogICAgICAgICAgSW50ZWdlci50b1N0cmluZyhwb3J0KSwKICAgICAgICAgICItLWRpc2FibGVTbGljZVN0b3JlIiAvLyBTbyBhIHBhcnRpY3VsYXIgZGlyZWN0b3J5IGRvZXNuInQgbmVlZCB0byBiZSBwcmVzZW50LgogICAgICAgIH07CgogICAgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yID0gRXhlY3V0b3JzLm5ld1NpbmdsZVRocmVhZEV4ZWN1dG9yKCk7CiAgICBGdXR1cmU8SW50ZWdlcj4gZnV0dXJlID0KICAgICAgICBleGVjdXRvci5zdWJtaXQoCiAgICAgICAgICAgICgpIC0+CiAgICAgICAgICAgICAgICBBcHBSdW5uZXIucnVuRW1iZWRkZWRXaXRob3V0QXBwSW5pdCgKICAgICAgICAgICAgICAgICAgICBwcm9ncmFtTmFtZSwgQXJyYXlzLmFzTGlzdChSZWNlcHRpb25pc3RTZXJ2ZXIuY2xhc3MpLCBhcmdzKSk7CgogICAgTWFuYWdlZENoYW5uZWwgZ3JwY0NoYW5uZWwgPQogICAgICAgIE1hbmFnZWRDaGFubmVsQnVpbGRlci5mb3JBZGRyZXNzKCJsb2NhbGhvc3QiLCBwb3J0KS51c2VQbGFpbnRleHQoKS5idWlsZCgpOwoKICAgIGZpbmFsIGxvbmcgdGltZW91dE1zID0gNTAwMDsKICAgIGxvbmcgdDAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgIHdoaWxlKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gdDAgPCB0aW1lb3V0TXMpIHsKICAgICAgaWYgKGdycGNDaGFubmVsLmdldFN0YXRlKHRydWUpID09IENvbm5lY3Rpdml0eVN0YXRlLlJFQURZKSB7CiAgICAgICAgLy8gV2FpdCB3aGVuIHNlcnZlciBpcyByZWFkeS4KICAgICAgICBicmVhazsKICAgICAgfQogICAgfQoKICAgIGFzc2VydFRoYXQoZ3JwY0NoYW5uZWwuZ2V0U3RhdGUoZmFsc2UpKS5pc0VxdWFsVG8oQ29ubmVjdGl2aXR5U3RhdGUuUkVBRFkpOwoKICAgIC8vIENhbmNlbGxpbmcgdGhlIGZ1dHVyZSBhcHBhcmVudGx5IGtpbGxzIHRoZSBleGVjdXRvciB0aHJlYWQ/CiAgICBmdXR1cmUuY2FuY2VsKHRydWUpOwogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVGhlcmUncyBzb21lIGFtYmlndWl0eSBhcm91bmQgd2hldGhlciB0aGUgZGVmYXVsdCB3aWxsIGJlIHRoZXJlIG9yIG5vdC4KICAgICMgVGhlIHRlc3QgY2xpZW50IGFuZCByZWFsIEFXUyBzZWVtIHRvIGRpZmZlciBoZXJlLgo=</text>
+        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLXNraXBHZW9kZVdyaXRlIn0sCiAgICAgIGRlc2NyaXB0aW9uID0gIkRvbid0IGFjdHVhbGx5IHdyaXRlIHRvIGdlb2RlIChmb3IgdGVzdGluZykiKQogIHB1YmxpYyBib29sZWFuIHNraXBHZW9kZVdyaXRlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICdkZWZhdWx0JyBpbiBzbnNfbXNnX2NvbnRlbnQ6Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaW5pdGlhbGl6ZVNlcnZlcigpIHsKICAgIFNlcnZlckJ1aWxkZXI8Pz4gYnVpbGRlciA9IFNlcnZlckJ1aWxkZXIuZm9yUG9ydChwb3J0KTsKICAgIGJ1aWxkZXIuYWRkU2VydmljZSgKICAgICAgICAgICAgU2VydmVySW50ZXJjZXB0b3JzLmludGVyY2VwdCgKICAgICAgICAgICAgICAgICAgICBuZXcgUmVjZXB0aW9uaXN0U2VydmljZUltcGwodGlsZVJlcXVlc3RNYW5hZ2VyLCBzbGljZVN0b3JlKSwKICAgICAgICAgICAgICAgICAgICBNb25pdG9yaW5nU2VydmVySW50ZXJjZXB0b3IuY3JlYXRlKENvbmZpZ3VyYXRpb24uYWxsTWV0cmljcygpKSkpOwogICAgdGhpcy5zZXJ2ZXIgPSBidWlsZGVyLmJ1aWxkKCk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmVzdWx0ID0gc25zX21zZ19jb250ZW50Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXNtLmJhc2UuaW5mbygiRGVjIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlY3JlYXRlOiBhbHdheXMK</text>
+        <text encoding="base64">ICAgIFNlcnZlckJ1aWxkZXI8Pz4gYnVpbGRlciA9IFNlcnZlckJ1aWxkZXIuZm9yUG9ydChwb3J0KTsKICAgIGJ1aWxkZXIuYWRkU2VydmljZSgKICAgICAgICBTZXJ2ZXJJbnRlcmNlcHRvcnMuaW50ZXJjZXB0KAogICAgICAgICAgICBuZXcgUmVjZXB0aW9uaXN0U2VydmljZUltcGwodGlsZVJlcXVlc3RNYW5hZ2VyLCBzbGljZVN0b3JlKSwKICAgICAgICAgICAgTW9uaXRvcmluZ1NlcnZlckludGVyY2VwdG9yLmNyZWF0ZShDb25maWd1cmF0aW9uLmFsbE1ldHJpY3MoKSkpKTsKICAgIHRoaXMuc2VydmVyID0gYnVpbGRlci5idWlsZCgpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIC0K</text>
+        <text encoding="base64">CiAgc3RhdGljIGNsYXNzIEVhcmx5RXhpdFJlY2VwdGlvbmlzdFNlcnZlciBleHRlbmRzIFJlY2VwdGlvbmlzdFNlcnZlciB7CiAgICBzdGF0aWMgZmluYWwgbG9uZyBMSVNURU5fVElNRV9NUyA9IDEwMDA7CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGJsb2NrVW50aWxTaHV0ZG93bigpIHRocm93cyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB7CiAgICAgIGxvbmcgdDAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgd2hpbGUgKCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHQwID4gTElTVEVOX1RJTUVfTVMpIHsKICAgICAgICAvLyBsZWF2ZSBpdCBydW5uaW5nIGZvciBhIHNlY29uZCBzbyB3ZSBjYW4gdmVyaWZ5IGNvbm5lY3Rpdml0eS4KICAgICAgfQogICAgICByZXR1cm47CiAgICB9CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS1wb3J0PXt7IHJlY2VwdGluaW9uaXN0X3BvcnQgfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5BcHBDb21tYW5kOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm5ldHR5LnV0aWwuY29uY3VycmVudC5TaW5nbGVUaHJlYWRFdmVudEV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIChncnBjQ2hhbm5lbC5nZXRTdGF0ZSh0cnVlKSAhPSBDb25uZWN0aXZpdHlTdGF0ZS5SRUFEWSkgewogICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgIGJyZWFrOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
