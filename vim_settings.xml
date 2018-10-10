@@ -46,7 +46,11 @@
         <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/README.md" timestamp="1539045983490" />
-      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/main.yml" timestamp="1539193538697" />
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/main.yml" timestamp="1539195191590">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/kesm/Dockerfile.receptionist" timestamp="1539042474268" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
@@ -63,6 +67,9 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/CrystalDataModel.java" timestamp="1539107723304" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539035772804">
         <mark key="'" line="34" column="23" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1539194855057">
+        <mark key="'" line="412" column="33" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/devops/ts" timestamp="1538763948247">
         <mark key="'" line="230" column="49" />
@@ -81,8 +88,6 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/dynamodb/DynamoTableModel.java" timestamp="1539122879916" />
     </filemarks>
     <jumps>
-      <jump line="78" column="83" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
-      <jump line="84" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="34" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="42" column="49" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
       <jump line="75" column="40" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
@@ -181,16 +186,18 @@
       <jump line="7" column="32" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
       <jump line="8" column="13" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
       <jump line="40" column="6" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
+      <jump line="105" column="49" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
+      <jump line="412" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ environment_name }}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{{ environment_name }}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>connect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVjZXB0aW9uaXN0X2dlb2RlX3NwZWM6CiAgdGFibGVfcHJlZml4OiAie3sgZW52aXJvbm1lbnRfbmFtZSB9fS4iCiAga2V5X3ByZWZpeDogInt7IGVudmlyb25tZW50X25hbWUgfX0iCiAgYnVja2V0X25hbWU6IDNzY2FuLXNsYWIKCnJlY2VwdGlvbmlzdF9wYXBlcnRyYWlsX2xvZzoKICBwb3J0OiAyMTM5NAogIGhvc3RfbnVtOiA3CgpyZWNlcHRpb25pc3RfZmxhZ3M6CiAgLSAiLS1tYXhRdWV1ZVNpemU9MTIiCiAgLSAiLS1tYXhUaWxpbmdKb2JzPTgiCiAgLSAiLS1wb3J0PXt7IHJlY2VpdmVyX3BvcnQgfX0iCiAgLSAiLS1nZW9kZVNwZWM9J3t7IHJlY2VwdGlvbmlzdF9nZW9kZV9zcGVjIHwgdG9fanNvbiB9fSciCiAgLSAiLS1zbGljZVN0b3JlRGlyPXt7IHJlY2VwdGlvbmlzdF9zdG9yYWdlX3BhdGggfX0iCiAgLSAiLS10YWdVcGRhdGVTbnNUb3BpY05hbWU9e3sgaW1hZ2VfdGFnX3VwZGF0ZV9zbnNfdG9waWMgfX0iCiAgLSAiLUc6bmV0LnRocmVlc2Nhbi5ydW50aW1lLkxvZ2dpbmcubG9nVG9QYXBlcnRyYWlsPXRydWUiCiAgLSAiLUc6bmV0LnRocmVlc2Nhbi5ydW50aW1lLk1ldHJpY3MuZW5hYmxlTWV0cmljc1NlcnZlcj10cnVlIgogIC0gIi1HOm5ldC50aHJlZXNjYW4ucnVudGltZS5Mb2dnaW5nLnBhcGVydHJhaWxIb3N0PXt7IHJlY2VwdGlvbmlzdF9wYXBlcnRyYWlsX2xvZy5ob3N0X251bSB9fSIKICAtICItRzpuZXQudGhyZWVzY2FuLnJ1bnRpbWUuTG9nZ2luZy5wYXBlcnRyYWlsUG9ydD17eyByZWNlcHRpb25pc3RfcGFwZXJ0cmFpbF9sb2cucG9ydCB9fSIKCgpzZXJ2aWNlX2NvbXBvc2U6CiAgdmVyc2lvbjogJzInCiAgc2VydmljZXM6CiAgICAzc2Nhbi1yZWNlcHRpb25pc3Q6CiAgICAgIGltYWdlOiAie3sgUmVjZXB0aW9uaXN0X2ltYWdlIH19IgogICAgICBjb21tYW5kOiAie3sgcmVjZXB0aW9uaXN0X2ZsYWdzIHwgam9pbignICcpIH19IgogICAgICByZXN0YXJ0OiBhbHdheXMKICAgICAgcG9ydHM6CiAgICAgICAgLSAie3sgcmVjZWl2ZXJfcG9ydCB9fTp7eyByZWNlaXZlcl9wb3J0IH19IgogICAgICAgIC0gOTA5MDo5MDkwCiAgICAgIGVudmlyb25tZW50OgogICAgICAgIC0gQVdTX0FDQ0VTU19LRVlfSUQ9e3sgcmVjZXB0aW9uaXN0X2VjMl9pZCB9fQogICAgICAgIC0gQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXt7IHJlY2VwdGlvbmlzdF9lYzJfc2VjcmV0IH19CiAgICAgICAgLSBBV1NfUkVHSU9OPXVzLXdlc3QtMgogICAgICB2b2x1bWVzOgogICAgICAgIC0gInt7IHJlY2VwdGlvbmlzdF9zdG9yYWdlX3BhdGggfX06e3sgcmVjZXB0aW9uaXN0X3N0b3JhZ2VfcGF0aCB9fSIKICAgICAgbG9nZ2luZzogInt7IGdsb2JhbF9sb2dnaW5nX2RyaXZlciB9fSIKICAgICAgaG9zdG5hbWU6ICJ7eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0iCg==</text>
@@ -227,9 +234,9 @@
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -237,8 +244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get(</entry>
-        <entry>snsTopic.publish</entry>
         <entry>tiled</entry>
         <entry>saved</entry>
         <entry>MongoTagsa</entry>
@@ -257,6 +262,8 @@
         <entry>'</entry>
         <entry>port</entry>
         <entry>image</entry>
+        <entry>recept</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
