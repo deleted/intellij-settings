@@ -29,9 +29,9 @@
         <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539214932012">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/hecc/service/HeccGrpcServiceCommandTest.java" timestamp="1539038086512" />
       <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1539200104789">
