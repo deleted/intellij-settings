@@ -29,9 +29,9 @@
         <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539214932012">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/hecc/service/HeccGrpcServiceCommandTest.java" timestamp="1539038086512" />
       <file name="$USER_HOME$/kesm/Dockerfile.taggerd" timestamp="1539200104789">
@@ -44,7 +44,6 @@
         <mark key="'" line="42" column="6" />
         <mark key="]" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1539283120189" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_service/tasks/docker_compose_state.yml" timestamp="1539193551241">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
