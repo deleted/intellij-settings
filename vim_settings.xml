@@ -2,75 +2,25 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" timestamp="1538780618192">
-        <mark key="'" line="213" column="37" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="." line="30" column="1" />
-        <mark key="^" line="30" column="1" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/net/aws/sns/SnsTopicTest.java" timestamp="1538780328212" />
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" timestamp="1538780681913">
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="6" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" timestamp="1538780638081">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="36" column="28" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="55" column="3" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="190" column="53" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="216" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="195" column="47" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="196" column="74" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="212" column="48" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="213" column="37" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/sns/SnsTopic.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisherTest.java" />
-    </jumps>
+    <filemarks />
+    <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFJBV19NRVNTQUdFX0RFTElWRVJZX0FUVFJJQlVURV9LRVkgPSAiUmF3TWVzc2FnZURlbGl2ZXJ5IjsKCiAgLyoqIEFuIGVudW0gZm9yIHRoZSBzcGVjaWZpYyB0eXBlcyBvZiBwcm90b2NvbHMgY2FuIGJlIHN1YnNjcmliZWQgdG8gU05TIFRvcGljcy4gKi8KICBwdWJsaWMgZW51bSBQcm90b2NvbCB7CiAgICBTUVMoInNxcyIpLAogICAgTEFNQkRBKCJsYW1iZGEiKSwKICAgIEhUVFAoImh0dHAiKSwKICAgIEhUVFBTKCJodHRwcyIpLAogICAgU01TKCJzbXMiKSwKICAgIEFQUExJQ0FUSU9OKCJhcHBsaWNhdGlvbiIpLAogICAgRU1BSUwoImVtYWlsIiksCiAgICBFTUFJTF9KU09OKCJlbWFpbC1qc29uIik7CiAgICBwdWJsaWMgZmluYWwgU3RyaW5nIHZhbHVlOwoKICAgIFByb3RvY29sKFN0cmluZyB2YWx1ZSkgewogICAgICB0aGlzLnZhbHVlID0gdmFsdWU7CiAgICB9CiAgfQoKICAvKioKICAgKiBQYXJzZSB0aGUgdG9waWMgbmFtZSBmcm9tIHRoZSB0b3BpYyBhcm4uCiAgICoKICAgKiBAcGFyYW0gdG9waWNBcm4gdG9waWMgYXJuCiAgICogQHJldHVybiB0b3BpYyBuYW1lCiAgICo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
-      </register>
-      <register name="-" type="4">
-        <text>f</text>
-      </register>
       <register name="/" type="4">
-        <text>subscribe</text>
+        <text>define</text>
       </register>
     </registers>
     <search>
-      <last-search>subscribe</last-search>
+      <last-search>define</last-search>
       <last-offset />
-      <last-pattern>subscribe</last-pattern>
+      <last-pattern>define</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>subscr</entry>
-        <entry>subscribe</entry>
+        <entry>define</entry>
       </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
