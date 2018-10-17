@@ -2,25 +2,44 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539809575988" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539809746101">
+        <mark key="'" line="161" column="25" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="32" column="34" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="117" column="70" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="118" column="77" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="138" column="53" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="172" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="161" column="25" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+    </jumps>
     <registers>
       <register name="/" type="4">
-        <text>define</text>
+        <text>Beginning Uploa</text>
       </register>
     </registers>
     <search>
-      <last-search>define</last-search>
+      <last-search>Beginning Uploa</last-search>
       <last-offset />
-      <last-pattern>define</last-pattern>
+      <last-pattern>Beginning Uploa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>define</entry>
+        <entry>Beginning uplo</entry>
+        <entry>timeout</entry>
+        <entry>Beginning Uploa</entry>
       </history-search>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
