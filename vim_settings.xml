@@ -32,13 +32,13 @@
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>build</text>
+        <text>publish</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>publish</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>publish</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -53,6 +53,7 @@
         <entry>.jar</entry>
         <entry>docker</entry>
         <entry>build</entry>
+        <entry>publish</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
