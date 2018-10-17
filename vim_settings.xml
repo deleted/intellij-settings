@@ -24,7 +24,12 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1539653116583" />
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1539739752744">
+        <mark key="[" line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1539739499675">
+        <mark key="'" line="268" column="40" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539214932012">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -84,8 +89,8 @@
       <file name="$USER_HOME$/kesm/.jenkins/utils.groovy" timestamp="1539653576987">
         <mark key="'" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539035772804">
-        <mark key="'" line="34" column="23" />
+      <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539739564867">
+        <mark key="'" line="214" column="4" />
       </file>
       <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1539654046187" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1539194855057">
@@ -107,14 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="44" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="38" column="58" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
-      <jump line="37" column="56" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
-      <jump line="83" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ImageTagSnsPublisher.java" />
-      <jump line="317" column="52" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="324" column="77" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="107" column="42" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="51" column="10" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="86" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
@@ -207,6 +204,14 @@
       <jump line="201" column="2" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
       <jump line="213" column="60" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
       <jump line="14" column="2" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="18" column="20" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="42" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="43" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="44" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="71" column="26" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="268" column="40" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="214" column="4" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -216,7 +221,7 @@
         <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text>sh</text>
+        <text>publish</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBKdXN0IGVuc3VyZSB0aGF0IEFwcFJ1bm5lciBjYW4gZXhlY3V0ZSB0aGUgYmFzZSBlbnRyeXBvaW50IHdpdGhvdXQgZXJyb3IuCiAgICoKICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAqLwogIEBUZXN0CiAgcHVibGljIHZvaWQgZW50cnlwb2ludFNtb2tlVGVzdCgpIHRocm93cyBFeGNlcHRpb24gewogICAgU3RyaW5nIHByb2dyYW1OYW1lID0gInJlY2VwdGlvbmlzdF9zZXJ2ZXIiOwogICAgaW50IHBvcnQgPSBmaW5kUmFuZG9tT3BlblBvcnRPbkFsbExvY2FsSW50ZXJmYWNlcygpOwogICAgU3RyaW5nW10gYXJncyA9CiAgICAgICAgbmV3IFN0cmluZ1tdIHsKICAgICAgICAgICJyZWNlcHRpb25pc3Rfc2VydmVyIiwKICAgICAgICAgIGdldEdlb2RlU3BlY0ZsYWcoKSwKICAgICAgICAgICItLXBvcnQiLAogICAgICAgICAgSW50ZWdlci50b1N0cmluZyhwb3J0KSwKICAgICAgICAgICItLWRpc2FibGVTbGljZVN0b3JlIiAvLyBTbyBhIHBhcnRpY3VsYXIgZGlyZWN0b3J5IGRvZXNuInQgbmVlZCB0byBiZSBwcmVzZW50LgogICAgICAgIH07CgogICAgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yID0gRXhlY3V0b3JzLm5ld1NpbmdsZVRocmVhZEV4ZWN1dG9yKCk7CiAgICBGdXR1cmU8SW50ZWdlcj4gZnV0dXJlID0KICAgICAgICBleGVjdXRvci5zdWJtaXQoCiAgICAgICAgICAgICgpIC0+CiAgICAgICAgICAgICAgICBBcHBSdW5uZXIucnVuRW1iZWRkZWRXaXRob3V0QXBwSW5pdCgKICAgICAgICAgICAgICAgICAgICBwcm9ncmFtTmFtZSwgQXJyYXlzLmFzTGlzdChSZWNlcHRpb25pc3RTZXJ2ZXIuY2xhc3MpLCBhcmdzKSk7CgogICAgTWFuYWdlZENoYW5uZWwgZ3JwY0NoYW5uZWwgPQogICAgICAgIE1hbmFnZWRDaGFubmVsQnVpbGRlci5mb3JBZGRyZXNzKCJsb2NhbGhvc3QiLCBwb3J0KS51c2VQbGFpbnRleHQoKS5idWlsZCgpOwoKICAgIGZpbmFsIGxvbmcgdGltZW91dE1zID0gNTAwMDsKICAgIGxvbmcgdDAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgIHdoaWxlKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gdDAgPCB0aW1lb3V0TXMpIHsKICAgICAgaWYgKGdycGNDaGFubmVsLmdldFN0YXRlKHRydWUpID09IENvbm5lY3Rpdml0eVN0YXRlLlJFQURZKSB7CiAgICAgICAgLy8gV2FpdCB3aGVuIHNlcnZlciBpcyByZWFkeS4KICAgICAgICBicmVhazsKICAgICAgfQogICAgfQoKICAgIGFzc2VydFRoYXQoZ3JwY0NoYW5uZWwuZ2V0U3RhdGUoZmFsc2UpKS5pc0VxdWFsVG8oQ29ubmVjdGl2aXR5U3RhdGUuUkVBRFkpOwoKICAgIC8vIENhbmNlbGxpbmcgdGhlIGZ1dHVyZSBhcHBhcmVudGx5IGtpbGxzIHRoZSBleGVjdXRvciB0aHJlYWQ/CiAgICBmdXR1cmUuY2FuY2VsKHRydWUpOwogIH0KfQo=</text>
@@ -253,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sh</last-search>
+      <last-search>publish</last-search>
       <last-offset />
-      <last-pattern>sh</last-pattern>
+      <last-pattern>publish</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -263,10 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MongoTags</entry>
-        <entry>mongoTag</entry>
-        <entry>setMongo</entry>
-        <entry>buildDescr</entry>
         <entry>conda_bra</entry>
         <entry>branch</entry>
         <entry>grpc</entry>
@@ -283,6 +284,10 @@
         <entry>Server</entry>
         <entry>def sh</entry>
         <entry>sh</entry>
+        <entry>jar</entry>
+        <entry>build</entry>
+        <entry>push</entry>
+        <entry>publish</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
