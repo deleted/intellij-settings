@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1539811784049">
+        <mark key="'" line="44" column="4" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539809575988" />
       <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539810531242">
         <mark key="'" line="28" column="29" />
@@ -17,16 +20,25 @@
       <jump line="117" column="70" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="172" column="60" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="28" column="29" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="18" column="19" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="387" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="394" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="401" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="10" column="20" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="42" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="43" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
+      <jump line="44" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>timeout_ms</text>
+        <text>build</text>
       </register>
     </registers>
     <search>
-      <last-search>timeout_ms</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>timeout_ms</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -38,6 +50,9 @@
         <entry>Beginning Uploa</entry>
         <entry>;timeout_ms</entry>
         <entry>timeout_ms</entry>
+        <entry>.jar</entry>
+        <entry>docker</entry>
+        <entry>build</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
