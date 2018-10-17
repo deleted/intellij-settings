@@ -4,27 +4,29 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539809575988" />
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539809746101">
-        <mark key="'" line="161" column="25" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539810531242">
+        <mark key="'" line="28" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="34" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="117" column="70" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="118" column="77" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="138" column="53" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="172" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="161" column="25" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="32" column="23" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="117" column="70" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="172" column="60" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="28" column="29" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>Beginning Uploa</text>
+        <text>timeout_ms</text>
       </register>
     </registers>
     <search>
-      <last-search>Beginning Uploa</last-search>
+      <last-search>timeout_ms</last-search>
       <last-offset />
-      <last-pattern>Beginning Uploa</last-pattern>
+      <last-pattern>timeout_ms</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -34,11 +36,16 @@
         <entry>Beginning uplo</entry>
         <entry>timeout</entry>
         <entry>Beginning Uploa</entry>
+        <entry>;timeout_ms</entry>
+        <entry>timeout_ms</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
