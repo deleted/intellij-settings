@@ -48,6 +48,12 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="33" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1539887243301">
+        <mark key="[" line="160" column="43" />
+        <mark key="]" line="160" column="43" />
+        <mark key="." line="160" column="43" />
+        <mark key="^" line="160" column="45" />
+      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" timestamp="1539653139383">
         <mark key="'" line="42" column="6" />
         <mark key="]" line="55" column="41" />
@@ -58,7 +64,7 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539886298865">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539887159316">
         <mark key="'" line="140" column="8" />
         <mark key="[" line="136" column="31" />
         <mark key="]" line="136" column="31" />
@@ -232,43 +238,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StatusRuntimeException</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>StatusRuntimeException</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>asException</text>
       </register>
-      <register name="0" type="4">
-        <text>¯</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIE1vY2tpdG8udmVyaWZ5KG1vY2tUaWxlUmVxdWVzdE1hbmFnZXIsIE1vY2tpdG8udGltZXMoMSkpLmdldFJlc2VydmF0aW9uKE1vY2tpdG8uYW55SW50KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlT2JzZXJ2ZXIgPSBuZXcgQ29sbGVjdGluZ1N0cmVhbU9ic2VydmVyPFVwbG9hZEltYWdlUmVzcG9uc2U+KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSB2b2lkIHJlY2VpdmVJbml0YWxNZXNzYWdlKFVwbG9hZEltYWdlUmVxdWVzdCBtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdE9ic2VydmVyLm9uRXJyb3IoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSB2b2lkIHNlcnZlckVycm9yKFN0YXR1c1J1bnRpbWVFeGNlcHRpb24gdCkgewo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcHJpdmF0ZSB2b2lkIHJlY2VpdmVJbml0YWxNZXNzYWdlKFVwbG9hZEltYWdlUmVxdWVzdCBtc2cpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIC8vIMKvXF8o44OEKV8vwq8KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZSB2b2lkIHNlcnZlckVycm9yKFN0YXR1c1J1bnRpbWVFeGNlcHRpb24gdCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXNlcnZhdGlvblNldC5jb250YWlucyhyZXNlcnZhdGlvbikpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXNlcnZhdGlvblNldC5yZW1vdmUocmVzZXJ2YXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIC8vIMKvXF8o44OEKV8vwq8KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gZG8gd2UgY2FyZSBhYm91dCB0aGlzPwo=</text>
+        <text encoding="base64">ICAgIGlmIChyZXNlcnZhdGlvblNldC5jb250YWlucyhyZXNlcnZhdGlvbikpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNlcnZhdGlvblNldC5yZW1vdmUocmVzZXJ2YXRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
