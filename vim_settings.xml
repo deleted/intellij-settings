@@ -6,7 +6,10 @@
       <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1539811784049">
         <mark key="'" line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539809575988" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1539824876313">
+        <mark key="'" line="213" column="54" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539824110215" />
       <file name="$USER_HOME$/3scan/kesm/kesm/base/app.py" timestamp="1539820357982">
         <mark key="'" line="422" column="33" />
       </file>
@@ -41,19 +44,21 @@
       <jump line="342" column="31" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
       <jump line="430" column="5" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
       <jump line="422" column="33" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
+      <jump line="60" column="28" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="213" column="54" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name=":" type="4">
         <text>95</text>
       </register>
       <register name="/" type="4">
-        <text>RegisteredFlags</text>
+        <text>pyramid level</text>
       </register>
     </registers>
     <search>
-      <last-search>RegisteredFlags</last-search>
+      <last-search>pyramid level</last-search>
       <last-offset />
-      <last-pattern>RegisteredFlags</last-pattern>
+      <last-pattern>pyramid level</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -72,6 +77,8 @@
         <entry>flagfile</entry>
         <entry>run(</entry>
         <entry>RegisteredFlags</entry>
+        <entry>for level</entry>
+        <entry>pyramid level</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
@@ -83,6 +90,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
