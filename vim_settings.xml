@@ -31,6 +31,9 @@
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1539739499675">
         <mark key="'" line="268" column="40" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1539992177235">
+        <mark key="'" line="234" column="18" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1539214932012">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -49,7 +52,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" timestamp="1539984923811">
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" timestamp="1539991938738">
         <mark key="'" line="356" column="27" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539975221935">
@@ -98,7 +101,7 @@
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539739564867">
         <mark key="'" line="221" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1539194855057">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1539991358458">
         <mark key="'" line="412" column="33" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/devops/ts" timestamp="1538763948247">
@@ -115,27 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="49" filename="$USER_HOME$/kesm/kesm/devops/ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
-      <jump line="42" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
-      <jump line="116" column="24" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
-      <jump line="122" column="39" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
-      <jump line="125" column="67" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
-      <jump line="124" column="41" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
-      <jump line="14" column="15" filename="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" />
-      <jump line="54" column="1" filename="$USER_HOME$/kesm/kesm/aws/sns.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
-      <jump line="32" column="41" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
-      <jump line="34" column="23" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
-      <jump line="68" column="12" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
-      <jump line="22" column="46" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
-      <jump line="4" column="27" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
-      <jump line="5" column="27" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
-      <jump line="6" column="27" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
-      <jump line="16" column="2" filename="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" />
-      <jump line="37" column="9" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="72" column="44" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="115" column="53" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="3" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="4" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="5" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -215,6 +197,27 @@
       <jump line="131" column="61" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="50" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
       <jump line="356" column="27" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
+      <jump line="206" column="33" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="55" column="52" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="56" column="19" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="64" column="10" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="70" column="57" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="74" column="38" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="76" column="48" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="79" column="31" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="60" column="19" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="101" column="26" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="109" column="56" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="165" column="43" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="166" column="23" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="170" column="35" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="205" column="38" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="197" column="38" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="63" column="26" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="131" column="25" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="180" column="9" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="234" column="18" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -224,7 +227,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>Buffer is not</text>
+        <text>debug(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
@@ -257,13 +260,13 @@
         <text encoding="base64">ICAgIHRpbGVSZXF1ZXN0TWFuYWdlci53YWl0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>51</text>
+        <text>191</text>
       </register>
     </registers>
     <search>
-      <last-search>Buffer is not</last-search>
+      <last-search>debug(</last-search>
       <last-offset />
-      <last-pattern>Buffer is not</last-pattern>
+      <last-pattern>debug(</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -271,11 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>receptionistserver</entry>
-        <entry>receptionist</entry>
-        <entry>'</entry>
-        <entry>port</entry>
-        <entry>image</entry>
         <entry>recept</entry>
         <entry>connect</entry>
         <entry>server</entry>
@@ -291,12 +289,18 @@
         <entry>flags</entry>
         <entry>framwork</entry>
         <entry>Buffer is not</entry>
+        <entry>queue</entry>
+        <entry>sender</entry>
+        <entry>thread backup</entry>
+        <entry>log</entry>
+        <entry>debug(</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>w</entry>
         <entry>51</entry>
+        <entry>191</entry>
       </history-cmd>
       <history-expr />
       <history-input />
