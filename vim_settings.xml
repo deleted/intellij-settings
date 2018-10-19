@@ -49,6 +49,9 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="21" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" timestamp="1539983757599">
+        <mark key="'" line="356" column="27" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539975221935">
         <mark key="'" line="131" column="61" />
         <mark key="[" line="149" column="0" />
@@ -112,8 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="50" filename="$USER_HOME$/kesm/kesm/devops/ts" />
-      <jump line="228" column="13" filename="$USER_HOME$/kesm/kesm/devops/ts" />
       <jump line="230" column="49" filename="$USER_HOME$/kesm/kesm/devops/ts" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
       <jump line="42" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
@@ -212,6 +213,8 @@
       <jump line="23" column="10" filename="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="27" column="10" filename="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="131" column="61" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="50" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
+      <jump line="356" column="27" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -221,7 +224,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>framwork</text>
+        <text>Buffer is not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
@@ -254,13 +257,13 @@
         <text encoding="base64">ICAgIHRpbGVSZXF1ZXN0TWFuYWdlci53YWl0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>51</text>
       </register>
     </registers>
     <search>
-      <last-search>framwork</last-search>
+      <last-search>Buffer is not</last-search>
       <last-offset />
-      <last-pattern>framwork</last-pattern>
+      <last-pattern>Buffer is not</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -268,7 +271,6 @@
     </search>
     <history>
       <history-search>
-        <entry>res</entry>
         <entry>receptionistserver</entry>
         <entry>receptionist</entry>
         <entry>'</entry>
@@ -288,11 +290,13 @@
         <entry>asException</entry>
         <entry>flags</entry>
         <entry>framwork</entry>
+        <entry>Buffer is not</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>w</entry>
+        <entry>51</entry>
       </history-cmd>
       <history-expr />
       <history-input />
