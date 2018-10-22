@@ -87,6 +87,7 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="16" column="43" />
       </file>
+      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1540238908095" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
