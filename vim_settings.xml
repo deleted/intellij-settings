@@ -64,11 +64,11 @@
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540247878045">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="31" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540248975845">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="34" />
+        <mark key="." line="63" column="34" />
+        <mark key="^" line="63" column="48" />
       </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
@@ -84,7 +84,6 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1540238908095" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -99,14 +98,12 @@
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539739564867">
         <mark key="'" line="221" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/bin/main/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1540244895744" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1539991358458">
         <mark key="'" line="412" column="33" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/devops/ts" timestamp="1538763948247">
         <mark key="'" line="230" column="49" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/server/GeodeServiceImplTest.java" timestamp="1539908795066" />
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1538791258156">
         <mark key="[" line="89" column="18" />
         <mark key="]" line="89" column="19" />
@@ -220,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reservationGauge</text>
+        <text>getReservation</text>
       </register>
       <register name="-" type="4">
-        <text>reservationGauge</text>
+        <text>getReservation</text>
       </register>
       <register name="/" type="4">
         <text>metric</text>
