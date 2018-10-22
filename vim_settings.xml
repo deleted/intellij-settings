@@ -64,11 +64,11 @@
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540248975845">
-        <mark key="[" line="63" column="34" />
-        <mark key="]" line="63" column="34" />
-        <mark key="." line="63" column="34" />
-        <mark key="^" line="63" column="48" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540250110545">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="62" column="48" />
+        <mark key="." line="62" column="48" />
+        <mark key="^" line="62" column="48" />
       </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
@@ -256,7 +256,7 @@
         <text encoding="base64">ICAgICAgdGlsZVJlcXVlc3RNYW5hZ2VyLndhaXQoMTApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>24</text>
       </register>
     </registers>
     <search>
@@ -298,6 +298,8 @@
         <entry>51</entry>
         <entry>191</entry>
         <entry>wq</entry>
+        <entry>34</entry>
+        <entry>24</entry>
       </history-cmd>
       <history-expr />
       <history-input />
