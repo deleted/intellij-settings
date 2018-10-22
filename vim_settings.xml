@@ -64,11 +64,9 @@
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540250110545">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="62" column="48" />
-        <mark key="." line="62" column="48" />
-        <mark key="^" line="62" column="48" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540251474282">
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
@@ -89,11 +87,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1539908353255">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="35" column="59" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1540251674751">
+        <mark key="'" line="83" column="14" />
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="137" column="3" />
+        <mark key="." line="137" column="3" />
+        <mark key="^" line="137" column="3" />
       </file>
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539739564867">
         <mark key="'" line="221" column="4" />
@@ -114,17 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="4" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="5" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="6" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="7" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="8" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="9" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="10" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="11" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="12" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="13" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="14" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="15" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="16" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -214,55 +202,66 @@
       <jump line="131" column="25" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="180" column="9" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="234" column="18" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="137" column="3" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="186" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="188" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="36" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="41" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="46" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="52" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="58" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="64" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="83" column="14" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getReservation</text>
+        <text>It'sa me! The Receptionist!</text>
       </register>
       <register name="-" type="4">
-        <text>getReservation</text>
+        <text>It'sa me! The Receptionist!</text>
       </register>
       <register name="/" type="4">
-        <text>metric</text>
+        <text>public</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QmV0dGVyIHJlc2VydmF0aW9uIGNsZWFudXAgb24gR1JQQyBlcnJvcnMuCg==</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBUaGlzIGZ1bmN0aW9uIGFjY2VwdHMgYSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgd2FpdGluZyBmb3IgZXJyb3IgaGFuZGxlciB0byBjbGVhbiB1cCByZXNlcnZhdGlvbiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICogCiAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGxvbmcgdGltZW91dE1zID0gMjU7CiAgICBmaW5hbCBsb25nIHQwID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">QmV0dGVyIHJlc2VydmF0aW9uIGNsZWFudXAgb24gR1JQQyBlcnJvcnMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3luY2hyb25pemVkICh0aWxlUmVxdWVzdE1hbmFnZXIpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgd2FpdGluZyBmb3IgZXJyb3IgaGFuZGxlciB0byBjbGVhbiB1cCByZXNlcnZhdGlvbiIpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5bmNocm9uaXplZCAodGlsZVJlcXVlc3RNYW5hZ2VyKSB7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGxvbmcgdGltZW91dE1zID0gMjU7CiAgICBmaW5hbCBsb25nIHQwID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGlsZVJlcXVlc3RNYW5hZ2VyLndhaXQoMTApOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
       </register>
     </registers>
     <search>
-      <last-search>metric</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>metric</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -270,7 +269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connect</entry>
         <entry>server</entry>
         <entry>Server</entry>
         <entry>def sh</entry>
@@ -290,6 +288,7 @@
         <entry>log</entry>
         <entry>debug(</entry>
         <entry>metric</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
