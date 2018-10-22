@@ -61,17 +61,14 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539908811464">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1539907398296">
-        <mark key="[" line="77" column="39" />
-        <mark key="]" line="77" column="11" />
-        <mark key="." line="77" column="11" />
-        <mark key="^" line="77" column="11" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540247878045">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
@@ -222,53 +219,53 @@
       <jump line="234" column="18" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgd2FpdGluZyBmb3IgZXJyb3IgaGFuZGxlciB0byBjbGVhbiB1cCByZXNlcnZhdGlvbiIpOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>reservationGauge</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>reservationGauge</text>
       </register>
       <register name="/" type="4">
-        <text>debug(</text>
+        <text>metric</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgd2FpdGluZyBmb3IgZXJyb3IgaGFuZGxlciB0byBjbGVhbiB1cCByZXNlcnZhdGlvbiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">QmV0dGVyIHJlc2VydmF0aW9uIGNsZWFudXAgb24gR1JQQyBlcnJvcnMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGxvbmcgdGltZW91dE1zID0gMjU7CiAgICBmaW5hbCBsb25nIHQwID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgd2FpdGluZyBmb3IgZXJyb3IgaGFuZGxlciB0byBjbGVhbiB1cCByZXNlcnZhdGlvbiIpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3luY2hyb25pemVkICh0aWxlUmVxdWVzdE1hbmFnZXIpIHsK</text>
+        <text encoding="base64">ICAgIGZpbmFsIGxvbmcgdGltZW91dE1zID0gMjU7CiAgICBmaW5hbCBsb25nIHQwID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN5bmNocm9uaXplZCAodGlsZVJlcXVlc3RNYW5hZ2VyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgc3luY2hyb25pemVkICh0aWxlUmVxdWVzdE1hbmFnZXIpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGlsZVJlcXVlc3RNYW5hZ2VyLndhaXQoMTApOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbGVSZXF1ZXN0TWFuYWdlci53YWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHN5bmNocm9uaXplZCAodGlsZVJlcXVlc3RNYW5hZ2VyKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpbGVSZXF1ZXN0TWFuYWdlci53YWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGlsZVJlcXVlc3RNYW5hZ2VyLndhaXQoMTApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>191</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>debug(</last-search>
+      <last-search>metric</last-search>
       <last-offset />
-      <last-pattern>debug(</last-pattern>
+      <last-pattern>metric</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -276,7 +273,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recept</entry>
         <entry>connect</entry>
         <entry>server</entry>
         <entry>Server</entry>
@@ -296,6 +292,7 @@
         <entry>thread backup</entry>
         <entry>log</entry>
         <entry>debug(</entry>
+        <entry>metric</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
@@ -303,6 +300,7 @@
         <entry>w</entry>
         <entry>51</entry>
         <entry>191</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
