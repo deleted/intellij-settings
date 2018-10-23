@@ -52,7 +52,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" timestamp="1540255790420">
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" timestamp="1540335066045">
         <mark key="'" line="447" column="8" />
         <mark key="[" line="447" column="8" />
         <mark key="]" line="447" column="8" />
@@ -98,11 +98,12 @@
         <mark key="." line="137" column="3" />
         <mark key="^" line="137" column="3" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/sapera_cffi_testlib.py" timestamp="1540335253691" />
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/loader.py" timestamp="1540256330717" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539739564867">
         <mark key="'" line="221" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1539991358458">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" timestamp="1540335135028">
         <mark key="'" line="412" column="33" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/devops/ts" timestamp="1538763948247">
