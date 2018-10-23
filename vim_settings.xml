@@ -116,7 +116,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Status.java" timestamp="1539885622817">
         <mark key="'" line="537" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/interface.py" timestamp="1540255856235" />
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/interface.py" timestamp="1540333702159" />
     </filemarks>
     <jumps>
       <jump line="8" column="13" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
@@ -261,7 +261,7 @@
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>24</text>
+        <text>207</text>
       </register>
     </registers>
     <search>
@@ -305,6 +305,7 @@
         <entry>wq</entry>
         <entry>34</entry>
         <entry>24</entry>
+        <entry>207</entry>
       </history-cmd>
       <history-expr />
       <history-input />
