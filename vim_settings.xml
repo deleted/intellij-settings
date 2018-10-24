@@ -52,8 +52,8 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" timestamp="1540335066045">
-        <mark key="'" line="447" column="8" />
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" timestamp="1540343415711">
+        <mark key="'" line="366" column="25" />
         <mark key="[" line="447" column="8" />
         <mark key="]" line="447" column="8" />
         <mark key="." line="447" column="8" />
@@ -120,9 +120,6 @@
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/interface.py" timestamp="1540333702159" />
     </filemarks>
     <jumps>
-      <jump line="8" column="13" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
-      <jump line="40" column="6" filename="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" />
-      <jump line="105" column="49" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="412" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="67" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
       <jump line="6" column="23" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
@@ -220,6 +217,9 @@
       <jump line="210" column="56" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="211" column="50" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="447" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
+      <jump line="234" column="34" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
+      <jump line="257" column="35" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
+      <jump line="366" column="25" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -229,7 +229,7 @@
         <text>enput_name_cstr</text>
       </register>
       <register name="/" type="4">
-        <text>receiveImage</text>
+        <text>put</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
@@ -266,9 +266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>receiveImage</last-search>
+      <last-search>put</last-search>
       <last-offset />
-      <last-pattern>receiveImage</last-pattern>
+      <last-pattern>put</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -276,7 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def sh</entry>
         <entry>sh</entry>
         <entry>jar</entry>
         <entry>build</entry>
@@ -296,6 +295,7 @@
         <entry>public</entry>
         <entry>buffer</entry>
         <entry>receiveImage</entry>
+        <entry>put</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
