@@ -8,6 +8,7 @@
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1540423346018" />
       <file name="$USER_HOME$/kesm/kesm/base/http/health.py" timestamp="1539282898232">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -53,19 +54,18 @@
         <mark key="." line="447" column="8" />
         <mark key="^" line="447" column="8" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1539975221935">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1540423316706">
         <mark key="'" line="131" column="61" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540421422143">
+      <file name="/Dummy.txt" timestamp="1540422927838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/testing/asserts/SerializableAssert.java" timestamp="1540411590147" />
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
       </file>
