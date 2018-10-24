@@ -71,7 +71,7 @@
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540251474282">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540407916556">
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
@@ -119,7 +119,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Status.java" timestamp="1539885622817">
         <mark key="'" line="537" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1540405921928">
+      <file name="/fragment.java" timestamp="1540407873912">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
