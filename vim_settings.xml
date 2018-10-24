@@ -65,6 +65,9 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1540406034937">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
@@ -86,6 +89,7 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="16" column="43" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1540405546768" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -98,8 +102,6 @@
         <mark key="." line="137" column="3" />
         <mark key="^" line="137" column="3" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/sapera_cffi_testlib.py" timestamp="1540335253691" />
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/loader.py" timestamp="1540256330717" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1539739564867">
         <mark key="'" line="221" column="4" />
       </file>
@@ -117,7 +119,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Status.java" timestamp="1539885622817">
         <mark key="'" line="537" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/interface.py" timestamp="1540333702159" />
+      <file name="/fragment.java" timestamp="1540405921928">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="412" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
