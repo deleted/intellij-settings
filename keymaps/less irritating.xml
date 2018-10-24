@@ -2,7 +2,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">

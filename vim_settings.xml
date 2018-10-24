@@ -3,16 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1539910606650">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="48" column="69" />
-        <mark key="." line="48" column="69" />
-        <mark key="^" line="48" column="69" />
-      </file>
       <file name="$USER_HOME$/kesm/scripts/run_receptionist" timestamp="1539905180629">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" timestamp="1540411121902">
+        <mark key="'" line="45" column="50" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/base/http/health.py" timestamp="1539282898232">
         <mark key="[" line="6" column="0" />
@@ -65,16 +62,13 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540406034937">
+      <file name="/Dummy.txt" timestamp="1540411016790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540407916556">
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/testing/asserts/SerializableAssert.java" timestamp="1540411590147" />
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
       </file>
@@ -89,7 +83,6 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1540405546768" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -119,14 +112,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/28bc276ca9fa1449986e68a1686bc9fc328c89ec/grpc-core-1.12.0-sources.jar!/io/grpc/Status.java" timestamp="1539885622817">
         <mark key="'" line="537" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1540407873912">
+      <file name="/fragment.java" timestamp="1540409700759">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="412" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
-      <jump line="6" column="23" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
       <jump line="74" column="24" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
       <jump line="70" column="39" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
       <jump line="2" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -224,6 +214,9 @@
       <jump line="234" column="34" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
       <jump line="257" column="35" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
       <jump line="366" column="25" filename="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/framegrabber.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
+      <jump line="3" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
+      <jump line="45" column="50" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -233,7 +226,7 @@
         <text>enput_name_cstr</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text>JsonFunc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
@@ -270,9 +263,9 @@
       </register>
     </registers>
     <search>
-      <last-search>put</last-search>
+      <last-search>JsonFunc</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
+      <last-pattern>JsonFunc</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -280,7 +273,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sh</entry>
         <entry>jar</entry>
         <entry>build</entry>
         <entry>push</entry>
@@ -300,6 +292,7 @@
         <entry>buffer</entry>
         <entry>receiveImage</entry>
         <entry>put</entry>
+        <entry>JsonFunc</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
