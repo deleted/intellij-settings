@@ -66,6 +66,13 @@
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540492087342">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+      </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1538771745773">
         <mark key="'" line="42" column="0" />
       </file>
@@ -85,7 +92,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1540251674751">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1540492374323">
         <mark key="'" line="83" column="14" />
         <mark key="[" line="25" column="54" />
         <mark key="]" line="137" column="3" />
@@ -114,8 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="24" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
-      <jump line="70" column="39" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
       <jump line="2" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="25" column="26" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
       <jump line="49" column="2" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
@@ -214,55 +219,57 @@
       <jump line="78" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="3" column="26" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
       <jump line="45" column="50" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/KesmSliceStore.kt" />
+      <jump line="64" column="47" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>enput_name_cstr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVzZXJ2YXRpb25Db3VudC5kZWMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>enput_name_cstr</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>JsonFunc</text>
+        <text>reservationCount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAgICAgcmVzZXJ2YXRpb25Db3VudC5kZWMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBUaGlzIGZ1bmN0aW9uIGFjY2VwdHMgYSAK</text>
+        <text encoding="base64">ICAgIHJlc2VydmF0aW9uQ291bnQuaW5jKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogCiAqIAo=</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgKiBUaGlzIGZ1bmN0aW9uIGFjY2VwdHMgYSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QmV0dGVyIHJlc2VydmF0aW9uIGNsZWFudXAgb24gR1JQQyBlcnJvcnMuCg==</text>
+        <text encoding="base64">ICogCiAqIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgd2FpdGluZyBmb3IgZXJyb3IgaGFuZGxlciB0byBjbGVhbiB1cCByZXNlcnZhdGlvbiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">QmV0dGVyIHJlc2VydmF0aW9uIGNsZWFudXAgb24gR1JQQyBlcnJvcnMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGxvbmcgdGltZW91dE1zID0gMjU7CiAgICBmaW5hbCBsb25nIHQwID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0MCA+IHRpbWVvdXRNcykgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgd2FpdGluZyBmb3IgZXJyb3IgaGFuZGxlciB0byBjbGVhbiB1cCByZXNlcnZhdGlvbiIpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>207</text>
       </register>
     </registers>
     <search>
-      <last-search>JsonFunc</last-search>
+      <last-search>reservationCount</last-search>
       <last-offset />
-      <last-pattern>JsonFunc</last-pattern>
+      <last-pattern>reservationCount</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -270,7 +277,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jar</entry>
         <entry>build</entry>
         <entry>push</entry>
         <entry>publish</entry>
@@ -290,6 +296,7 @@
         <entry>receiveImage</entry>
         <entry>put</entry>
         <entry>JsonFunc</entry>
+        <entry>reservationCount</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
