@@ -67,6 +67,7 @@
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539903374893">
         <mark key="'" line="27" column="10" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/testing/asserts/SerializableAssert.java" timestamp="1540501387837" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1540492087342">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="27" column="45" />
