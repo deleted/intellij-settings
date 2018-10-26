@@ -24,8 +24,8 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1540504646152">
-        <mark key="'" line="175" column="69" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1540593843748">
+        <mark key="'" line="241" column="43" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1540255685125">
         <mark key="'" line="211" column="50" />
@@ -55,12 +55,6 @@
         <mark key="." line="447" column="8" />
         <mark key="^" line="447" column="8" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1540505256705">
-        <mark key="'" line="131" column="61" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1540422927838">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,6 +82,9 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
         <mark key="^" line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1540593777007">
+        <mark key="[" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/ts_software/templates/flagfiles/Receptionist.flagfile.j2" timestamp="1539039914403">
         <mark key="[" line="16" column="0" />
@@ -124,9 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="2" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
-      <jump line="54" column="4" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
-      <jump line="77" column="2" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
       <jump line="79" column="2" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
       <jump line="80" column="2" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
       <jump line="84" column="119" filename="$USER_HOME$/kesm/.jenkins/utils.groovy" />
@@ -222,8 +216,11 @@
       <jump line="64" column="47" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
       <jump line="86" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="164" column="57" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="176" column="56" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="175" column="69" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="240" column="56" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="241" column="43" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -233,7 +230,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>javax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0LnNpemUoKSkuaXNFcXVhbFRvKDEpOwo=</text>
@@ -270,9 +267,9 @@
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>javax</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>javax</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -280,8 +277,6 @@
     </search>
     <history>
       <history-search>
-        <entry>push</entry>
-        <entry>publish</entry>
         <entry>responseObserver.onError</entry>
         <entry>asException</entry>
         <entry>flags</entry>
@@ -300,6 +295,8 @@
         <entry>JsonFunc</entry>
         <entry>reservationCount</entry>
         <entry>image</entry>
+        <entry>imageio</entry>
+        <entry>javax</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
