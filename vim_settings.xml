@@ -49,10 +49,10 @@
         <mark key="." line="137" column="3" />
         <mark key="^" line="137" column="3" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/RawImageStream.java" timestamp="1540598886881">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="30" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/RawImageStream.java" timestamp="1540600649562">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/SectionMetadata.java" timestamp="1540597817327">
@@ -172,10 +172,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>interface</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text>switch</text>
