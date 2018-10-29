@@ -7,9 +7,9 @@
         <mark key="'" line="44" column="44" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1540850173111">
-        <mark key="[" line="160" column="24" />
-        <mark key="]" line="160" column="25" />
-        <mark key="." line="160" column="25" />
+        <mark key="[" line="159" column="24" />
+        <mark key="]" line="159" column="25" />
+        <mark key="." line="159" column="25" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" timestamp="1540849619993" />
     </filemarks>
@@ -23,13 +23,13 @@
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>%\i</text>
+        <text>trigger</text>
       </register>
     </registers>
     <search>
-      <last-search>%\i</last-search>
+      <last-search>trigger</last-search>
       <last-offset />
-      <last-pattern>%\i</last-pattern>
+      <last-pattern>trigger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -39,8 +39,14 @@
         <entry>init</entry>
         <entry>%i</entry>
         <entry>%\i</entry>
+        <entry>triggerEver</entry>
+        <entry>trigger</entry>
       </history-search>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
