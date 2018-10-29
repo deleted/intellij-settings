@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539810531242">
         <mark key="'" line="28" column="29" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" timestamp="1540839712252">
+        <mark key="'" line="1411" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="118" column="77" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
@@ -58,6 +61,8 @@
       <jump line="422" column="33" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
       <jump line="60" column="28" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="213" column="54" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="1407" column="8" filename="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" />
+      <jump line="1411" column="21" filename="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -82,13 +87,13 @@
         <text>exc</text>
       </register>
       <register name="/" type="4">
-        <text>pyramid level</text>
+        <text>uuid</text>
       </register>
     </registers>
     <search>
-      <last-search>pyramid level</last-search>
+      <last-search>uuid</last-search>
       <last-offset />
-      <last-pattern>pyramid level</last-pattern>
+      <last-pattern>uuid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -109,6 +114,8 @@
         <entry>RegisteredFlags</entry>
         <entry>for level</entry>
         <entry>pyramid level</entry>
+        <entry>UuidField</entry>
+        <entry>uuid</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
