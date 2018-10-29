@@ -3,139 +3,44 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1539811784049">
-        <mark key="'" line="44" column="4" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1540849897859">
+        <mark key="'" line="44" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540516035268">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1540850173111">
+        <mark key="[" line="160" column="24" />
+        <mark key="]" line="160" column="25" />
+        <mark key="." line="160" column="25" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1539824876313">
-        <mark key="'" line="213" column="54" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1539825568235">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1540516023148">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/base/app.py" timestamp="1539820357982">
-        <mark key="'" line="422" column="33" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1539810531242">
-        <mark key="'" line="28" column="29" />
-      </file>
-      <file name="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" timestamp="1540839712252">
-        <mark key="'" line="1411" column="21" />
-      </file>
+      <file name="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" timestamp="1540849619993" />
     </filemarks>
     <jumps>
-      <jump line="118" column="77" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="138" column="53" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="161" column="25" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="32" column="23" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="117" column="70" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="172" column="60" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="28" column="29" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="18" column="19" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="387" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="394" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="401" column="17" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="10" column="20" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="42" column="0" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="43" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="44" column="4" filename="$USER_HOME$/3scan/kesm/build.gradle" />
-      <jump line="543" column="0" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="215" column="44" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="210" column="29" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="212" column="28" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="447" column="30" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="460" column="21" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="342" column="31" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="430" column="5" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="422" column="33" filename="$USER_HOME$/3scan/kesm/kesm/base/app.py" />
-      <jump line="60" column="28" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="213" column="54" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="1407" column="8" filename="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" />
-      <jump line="1411" column="21" filename="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
+      <jump line="23" column="14" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
+      <jump line="26" column="14" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
+      <jump line="38" column="9" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="41" column="60" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="44" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ubmV0LmdycGMuCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ubmV0LmdycGMuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3luY2hyb25pemVkIFJlc2VydmF0aW9uCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSB0aHJvd0Vycm9yKFJ1bnRpbWVFeGNlcHRpb24gZXhjKSB7Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>95</text>
-      </register>
-      <register name="-" type="4">
-        <text>exc</text>
-      </register>
       <register name="/" type="4">
-        <text>uuid</text>
+        <text>%\i</text>
       </register>
     </registers>
     <search>
-      <last-search>uuid</last-search>
+      <last-search>%\i</last-search>
       <last-offset />
-      <last-pattern>uuid</last-pattern>
+      <last-pattern>%\i</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>define</entry>
-        <entry>Beginning uplo</entry>
-        <entry>timeout</entry>
-        <entry>Beginning Uploa</entry>
-        <entry>;timeout_ms</entry>
-        <entry>timeout_ms</entry>
-        <entry>.jar</entry>
-        <entry>docker</entry>
-        <entry>build</entry>
-        <entry>publish</entry>
-        <entry>flagfile</entry>
-        <entry>run(</entry>
-        <entry>RegisteredFlags</entry>
-        <entry>for level</entry>
-        <entry>pyramid level</entry>
-        <entry>UuidField</entry>
-        <entry>uuid</entry>
+        <entry>testSliceStoreInit</entry>
+        <entry>init</entry>
+        <entry>%i</entry>
+        <entry>%\i</entry>
       </history-search>
-      <history-cmd>
-        <entry>95</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
