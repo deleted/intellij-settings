@@ -16,11 +16,17 @@
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/com/sun/corba/se/impl/ior/ByteBuffer.class" timestamp="1541469618159" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class" timestamp="1541470220192" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagestream/BufferedImageCreatingOutputStream.java" timestamp="1541527732233" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagestream/ImageIODecodingOutputStream.java" timestamp="1541528295377">
-        <mark key="[" line="13" column="90" />
-        <mark key="]" line="15" column="69" />
-        <mark key="^" line="15" column="69" />
-        <mark key="." line="15" column="69" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/imagestream/ImageIODecodingOutputStreamTest.java" timestamp="1541530144497">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagestream/ImageIODecodingOutputStream.java" timestamp="1541529150766">
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="69" column="37" />
+        <mark key="^" line="69" column="37" />
+        <mark key="." line="69" column="37" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/ImageIODecodingOutputStream.java" timestamp="1541474273932">
         <mark key="[" line="64" column="0" />
@@ -34,35 +40,24 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1541528505494">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1541528588180">
         <mark key="[" line="169" column="24" />
         <mark key="]" line="169" column="24" />
         <mark key="." line="169" column="24" />
         <mark key="^" line="169" column="42" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1541530402708" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1541467854978">
         <mark key="'" line="34" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1541459138486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferredImageStream.java" timestamp="1541458071940">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferedImageStream.java" timestamp="1541465745791">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="49" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputStream.java" timestamp="1541464979122">
-        <mark key="'" line="144" column="6" />
-        <mark key="[" line="235" column="53" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
-        <mark key="^" line="237" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1541465535999">
         <mark key="[" line="7" column="17" />
@@ -76,11 +71,6 @@
         <mark key="]" line="24" column="11" />
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputFilter.java" timestamp="1541465231728">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BmpDecodingStream.java" timestamp="1541467937539">
         <mark key="[" line="9" column="13" />
@@ -106,6 +96,9 @@
         <mark key="." line="113" column="33" />
         <mark key="^" line="113" column="35" />
       </file>
+      <file name="/fragment.java" timestamp="1541529168187">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="34" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" />
@@ -113,13 +106,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getImage</text>
+        <text>TestImageFuncs.loadColorBufferedImage()</text>
       </register>
       <register name="-" type="4">
-        <text>getImage</text>
+        <text>TestImageFuncs.loadColorBufferedImage()</text>
       </register>
       <register name="/" type="4">
-        <text>v</text>
+        <text>Image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgKiAgKGJ5dGUpKDB4ZmYgJiAodiA+PiA1NikpCiAgICogIChieXRlKSgweGZmICYgKHYgPj4gNDgpKQogICAqICAoYnl0ZSkoMHhmZiAmICh2ID4+IDQwKSkKICAgKiAgKGJ5dGUpKDB4ZmYgJiAodiA+PiAzMikpCiAgICogIChieXRlKSgweGZmICYgKHYgPj4gMjQpKQogICAqICAoYnl0ZSkoMHhmZiAmICh2ID4+IDE2KSkKICAgKiAgKGJ5dGUpKDB4ZmYgJiAodiA+PiAgOCkpCiAgICogIChieXRlKSgweGZmICYgdikK</text>
@@ -156,9 +149,9 @@
       </register>
     </registers>
     <search>
-      <last-search>v</last-search>
+      <last-search>Image</last-search>
       <last-offset />
-      <last-pattern>v</last-pattern>
+      <last-pattern>Image</last-pattern>
       <last-replace>l</last-replace>
       <last-substitute>v</last-substitute>
       <last-dir>1</last-dir>
@@ -169,6 +162,7 @@
         <entry>static</entry>
         <entry>writeBool</entry>
         <entry>v</entry>
+        <entry>Image</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
