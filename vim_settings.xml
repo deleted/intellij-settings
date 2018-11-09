@@ -55,12 +55,6 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1541547433744">
-        <mark key="'" line="181" column="35" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1541530402708" />
       <file name="/Dummy.txt" timestamp="1541535124529">
         <mark key="[" line="0" column="0" />
@@ -113,6 +107,13 @@
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="58" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541803531805">
+        <mark key="'" line="299" column="48" />
+        <mark key="[" line="242" column="2" />
+        <mark key="]" line="270" column="5" />
+        <mark key="^" line="273" column="88" />
+        <mark key="." line="242" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputFilter.java" timestamp="1541465231728">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -122,6 +123,12 @@
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1541803192084">
+        <mark key="[" line="47" column="14" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="26" />
+        <mark key="^" line="47" column="26" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" timestamp="1541729104684">
         <mark key="'" line="3" column="4" />
@@ -180,19 +187,24 @@
       <jump line="16" column="26" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="55" column="39" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="57" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="270" column="3" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
+      <jump line="267" column="3" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
+      <jump line="265" column="48" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
+      <jump line="231" column="48" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
+      <jump line="299" column="48" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>maxZoom</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGUgYW5kIHJlZ2lzdGVyIGEgUHJvbWV0aGV1cyBHYXVnZS4KICAgKgogICAqIDxwPlRoZSBnYXVnZSB3aWxsIGhhdmUgYSBuYW1lc3BhY2UgYXMgZGVyaXZlZCBmcm9tIHRoZSBjbGFzcyBwYXRoIG9mIHRoZSBjYWxsZXIuIFRoaXMgaXMKICAgKiBkZXNpZ25lZCB0byBiZSB1c2VkIGluIHRoZSBmb2xsb3dpbmcgcGF0dGVybjoKICAgKgogICAqIDxwcmU+e0Bjb2RlCiAgICogcGFja2FnZSBuZXQudGhyZWVzY2FuLmV4YW1wbGU7CiAgICoKICAgKiBpbXBvcnQgbmV0LnRocmVlc2Nhbi5ydW50aW1lLk1ldHJpY3M7CiAgICogaW1wb3J0IGlvLnByb21ldGhldXMuY2xpZW50LkdhdWdlOwogICAqCiAgICogcHVibGljIGNsYXNzIE15Q2xhc3MgewogICAqICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgR2F1Z2UgZm9vR2F1Z2UgPSBNZXRyaWNzLmNyZWF0ZUdhdWdlKAogICAqICAgICAgICJmb28iLCJSZXBvcnRzIHRoZSBsZXZlbCBvZiBmb28gaW4gdGhlIHN5c3RlbSIpOwogICAqICAgcHVibGljIHZvaWQgYWRkU29tZUZvbyhkb3VibGUgZm9vUXVhbnRpdHkpIHsKICAgKiAgICAgICBmb29HYXVnZS5pbmMoZm9vUXVhbnRpdHkpOwogICAqICAgfQogICAqIH0KICAgKiB9PC9wcmU+CiAgICoKICAgKiBUaGUgYWJvdmUgY29kZSB3aWxsIHByb2R1Y2UgYSBtZXRyaWMgbmFtZWQgIm5ldF90aHJlZXNjYW5fZXhhbXBsZV9NeUNsYXNzX2ZvbyIKICAgKgogICAqIDxwPlRoaXMgaXMgaW50ZW5kZWQgdG8gaW50ZWdyYXRlIHdpdGggdGhlIGBNZXRyaWNzQ2FwdHVyZWAgdXRpbGl0eSBwcm92aWRlZCBpbiB0aGlzIG1vZHVsZS4KICAgKgogICAqIEBwYXJhbSBuYW1lIFRoZSBuYW1lIG9mIHRoZSBnYXVnZS4KICAgKiBAcGFyYW0gaGVscCBUaGUgaGVscCB3aGljaCBpcyB1c2VmdWwgYXMgYSBkZXNjcmlwdGlvbi4KICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>maxZoom</text>
+        <text>createGauge</text>
       </register>
       <register name="/" type="4">
-        <text>compress</text>
+        <text>MetricsCapture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQcmVwIGFsbCB0aGUgdGFncwogICAgICAgIE1hcDxBY3FUYWdzLCBPYmplY3Q+IHBuZ1RhZ1N0cnMgPSBJbW11dGFibGVNYXAub2YoCiAgICAgICAgICAgIEFjcVRhZ3MuQ1JZU1RBTF9UWVBFLCAicG5nIiwKICAgICAgICAgICAgICAgIEFjcVRhZ3MuU0FNUExFX0lELCBzYW1wbGVJZCwKICAgICAgICAgICAgICAgIEFjcVRhZ3MuS0VTTV9OQU1FLCBrZXNtTmFtZSwKICAgICAgICAgICAgICAgIEFjcVRhZ3MuQkxPQ0tfSU5ERVgsIG5ldyBJbnRlZ2VyKGJsb2NrSW5kZXgpLAogICAgICAgICAgICAgICAgQWNxVGFncy5WT1hFTF9TSVpFLCB2b3hlbFNpemVVbQoKICAgICAgICApOwogICAgICAgIE1hcDxTdHJpbmcsIEpzb25Ob2RlPiBwbmdUYWdzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHBuZ1RhZ1N0cnMuZm9yRWFjaCgodGFnLCBvYmopIC0+IHsKICAgICAgICAgICAgcG5nVGFncy5wdXQodGFnLnRvU3RyaW5nKCksIEpzb25GdW5jcy5zZXJpYWxpemVUb0pzb25UcmVlKG9iaikpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGUgYW5kIHJlZ2lzdGVyIGEgUHJvbWV0aGV1cyBHYXVnZS4KICAgKgogICAqIDxwPlRoZSBnYXVnZSB3aWxsIGhhdmUgYSBuYW1lc3BhY2UgYXMgZGVyaXZlZCBmcm9tIHRoZSBjbGFzcyBwYXRoIG9mIHRoZSBjYWxsZXIuIFRoaXMgaXMKICAgKiBkZXNpZ25lZCB0byBiZSB1c2VkIGluIHRoZSBmb2xsb3dpbmcgcGF0dGVybjoKICAgKgogICAqIDxwcmU+e0Bjb2RlCiAgICogcGFja2FnZSBuZXQudGhyZWVzY2FuLmV4YW1wbGU7CiAgICoKICAgKiBpbXBvcnQgbmV0LnRocmVlc2Nhbi5ydW50aW1lLk1ldHJpY3M7CiAgICogaW1wb3J0IGlvLnByb21ldGhldXMuY2xpZW50LkdhdWdlOwogICAqCiAgICogcHVibGljIGNsYXNzIE15Q2xhc3MgewogICAqICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgR2F1Z2UgZm9vR2F1Z2UgPSBNZXRyaWNzLmNyZWF0ZUdhdWdlKAogICAqICAgICAgICJmb28iLCJSZXBvcnRzIHRoZSBsZXZlbCBvZiBmb28gaW4gdGhlIHN5c3RlbSIpOwogICAqICAgcHVibGljIHZvaWQgYWRkU29tZUZvbyhkb3VibGUgZm9vUXVhbnRpdHkpIHsKICAgKiAgICAgICBmb29HYXVnZS5pbmMoZm9vUXVhbnRpdHkpOwogICAqICAgfQogICAqIH0KICAgKiB9PC9wcmU+CiAgICoKICAgKiBUaGUgYWJvdmUgY29kZSB3aWxsIHByb2R1Y2UgYSBtZXRyaWMgbmFtZWQgIm5ldF90aHJlZXNjYW5fZXhhbXBsZV9NeUNsYXNzX2ZvbyIKICAgKgogICAqIDxwPlRoaXMgaXMgaW50ZW5kZWQgdG8gaW50ZWdyYXRlIHdpdGggdGhlIGBNZXRyaWNzQ2FwdHVyZWAgdXRpbGl0eSBwcm92aWRlZCBpbiB0aGlzIG1vZHVsZS4KICAgKgogICAqIEBwYXJhbSBuYW1lIFRoZSBuYW1lIG9mIHRoZSBnYXVnZS4KICAgKiBAcGFyYW0gaGVscCBUaGUgaGVscCB3aGljaCBpcyB1c2VmdWwgYXMgYSBkZXNjcmlwdGlvbi4KICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoaWRzLnNpemUoKSwgbWF4Wm9vbSArIDIpOwo=</text>
@@ -222,22 +234,20 @@
         <text encoding="base64">ICAgICAgICBVVUlEW10gem9vbUlkcyA9IG5ldyBVVUlEW21heFpvb21dOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvLA==</text>
+        <text encoding="base64">JzwsJz5zL2dhdWdlL3N1bW1hcnkvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>compress</last-search>
+      <last-search>MetricsCapture</last-search>
       <last-offset />
-      <last-pattern>compress</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>MetricsCapture</last-pattern>
+      <last-replace>summary</last-replace>
+      <last-substitute>gauge</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>static</entry>
-        <entry>writeBool</entry>
         <entry>v</entry>
         <entry>Image</entry>
         <entry>image</entry>
@@ -253,6 +263,11 @@
         <entry>tile_sec</entry>
         <entry>compress_image_s</entry>
         <entry>compress</entry>
+        <entry>timer</entry>
+        <entry>createSumm</entry>
+        <entry>Gauge</entry>
+        <entry>gauge</entry>
+        <entry>MetricsCapture</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -260,6 +275,8 @@
         <entry encoding="base64">JzwsJz5zLyA9IC8o</entry>
         <entry encoding="base64">JzwsJz5zLyQvKQ==</entry>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
+        <entry encoding="base64">JzwsJz5zL0dhdWdlL1N1bW1hcnkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2dhdWdlL3N1bW1hcnkvZw==</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
