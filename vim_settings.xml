@@ -33,11 +33,6 @@
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1541795524789">
         <mark key="'" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagestream/ImageIODecodingOutputStream.java" timestamp="1541543093110">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="58" column="5" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/serialization/CommonAtomTypes.java" timestamp="1541727495011" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/CrystalHandleTest.java" timestamp="1541729469214">
         <mark key="'" line="29" column="13" />
@@ -88,6 +83,7 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="33" column="57" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1541799127552" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferedImageStream.java" timestamp="1541465745791">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -193,7 +189,7 @@
         <text>maxZoom</text>
       </register>
       <register name="/" type="4">
-        <text>proto</text>
+        <text>compress</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBQcmVwIGFsbCB0aGUgdGFncwogICAgICAgIE1hcDxBY3FUYWdzLCBPYmplY3Q+IHBuZ1RhZ1N0cnMgPSBJbW11dGFibGVNYXAub2YoCiAgICAgICAgICAgIEFjcVRhZ3MuQ1JZU1RBTF9UWVBFLCAicG5nIiwKICAgICAgICAgICAgICAgIEFjcVRhZ3MuU0FNUExFX0lELCBzYW1wbGVJZCwKICAgICAgICAgICAgICAgIEFjcVRhZ3MuS0VTTV9OQU1FLCBrZXNtTmFtZSwKICAgICAgICAgICAgICAgIEFjcVRhZ3MuQkxPQ0tfSU5ERVgsIG5ldyBJbnRlZ2VyKGJsb2NrSW5kZXgpLAogICAgICAgICAgICAgICAgQWNxVGFncy5WT1hFTF9TSVpFLCB2b3hlbFNpemVVbQoKICAgICAgICApOwogICAgICAgIE1hcDxTdHJpbmcsIEpzb25Ob2RlPiBwbmdUYWdzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHBuZ1RhZ1N0cnMuZm9yRWFjaCgodGFnLCBvYmopIC0+IHsKICAgICAgICAgICAgcG5nVGFncy5wdXQodGFnLnRvU3RyaW5nKCksIEpzb25GdW5jcy5zZXJpYWxpemVUb0pzb25UcmVlKG9iaikpOwogICAgICAgIH0pOwo=</text>
@@ -230,9 +226,9 @@
       </register>
     </registers>
     <search>
-      <last-search>proto</last-search>
+      <last-search>compress</last-search>
       <last-offset />
-      <last-pattern>proto</last-pattern>
+      <last-pattern>compress</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -254,6 +250,9 @@
         <entry>writeTags</entry>
         <entry>generateTest</entry>
         <entry>proto</entry>
+        <entry>tile_sec</entry>
+        <entry>compress_image_s</entry>
+        <entry>compress</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
