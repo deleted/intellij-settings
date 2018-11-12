@@ -31,11 +31,11 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1541530402708" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542061431961">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542062962819">
         <mark key="'" line="235" column="41" />
-        <mark key="[" line="161" column="27" />
-        <mark key="]" line="161" column="25" />
-        <mark key="." line="161" column="25" />
+        <mark key="[" line="174" column="44" />
+        <mark key="]" line="174" column="44" />
+        <mark key="." line="174" column="44" />
         <mark key="^" line="161" column="25" />
       </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1541465535999">
@@ -82,7 +82,7 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542062120830">
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542062610981">
         <mark key="[" line="45" column="60" />
         <mark key="]" line="45" column="61" />
         <mark key="." line="45" column="61" />
@@ -187,11 +187,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/kesm/kesm/acq/crystal.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KFJlY2VwdGlvbmlzdENyeXN0YWxDcmVhdG9yLmdldE51bVRpbGVzKDI1NiwgMjU2KSkKICAgICAgICAgICAgICAgIC5pc0VxdWFsVG8oMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>tiled_shape</text>
