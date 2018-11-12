@@ -82,10 +82,10 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542062610981">
-        <mark key="[" line="45" column="60" />
-        <mark key="]" line="45" column="61" />
-        <mark key="." line="45" column="61" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542065545080">
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
         <mark key="^" line="44" column="29" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/com/sun/corba/se/impl/ior/ByteBuffer.class" timestamp="1541469618159" />
