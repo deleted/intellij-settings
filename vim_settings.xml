@@ -81,12 +81,12 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542069250385">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="60" column="38" />
-        <mark key="]" line="66" column="46" />
-        <mark key="." line="66" column="46" />
-        <mark key="^" line="64" column="45" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542071155775">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="137" column="27" />
+        <mark key="]" line="137" column="27" />
+        <mark key="." line="137" column="27" />
+        <mark key="^" line="139" column="0" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/com/sun/corba/se/impl/ior/ByteBuffer.class" timestamp="1541469618159" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class" timestamp="1541470220192" />
@@ -189,44 +189,44 @@
       <jump line="51" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0R2V0TWF4Wm9vbUxldmVsKDEwMjMsIDIwNDgsIDI1NiwgMik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>voxelSizeUm.toString()</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>voxelSizeUm.toString()</text>
       </register>
       <register name="/" type="4">
         <text>test2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0R2V0TWF4Wm9vbUxldmVsKDEwMjMsIDIwNDgsIDI1NiwgMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGRlc2VyaWFsaXplZE1hcC5nZXQoQWNxVGFncy5CTE9DS19JTkRFWC50b1N0cmluZygpKSkKICAgICAgICAgICAgICAgIC5pc0VxdWFsVG8obmV3IEludGVnZXIoYmxvY2tJbmRleCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiB0ZXN0Q29uZGl0aW9ucyA9IEFycmF5cy5hc0xpc3QoCgogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0RXhjZXB0aW9uT2ZUeXBlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzZXJpYWxpemVkTWFwLnB1dChuZXcgQWNxVGFncyhrZXkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgezE2LGlpaWkgMTAwLCAyLCAzfSwK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiB0ZXN0Q29uZGl0aW9ucyA9IEFycmF5cy5hc0xpc3QoCgogICAgICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZWNlcHRpb25pc3RDcnlzdGFsQ3JlYXRvci5nZXRNYXhab29tTGV2ZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBkaXZSb3VuZFVwKG5QaXhlbHMsIHRpbGVTaXplKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgezE2LGlpaWkgMTAwLCAyLCAzfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0RGl2Um91bmRVcCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGFzc2VydFRoYXQoUmVjZXB0aW9uaXN0Q3J5c3RhbENyZWF0b3IuZGl2Um91bmRVcCgwLCAxKSkuaXNFcXVhbFRvKDApOwogICAgICAgIGFzc2VydFRoYXQoUmVjZXB0aW9uaXN0Q3J5c3RhbENyZWF0b3IuZGl2Um91bmRVcCgxLCAxKSkuaXNFcXVhbFRvKDEpOwogICAgICAgIGFzc2VydFRoYXQoUmVjZXB0aW9uaXN0Q3J5c3RhbENyZWF0b3IuZGl2Um91bmRVcCgyNTYsIDI1NikpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KFJlY2VwdGlvbmlzdENyeXN0YWxDcmVhdG9yLmRpdlJvdW5kVXAoMjU3LCAyNTYpKS5pc0VxdWFsVG8oMik7CiAgICAgICAgYXNzZXJ0VGhhdChSZWNlcHRpb25pc3RDcnlzdGFsQ3JlYXRvci5kaXZSb3VuZFVwKDQsIDIwKSkuaXNFcXVhbFRvKDEpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBSZWNlcHRpb25pc3RDcnlzdGFsQ3JlYXRvci5nZXRNYXhab29tTGV2ZWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIERpdmlkZSwgdGhlbiByb3VuZCB1cCBieSB0aGUgZGl2aXNvci4KICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgc3RhdGljIGludCBkaXZSb3VuZFVwKGludCBudW1lcmF0b3IsIGludCBkaXZpc29yKSB7CiAgICAgICAgcmV0dXJuIEludE1hdGguZGl2aWRlKG51bWVyYXRvciwgZGl2aXNvciwgUm91bmRpbmdNb2RlLkNFSUxJTkcpOwogICAgfQoK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBkaXZSb3VuZFVwKG5QaXhlbHMsIHRpbGVTaXplKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAoaW50KSBNYXRoLmNlaWwoKGRvdWJsZSkgbnVtZXJhdG9yIC8gZGl2aXNvcik7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0RGl2Um91bmRVcCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGFzc2VydFRoYXQoUmVjZXB0aW9uaXN0Q3J5c3RhbENyZWF0b3IuZGl2Um91bmRVcCgwLCAxKSkuaXNFcXVhbFRvKDApOwogICAgICAgIGFzc2VydFRoYXQoUmVjZXB0aW9uaXN0Q3J5c3RhbENyZWF0b3IuZGl2Um91bmRVcCgxLCAxKSkuaXNFcXVhbFRvKDEpOwogICAgICAgIGFzc2VydFRoYXQoUmVjZXB0aW9uaXN0Q3J5c3RhbENyZWF0b3IuZGl2Um91bmRVcCgyNTYsIDI1NikpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KFJlY2VwdGlvbmlzdENyeXN0YWxDcmVhdG9yLmRpdlJvdW5kVXAoMjU3LCAyNTYpKS5pc0VxdWFsVG8oMik7CiAgICAgICAgYXNzZXJ0VGhhdChSZWNlcHRpb25pc3RDcnlzdGFsQ3JlYXRvci5kaXZSb3VuZFVwKDQsIDIwKSkuaXNFcXVhbFRvKDEpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIERpdmlkZSwgdGhlbiByb3VuZCB1cCBieSB0aGUgZGl2aXNvci4KICAgIEBWaXNpYmxlRm9yVGVzdGluZwogICAgc3RhdGljIGludCBkaXZSb3VuZFVwKGludCBudW1lcmF0b3IsIGludCBkaXZpc29yKSB7CiAgICAgICAgcmV0dXJuIEludE1hdGguZGl2aWRlKG51bWVyYXRvciwgZGl2aXNvciwgUm91bmRpbmdNb2RlLkNFSUxJTkcpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Rlc3QyL3Rlc3QzL2c=</text>
