@@ -84,15 +84,21 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542074281995">
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542149006815">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="124" column="70" />
-        <mark key="]" line="124" column="70" />
-        <mark key="." line="124" column="70" />
-        <mark key="^" line="124" column="70" />
+        <mark key="]" line="154" column="46" />
+        <mark key="." line="154" column="46" />
+        <mark key="^" line="154" column="46" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/com/sun/corba/se/impl/ior/ByteBuffer.class" timestamp="1541469618159" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class" timestamp="1541470220192" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/AcqTags.java" timestamp="1542149354374">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="4" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="4" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1542059990743">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="11" column="0" />
@@ -211,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>strings</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>strings</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>timing</text>
@@ -318,6 +324,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
