@@ -117,7 +117,9 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="33" column="57" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1541800341417" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1542143079796">
+        <mark key="'" line="282" column="34" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferedImageStream.java" timestamp="1541465745791">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -204,6 +206,8 @@
       <jump line="287" column="16" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="4" column="17" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="16" column="26" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="49" column="41" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="282" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -213,7 +217,7 @@
         <text>strings</text>
       </register>
       <register name="/" type="4">
-        <text>generateTest</text>
+        <text>timing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhID0gYS5yZXBsYWNlQWxsKCJcIiIsICIiKTsKICAgICAgICBiID0gYi5yZXBsYWNlQWxsKCJcIiIsICIiKTsK</text>
@@ -250,9 +254,9 @@
       </register>
     </registers>
     <search>
-      <last-search>generateTest</last-search>
+      <last-search>timing</last-search>
       <last-offset />
-      <last-pattern>generateTest</last-pattern>
+      <last-pattern>timing</last-pattern>
       <last-replace>test3</last-replace>
       <last-substitute>test2</last-substitute>
       <last-dir>1</last-dir>
@@ -260,12 +264,10 @@
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
         <entry>writeTags</entry>
         <entry>tile_sec</entry>
         <entry>compress_image_s</entry>
         <entry>compress</entry>
-        <entry>timer</entry>
         <entry>createSumm</entry>
         <entry>Gauge</entry>
         <entry>gauge</entry>
@@ -280,6 +282,8 @@
         <entry>depend</entry>
         <entry>proto</entry>
         <entry>generateTest</entry>
+        <entry>timer</entry>
+        <entry>timing</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
