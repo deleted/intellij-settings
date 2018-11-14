@@ -24,17 +24,7 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/serialization/CommonAtomTypes.java" timestamp="1541727495011" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1541647784377" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/ImageIODecodingOutputStream.java" timestamp="1541474273932">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/stream/ImageOutputStreamImpl.class" timestamp="1541457310362" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistCrystalCreator.java" timestamp="1541728513115">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1541530402708" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1541534560741">
         <mark key="'" line="34" column="19" />
@@ -61,12 +51,7 @@
         <mark key="^" line="273" column="88" />
         <mark key="." line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BmpDecodingStream.java" timestamp="1541467937539">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/crystal_tests.py" timestamp="1542161505346">
+      <file name="$USER_HOME$/kesm/kesm/acq/crystal_tests.py" timestamp="1542223701090">
         <mark key="[" line="65" column="28" />
         <mark key="]" line="65" column="59" />
       </file>
@@ -93,10 +78,11 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542161683395">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542224699629">
+        <mark key="[" line="120" column="79" />
+        <mark key="]" line="119" column="80" />
+        <mark key="." line="119" column="80" />
+        <mark key="^" line="119" column="80" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/com/sun/corba/se/impl/ior/ByteBuffer.class" timestamp="1541469618159" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class" timestamp="1541470220192" />
@@ -240,7 +226,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCgxLDEsNyksCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>7936</text>
@@ -252,31 +238,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCg0LDMsNyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCgxLDEsNyksCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXIK</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKCBSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uIGUgKSB7dGhyb3cgZTt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBuZ0Rlc2NyaXB0aW9uLmdldFRhZ3MoKWRkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgewogICAgc3RhdGljIGZpbmFsIFNldDxBY3FUYWc+IEVYUEVDVEVEX0pQR19UQUdTID0gCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCgxLDEsNyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQWNxVGFnLkNSVVMKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgYXNzZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCB6b29tSW5kZXggPSAwOwo=</text>
+        <text encoding="base64">ICAgIHBuZ0Rlc2NyaXB0aW9uLmdldFRhZ3MoKWRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgem9vbQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgewogICAgc3RhdGljIGZpbmFsIFNldDxBY3FUYWc+IEVYUEVDVEVEX0pQR19UQUdTID0gCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEdlb2RlU3RvcmFnZUNsaWVudCBjbGllbnQgPSBnZXRHZW9kZVN0b3JhZ2VDbGllbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgQWNxVGFnLkNSVVMKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBIYW5kbGVDYWNoZShjbGllKQo=</text>
+        <text encoding="base64">ICAgIGludCB6b29tSW5kZXggPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
