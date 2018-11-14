@@ -45,7 +45,7 @@
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1541534560741">
         <mark key="'" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542227174343">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542231653994">
         <mark key="[" line="67" column="62" />
       </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1542226259112">
@@ -69,6 +69,9 @@
         <mark key="." line="137" column="33" />
         <mark key="^" line="137" column="33" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStreamTest.java" timestamp="1541458372722">
+        <mark key="[" line="15" column="13" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/OutputStream.class" timestamp="1541547236704" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStreamTest.java" timestamp="1541474578605">
         <mark key="[" line="113" column="33" />
@@ -82,6 +85,11 @@
         <mark key="]" line="12" column="76" />
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542231684731">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/com/sun/corba/se/impl/ior/ByteBuffer.class" timestamp="1541469618159" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class" timestamp="1541470220192" />
@@ -111,11 +119,11 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1541719575107" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1542226142594">
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="33" column="57" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1542231377526">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="41" column="26" />
+        <mark key="." line="41" column="26" />
+        <mark key="^" line="39" column="57" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1542143755333">
         <mark key="'" line="282" column="34" />
@@ -207,14 +215,14 @@
       <jump line="154" column="13" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>maxZoom + 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>maxZoom + 1</text>
+        <text encoding="base64">IC8vIHZhbHVlcyBjb3BpZWQgZnJvbSBjcnlzdGFsX3Rlc3RzLnB5</text>
       </register>
       <register name="/" type="4">
-        <text>\.toString()</text>
+        <text encoding="base64">XDx2YWx1ZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCg0LDMsNyksCg==</text>
@@ -223,45 +231,50 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIExpc3Q8WlBvaW50PiB6b29tU2hhcGVzID0gY3J5c3RhbFNldC5nZXRab29tQ3J5c3RhbElkcygpLnN0cmVhbSgpCi8vICAgICAgICAgIC5tYXAoY2lkIC0+IGhhbmRsZUNhY2hlLmdldChjaWQpLmdldERlc2NyaXB0aW9uKCkuZ2V0U2hhcGUoKSkKLy8gICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICBMaXN0PFpQb2ludD4gem9vbVNoYXBlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGFsc28gdGVzdCBzaGFwZSB2YWx1ZXMgY29waWVkIGZyb20gY3J5c3RhbF90ZXN0cy5weQogICAgYXNzZXJ0VGhhdChwbmdEZXNjcmlwdGlvbi5nZXRTaGFwZSgpKQogICAgICAgIC5pc0VxdWFsVG8oCiAgICAgICAgICAgIG5ldyBaUG9pbnQoCiAgICAgICAgICAgICAgICBmYWNlTGVuZ3RoUHggLyAyNTYsCiAgICAgICAgICAgICAgICBzZWN0aW9uV2lkdGhQeCAqIHNlY3Rpb25zUGVyRmFjZSAvIDI1NiwKICAgICAgICAgICAgICAgIDcpKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih6b29tU2hhcGVzLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="3" type="4">
+        <text>values copied from crystal_tests.py
+    assertThat(pngDescription.getShape())
+        .isEqualTo(
+            new ZPoint(
+                faceLengthPx / 256,
+                sectionWidthPx * sectionsPerFace / 256,
+                7));</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgem9vbVNoYXBlcy5hZGQoanBnRGVzY3JpcHRpb24uZ2V0U2hhcGUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJwYyBDcmVhdGVDcnlzdGFscyhDcmVhdGVDcnlzdGFsUmVxdWVzdCkgcmV0dXJuIChDcmVhdGVDcnlzdGFsUmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Ly8gIExpc3Q8WlBvaW50PiB6b29tU2hhcGVzID0gY3J5c3RhbFNldC5nZXRab29tQ3J5c3RhbElkcygpLnN0cmVhbSgpCi8vICAgICAgICAgIC5tYXAoY2lkIC0+IGhhbmRsZUNhY2hlLmdldChjaWQpLmdldERlc2NyaXB0aW9uKCkuZ2V0U2hhcGUoKSkKLy8gICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICBMaXN0PFpQb2ludD4gem9vbVNoYXBlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih6b29tU2hhcGVzLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKCBSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uIGUgKSB7dGhyb3cgZTt9Cg==</text>
+        <text encoding="base64">ICAgICAgem9vbVNoYXBlcy5hZGQoanBnRGVzY3JpcHRpb24uZ2V0U2hhcGUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJwYyBDcmVhdGVDcnlzdGFscyhDcmVhdGVDcnlzdGFsUmVxdWVzdCkgcmV0dXJuIChDcmVhdGVDcnlzdGFsUmVzcG9uc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCgxLDEsNyksCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>\.toString()</last-search>
+      <last-search encoding="base64">XDx2YWx1ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>\.toString()</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZXNcPg==</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tile_sec</entry>
         <entry>compress_image_s</entry>
         <entry>compress</entry>
         <entry>createSumm</entry>
@@ -281,6 +294,7 @@
         <entry>timer</entry>
         <entry>timing</entry>
         <entry>\.toString()</entry>
+        <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
