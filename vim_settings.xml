@@ -130,7 +130,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1541719575107" />
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1542321740008" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1542235480485">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -256,7 +256,7 @@
         <text>UUID</text>
       </register>
       <register name="/" type="4">
-        <text>Impl</text>
+        <text>compress</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCg0LDMsNyksCg==</text>
@@ -299,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Impl</last-search>
+      <last-search>compress</last-search>
       <last-offset />
-      <last-pattern>Impl</last-pattern>
+      <last-pattern>compress</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Gauge</entry>
         <entry>gauge</entry>
         <entry>MetricsCapture</entry>
         <entry>s</entry>
@@ -329,6 +328,7 @@
         <entry>inaccess</entry>
         <entry>intercept</entry>
         <entry>Impl</entry>
+        <entry>compress</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
