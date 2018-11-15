@@ -57,6 +57,9 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" timestamp="1542225725040" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1542313501362">
+        <mark key="'" line="71" column="35" />
+      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541805490800">
         <mark key="'" line="299" column="48" />
         <mark key="[" line="242" column="2" />
@@ -242,6 +245,8 @@
       <jump line="49" column="41" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="282" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="154" column="13" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" />
+      <jump line="107" column="55" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
+      <jump line="71" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -251,7 +256,7 @@
         <text>UUID</text>
       </register>
       <register name="/" type="4">
-        <text>inaccess</text>
+        <text>Impl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCg0LDMsNyksCg==</text>
@@ -294,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inaccess</last-search>
+      <last-search>Impl</last-search>
       <last-offset />
-      <last-pattern>inaccess</last-pattern>
+      <last-pattern>Impl</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -304,8 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compress</entry>
-        <entry>createSumm</entry>
         <entry>Gauge</entry>
         <entry>gauge</entry>
         <entry>MetricsCapture</entry>
@@ -324,6 +327,8 @@
         <entry>\.toString()</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry>inaccess</entry>
+        <entry>intercept</entry>
+        <entry>Impl</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
