@@ -57,6 +57,13 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" timestamp="1542225725040" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541805490800">
+        <mark key="'" line="299" column="48" />
+        <mark key="[" line="242" column="2" />
+        <mark key="]" line="270" column="5" />
+        <mark key="^" line="273" column="88" />
+        <mark key="." line="242" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BmpDecodingStream.java" timestamp="1541467937539">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -127,14 +134,25 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1542143755333">
-        <mark key="'" line="282" column="34" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1542311766952">
+        <mark key="'" line="289" column="34" />
+        <mark key="[" line="333" column="38" />
+        <mark key="]" line="269" column="27" />
+        <mark key="^" line="269" column="27" />
+        <mark key="." line="269" column="27" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferedImageStream.java" timestamp="1541465745791">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="49" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputStream.java" timestamp="1541464979122">
+        <mark key="'" line="144" column="6" />
+        <mark key="[" line="235" column="53" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
+        <mark key="^" line="237" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/tiles/math.py" timestamp="1542234401568" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/AcqTag.java" timestamp="1542151755737">
@@ -153,6 +171,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" timestamp="1541729104684">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.1-jre/ec0056d1a09168a8772c7a6459804a3c85ce8796/guava-25.1-jre-sources.jar!/com/google/common/collect/ImmutableMap.java" timestamp="1542053386785" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1541533255280">
