@@ -47,9 +47,9 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542235683577">
         <mark key="[" line="42" column="0" />
-        <mark key="]" line="194" column="50" />
-        <mark key="^" line="194" column="50" />
-        <mark key="." line="194" column="50" />
+        <mark key="]" line="193" column="50" />
+        <mark key="^" line="193" column="50" />
+        <mark key="." line="193" column="50" />
       </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1542226259112">
         <mark key="[" line="32" column="0" />
@@ -80,17 +80,18 @@
         <mark key="^" line="113" column="35" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1542052350191" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/AwsStorageConnection.java" timestamp="1542241384543" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferedImageOutputStream.java" timestamp="1541460472317">
         <mark key="[" line="12" column="70" />
         <mark key="]" line="12" column="76" />
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542234978906">
-        <mark key="[" line="148" column="46" />
-        <mark key="]" line="148" column="43" />
-        <mark key="." line="148" column="43" />
-        <mark key="^" line="148" column="43" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542241024828">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/com/sun/corba/se/impl/ior/ByteBuffer.class" timestamp="1541469618159" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ByteArrayOutputStream.class" timestamp="1541470220192" />
@@ -161,6 +162,7 @@
         <mark key="." line="150" column="14" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/HandleCache.java" timestamp="1541720508310" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalBatchWriter.java" timestamp="1542241232017" />
       <file name="/fragment.java" timestamp="1542059799685">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>UUID</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>UUID</text>
       </register>
       <register name="/" type="4">
         <text>inaccess</text>
