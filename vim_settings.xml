@@ -80,7 +80,7 @@
         <mark key="^" line="113" column="35" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1542052350191" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/AwsStorageConnection.java" timestamp="1542241384543" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/aws/AwsStorageConnection.java" timestamp="1542310426883" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferedImageOutputStream.java" timestamp="1541460472317">
         <mark key="[" line="12" column="70" />
         <mark key="]" line="12" column="76" />
