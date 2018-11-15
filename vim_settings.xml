@@ -10,9 +10,6 @@
         <mark key="^" line="12" column="9" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/stream/ImageInputStreamImpl.class" timestamp="1541457776189" />
-      <file name="/a.dummy" timestamp="1541465641218">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/imagestream/ImageIODecodingOutputStreamTest.java" timestamp="1541553227902">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -35,11 +32,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542225915661">
-        <mark key="'" line="181" column="35" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542323295513">
+        <mark key="'" line="204" column="35" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="64" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="124" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1541530402708" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1541534560741">
@@ -57,7 +55,7 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" timestamp="1542225725040" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1542313501362">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1542323747643">
         <mark key="'" line="71" column="35" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541805490800">
@@ -116,14 +114,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="21" column="40" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.dinowernli/java-grpc-prometheus/0.3.0/4d51d3239ac15e869232f1c7996a050ab0c0ab9b/java-grpc-prometheus-0.3.0-sources.jar!/me/dinowernli/grpc/prometheus/MonitoringServerInterceptor.java" timestamp="1542323768370" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferedImageCreatingOutputStream.java" timestamp="1541466079562">
         <mark key="[" line="8" column="65" />
         <mark key="]" line="8" column="65" />
         <mark key="." line="8" column="65" />
         <mark key="^" line="11" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1541535124529">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferredImageStream.java" timestamp="1541458071940">
         <mark key="[" line="10" column="0" />
@@ -191,9 +187,7 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/HandleCache.java" timestamp="1541720508310" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalBatchWriter.java" timestamp="1542241232017" />
-      <file name="/fragment.java" timestamp="1542059799685">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.dinowernli/java-grpc-prometheus/0.3.0/4d51d3239ac15e869232f1c7996a050ab0c0ab9b/java-grpc-prometheus-0.3.0-sources.jar!/me/dinowernli/grpc/prometheus/Configuration.java" timestamp="1542323794634" />
     </filemarks>
     <jumps>
       <jump line="34" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" />
@@ -249,31 +243,40 @@
       <jump line="71" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UUID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBheWxvYWRTaXplU3VtbWFyeS5vYnNlcnZlKHNlY3Rpb25NZXRhZGF0YS5nZXRTaXplKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>UUID</text>
+        <text encoding="base64">IG5ldyBTdW1tYXJ5</text>
       </register>
       <register name="/" type="4">
-        <text>compress</text>
+        <text>Histogram</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFpQb2ludCg0LDMsNyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgTGlzdDxVVUlEPiB6b29tSWRzID0gbmV3IEFycmF5TGlzdDw+KG51bVpvb21MZXZlbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBheWxvYWRTaXplU3VtbWFyeS5vYnNlcnZlKHNlY3Rpb25NZXRhZGF0YS5nZXRTaXplKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgem9vbUlkcy5hZGQoVVVJRC5yYW5kb21VVUlEKCkpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN1bW1hcnkgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgTGlzdDxVVUlEPiB6b29tSWRzID0gbmV3IEFycmF5TGlzdDw+KG51bVpvb21MZXZlbHMpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgem9vbUlkcy5hZGQoVVVJRC5yYW5kb21VVUlEKCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vIGFsc28gdGVzdCBzaGFwZSB2YWx1ZXMgY29waWVkIGZyb20gY3J5c3RhbF90ZXN0cy5weQogICAgYXNzZXJ0VGhhdChwbmdEZXNjcmlwdGlvbi5nZXRTaGFwZSgpKQogICAgICAgIC5pc0VxdWFsVG8oCiAgICAgICAgICAgIG5ldyBaUG9pbnQoCiAgICAgICAgICAgICAgICBmYWNlTGVuZ3RoUHggLyAyNTYsCiAgICAgICAgICAgICAgICBzZWN0aW9uV2lkdGhQeCAqIHNlY3Rpb25zUGVyRmFjZSAvIDI1NiwKICAgICAgICAgICAgICAgIDcpKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>values copied from crystal_tests.py
     assertThat(pngDescription.getShape())
         .isEqualTo(
@@ -282,26 +285,17 @@
                 sectionWidthPx * sectionsPerFace / 256,
                 7));</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gIExpc3Q8WlBvaW50PiB6b29tU2hhcGVzID0gY3J5c3RhbFNldC5nZXRab29tQ3J5c3RhbElkcygpLnN0cmVhbSgpCi8vICAgICAgICAgIC5tYXAoY2lkIC0+IGhhbmRsZUNhY2hlLmdldChjaWQpLmdldERlc2NyaXB0aW9uKCkuZ2V0U2hhcGUoKSkKLy8gICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICBMaXN0PFpQb2ludD4gem9vbVNoYXBlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih6b29tU2hhcGVzLnRvU3RyaW5nKCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgem9vbVNoYXBlcy5hZGQoanBnRGVzY3JpcHRpb24uZ2V0U2hhcGUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>compress</last-search>
+      <last-search>Histogram</last-search>
       <last-offset />
-      <last-pattern>compress</last-pattern>
+      <last-pattern>Histogram</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gauge</entry>
         <entry>MetricsCapture</entry>
         <entry>s</entry>
         <entry>);</entry>
@@ -329,6 +322,7 @@
         <entry>intercept</entry>
         <entry>Impl</entry>
         <entry>compress</entry>
+        <entry>Histogram</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
