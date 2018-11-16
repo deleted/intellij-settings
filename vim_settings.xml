@@ -32,12 +32,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542323295513">
-        <mark key="'" line="204" column="35" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="64" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="124" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542332296328">
+        <mark key="'" line="199" column="35" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="64" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1541530402708" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1541534560741">
@@ -134,11 +134,11 @@
         <mark key="^" line="38" column="59" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1542311766952">
-        <mark key="'" line="289" column="34" />
-        <mark key="[" line="333" column="38" />
-        <mark key="]" line="269" column="27" />
-        <mark key="^" line="269" column="27" />
-        <mark key="." line="269" column="27" />
+        <mark key="'" line="287" column="34" />
+        <mark key="[" line="331" column="38" />
+        <mark key="]" line="267" column="27" />
+        <mark key="^" line="267" column="27" />
+        <mark key="." line="267" column="27" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferedImageStream.java" timestamp="1541465745791">
         <mark key="[" line="3" column="0" />
