@@ -32,12 +32,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542332296328">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542333832923">
         <mark key="'" line="199" column="35" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="64" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="119" column="0" />
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="135" column="40" />
+        <mark key="." line="135" column="40" />
+        <mark key="^" line="135" column="40" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStreamTest.java" timestamp="1541530402708" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1541534560741">
@@ -55,6 +55,11 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" timestamp="1542225725040" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStream.java" timestamp="1542333506415">
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1542323747643">
         <mark key="'" line="71" column="35" />
       </file>
