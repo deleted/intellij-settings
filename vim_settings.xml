@@ -11,12 +11,6 @@
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1542399511646">
         <mark key="'" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1542660828501">
-        <mark key="[" line="242" column="40" />
-        <mark key="]" line="246" column="48" />
-        <mark key="." line="246" column="48" />
-        <mark key="^" line="246" column="48" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/ImageIODecodingOutputStream.java" timestamp="1541474273932">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -27,13 +21,8 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542658249221">
-        <mark key="'" line="198" column="16" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542411553838">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542667353063">
+        <mark key="'" line="146" column="8" />
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
@@ -84,9 +73,9 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1542657704000">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1542311766952">
         <mark key="[" line="3" column="38" />
@@ -161,55 +150,59 @@
       <jump line="77" column="0" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="208" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="198" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="66" column="18" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" />
+      <jump line="143" column="8" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" />
+      <jump line="146" column="8" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" />
+      <jump line="251" column="44" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBVVUlEIHNhbXBsZUlkID0gVXVpZFRlc3RGdW5jcy5PTkVfVVVJRDsK</text>
-      </register>
-      <register name="-" type="4">
-        <text>final</text>
-      </register>
-      <register name="/" type="4">
-        <text>createCr</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5nZXRWb3hlbFNpemVVbSgpLmdldFgoKSwK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBVVUlEIHNhbXBsZUlkID0gVXVpZFRlc3RGdW5jcy5PTkVfVVVJRDsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>newStub</text>
+      </register>
+      <register name="/" type="4">
+        <text>getNum</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTW9ja2l0by5hbnkoKSksCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLnNpemUoKSkuaXNFcXVhbFRvKDEpOwogICAgUmVjZXB0aW9uaXN0T3V0ZXJDbGFzcy5DcmVhdGVDcnlzdGFsc1Jlc3BvbnNlIHJlc3BvbnNlID0gcmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLmdldCgwKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUmVjZXB0aW9uaXN0Q3J5c3RhbENyZWF0b3IgbW9ja0NyeXN0YWxDcmVhdG9yID0gTW9ja2l0by5tb2NrKFJlY2VwdGlvbmlzdENyeXN0YWxDcmVhdG9yLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIENvbGxlY3RpbmdTdHJlYW1PYnNlcnZlcjxSZWNlcHRpb25pc3RPdXRlckNsYXNzLkNyZWF0ZUNyeXN0YWxzUmVzcG9uc2U+IHJlc3BvbnNlT2JzZXJ2ZXIgPSBuZXcgQ29sbGVjdGluZ1N0cmVhbU9ic2VydmVyPD4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uZ2VvZGUuc3RvcmFnZS5HZW9kZVN0b3JhZ2VDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICgoUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RCbG9ja2luZ1N0dWIpIHN0dWIpLmNyZWF0ZUNyeXN0YWxzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2VvZGVDbGllbnQgPSBnZW9kZUNsaWVudDsK</text>
+        <text encoding="base64">ICAgIHN0dWIuY3JlYXRlQ3J5c3RhbHMocmVxdWVzdCwgcmVzcG9uc2VPYnNlcnZlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEdlb2RlU3RvcmFnZUNsaWVudCBnZW9kZUNsaWVudDsK</text>
+        <text encoding="base64">ICAgIG1vY2tDcnlzdGFsQ3JlYXRvci5jcmVhdGVDcnlzdGFsc0ZvckJsb2NrKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICBwdWJsaWMgUmVjZXB0aW9uaXN0T3V0ZXJDbGFzcy5DcmVhdGVDcnlzdGFsc1Jlc3BvbnNlIHRvQ3JlYXRlQ3J5c3RhbHNSZXNwb25zZVByb3RvYnVmKCkgewogICAgcmV0dXJuIFJlY2VwdGlvbmlzdE91dGVyQ2xhc3MuQ3JlYXRlQ3J5c3RhbHNSZXNwb25zZS5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgLnNldFBuZ0NyeXN0YWxJZChwbmdDcnlzdGFsSWQpCiAgICAgICAgICAgIC5hZGRBbGxKcGdDcnlzdGFsSWRzKHpvb21DcnlzdGFsSWRzKQogICAgICAgICAgICAuYnVpbGQoKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICgoQ29sbGVjdGluZ1N0cmVhbU9ic2VydmVyPFJlY2VwdGlvbmlzdE91dGVyQ2xhc3MuQ3JlYXRlQ3J5c3RhbHNSZXNwb25zZT4pIHJlc3BvbnNlT2JzZXJ2ZXIpLmdldEl0ZW1zKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZVtdIHZveGVsU2l6ZVVtID0gbmV3IGRvdWJsZVtdewogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9ja2l0by5hbnkoKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBVVUlEIHNhbXBsZUlkID0gVXVpZFRlc3RGdW5jcy5PTkVfVVVJRDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>createCr</last-search>
+      <last-search>getNum</last-search>
       <last-offset />
-      <last-pattern>createCr</last-pattern>
+      <last-pattern>getNum</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -217,7 +210,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,$</entry>
         <entry>client</entry>
         <entry>tiled_shape</entry>
         <entry>test1</entry>
@@ -237,6 +229,7 @@
         <entry>grpc</entry>
         <entry>spotless</entry>
         <entry>createCr</entry>
+        <entry>getNum</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -281,6 +274,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
