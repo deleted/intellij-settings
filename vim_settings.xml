@@ -9,26 +9,12 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/imagestream/ImageIODecodingOutputStreamTest.java" timestamp="1541553227902">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1542399511646">
         <mark key="'" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/ImageIODecodingOutputStream.java" timestamp="1541474273932">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistCrystalCreator.java" timestamp="1541728513115">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542333832923">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542656582913">
         <mark key="'" line="181" column="35" />
+        <mark key="[" line="195" column="3" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1541534560741">
         <mark key="'" line="34" column="19" />
@@ -39,10 +25,11 @@
         <mark key="." line="203" column="0" />
         <mark key="^" line="203" column="26" />
       </file>
-      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1542226259112">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1542656389277">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStream.java" timestamp="1542333506415">
         <mark key="]" line="2" column="27" />
@@ -51,15 +38,6 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1542323747643">
         <mark key="'" line="71" column="35" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BmpDecodingStream.java" timestamp="1541467937539">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/crystal_tests.py" timestamp="1542227552387">
-        <mark key="[" line="65" column="28" />
-        <mark key="]" line="65" column="59" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" timestamp="1541474366633">
         <mark key="[" line="11" column="6" />
@@ -92,6 +70,7 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/receptionist_support_tests.py" timestamp="1542655375362" />
       <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1542409701652">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="11" column="0" />
@@ -103,10 +82,8 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferredImageStream.java" timestamp="1541458071940">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/Dummy.txt" timestamp="1542656396867">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1542235480485">
         <mark key="[" line="33" column="0" />
@@ -123,21 +100,11 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/AcqTag.java" timestamp="1542151755737">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSetTest.java" timestamp="1541795756643">
         <mark key="[" line="27" column="57" />
         <mark key="]" line="27" column="58" />
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="58" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputFilter.java" timestamp="1541465231728">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1541533255280">
         <mark key="[" line="150" column="41" />
@@ -205,53 +172,54 @@
       <jump line="77" column="0" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbmFjY2Vzc2libGUsIGR1ZSB0byBwcmlvciBhc3NlcnRzLgo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>And this needs to be here, or it won't compile</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>spotless</text>
+        <text>createCr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEltYWdlU2hhcGUgZmFjZVNoYXBlID0gbmV3IEltYWdlU2hhcGUoc2VjdGlvbnNQZXJGYWNlICogc2VjdGlvbldpZHRoUHgsIGZhY2VMZW5ndGhQeCk7Cg==</text>
+        <text encoding="base64">ICAgIHVpbnQzMiBzZWN0aW9uc1BlckZhY2UgPSA0Owo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbmFjY2Vzc2libGUsIGR1ZSB0byBwcmlvciBhc3NlcnRzLgo=</text>
+      <register name="1" type="4">
+        <text>and tag 
+*/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFbmZvcmNlLnVucmVhY2hhYmxlKCJXZWxsLCB0aGlzIGlzIGF3a3dhcmQuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoIkluYWNjZXNzaWJsZSwgZHVlIHRvIHByaW9yIGFzc2VydHMuIik7Cg==</text>
+        <text encoding="base64">ICAgIHJlcGVhdGVkIGRvdWJsZSB2b3hlbFNpemVVbSA9IDkgW3BhY2tlZD10cnVlXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBUaGlzCg==</text>
+        <text encoding="base64">ICAgIHVpbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEltYWdlU2hhcGUgZmFjZVNoYXBlID0gbmV3IEltYWdlU2hhcGUoc2VjdGlvbnNQZXJGYWNlICogc2VjdGlvbldpZHRoUHgsIGZhY2VMZW5ndGhQeCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbmFjY2Vzc2libGUsIGR1ZSB0byBwcmlvciBhc3NlcnRzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBuZXcgWlBvaW50KDEsIDEsIDcpLCAvLyBtaXNzaW5nIGZyb20gdGhlIHB5dGhvbiB2ZXJzaW9uLi4uIGZvci4uIHNvbWUgcmVhc29uCi8vICAgICAgICAgICAgbmV3IFpQb2ludCgyLCAyLCA3KSwgLy8gYWxzbyBtaXNzaW5nIGZyb20gdGhlIHB5dGhvbiB2ZXJzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICBFbmZvcmNlLnVucmVhY2hhYmxlKCJXZWxsLCB0aGlzIGlzIGF3a3dhcmQuIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEltYWdlU2hhcGUgZmFjZVNoYXBlID0gbmV3IEltYWdlU2hhcGUoc2VjdGlvbnNQZXJGYWNlICogc2VjdGlvbldpZHRoUHgsIGZhY2VMZW5ndGhQeCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQXNzZXJ0aW9uRXJyb3IoIkluYWNjZXNzaWJsZSwgZHVlIHRvIHByaW9yIGFzc2VydHMuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkaXZVcChzZWN0aW9uc1BlckZhY2UgKiBkaXZVcChzZWN0aW9uV2lkdGhQeCwgVElMRV9TSVpFKSwgem9vbUZhY3RvciksCg==</text>
+        <text encoding="base64">ICAgKiBUaGlzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBheWxvYWRTaXplU3VtbWFyeS5vYnNlcnZlKHNlY3Rpb25NZXRhZGF0YS5nZXRTaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIEltYWdlU2hhcGUgZmFjZVNoYXBlID0gbmV3IEltYWdlU2hhcGUoc2VjdGlvbnNQZXJGYWNlICogc2VjdGlvbldpZHRoUHgsIGZhY2VMZW5ndGhQeCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>spotless</last-search>
+      <last-search>createCr</last-search>
       <last-offset />
-      <last-pattern>spotless</last-pattern>
+      <last-pattern>createCr</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -259,7 +227,6 @@
     </search>
     <history>
       <history-search>
-        <entry>);</entry>
         <entry>,$</entry>
         <entry>client</entry>
         <entry>tiled_shape</entry>
@@ -279,6 +246,7 @@
         <entry>proto</entry>
         <entry>grpc</entry>
         <entry>spotless</entry>
+        <entry>createCr</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
