@@ -29,11 +29,11 @@
         <mark key="." line="203" column="0" />
         <mark key="^" line="203" column="26" />
       </file>
-      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1542675152053">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1542681788437">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStream.java" timestamp="1542333506415">
         <mark key="]" line="2" column="27" />
@@ -66,7 +66,7 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="21" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542656396867">
+      <file name="/Dummy.txt" timestamp="1542681764502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferredImageStream.java" timestamp="1541458071940">
@@ -158,11 +158,11 @@
       <jump line="251" column="44" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>faceIndex</text>
       </register>
       <register name="-" type="4">
-        <text>newStub</text>
+        <text>faceIndex</text>
       </register>
       <register name="/" type="4">
         <text>getNum</text>
@@ -279,6 +279,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
