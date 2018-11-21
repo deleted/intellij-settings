@@ -61,11 +61,11 @@
         <mark key="." line="197" column="51" />
         <mark key="^" line="197" column="51" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1542755057463">
-        <mark key="[" line="319" column="62" />
-        <mark key="]" line="319" column="59" />
-        <mark key="." line="319" column="59" />
-        <mark key="^" line="319" column="59" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1542758547731">
+        <mark key="[" line="331" column="17" />
+        <mark key="]" line="331" column="17" />
+        <mark key="." line="331" column="17" />
+        <mark key="^" line="331" column="62" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/receptionist_support_tests.py" timestamp="1542655375362" />
       <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1542409701652">
@@ -167,10 +167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>Collector</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>Collector</text>
       </register>
       <register name="/" type="4">
         <text>getNum</text>
