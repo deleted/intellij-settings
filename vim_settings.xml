@@ -6,12 +6,19 @@
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1540849897859">
         <mark key="'" line="44" column="44" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1542766214743" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1540850173111">
         <mark key="[" line="159" column="24" />
         <mark key="]" line="159" column="25" />
         <mark key="." line="159" column="25" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/apps/metatron/sampleServer/models.py" timestamp="1540849619993" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1542767254857">
+        <mark key="'" line="211" column="16" />
+        <mark key="[" line="275" column="1" />
+        <mark key="]" line="275" column="1" />
+        <mark key="^" line="275" column="11" />
+        <mark key="." line="275" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
@@ -20,16 +27,51 @@
       <jump line="38" column="9" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
       <jump line="41" column="60" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
       <jump line="44" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
+      <jump line="209" column="16" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzdW1tYXJ5Owo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzdW1tYXJ5Owo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRyeVJlZ2lzdGVyKHN1bW1hcnkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBleGM7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigiVW5hYmxlIHRvIHJlZ2lzdGVyIGNvbGxlY3RvciAlcyIsIGNvbGxlY3Rvci50b1N0cmluZygpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZXhjLmdldE1lc3NhZ2UoKS5jb250YWlucygic3R1ZmYiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNvbGxlY3RvcjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNvbGxlY3Rvci5yZWdpc3RlcihyZWdpc3RyeSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="/" type="4">
-        <text>trigger</text>
+        <text>register</text>
       </register>
     </registers>
     <search>
-      <last-search>trigger</last-search>
+      <last-search>register</last-search>
       <last-offset />
-      <last-pattern>trigger</last-pattern>
+      <last-pattern>register</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -41,11 +83,18 @@
         <entry>%\i</entry>
         <entry>triggerEver</entry>
         <entry>trigger</entry>
+        <entry>register</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
