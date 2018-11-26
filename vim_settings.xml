@@ -9,9 +9,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1542399511646">
-        <mark key="'" line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/ImageIODecodingOutputStream.java" timestamp="1541474273932">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -22,7 +19,6 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1542753616145" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1542667353063">
         <mark key="'" line="146" column="8" />
         <mark key="[" line="203" column="0" />
@@ -35,11 +31,6 @@
         <mark key="]" line="15" column="20" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStream.java" timestamp="1542333506415">
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1542750928894">
         <mark key="'" line="74" column="35" />
@@ -60,12 +51,6 @@
         <mark key="]" line="197" column="51" />
         <mark key="." line="197" column="51" />
         <mark key="^" line="197" column="51" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1542758547731">
-        <mark key="[" line="331" column="17" />
-        <mark key="]" line="331" column="17" />
-        <mark key="." line="331" column="17" />
-        <mark key="^" line="331" column="62" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/receptionist_support_tests.py" timestamp="1542655375362" />
       <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1542409701652">
