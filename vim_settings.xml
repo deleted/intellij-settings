@@ -10,6 +10,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
+        <mark key="[" line="1" column="60" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/ImageIODecodingOutputStream.java" timestamp="1541474273932">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -46,8 +49,18 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543273847417">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tagger/task_definition/service.json.tpl" timestamp="1542677552455" />
-      <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/geode.proto" timestamp="1543271987947" />
+      <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/geode.proto" timestamp="1543273728614">
+        <mark key="[" line="248" column="28" />
+        <mark key="]" line="247" column="38" />
+        <mark key="." line="247" column="38" />
+        <mark key="^" line="247" column="38" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.dinowernli/java-grpc-prometheus/0.3.0/4d51d3239ac15e869232f1c7996a050ab0c0ab9b/java-grpc-prometheus-0.3.0-sources.jar!/me/dinowernli/grpc/prometheus/ServerMetrics.java" timestamp="1542396928946" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542411280453">
         <mark key="[" line="224" column="33" />
@@ -83,6 +96,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/serialization/AtomType.java" timestamp="1543273403634" />
     </filemarks>
     <jumps>
       <jump line="34" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" />
@@ -149,53 +163,53 @@
       <jump line="251" column="44" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Collector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Collector</text>
+        <text>z_point</text>
       </register>
       <register name="/" type="4">
-        <text>getNum</text>
+        <text>AtomType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTW9ja2l0by5hbnkoKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLnNpemUoKSkuaXNFcXVhbFRvKDEpOwogICAgUmVjZXB0aW9uaXN0T3V0ZXJDbGFzcy5DcmVhdGVDcnlzdGFsc1Jlc3BvbnNlIHJlc3BvbnNlID0gcmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLmdldCgwKTsK</text>
+        <text encoding="base64">bWVzc2FnZSBHZW9kZUF0b21UeXBlIHsKICBzdHJpbmcgaWQgPSAxOwogIG1hcAp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3RpbmdTdHJlYW1PYnNlcnZlcjxSZWNlcHRpb25pc3RPdXRlckNsYXNzLkNyZWF0ZUNyeXN0YWxzUmVzcG9uc2U+IHJlc3BvbnNlT2JzZXJ2ZXIgPSBuZXcgQ29sbGVjdGluZ1N0cmVhbU9ic2VydmVyPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgoUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RCbG9ja2luZ1N0dWIpIHN0dWIpLmNyZWF0ZUNyeXN0YWxzKCkK</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0dWIuY3JlYXRlQ3J5c3RhbHMocmVxdWVzdCwgcmVzcG9uc2VPYnNlcnZlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vY2tDcnlzdGFsQ3JlYXRvci5jcmVhdGVDcnlzdGFsc0ZvckJsb2NrKCk7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLnNpemUoKSkuaXNFcXVhbFRvKDEpOwogICAgUmVjZXB0aW9uaXN0T3V0ZXJDbGFzcy5DcmVhdGVDcnlzdGFsc1Jlc3BvbnNlIHJlc3BvbnNlID0gcmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLmdldCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgoQ29sbGVjdGluZ1N0cmVhbU9ic2VydmVyPFJlY2VwdGlvbmlzdE91dGVyQ2xhc3MuQ3JlYXRlQ3J5c3RhbHNSZXNwb25zZT4pIHJlc3BvbnNlT2JzZXJ2ZXIpLmdldEl0ZW1zKCkK</text>
+        <text encoding="base64">ICAgIENvbGxlY3RpbmdTdHJlYW1PYnNlcnZlcjxSZWNlcHRpb25pc3RPdXRlckNsYXNzLkNyZWF0ZUNyeXN0YWxzUmVzcG9uc2U+IHJlc3BvbnNlT2JzZXJ2ZXIgPSBuZXcgQ29sbGVjdGluZ1N0cmVhbU9ic2VydmVyPD4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>getNum</last-search>
+      <last-search>AtomType</last-search>
       <last-offset />
-      <last-pattern>getNum</last-pattern>
+      <last-pattern>AtomType</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -203,7 +217,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
         <entry>tiled_shape</entry>
         <entry>test1</entry>
         <entry>test2</entry>
@@ -223,6 +236,7 @@
         <entry>spotless</entry>
         <entry>createCr</entry>
         <entry>getNum</entry>
+        <entry>AtomType</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
