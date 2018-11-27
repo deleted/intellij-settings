@@ -31,11 +31,11 @@
         <mark key="." line="203" column="0" />
         <mark key="^" line="203" column="26" />
       </file>
-      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1542681788437">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
+      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543277946438">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="4" />
+        <mark key="." line="65" column="4" />
+        <mark key="^" line="66" column="75" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1542750928894">
         <mark key="'" line="74" column="35" />
@@ -56,7 +56,7 @@
       </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tagger/task_definition/service.json.tpl" timestamp="1542677552455" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/serialization/BufferedImageAtomSerializer.java" timestamp="1543276854650" />
-      <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/geode.proto" timestamp="1543273728614">
+      <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/geode.proto" timestamp="1543277916462">
         <mark key="[" line="248" column="28" />
         <mark key="]" line="247" column="38" />
         <mark key="." line="247" column="38" />
@@ -70,7 +70,7 @@
         <mark key="^" line="197" column="51" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/receptionist_support_tests.py" timestamp="1542655375362" />
-      <file name="/Dummy.txt" timestamp="1542681764502">
+      <file name="/Dummy.txt" timestamp="1543277830284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferredImageStream.java" timestamp="1541458071940">
@@ -164,61 +164,62 @@
       <jump line="251" column="44" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>GeodeCrystalDescription</text>
       </register>
       <register name="-" type="4">
-        <text>z_point</text>
+        <text>GeodeCrystalDescription</text>
       </register>
       <register name="/" type="4">
-        <text>AtomType</text>
+        <text encoding="base64">XDx0aHJlZXNjYW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9ja2l0by5hbnkoKSksCg==</text>
+        <text encoding="base64">ICAgIEdlb2RlQ3J5c3RhbERlc2NyaXB0aW9uIHBuZ19jcnlzdGFsX2Rlc2NyaXB0aW9uID0gMzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>threescan.net.grpc.receptionist&quot;;
+
+import &quot;proto/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWVzc2FnZSBHZW9kZUF0b21UeXBlIHsKICBzdHJpbmcgaWQgPSAxOwogIG1hcAp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAKICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bWVzc2FnZSBHZW9kZUF0b21UeXBlIHsKICBzdHJpbmcgaWQgPSAxOwogIG1hcAp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAKICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLnNpemUoKSkuaXNFcXVhbFRvKDEpOwogICAgUmVjZXB0aW9uaXN0T3V0ZXJDbGFzcy5DcmVhdGVDcnlzdGFsc1Jlc3BvbnNlIHJlc3BvbnNlID0gcmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLmdldCgwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3RpbmdTdHJlYW1PYnNlcnZlcjxSZWNlcHRpb25pc3RPdXRlckNsYXNzLkNyZWF0ZUNyeXN0YWxzUmVzcG9uc2U+IHJlc3BvbnNlT2JzZXJ2ZXIgPSBuZXcgQ29sbGVjdGluZ1N0cmVhbU9ic2VydmVyPD4oKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLnNpemUoKSkuaXNFcXVhbFRvKDEpOwogICAgUmVjZXB0aW9uaXN0T3V0ZXJDbGFzcy5DcmVhdGVDcnlzdGFsc1Jlc3BvbnNlIHJlc3BvbnNlID0gcmVzcG9uc2VPYnNlcnZlci5nZXRJdGVtcygpLmdldCgwKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>AtomType</last-search>
+      <last-search encoding="base64">XDx0aHJlZXNjYW5cPg==</last-search>
       <last-offset />
-      <last-pattern>AtomType</last-pattern>
+      <last-pattern encoding="base64">XDx0aHJlZXNjYW5cPg==</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tiled_shape</entry>
         <entry>test1</entry>
         <entry>test2</entry>
         <entry>depend</entry>
@@ -238,6 +239,7 @@
         <entry>createCr</entry>
         <entry>getNum</entry>
         <entry>AtomType</entry>
+        <entry encoding="base64">XDx0aHJlZXNjYW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
