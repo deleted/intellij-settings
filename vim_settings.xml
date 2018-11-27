@@ -11,32 +11,17 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalAtomStat.java" timestamp="1543271916212" />
       <file name="$USER_HOME$/kesm/devops/terraform/services/tagger/main.tf" timestamp="1542677406225" />
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/imagestream/ImageIODecodingOutputStreamTest.java" timestamp="1541553227902">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
         <mark key="[" line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/ImageIODecodingOutputStream.java" timestamp="1541474273932">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/query.proto" timestamp="1543272032154" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistCrystalCreator.java" timestamp="1541728513115">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1543281450847">
         <mark key="'" line="146" column="8" />
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543281208346">
+      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543344309681">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
@@ -48,11 +33,6 @@
         <mark key="]" line="73" column="36" />
         <mark key="^" line="73" column="36" />
         <mark key="." line="73" column="36" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BmpDecodingStream.java" timestamp="1541467937539">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/BufferedImageStream.java" timestamp="1541474366633">
         <mark key="[" line="11" column="6" />
@@ -66,14 +46,14 @@
         <mark key="." line="113" column="33" />
         <mark key="^" line="113" column="35" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543273847417">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tagger/task_definition/service.json.tpl" timestamp="1542677552455" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/serialization/BufferedImageAtomSerializer.java" timestamp="1543276854650" />
-      <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/geode.proto" timestamp="1543279066207">
+      <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/geode.proto" timestamp="1543344019621">
         <mark key="[" line="245" column="0" />
         <mark key="]" line="245" column="0" />
         <mark key="." line="245" column="0" />
@@ -85,6 +65,12 @@
         <mark key="^" line="12" column="76" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.dinowernli/java-grpc-prometheus/0.3.0/4d51d3239ac15e869232f1c7996a050ab0c0ab9b/java-grpc-prometheus-0.3.0-sources.jar!/me/dinowernli/grpc/prometheus/ServerMetrics.java" timestamp="1542396928946" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1542411280453">
+        <mark key="[" line="224" column="33" />
+        <mark key="]" line="197" column="51" />
+        <mark key="." line="197" column="51" />
+        <mark key="^" line="197" column="51" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/AcqTags.java" timestamp="1542151630733">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
@@ -100,11 +86,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1543281173238">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/imagstream/BufferredImageStream.java" timestamp="1541458071940">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1542744707846" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1543282305269">
@@ -122,21 +103,11 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/AcqTag.java" timestamp="1542151755737">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSetTest.java" timestamp="1541795756643">
         <mark key="[" line="27" column="57" />
         <mark key="]" line="27" column="58" />
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="58" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputFilter.java" timestamp="1541465231728">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/NspiDecodingStream.java" timestamp="1541533255280">
         <mark key="[" line="150" column="41" />
