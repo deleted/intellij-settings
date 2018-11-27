@@ -55,6 +55,7 @@
         <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tagger/task_definition/service.json.tpl" timestamp="1542677552455" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/serialization/BufferedImageAtomSerializer.java" timestamp="1543276854650" />
       <file name="$USER_HOME$/kesm/proto/threescan/geode/rpc/geode.proto" timestamp="1543273728614">
         <mark key="[" line="248" column="28" />
         <mark key="]" line="247" column="38" />
@@ -83,7 +84,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1542311766952">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/AcqTag.java" timestamp="1542151755737">
