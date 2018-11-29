@@ -15,6 +15,12 @@
       <file name="/Dummy.txt" timestamp="1543447492879">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543532789054">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="8" column="70" />
+        <mark key="^" line="8" column="70" />
+        <mark key="." line="8" column="70" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
       </file>
