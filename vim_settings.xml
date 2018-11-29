@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
+        <mark key="[" line="1" column="60" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1543281450847">
         <mark key="'" line="146" column="8" />
         <mark key="[" line="250" column="0" />
@@ -15,13 +18,6 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputStream.java" timestamp="1541464979122">
-        <mark key="'" line="144" column="6" />
-        <mark key="[" line="235" column="53" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
-        <mark key="^" line="237" column="41" />
-      </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543344309681">
         <mark key="^" line="3" column="37" />
       </file>
@@ -31,35 +27,10 @@
         <mark key="]" line="185" column="21" />
         <mark key="." line="185" column="21" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541805490800">
-        <mark key="'" line="299" column="48" />
-        <mark key="[" line="242" column="2" />
-        <mark key="]" line="270" column="5" />
-        <mark key="^" line="273" column="88" />
-        <mark key="." line="242" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
-        <mark key="[" line="1" column="60" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" timestamp="1541729104684">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-        <mark key="^" line="2" column="18" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1543458423470" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1543448418427">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="185" column="0" />
       </file>
     </filemarks>
     <jumps>
