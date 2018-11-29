@@ -25,6 +25,12 @@
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543344309681">
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" timestamp="1543461854264">
+        <mark key="'" line="33" column="43" />
+        <mark key="[" line="185" column="21" />
+        <mark key="]" line="185" column="21" />
+        <mark key="." line="185" column="21" />
+      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541805490800">
         <mark key="'" line="299" column="48" />
         <mark key="[" line="242" column="2" />
@@ -120,16 +126,17 @@
       <jump line="146" column="8" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" />
       <jump line="251" column="44" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="98" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="33" column="43" filename="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlSW1hZ2VUaW1lci5vYnNlcnZlRHVyYXRpb24oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>shapeFromImage</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>shapeFromImage</text>
       </register>
       <register name="/" type="4">
-        <text>Summary</text>
+        <text>shapeFromImage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEdlb2RlQ3J5c3RhbERlc2NyaXB0aW9uIHBuZ19jcnlzdGFsX2Rlc2NyaXB0aW9uID0gMzsK</text>
@@ -166,9 +173,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Summary</last-search>
+      <last-search>shapeFromImage</last-search>
       <last-offset />
-      <last-pattern>Summary</last-pattern>
+      <last-pattern>shapeFromImage</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -176,7 +183,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test2</entry>
         <entry>depend</entry>
         <entry>generateTest</entry>
         <entry>timer</entry>
@@ -196,6 +202,7 @@
         <entry>AtomType</entry>
         <entry encoding="base64">XDx0aHJlZXNjYW5cPg==</entry>
         <entry>Summary</entry>
+        <entry>shapeFromImage</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
