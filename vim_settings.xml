@@ -31,6 +31,7 @@
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543344309681">
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/main.yml" timestamp="1543616731264" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" timestamp="1543536767461">
         <mark key="'" line="33" column="43" />
         <mark key="[" line="185" column="21" />
@@ -38,6 +39,7 @@
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="42" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/software.yml" timestamp="1543616620544" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541805490800">
         <mark key="'" line="299" column="48" />
         <mark key="[" line="242" column="2" />
@@ -60,15 +62,18 @@
         <mark key="]" line="116" column="37" />
         <mark key="." line="116" column="37" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/config_files.yml" timestamp="1543616860029" />
       <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1543606045199">
         <mark key="'" line="381" column="12" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/b20-kesms.yml" timestamp="1543616928493" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/pip.yml" timestamp="1543616746232" />
     </filemarks>
     <jumps>
       <jump line="34" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" />
