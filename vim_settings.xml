@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
-        <mark key="[" line="1" column="60" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1543281450847">
         <mark key="'" line="146" column="8" />
         <mark key="[" line="250" column="0" />
@@ -48,12 +45,20 @@
         <mark key="^" line="273" column="88" />
         <mark key="." line="242" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
+        <mark key="[" line="1" column="60" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" timestamp="1541729104684">
         <mark key="'" line="3" column="4" />
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1543606421567" />
+      <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1543606045199">
+        <mark key="'" line="375" column="12" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
         <mark key="[" line="116" column="0" />
@@ -127,6 +132,12 @@
       <jump line="98" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="33" column="43" filename="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" />
       <jump line="24" column="29" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" />
+      <jump line="6" column="44" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="385" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="392" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="399" column="17" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="202" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="375" column="12" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -136,7 +147,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>shapeFromImage</text>
+        <text>dockerFileDest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEdlb2RlQ3J5c3RhbERlc2NyaXB0aW9uIHBuZ19jcnlzdGFsX2Rlc2NyaXB0aW9uID0gMzsK</text>
@@ -173,9 +184,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shapeFromImage</last-search>
+      <last-search>dockerFileDest</last-search>
       <last-offset />
-      <last-pattern>shapeFromImage</last-pattern>
+      <last-pattern>dockerFileDest</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -183,10 +194,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depend</entry>
-        <entry>generateTest</entry>
-        <entry>timer</entry>
-        <entry>timing</entry>
         <entry>\.toString()</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry>inaccess</entry>
@@ -203,6 +210,10 @@
         <entry encoding="base64">XDx0aHJlZXNjYW5cPg==</entry>
         <entry>Summary</entry>
         <entry>shapeFromImage</entry>
+        <entry>docker</entry>
+        <entry>recept</entry>
+        <entry>include</entry>
+        <entry>dockerFileDest</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
