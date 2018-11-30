@@ -21,23 +21,39 @@
       <file name="/Dummy.txt" timestamp="1543447492879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543534502814">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/io/CrcOutputStream.java" timestamp="1541464979122">
+        <mark key="'" line="144" column="6" />
+        <mark key="[" line="235" column="53" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
+        <mark key="^" line="237" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543344309681">
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" timestamp="1543461854264">
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" timestamp="1543536767461">
         <mark key="'" line="33" column="43" />
         <mark key="[" line="185" column="21" />
-        <mark key="]" line="185" column="21" />
-        <mark key="." line="185" column="21" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" timestamp="1541805490800">
+        <mark key="'" line="299" column="48" />
+        <mark key="[" line="242" column="2" />
+        <mark key="]" line="270" column="5" />
+        <mark key="^" line="273" column="88" />
+        <mark key="." line="242" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" timestamp="1541729104684">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
         <mark key="[" line="116" column="0" />
@@ -110,10 +126,11 @@
       <jump line="251" column="44" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
       <jump line="98" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="33" column="43" filename="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" />
+      <jump line="24" column="29" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A seperate class to hold p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>A seperate class to hold p</text>
@@ -125,31 +142,31 @@
         <text encoding="base64">ICAgIEdlb2RlQ3J5c3RhbERlc2NyaXB0aW9uIHBuZ19jcnlzdGFsX2Rlc2NyaXB0aW9uID0gMzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjZWl2ZVRpbWVyLmRkCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjZWl2ZVRpbWVyICE9IG51bGwpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlSW1hZ2VUaW1lci5vYnNlcnZlRHVyYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjZWl2ZVRpbWVyLmRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBheWxvYWRTaXplU3VtbWFyeS5vYnNlcnZlKHNlY3Rpb25NZXRhZGF0YS5nZXRTaXplKCkpOwogICAgICAgICAgcmVjZWl2ZUltYWdlVGltZXIgPSByZWNlaXZlSW1hZ2VUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNlaXZlSW1hZ2VUaW1lci5vYnNlcnZlRHVyYXRpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSBmaW5hbCBTdW1tYXJ5IHJlY2VpdmVJbWFnZVRpbWVTdW1tYXJ5ID0KICAgICAgICAgIE1ldHJpY3MuY3JlYXRlU3VtbWFyeSgKICAgICAgICAgICAgICAicmVjZWl2ZV9pbWFnZV9zZWNvbmRzIiwgIkFtb3VudCBvZiB0aW1lIHNwZW50IHJlY2VpdmluZyBpbWFnZXMgZnJvbSB0aGUgbmV0d29yay4iKTsKICAgICAgcHJpdmF0ZSBTdW1tYXJ5LlRpbWVyIHJlY2VpdmVJbWFnZVRpbWVyOwoKICAgICAgcHJpdmF0ZSBmaW5hbCBTdW1tYXJ5IHBheWxvYWRTaXplU3VtbWFyeSA9CiAgICAgICAgICBNZXRyaWNzLmNyZWF0ZVN1bW1hcnkoInVwbG9hZF9wYXlsb2FkX3NpemVfYnl0ZXMiLCAiU2l6ZSBvZiB0aGUgaW1hZ2UgcGF5bG9hZCByZWNlaXZlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBheWxvYWRTaXplU3VtbWFyeS5vYnNlcnZlKHNlY3Rpb25NZXRhZGF0YS5nZXRTaXplKCkpOwogICAgICAgICAgcmVjZWl2ZUltYWdlVGltZXIgPSByZWNlaXZlSW1hZ2VUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZSBmaW5hbCBTdW1tYXJ5IHJlY2VpdmVJbWFnZVRpbWVTdW1tYXJ5ID0KICAgICAgICAgIE1ldHJpY3MuY3JlYXRlU3VtbWFyeSgKICAgICAgICAgICAgICAicmVjZWl2ZV9pbWFnZV9zZWNvbmRzIiwgIkFtb3VudCBvZiB0aW1lIHNwZW50IHJlY2VpdmluZyBpbWFnZXMgZnJvbSB0aGUgbmV0d29yay4iKTsKICAgICAgcHJpdmF0ZSBTdW1tYXJ5LlRpbWVyIHJlY2VpdmVJbWFnZVRpbWVyOwoKICAgICAgcHJpdmF0ZSBmaW5hbCBTdW1tYXJ5IHBheWxvYWRTaXplU3VtbWFyeSA9CiAgICAgICAgICBNZXRyaWNzLmNyZWF0ZVN1bW1hcnkoInVwbG9hZF9wYXlsb2FkX3NpemVfYnl0ZXMiLCAiU2l6ZSBvZiB0aGUgaW1hZ2UgcGF5bG9hZCByZWNlaXZlZCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
