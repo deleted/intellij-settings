@@ -3,12 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1543281450847">
-        <mark key="'" line="146" column="8" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
+      <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1543898651635" />
+      <file name="$USER_HOME$/kesm/kesm/perf/grpc_helpers.py" timestamp="1543965468759">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/software.yml" timestamp="1543616620544" />
+      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
+        <mark key="[" line="1" column="60" />
+      </file>
+      <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1543606045199">
+        <mark key="'" line="381" column="12" />
+      </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1543617682075" />
       <file name="/Dummy.txt" timestamp="1543864284328">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,7 +28,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1543617719532" />
-      <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1543898651635" />
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1543965260597" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
       </file>
@@ -41,7 +50,6 @@
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/kesm/devops/ansible/software.yml" timestamp="1543616620544" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1543877163685">
         <mark key="[" line="78" column="70" />
         <mark key="]" line="78" column="67" />
@@ -54,9 +62,6 @@
         <mark key="]" line="270" column="5" />
         <mark key="^" line="273" column="88" />
         <mark key="." line="242" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
-        <mark key="[" line="1" column="60" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" timestamp="1541729104684">
         <mark key="'" line="3" column="4" />
@@ -71,17 +76,7 @@
         <mark key="." line="116" column="37" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/config_files.yml" timestamp="1543616860029" />
-      <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1543606045199">
-        <mark key="'" line="381" column="12" />
-      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/b20-kesms.yml" timestamp="1543617667060" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1543617682075" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/pip.yml" timestamp="1543616746232" />
     </filemarks>
     <jumps>
@@ -158,11 +153,11 @@
       <jump line="375" column="12" filename="$USER_HOME$/kesm/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ExecutorService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ExecutorService</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>dockerFileDest</text>
@@ -171,34 +166,34 @@
         <text encoding="base64">ICAgIEdlb2RlQ3J5c3RhbERlc2NyaXB0aW9uIHBuZ19jcnlzdGFsX2Rlc2NyaXB0aW9uID0gMzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiQmVnaW4gd3JpdGluZyB0byBkaXNrOiAlcyIsIG1ldGFkYXRhLmdldEJsb2JJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN1bW1hcnkuVGltZXIgd3JpdGVUaW1lciA9IFVwbG9hZEltYWdlTWV0cmljcy5kaXNrV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCk7Cg==</text>
+        <text encoding="base64">Y2xhc3MgVGltZW91dEVycm9yKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdyaXRlVGltZXIub2JzZXJ2ZUR1cmF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiQmVnaW4gd3JpdGluZyB0byBkaXNrOiAlcyIsIG1ldGFkYXRhLmdldEJsb2JJZCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuc2F2ZVJlY29yZChpbWdSZWNvcmQpCg==</text>
+        <text encoding="base64">ICAgIFN1bW1hcnkuVGltZXIgd3JpdGVUaW1lciA9IFVwbG9hZEltYWdlTWV0cmljcy5kaXNrV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5NZXRyaWNzOwo=</text>
+        <text encoding="base64">ICAgIHdyaXRlVGltZXIub2JzZXJ2ZUR1cmF0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBDb3VudGVyIHJlcXVlc3RDb3VudGVyID0KICAgICAgTWV0cmljcy5jcmVhdGVDb3VudGVyKAogICAgICAgICAgInVwbG9hZEltYWdlUmVxdWVzdENvdW50ZXIiLAogICAgICAgICAgIkNvdW50cyB0aGUgbnVtYmVyIG9mIFVwbG9hZEltYWdlIHJlcXVlc3RzIHJlY2VpdmVkIGJ5IFJlY2VwdGlvbmlzdHMuIik7CgogIHByaXZhdGUgc3RhdGljIGZpbmFsIFN1bW1hcnkgZGlza1dyaXRlVGltZVN1bW1hcnkgPQogICAgICBNZXRyaWNzLmNyZWF0ZVN1bW1hcnkoCiAgICAgICAgICAiZGlza19zdG9yZV93cml0ZV9zZWNvbmRzIiwgIlRpbWUgc3BlbnQgd3JpdGluZyBpbWFnZXMgdG8gdGhlIGRpc2sgc3RvcmUuIik7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAuc2F2ZVJlY29yZChpbWdSZWNvcmQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4ucnVudGltZS5NZXRyaWNzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVjZWl2ZVRpbWVyICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBDb3VudGVyIHJlcXVlc3RDb3VudGVyID0KICAgICAgTWV0cmljcy5jcmVhdGVDb3VudGVyKAogICAgICAgICAgInVwbG9hZEltYWdlUmVxdWVzdENvdW50ZXIiLAogICAgICAgICAgIkNvdW50cyB0aGUgbnVtYmVyIG9mIFVwbG9hZEltYWdlIHJlcXVlc3RzIHJlY2VpdmVkIGJ5IFJlY2VwdGlvbmlzdHMuIik7CgogIHByaXZhdGUgc3RhdGljIGZpbmFsIFN1bW1hcnkgZGlza1dyaXRlVGltZVN1bW1hcnkgPQogICAgICBNZXRyaWNzLmNyZWF0ZVN1bW1hcnkoCiAgICAgICAgICAiZGlza19zdG9yZV93cml0ZV9zZWNvbmRzIiwgIlRpbWUgc3BlbnQgd3JpdGluZyBpbWFnZXMgdG8gdGhlIGRpc2sgc3RvcmUuIik7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</text>
+        <text>95</text>
       </register>
     </registers>
     <search>
@@ -248,6 +243,7 @@
         <entry encoding="base64">JzwsJz5zL3Rlc3QyL3Rlc3QzL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy50b1N0cmluZygpLy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wudG9TdHJpbmcoKS8vZw==</entry>
+        <entry>95</entry>
       </history-cmd>
       <history-expr />
       <history-input />
