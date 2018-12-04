@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1543898651635" />
-      <file name="$USER_HOME$/kesm/kesm/perf/grpc_helpers.py" timestamp="1543965468759">
+      <file name="$USER_HOME$/kesm/kesm/perf/grpc_helpers.py" timestamp="1543966883859">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -18,6 +18,7 @@
         <mark key="'" line="381" column="12" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1543617682075" />
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/grpc_dns.py" timestamp="1543966946349" />
       <file name="/Dummy.txt" timestamp="1543864284328">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,7 +29,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1543617719532" />
-      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1543965260597" />
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1543966968133" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
       </file>
@@ -38,9 +39,6 @@
         <mark key="]" line="238" column="0" />
         <mark key="." line="238" column="0" />
         <mark key="^" line="237" column="41" />
-      </file>
-      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1543344309681">
-        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/main.yml" timestamp="1543616731264" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/zbox/DownsamplePaddingRemoverTest.java" timestamp="1543536767461">
