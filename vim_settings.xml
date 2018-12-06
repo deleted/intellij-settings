@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
         <mark key="[" line="1" column="60" />
       </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1544134045534">
+        <mark key="[" line="41" column="39" />
+      </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1543617682075" />
       <file name="$USER_HOME$/kesm/kesm/acq/shared/grpc_dns.py" timestamp="1543966946349" />
@@ -64,6 +67,7 @@
         <mark key="^" line="104" column="40" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/pip.yml" timestamp="1543616746232" />
+      <file name="$USER_HOME$/kesm/devops/ansible/services.yml" timestamp="1544133967899" />
     </filemarks>
     <jumps>
       <jump line="34" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" />
