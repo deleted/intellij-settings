@@ -13,11 +13,11 @@
       <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
         <mark key="[" line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1544134744090">
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="23" />
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1544135488294">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
         <mark key="^" line="42" column="35" />
-        <mark key="." line="42" column="23" />
+        <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1543617682075" />
@@ -46,6 +46,7 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544135669082" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
       </file>
@@ -147,10 +148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC1YbXgxNjgyNTQ1MDQ5Ng==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC1YbXgxNjgyNTQ1MDQ5Ng==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>dockerFileDest</text>
