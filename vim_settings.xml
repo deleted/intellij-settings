@@ -35,6 +35,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/image/BufferedImageType.java" timestamp="1544221882825" />
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1544220877342">
         <mark key="[" line="47" column="15" />
         <mark key="]" line="47" column="15" />
