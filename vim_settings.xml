@@ -57,6 +57,8 @@
         <mark key="^" line="15" column="67" />
         <mark key="." line="15" column="67" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStream.java" timestamp="1544211397152" />
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/awt/image/WritableRaster.class" timestamp="1544210828734" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1543613359855">
         <mark key="[" line="116" column="36" />
         <mark key="]" line="116" column="37" />
@@ -70,6 +72,7 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="40" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStreamTest.java" timestamp="1544211331600" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/pip.yml" timestamp="1543616746232" />
       <file name="$USER_HOME$/kesm/devops/ansible/services.yml" timestamp="1544133967899" />
     </filemarks>
