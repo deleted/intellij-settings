@@ -16,7 +16,7 @@
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1544135488294">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
-        <mark key="^" line="42" column="35" />
+        <mark key="^" line="25" column="35" />
         <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
@@ -34,7 +34,7 @@
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1543617719532" />
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1544056843769" />
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1544062430320">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1544206866574">
         <mark key="[" line="274" column="28" />
         <mark key="]" line="331" column="50" />
         <mark key="." line="331" column="50" />
