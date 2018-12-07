@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/kesm_main.yml" timestamp="1544220966373">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/base/__init__.py" timestamp="1543898651635" />
       <file name="$USER_HOME$/kesm/kesm/perf/grpc_helpers.py" timestamp="1543966883859">
         <mark key="[" line="10" column="0" />
@@ -10,9 +16,6 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/software.yml" timestamp="1543616620544" />
-      <file name="$USER_HOME$/kesm/build/extracted-include-protos/test/kesm/proto/receptionist.proto" timestamp="1543273881899">
-        <mark key="[" line="1" column="60" />
-      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1544135488294">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -26,10 +29,17 @@
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1543617682075" />
       <file name="$USER_HOME$/kesm/kesm/acq/shared/grpc_dns.py" timestamp="1543966946349" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" timestamp="1544062602941" />
-      <file name="/Dummy.txt" timestamp="1543864284328">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543547226829">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1543617719532" />
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1544220877342">
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="15" />
+        <mark key="." line="47" column="15" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1544056843769" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1544206866574">
         <mark key="[" line="274" column="28" />
@@ -46,9 +56,6 @@
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1544217170794">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
-        <mark key="[" line="3" column="38" />
-      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/main.yml" timestamp="1543616731264" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStream.java" timestamp="1544211397152" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/awt/image/WritableRaster.class" timestamp="1544210828734" />
@@ -64,6 +71,11 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="40" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStreamTest.java" timestamp="1544211331600" />
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/pip.yml" timestamp="1543616746232" />
@@ -145,10 +157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>grpcio</text>
