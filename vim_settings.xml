@@ -20,6 +20,9 @@
         <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/kesm/devops/terraform/services/tileserver/main.tf" timestamp="1543605866142" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1543606045199">
+        <mark key="'" line="381" column="12" />
+      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/production" timestamp="1543617682075" />
       <file name="$USER_HOME$/kesm/kesm/acq/shared/grpc_dns.py" timestamp="1543966946349" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" timestamp="1544062602941" />
@@ -39,6 +42,9 @@
         <mark key="]" line="331" column="0" />
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
+      </file>
+      <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1544217170794">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
@@ -135,6 +141,7 @@
       <jump line="399" column="17" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="202" column="0" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="375" column="12" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -144,7 +151,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>dockerFileDest</text>
+        <text>grpcio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEdlb2RlQ3J5c3RhbERlc2NyaXB0aW9uIHBuZ19jcnlzdGFsX2Rlc2NyaXB0aW9uID0gMzsK</text>
@@ -181,9 +188,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dockerFileDest</last-search>
+      <last-search>grpcio</last-search>
       <last-offset />
-      <last-pattern>dockerFileDest</last-pattern>
+      <last-pattern>grpcio</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -191,7 +198,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.toString()</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry>inaccess</entry>
         <entry>intercept</entry>
@@ -211,6 +217,7 @@
         <entry>recept</entry>
         <entry>include</entry>
         <entry>dockerFileDest</entry>
+        <entry>grpcio</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3YvbC8=</entry>
