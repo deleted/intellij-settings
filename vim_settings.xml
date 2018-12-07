@@ -190,7 +190,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>88</text>
       </register>
     </registers>
     <search>
@@ -243,6 +243,7 @@
         <entry>129</entry>
         <entry>3</entry>
         <entry>w</entry>
+        <entry>88</entry>
       </history-cmd>
       <history-expr />
       <history-input />
