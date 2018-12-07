@@ -26,12 +26,6 @@
       <file name="/Dummy.txt" timestamp="1543864284328">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543547226829">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1543617719532" />
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1544056843769" />
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1544206866574">
@@ -46,17 +40,10 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544135669082" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1543276734019">
         <mark key="[" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/roles/kesm_main_software/tasks/main.yml" timestamp="1543616731264" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1543877163685">
-        <mark key="[" line="15" column="70" />
-        <mark key="]" line="15" column="67" />
-        <mark key="^" line="15" column="67" />
-        <mark key="." line="15" column="67" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/nspi/PixelwiseBufferredImageCreatingStream.java" timestamp="1544211397152" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/awt/image/WritableRaster.class" timestamp="1544210828734" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1543613359855">
