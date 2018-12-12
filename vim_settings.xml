@@ -51,10 +51,11 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544584287277">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544650051256">
+        <mark key="[" line="39" column="69" />
+        <mark key="]" line="39" column="69" />
+        <mark key="." line="39" column="69" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1544217170794">
         <mark key="'" line="0" column="0" />
@@ -157,11 +158,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVGhyZWFkLgo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>sleep(5);</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>grpcio</text>
