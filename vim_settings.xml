@@ -67,11 +67,11 @@
         <mark key="^" line="59" column="2" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1544665861307" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/ThrottledFutureQueue.java" timestamp="1544730471380">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="52" />
-        <mark key="^" line="6" column="52" />
-        <mark key="." line="6" column="52" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/ThrottledFutureQueue.java" timestamp="1544732314144">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="35" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1544668085204" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1543613359855">
@@ -89,6 +89,9 @@
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1544731650538">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -166,11 +169,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4Y2VwdGlvbmFsbHkoKGUpIC0+IHt0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTt9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>nullable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcGxldGFibGVGdXR1cmU8Vm9pZD4=</text>
+        <text>nullable</text>
       </register>
       <register name="/" type="4">
         <text>grpcio</text>
@@ -179,35 +182,34 @@
         <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRpbGVXcml0ZXIudmFsaWRhdGVUaWxlUmVxdWVzdChyZXF1ZXN0KTsKICAgIH0gY2F0Y2ggKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gRnV0dXJlRnVuY3MuY29tcGxldGVFeGNlcHRpb25hbGx5KGUpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4Y2VwdGlvbmFsbHkoKGUpIC0+IHt0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTt9KTsK</text>
+        <text encoding="base64">ICAgICAgICBqb2JMaXN0LmZvckVhY2goKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcm9jZXNzaW5nU2VtYXBob3JlLnJlbGVhc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqb2IuY29tcGxldGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aWxlV3JpdGVyCiAgICAgICAgICAgICAgICAgICAgICAgIC53cml0ZVRpbGVzKHRpbGVSZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>jobs it has  access to.
-   *</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEgam9iUXVldWUuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXAuRW50cnk8U2k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZG9uZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbnF1ZXVlVGlsZVJlcXVlc3QocmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tcGxldGFibGVGdXR1cmU8VD4gZG9uZSA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRpbGVXcml0ZXIudmFsaWRhdGVUaWxlUmVxdWVzdChyZXF1ZXN0KTsKICAgIH0gY2F0Y2ggKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gRnV0dXJlRnVuY3MuY29tcGxldGVFeGNlcHRpb25hbGx5KGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZG9uZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>88</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -259,8 +261,8 @@
         <entry>95</entry>
         <entry>129</entry>
         <entry>3</entry>
-        <entry>w</entry>
         <entry>88</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
