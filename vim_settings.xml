@@ -51,11 +51,11 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544664681500">
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="65" column="24" />
-        <mark key="." line="65" column="24" />
-        <mark key="^" line="65" column="24" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544668218762">
+        <mark key="[" line="206" column="74" />
+        <mark key="]" line="203" column="28" />
+        <mark key="." line="203" column="28" />
+        <mark key="^" line="203" column="26" />
       </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1544217170794">
         <mark key="'" line="0" column="0" />
@@ -66,7 +66,13 @@
         <mark key="." line="59" column="2" />
         <mark key="^" line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1544660399529" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1544665861307" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1544668085204">
+        <mark key="[" line="173" column="43" />
+        <mark key="]" line="173" column="40" />
+        <mark key="^" line="173" column="40" />
+        <mark key="." line="173" column="40" />
+      </file>
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1543613359855">
         <mark key="[" line="116" column="36" />
         <mark key="]" line="116" column="37" />
@@ -160,43 +166,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comple</text>
+        <text>requ</text>
       </register>
       <register name="-" type="4">
-        <text>comple</text>
+        <text>requ</text>
       </register>
       <register name="/" type="4">
         <text>grpcio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEdlb2RlQ3J5c3RhbERlc2NyaXB0aW9uIHBuZ19jcnlzdGFsX2Rlc2NyaXB0aW9uID0gMzsK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRpbGVXcml0ZXIudmFsaWRhdGVUaWxlUmVxdWVzdChyZXF1ZXN0KTsKICAgIH0gY2F0Y2ggKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gRnV0dXJlRnVuY3MuY29tcGxldGVFeGNlcHRpb25hbGx5KGUpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuVGlsZVJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aWxlV3JpdGVyCiAgICAgICAgICAgICAgICAgICAgICAgIC53cml0ZVRpbGVzKHRpbGVSZXF1ZXN0KQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlbkNvbXBsZXRlKChub3RoaW5nLCBlcnJvcikgLT4gcHJvY2Vzc2luZ1NlbWFwaG9yZS5yZWxlYXNlKCkpOwo=</text>
+      <register name="2" type="4">
+        <text>jobs it has  access to.
+   *</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+PiBvdXRlckZ1dHVyZSA9IG5ldyBDb21wbGV0YWJsZUZ1dHVyZTw+KCk7CiAgICBkdW1teUZ1dHVyZS50aGVuQXBwbHkoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXNzZXJ0IG5vdGhpbmcgPT0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNlcnZhdGlvbiByZXNlcnZhdGlvbiA9IHBhaXIuZ2V0UmlnaHQoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbnF1ZXVlVGlsZVJlcXVlc3QocmVxdWVzdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRpbGVXcml0ZXIudmFsaWRhdGVUaWxlUmVxdWVzdChyZXF1ZXN0KTsKICAgIH0gY2F0Y2ggKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gRnV0dXJlRnVuY3MuY29tcGxldGVFeGNlcHRpb25hbGx5KGUpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCEgcHJvY2Vzc2luZ1F1ZXVlLmlzRW1wdHkoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBqb2IuY29tcGxldGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVGhyZWFkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgbWF4Q29uY3VycmVudFRpbGVXcml0ZXMgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>88</text>
