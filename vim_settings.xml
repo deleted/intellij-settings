@@ -29,6 +29,13 @@
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1543606045199">
         <mark key="'" line="381" column="12" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompleteableFutureRateLimiter.java" timestamp="1544740616631">
+        <mark key="'" line="103" column="51" />
+        <mark key="[" line="18" column="74" />
+        <mark key="]" line="18" column="74" />
+        <mark key="." line="18" column="74" />
+        <mark key="^" line="18" column="82" />
+      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/Receptionist.yml" timestamp="1544482797844">
         <mark key="[" line="11" column="53" />
         <mark key="]" line="14" column="0" />
@@ -60,6 +67,11 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544739892479">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1544217170794">
         <mark key="'" line="0" column="0" />
       </file>
@@ -87,6 +99,12 @@
         <mark key="[" line="116" column="36" />
         <mark key="]" line="116" column="37" />
         <mark key="." line="116" column="37" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/RateLimiter.java" timestamp="1544740065986">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/mongo/images_tests.py" timestamp="1544064338676">
         <mark key="[" line="104" column="0" />
@@ -177,63 +195,63 @@
       <jump line="375" column="12" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
       <jump line="44" column="38" filename="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/ThrottledFutureQueue.java" />
+      <jump line="101" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompleteableFutureRateLimiter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ThrottledFutureQueue</text>
+        <text>Iterable</text>
       </register>
       <register name="-" type="4">
-        <text>ThrottledFutureQueue</text>
+        <text>Iterable</text>
       </register>
       <register name="/" type="4">
-        <text>addL</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHF1ZXVlLmdldEluUHJvY2VzcygpKS5pc0VxdWFsVG8oMik7CiAgICAgICAgYXNzZXJ0VGhhdChxdWV1ZS5nZXRJblF1ZXVlKCkpLmlzRXF1YWxUbygwKTsK</text>
+        <text encoding="base64">ICAvKioKICAgKiBDb25zdHJ1Y3QgYSBuZXcgQ29tcGxldGVhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIKICAgKiBAcGFyYW0gbWF4Q29uY3VycmVudEpvYnM6IFRoZSBtYXhpbXVtIG51bWJlciBvZiBqb2JzIHRoYXQgd2lsbCBiZSBhbGxvd2VkIHRvIHJ1biBjb25jdXJyZW50bHkuCiAgICogQHBhcmFtIGV4ZWN1dG9yOiBUaGUgRXhlY3V0b3Igb24gd2hpY2ggdGhlIGpvYnMgd2lsbCBiZSBydW4gKGlmIG5vdCBzdXBwbGllZCwgd2lsbCByZXNvbHZlIHRvIGEgZGVmYXVsdCBkZWZpbmVkIGJ5CiAgICogICAgICAgICAgICAgICAgRnV0dXJlRnVuY3MucmVzb2x2ZUV4ZWN1dG9yKQogICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSm9pbmluZyBzdGFydCAzIik7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoc3VwcGxpZXJzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSm9pbmluZyBzdGFydCAyIik7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gZXhlY3V0b3I6IFRoZSBFeGVjdXRvciBvbiB3aGljaCB0aGUgam9icyB3aWxsIGJlIHJ1biAoaWYgbm90IHN1cHBsaWVkLCB3aWxsIHJlc29sdmUgdG8gYSBkZWZhdWx0IGRlZmluZWQgYnkKICAgKiAgICAgICAgICAgICAgICBGdXR1cmVGdW5jcy5yZXNvbHZlRXhlY3V0b3IpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSm9pbmluZyBzdGFydCAxIik7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgQ29tcGxldGVhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIoaW50IG1heENvbmN1cnJlbnRKb2JzKSB7CiAgICB0aGlzKG1heENvbmN1cnJlbnRKb2JzLCBudWxsKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN0YXJ0ZWQgMyIpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ29uc3RydWN0IGEgbmV3IAogICAgICogQHBhcmFtIHRpbGVXcml0ZXIKICAgICAqIEBwYXJhbSBtYXhSZXNlcnZhdGlvbnMKICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN0YXJ0ZWQgMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiSm9pbmluZyBzdGFydCAzIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlN0YXJ0ZWQgMSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addL</last-search>
+      <last-search>t</last-search>
       <last-offset />
-      <last-pattern>addL</last-pattern>
+      <last-pattern>t</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inaccess</entry>
         <entry>intercept</entry>
         <entry>Impl</entry>
         <entry>compress</entry>
@@ -253,6 +271,7 @@
         <entry>dockerFileDest</entry>
         <entry>grpcio</entry>
         <entry>addL</entry>
+        <entry>t</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3YvbC8=</entry>
