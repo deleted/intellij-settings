@@ -9,6 +9,12 @@
         <mark key="." line="47" column="18" />
         <mark key="^" line="47" column="18" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1544668879751">
+        <mark key="[" line="27" column="67" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/perf/grpc_helpers.py" timestamp="1543966883859">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -51,11 +57,11 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544668218762">
-        <mark key="[" line="206" column="74" />
-        <mark key="]" line="203" column="28" />
-        <mark key="." line="203" column="28" />
-        <mark key="^" line="203" column="26" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544669411186">
+        <mark key="[" line="226" column="14" />
+        <mark key="]" line="220" column="44" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="223" column="25" />
       </file>
       <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1544217170794">
         <mark key="'" line="0" column="0" />
@@ -165,11 +171,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/kesm/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>requ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9jZXNzaW5nU2VtYXBob3JlLnJlbGVhc2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>requ</text>
+        <text encoding="base64">Q29tcGxldGFibGVGdXR1cmU8Vm9pZD4=</text>
       </register>
       <register name="/" type="4">
         <text>grpcio</text>
@@ -178,32 +184,32 @@
         <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRpbGVXcml0ZXIudmFsaWRhdGVUaWxlUmVxdWVzdChyZXF1ZXN0KTsKICAgIH0gY2F0Y2ggKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gRnV0dXJlRnVuY3MuY29tcGxldGVFeGNlcHRpb25hbGx5KGUpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwcm9jZXNzaW5nU2VtYXBob3JlLnJlbGVhc2UoKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBqb2IuY29tcGxldGUoKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aWxlV3JpdGVyCiAgICAgICAgICAgICAgICAgICAgICAgIC53cml0ZVRpbGVzKHRpbGVSZXF1ZXN0KQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>jobs it has  access to.
    *</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbnF1ZXVlVGlsZVJlcXVlc3QocmVxdWVzdCkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRpbGVXcml0ZXIudmFsaWRhdGVUaWxlUmVxdWVzdChyZXF1ZXN0KTsKICAgIH0gY2F0Y2ggKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gRnV0dXJlRnVuY3MuY29tcGxldGVFeGNlcHRpb25hbGx5KGUpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqb2IuY29tcGxldGUoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbnF1ZXVlVGlsZVJlcXVlc3QocmVxdWVzdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRpbGVXcml0ZXIudmFsaWRhdGVUaWxlUmVxdWVzdChyZXF1ZXN0KTsKICAgIH0gY2F0Y2ggKFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICByZXR1cm4gRnV0dXJlRnVuY3MuY29tcGxldGVFeGNlcHRpb25hbGx5KGUpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgbWF4Q29uY3VycmVudFRpbGVXcml0ZXMgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBqb2IuY29tcGxldGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>88</text>
