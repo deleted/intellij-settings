@@ -39,11 +39,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompletableFutureRateLimiter.java" timestamp="1544741716282">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompletableFutureRateLimiter.java" timestamp="1544750804863">
         <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="13" />
+        <mark key="]" line="61" column="39" />
+        <mark key="^" line="61" column="39" />
+        <mark key="." line="61" column="39" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543547226829">
         <mark key="[" line="11" column="33" />
@@ -51,7 +51,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544733939211">
+      <file name="/Dummy.txt" timestamp="1544750261361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1544220877342">
@@ -71,10 +71,11 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544739892479">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544750963999">
+        <mark key="[" line="127" column="37" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+        <mark key="^" line="38" column="46" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/enforce/Enforce.java" timestamp="1544229825942">
         <mark key="[" line="59" column="3" />
@@ -124,7 +125,7 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544733828636">
+      <file name="/fragment.java" timestamp="1544750261363">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -205,8 +206,8 @@
       <jump line="101" column="51" filename="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompleteableFutureRateLimiter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rateLimiter.submitAll</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>rateLimiter.submitAll</text>
@@ -218,31 +219,31 @@
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3Rfc3VibWl0QWxsKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICBDb21wbGV0YWJsZUZ1dHVyZVJhdGVMaW1pdGVyIHJhdGVMaW1pdGVyID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIoMik7CgogICAgTGlzdDxDb21wbGV0YWJsZUZ1dHVyZTxJbnRlZ2VyPj4gcmVzdWx0cyA9IHJhdGVMaW1pdGVyLnN1Ym1pdEFsbChBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIgcmF0ZUxpbWl0ZXIgPSBuZXcgQ29tcGxldGFibGVGdXR1cmVSYXRlTGltaXRlcigyKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3VwcGxpZXI8SW50ZWdlcj4+IGpvYnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAxOykKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAyOykKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAzOykK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aWxlV3JpdGVyCiAgICAgICAgLndyaXRlVGlsZXMocmVxdWVzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXAK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoc3VwcGxpZXJzLml0ZXJhdG9yKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAud2hlbkNvbXBsZXRlKAogICAgICAgICAgICAobm90aGluZywgZXJyb3IpIC0+IHsKICAgICAgICAgICAgICB0aGlzLmRlbGV0ZVJlc2VydmF0aW9uKHJlc2VydmF0aW9uKTsKICAgICAgICAgICAgICBhc3NlcnQgbm90aGluZyA9PSBudWxsOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoc3VwcGxpZXJzKQo=</text>
+        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIgcmF0ZUxpbWl0ZXIgPSBuZXcgQ29tcGxldGFibGVGdXR1cmVSYXRlTGltaXRlcigyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8SXQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIExpc3Q8U3VwcGxpZXI8SW50ZWdlcj4+IGpvYnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAxOykKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAyOykKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAzOykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdAo=</text>
+        <text encoding="base64">ICAgIGNvbXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
