@@ -39,7 +39,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompletableFutureRateLimiter.java" timestamp="1544750804863">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompletableFutureRateLimiter.java" timestamp="1544751310654">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="61" column="39" />
         <mark key="^" line="61" column="39" />
@@ -71,23 +71,17 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544750963999">
-        <mark key="[" line="127" column="37" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="38" column="46" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/enforce/Enforce.java" timestamp="1544229825942">
         <mark key="[" line="59" column="3" />
         <mark key="]" line="59" column="2" />
         <mark key="." line="59" column="2" />
         <mark key="^" line="59" column="2" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/CompletableFutureRateLimiterTest.java" timestamp="1544741458321">
-        <mark key="[" line="96" column="87" />
-        <mark key="]" line="96" column="89" />
-        <mark key="^" line="96" column="89" />
-        <mark key="." line="96" column="89" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/CompletableFutureRateLimiterTest.java" timestamp="1544751574524">
+        <mark key="[" line="107" column="29" />
+        <mark key="]" line="113" column="18" />
+        <mark key="^" line="119" column="45" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1544665861307" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/ThrottledFutureQueueTest.java" timestamp="1544739321410">
@@ -207,43 +201,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBPYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5nYygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>rateLimiter.submitAll</text>
+        <text>1, 2, 3</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3Rfc3VibWl0QWxsKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICBDb21wbGV0YWJsZUZ1dHVyZVJhdGVMaW1pdGVyIHJhdGVMaW1pdGVyID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIoMik7CgogICAgTGlzdDxDb21wbGV0YWJsZUZ1dHVyZTxJbnRlZ2VyPj4gcmVzdWx0cyA9IHJhdGVMaW1pdGVyLnN1Ym1pdEFsbChBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RfcnVuTGltaXRlZCgpIHRocm93cyBFeGNlcHRpb24gewoKICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8SW50ZWdlcj4+IHJlc3VsdHMgPQogICAgICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIucnVuTGltaXRlZCgyLCBBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBPYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5nYygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aWxlV3JpdGVyCiAgICAgICAgLndyaXRlVGlsZXMocmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlbkNvbXBsZXRlKAogICAgICAgICAgICAobm90aGluZywgZXJyb3IpIC0+IHsKICAgICAgICAgICAgICB0aGlzLmRlbGV0ZVJlc2VydmF0aW9uKHJlc2VydmF0aW9uKTsKICAgICAgICAgICAgICBhc3NlcnQgbm90aGluZyA9PSBudWxsOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aWxlV3JpdGVyCiAgICAgICAgLndyaXRlVGlsZXMocmVxdWVzdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIgcmF0ZUxpbWl0ZXIgPSBuZXcgQ29tcGxldGFibGVGdXR1cmVSYXRlTGltaXRlcigyKTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAud2hlbkNvbXBsZXRlKAogICAgICAgICAgICAobm90aGluZywgZXJyb3IpIC0+IHsKICAgICAgICAgICAgICB0aGlzLmRlbGV0ZVJlc2VydmF0aW9uKHJlc2VydmF0aW9uKTsKICAgICAgICAgICAgICBhc3NlcnQgbm90aGluZyA9PSBudWxsOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3VwcGxpZXI8SW50ZWdlcj4+IGpvYnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAxOykKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAyOykKICAgIGpvYnMuYWRkKCgpIC0+IHJldHVybiAzOykK</text>
+        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIgcmF0ZUxpbWl0ZXIgPSBuZXcgQ29tcGxldGFibGVGdXR1cmVSYXRlTGltaXRlcigyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXAK</text>
+        <text encoding="base64">ICAgIExpc3Q8SXQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
