@@ -12,6 +12,7 @@
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1544855996496">
         <mark key="'" line="406" column="14" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1544949775539" />
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1544905075235">
         <mark key="[" line="276" column="17" />
         <mark key="]" line="137" column="46" />
