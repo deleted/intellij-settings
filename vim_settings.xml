@@ -31,7 +31,14 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1544826351838" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1545072780562">
+        <mark key="'" line="178" column="14" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="174" column="3" />
+        <mark key="." line="174" column="3" />
+        <mark key="^" line="174" column="3" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1545072667578" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543547226829">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="12" column="3" />
@@ -50,8 +57,11 @@
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1544826359933">
-        <mark key="^" line="125" column="31" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1545073167968">
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="15" />
+        <mark key="." line="73" column="15" />
+        <mark key="^" line="76" column="51" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/enforce/Enforce.java" timestamp="1544229825942">
         <mark key="[" line="59" column="3" />
@@ -213,57 +223,59 @@
       <jump line="144" column="13" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" />
       <jump line="10" column="0" filename="/ReceptionistTileWriter.java" />
       <jump line="129" column="36" filename="/ReceptionistTileWriter.java" />
+      <jump line="169" column="27" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
+      <jump line="176" column="14" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>updateReservationGauge</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>updateReservationGauge</text>
       </register>
       <register name="/" type="4">
-        <text>Offset</text>
+        <text>testUploadImage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RfcnVuTGltaXRlZCgpIHRocm93cyBFeGNlcHRpb24gewoKICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8SW50ZWdlcj4+IHJlc3VsdHMgPQogICAgICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIucnVuTGltaXRlZCgyLCBBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmRlbGV0ZVJlc2VydmF0aW9uKHJlc2VydmF0aW9uKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBHYXVnZSBpblByb2Nlc3NDb3VudEdhdWdlID0gTWV0cmljcy5jcmVhdGVHYXVnZSgKICAgICAgICAgICJ3cml0ZVRpbGVzSW5Qcm9jZXNzIiwKICAgICAgICAgICJOdW1iZXIgb2Ygd3JpdGVUaWxlcygpIGpvYnMgY3VycmVudGx5IGJlaW5nIGV4ZWN1dGVkLiIKICApOwogIHByaXZhdGUgc3RhdGljIGZpbmFsIEdhdWdlCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHJhdGVMaW1pdGVyLmdldAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodGlsZVJlcXVlc3RNYW5hZ2VyLnJlc2VydmF0aW9uU2V0KS5oYXNTaXplKDApOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmRlbGV0ZVJlc2VydmF0aW9uKHJlc2VydmF0aW9uKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZvciAoekxheWVyID0gMjA7ICkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>slice);
               });
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgQFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0X3J1bkxpbWl0ZWRIZWxsYVRpbWVzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgTGlzdDxTdXBwbGllcjxJbnRlZ2VyPj4gc3VwcGxpZXJzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsKICAgICAgaW50IHggPSBpOwogICAgICBzdXBwbGllcnMuYWRkKCgpIC0+IHgpOwogICAgICBTeXN0ZW0uZ2MoKTsKICAgIH0KCiAgICBMaXN0PENvbXBsZXRhYmxlRnV0dXJlPEludGVnZXI+PiByZXN1bHRzID0KICAgICAgICAgICAgQ29tcGxldGFibGVGdXR1cmVSYXRlTGltaXRlci5ydW5MaW1pdGVkKDIsIHN1cHBsaWVycyk7CgogICAgYXNzZXJ0VGhhdChyZXN1bHRzLnNpemUoKSkuaXNFcXVhbFRvKDEwMDAwKTsKICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5nYygpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBPYmplY3QoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aWxlV3JpdGVyCiAgICAgICAgLndyaXRlVGlsZXMocmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Offset</last-search>
+      <last-search>testUploadImage</last-search>
       <last-offset />
-      <last-pattern>Offset</last-pattern>
+      <last-pattern>testUploadImage</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -271,7 +283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AtomType</entry>
         <entry encoding="base64">XDx0aHJlZXNjYW5cPg==</entry>
         <entry>Summary</entry>
         <entry>shapeFromImage</entry>
@@ -291,6 +302,7 @@
         <entry>writeTiles</entry>
         <entry>offset</entry>
         <entry>Offset</entry>
+        <entry>testUploadImage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3YvbC8=</entry>
