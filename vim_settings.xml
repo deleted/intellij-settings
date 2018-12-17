@@ -31,13 +31,6 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServiceImplTest.java" timestamp="1545072780562">
-        <mark key="'" line="178" column="14" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="174" column="3" />
-        <mark key="." line="174" column="3" />
-        <mark key="^" line="174" column="3" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1545072667578" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543547226829">
         <mark key="[" line="11" column="33" />
@@ -56,12 +49,6 @@
         <mark key="]" line="331" column="0" />
         <mark key="." line="331" column="0" />
         <mark key="^" line="332" column="20" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1545073167968">
-        <mark key="[" line="73" column="15" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="73" column="15" />
-        <mark key="^" line="76" column="51" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/enforce/Enforce.java" timestamp="1544229825942">
         <mark key="[" line="59" column="3" />
