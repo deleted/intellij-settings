@@ -30,12 +30,12 @@
         <mark key="'" line="173" column="27" />
         <mark key="n" line="171" column="27" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1544902399196">
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1545006584849">
         <mark key="'" line="81" column="44" />
-        <mark key="[" line="183" column="25" />
-        <mark key="]" line="163" column="13" />
-        <mark key="." line="163" column="13" />
-        <mark key="^" line="163" column="13" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="119" column="105" />
+        <mark key="." line="119" column="105" />
+        <mark key="^" line="119" column="105" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" timestamp="1544905140676">
         <mark key="[" line="53" column="57" />
@@ -85,10 +85,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PFZvaWQ+</text>
+        <text>pending writeTiles() jobs allowed in the queue</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFZvaWQ+</text>
+        <text>pending writeTiles() jobs allowed in the queue</text>
       </register>
       <register name="/" type="4">
         <text>rateLimiter</text>
