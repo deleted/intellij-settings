@@ -43,7 +43,8 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1544206866574">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1545163788602">
+        <mark key="'" line="828" column="26" />
         <mark key="[" line="274" column="28" />
         <mark key="]" line="331" column="50" />
         <mark key="." line="331" column="50" />
@@ -125,6 +126,11 @@
         <mark key="]" line="47" column="15" />
         <mark key="." line="47" column="15" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1545163855128">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1545158730331">
         <mark key="'" line="79" column="2" />
         <mark key="[" line="388" column="28" />
@@ -143,10 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="180" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
-      <jump line="40" column="4" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
-      <jump line="766" column="34" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/KESMMain/KESMMain.py" />
       <jump line="0" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="46" column="59" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="147" column="66" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
@@ -243,16 +245,20 @@
       <jump line="39" column="29" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="52" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="79" column="2" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="114" column="13" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="830" column="30" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="814" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="828" column="26" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>submit</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>submit</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>baseJpg</text>
+        <text>timeout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RfcnVuTGltaXRlZCgpIHRocm93cyBFeGNlcHRpb24gewoKICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8SW50ZWdlcj4+IHJlc3VsdHMgPQogICAgICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIucnVuTGltaXRlZCgyLCBBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
@@ -291,9 +297,9 @@
       </register>
     </registers>
     <search>
-      <last-search>baseJpg</last-search>
+      <last-search>timeout</last-search>
       <last-offset />
-      <last-pattern>baseJpg</last-pattern>
+      <last-pattern>timeout</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>docker</entry>
         <entry>recept</entry>
         <entry>include</entry>
         <entry>dockerFileDest</entry>
@@ -321,6 +326,7 @@
         <entry>Metric</entry>
         <entry>compressImage</entry>
         <entry>baseJpg</entry>
+        <entry>timeout</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3YvbC8=</entry>
