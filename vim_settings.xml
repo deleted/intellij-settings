@@ -3,26 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/kesm_main.yml" timestamp="1544220966373">
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="18" />
-        <mark key="." line="47" column="18" />
-        <mark key="^" line="47" column="18" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1544668879751">
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistTileWriterTest.java" timestamp="1544820872979">
         <mark key="^" line="198" column="3" />
       </file>
-      <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/Receptionist.yml" timestamp="1544483273167">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1545248002575" />
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1543606045199">
+        <mark key="'" line="381" column="12" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompleteableFutureRateLimiter.java" timestamp="1544740980464">
         <mark key="'" line="118" column="51" />
@@ -37,34 +23,17 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1545072667578" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/UploadImageMetrics.java" timestamp="1543547226829">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1545163788602">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1545247635864">
         <mark key="'" line="827" column="26" />
-        <mark key="]" line="330" column="50" />
-        <mark key="." line="330" column="50" />
-        <mark key="^" line="330" column="50" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/mongo/images.py" timestamp="1544064319647">
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="." line="331" column="0" />
-        <mark key="^" line="332" column="20" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1545092776084">
         <mark key="[" line="132" column="23" />
         <mark key="]" line="132" column="23" />
         <mark key="." line="132" column="23" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/enforce/Enforce.java" timestamp="1544229825942">
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="59" column="2" />
-        <mark key="." line="59" column="2" />
-        <mark key="^" line="59" column="2" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/image/zbox/BufferedImageSlicer.java" timestamp="1544818707646" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/CompletableFutureRateLimiterTest.java" timestamp="1544752768710">
@@ -79,18 +48,6 @@
         <mark key="]" line="116" column="37" />
         <mark key="." line="116" column="37" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/RateLimiter.java" timestamp="1544740065986">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/mongo/images_tests.py" timestamp="1544064338676">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="104" column="40" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/CrystalDescription.java" timestamp="1543344130306">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -102,6 +59,12 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.10.0/31def12d16eb0ce1478b77ca94c55e2b7e97b114/assertj-core-3.10.0-sources.jar!/org/assertj/core/api/ListAssert.java" timestamp="1544741565718" />
+      <file name="$USER_HOME$/kesm/kesm/acq/kesm_main.py" timestamp="1545247659296">
+        <mark key="'" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1545247940746">
+        <mark key="'" line="160" column="23" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompletableFutureRateLimiter.java" timestamp="1544751310654">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="61" column="39" />
@@ -126,6 +89,9 @@
         <mark key="." line="33" column="4" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcServiceRunnable.java" timestamp="1545180137234" />
+      <file name="$USER_HOME$/kesm/requirements.txt" timestamp="1544217170794">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1545158730331">
         <mark key="'" line="79" column="2" />
         <mark key="[" line="388" column="28" />
@@ -144,34 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="46" column="59" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="147" column="66" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="153" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="167" column="20" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="175" column="28" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="31" column="24" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
-      <jump line="13" column="17" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" />
-      <jump line="3" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalTags.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/kesm/src/test/java/net/threescan/geode/storage/CrystalHandleTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="55" column="39" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="57" column="0" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="270" column="3" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
-      <jump line="267" column="3" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
-      <jump line="265" column="48" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
-      <jump line="231" column="48" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
-      <jump line="299" column="48" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/runtime/Metrics.java" />
-      <jump line="195" column="48" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" />
-      <jump line="198" column="41" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/kesm/kesm/acq/crystal.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" />
-      <jump line="72" column="2" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="367" column="4" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="400" column="6" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="404" column="2" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="405" column="14" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="75" column="14" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="146" column="0" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="16" column="26" filename="$USER_HOME$/kesm/build.gradle" />
@@ -244,16 +182,44 @@
       <jump line="830" column="30" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
       <jump line="814" column="33" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
       <jump line="828" column="26" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="36" column="31" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="43" column="13" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="87" column="22" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="88" column="38" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="90" column="52" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="91" column="29" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="93" column="18" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="95" column="43" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="11" column="29" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="176" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="243" column="17" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="135" column="52" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="17" column="16" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="18" column="27" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="168" column="42" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="177" column="8" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="186" column="11" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="189" column="15" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="225" column="37" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="13" column="36" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="33" column="35" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="50" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="53" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="112" column="33" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="120" column="24" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="134" column="13" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="160" column="23" filename="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>httpserver</text>
+        <text>manager</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RfcnVuTGltaXRlZCgpIHRocm93cyBFeGNlcHRpb24gewoKICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8SW50ZWdlcj4+IHJlc3VsdHMgPQogICAgICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIucnVuTGltaXRlZCgyLCBBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
@@ -292,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>httpserver</last-search>
+      <last-search>manager</last-search>
       <last-offset />
-      <last-pattern>httpserver</last-pattern>
+      <last-pattern>manager</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -302,11 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dockerFileDest</entry>
-        <entry>grpcio</entry>
-        <entry>addL</entry>
-        <entry>t</entry>
-        <entry>getZLayer</entry>
         <entry>ZLayer</entry>
         <entry>faceIndex</entry>
         <entry encoding="base64">YyAxNCAxMTo1NzowNyBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogUmVzb2x2ZWQgRHluYW1vRGIgZW5kcG9pbnQgdG8gIkFXU19ERUZBVUxUIiBEZWMgMTQgMTE6NTc6NDUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IFRocm93aW5nIERlYyAxNCAxMTo1Nzo0NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogamF2YS5sYW5nLkFzc2VydGlvbkVycm9yOiBFeHBlY3RlZCB7InN0YXJ0IjpbMC4wLDAuMCwwLjBdLCJlbmQiOls4My4wLDc1LjAsNzk0NC4wXX0gdG8gY29udGFpbiBbMjUsNTYsNzk0NV0uIERlYyAxNCAxMTo1Nzo0NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uY29tbW9uLmVuZm9yY2UuRW5mb3JjZS5pc1RydWUoRW5mb3JjZS5qYXZhOjI3NCkgRGVjIDE0IDExOjU3OjQ1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgbmV0LnRocmVlc2Nhbi5tYXRoLmxhdHRpY2UuQm91bmRpbmdSZWdpb24uZW5mb3JjZUNvbnRhaW5zKEJvdW5kaW5nUmVnaW9uLmphdmE6NjIpIERlYyAxNCAxMTo1Nzo0NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5IYXNoTWFwJEtleVNldC5mb3JFYWNoKEhhc2hNYXAuamF2YTo5MzMpIERlYyAxNCAxMTo1Nzo0NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4ubWF0aC5sYXR0aWNlLkJvdW5kaW5nUmVnaW9uLmVuZm9yY2VDb250YWlucyhCb3VuZGluZ1JlZ2lvbi5qYXZhOjg0KSBEZWMgMTQgMTE6NTc6NDUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmdlb2RlLnN0b3JhZ2UuQ3J5c3RhbEhhbmRsZS53cml0ZUF0b21zQXN5bmMoQ3J5c3RhbEhhbmRsZS5qYXZhOjE4OCkgRGVjIDE0IDExOjU3OjQ1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgbmV0LnRocmVlc2Nhbi5hY3F1aXNpdGlvbi5yZWNlcHRpb25pc3QuUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5sYW1iZGEkd3JpdGVTbGljZVRvQ3J5c3RhbCQxMShSZWNlcHRpb25pc3RUaWxlV3JpdGVyLmphdmE6Mzg2KSBEZWMgMTQgMTE6NTc6NDUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZS51bmlDb21wb3NlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6OTUyKSBEZWMgMTQgMTE6NTc6NDUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRVbmlDb21wb3NlLnRyeUZpcmUoQ29tcGxldGFibGVGdXR1cmUuamF2YTo5MjYpIERlYyAxNCAxMTo1Nzo0NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkNvbXBsZXRhYmxlRnV0dXJlLnBvc3RDb21wbGV0ZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjQ3NCkgRGVjIDE0IDExOjU3OjQ1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUuY29tcGxldGUoQ29tcGxldGFibGVGdXR1cmUuamF2YToxOTYyKSBEZWMgMTQgMTE6NTc6NDUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmNvbW1vbi5jb25jdXJyZW50LkZ1dHVyZUZ1bmNzLmxhbWJkYSRjYWxsQXN5bmMkMyhGdXR1cmVGdW5jcy5qYXZhOjIyOCkgRGVjIDE0IDExOjU3OjQ1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuRm9ya0pvaW5UYXNrJFJ1bm5hYmxlRXhlY3V0ZUFjdGlvbi5leGVjKEZvcmtKb2luVGFzay5qYXZhOjE0MDIpIERlYyAxNCAxMTo1Nzo0NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luVGFzay5kb0V4ZWMoRm9ya0pvaW5UYXNrLmphdmE6Mjg5KSBEZWMgMTQgMTE6NTc6NDUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Gb3JrSm9pblBvb2wkV29ya1F1ZXVlLnJ1blRhc2soRm9ya0pvaW5Qb29sLmphdmE6MTA1NikgRGVjIDE0IDExOjU3OjQ1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuRm9ya0pvaW5Qb29sLnJ1bldvcmtlcihGb3JrSm9pblBvb2wuamF2YToxNjkyKSBEZWMgMTQgMTE6NTc6NDUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Gb3JrSm9pbldvcmtlclRocmVhZC5ydW4oRm9ya0pvaW5Xb3JrZXJUaHJlYWQuamF2YToxNTcpIERlYyAxNCAxMTo1Nzo0OSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogVGhyb3dpbmcgRGVjIDE0IDExOjU3OjQ5IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiBqYXZhLmxhbmcuQXNzZXJ0aW9uRXJyb3I6IEV4cGVjdGVkIHsic3RhcnQiOlswLjAsMC4wLDAuMF0sImVuZCI6WzgzLjAsNzUuMCw3OTQ0LjBdfSB0byBjb250YWluIFsxLDczLDc5NDZdLiBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmNvbW1vbi5lbmZvcmNlLkVuZm9yY2UuaXNUcnVlKEVuZm9yY2UuamF2YToyNzQpIERlYyAxNCAxMTo1Nzo0OSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4ubWF0aC5sYXR0aWNlLkJvdW5kaW5nUmVnaW9uLmVuZm9yY2VDb250YWlucyhCb3VuZGluZ1JlZ2lvbi5qYXZhOjYyKSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuSGFzaE1hcCRLZXlTZXQuZm9yRWFjaChIYXNoTWFwLmphdmE6OTMzKSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLm1hdGgubGF0dGljZS5Cb3VuZGluZ1JlZ2lvbi5lbmZvcmNlQ29udGFpbnMoQm91bmRpbmdSZWdpb24uamF2YTo4NCkgRGVjIDE0IDExOjU3OjQ5IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgbmV0LnRocmVlc2Nhbi5nZW9kZS5zdG9yYWdlLkNyeXN0YWxIYW5kbGUud3JpdGVBdG9tc0FzeW5jKENyeXN0YWxIYW5kbGUuamF2YToxODgpIERlYyAxNCAxMTo1Nzo0OSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIubGFtYmRhJHdyaXRlU2xpY2VUb0NyeXN0YWwkMTEoUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5qYXZhOjM4NikgRGVjIDE0IDExOjU3OjQ5IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQ29tcG9zZVN0YWdlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6OTgxKSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZS50aGVuQ29tcG9zZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjIxMjQpIERlYyAxNCAxMTo1Nzo0OSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIud3JpdGVTbGljZVRvQ3J5c3RhbChSZWNlcHRpb25pc3RUaWxlV3JpdGVyLmphdmE6Mzg2KSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5SZWNlcHRpb25pc3RUaWxlV3JpdGVyLmxhbWJkYSR3cml0ZVRpbGVzJDAoUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5qYXZhOjMyMCkgRGVjIDE0IDExOjU3OjQ5IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQ29tcG9zZVN0YWdlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6OTgxKSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZS50aGVuQ29tcG9zZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjIxMjQpIERlYyAxNCAxMTo1Nzo0OSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIud3JpdGVUaWxlcyhSZWNlcHRpb25pc3RUaWxlV3JpdGVyLmphdmE6MzAzKSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5SZWNlcHRpb25pc3RTZXJ2ZXIubGFtYmRhJHByb2Nlc3NMZWZ0b3ZlclNsaWNlcyQxKFJlY2VwdGlvbmlzdFNlcnZlci5qYXZhOjE3NykgRGVjIDE0IDExOjU3OjQ5IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQWNjZXB0KENvbXBsZXRhYmxlRnV0dXJlLmphdmE6NjU2KSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRVbmlBY2NlcHQudHJ5RmlyZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjYzMikgRGVjIDE0IDExOjU3OjQ5IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUucG9zdENvbXBsZXRlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6NDc0KSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRBc3luY1N1cHBseS5ydW4oQ29tcGxldGFibGVGdXR1cmUuamF2YToxNTk1KSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRBc3luY1N1cHBseS5leGVjKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6MTU4MikgRGVjIDE0IDExOjU3OjQ5IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuRm9ya0pvaW5UYXNrLmRvRXhlYyhGb3JrSm9pblRhc2suamF2YToyODkpIERlYyAxNCAxMTo1Nzo0OSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luUG9vbCRXb3JrUXVldWUucnVuVGFzayhGb3JrSm9pblBvb2wuamF2YToxMDU2KSBEZWMgMTQgMTE6NTc6NDkgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Gb3JrSm9pblBvb2wucnVuV29ya2VyKEZvcmtKb2luUG9vbC5qYXZhOjE2OTIpIERlYyAxNCAxMTo1Nzo0OSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkLnJ1bihGb3JrSm9pbldvcmtlclRocmVhZC5qYXZhOjE1NykgRGVjIDE0IDExOjU3OjU0IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiBUaHJvd2luZyBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IGphdmEubGFuZy5Bc3NlcnRpb25FcnJvcjogRXhwZWN0ZWQgeyJzdGFydCI6WzAuMCwwLjAsMC4wXSwiZW5kIjpbODMuMCw3NS4wLDc5NDQuMF19IHRvIGNvbnRhaW4gWzYwLDI4LDc5NDRdLiBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmNvbW1vbi5lbmZvcmNlLkVuZm9yY2UuaXNUcnVlKEVuZm9yY2UuamF2YToyNzQpIERlYyAxNCAxMTo1Nzo1NCBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4ubWF0aC5sYXR0aWNlLkJvdW5kaW5nUmVnaW9uLmVuZm9yY2VDb250YWlucyhCb3VuZGluZ1JlZ2lvbi5qYXZhOjYyKSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuSGFzaE1hcCRLZXlTZXQuZm9yRWFjaChIYXNoTWFwLmphdmE6OTMzKSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLm1hdGgubGF0dGljZS5Cb3VuZGluZ1JlZ2lvbi5lbmZvcmNlQ29udGFpbnMoQm91bmRpbmdSZWdpb24uamF2YTo4NCkgRGVjIDE0IDExOjU3OjU0IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgbmV0LnRocmVlc2Nhbi5nZW9kZS5zdG9yYWdlLkNyeXN0YWxIYW5kbGUud3JpdGVBdG9tc0FzeW5jKENyeXN0YWxIYW5kbGUuamF2YToxODgpIERlYyAxNCAxMTo1Nzo1NCBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIubGFtYmRhJHdyaXRlU2xpY2VUb0NyeXN0YWwkMTEoUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5qYXZhOjM4NikgRGVjIDE0IDExOjU3OjU0IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQ29tcG9zZVN0YWdlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6OTgxKSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZS50aGVuQ29tcG9zZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjIxMjQpIERlYyAxNCAxMTo1Nzo1NCBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIud3JpdGVTbGljZVRvQ3J5c3RhbChSZWNlcHRpb25pc3RUaWxlV3JpdGVyLmphdmE6Mzg2KSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5SZWNlcHRpb25pc3RUaWxlV3JpdGVyLmxhbWJkYSR3cml0ZVRpbGVzJDAoUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5qYXZhOjMyMCkgRGVjIDE0IDExOjU3OjU0IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQ29tcG9zZVN0YWdlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6OTgxKSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZS50aGVuQ29tcG9zZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjIxMjQpIERlYyAxNCAxMTo1Nzo1NCBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIud3JpdGVUaWxlcyhSZWNlcHRpb25pc3RUaWxlV3JpdGVyLmphdmE6MzAzKSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5SZWNlcHRpb25pc3RTZXJ2ZXIubGFtYmRhJHByb2Nlc3NMZWZ0b3ZlclNsaWNlcyQxKFJlY2VwdGlvbmlzdFNlcnZlci5qYXZhOjE3NykgRGVjIDE0IDExOjU3OjU0IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQWNjZXB0KENvbXBsZXRhYmxlRnV0dXJlLmphdmE6NjU2KSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRVbmlBY2NlcHQudHJ5RmlyZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjYzMikgRGVjIDE0IDExOjU3OjU0IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUucG9zdENvbXBsZXRlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6NDc0KSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRBc3luY1N1cHBseS5ydW4oQ29tcGxldGFibGVGdXR1cmUuamF2YToxNTk1KSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRBc3luY1N1cHBseS5leGVjKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6MTU4MikgRGVjIDE0IDExOjU3OjU0IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuRm9ya0pvaW5UYXNrLmRvRXhlYyhGb3JrSm9pblRhc2suamF2YToyODkpIERlYyAxNCAxMTo1Nzo1NCBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luUG9vbCRXb3JrUXVldWUucnVuVGFzayhGb3JrSm9pblBvb2wuamF2YToxMDU2KSBEZWMgMTQgMTE6NTc6NTQgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Gb3JrSm9pblBvb2wucnVuV29ya2VyKEZvcmtKb2luUG9vbC5qYXZhOjE2OTIpIERlYyAxNCAxMTo1Nzo1NCBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkLnJ1bihGb3JrSm9pbldvcmtlclRocmVhZC5qYXZhOjE1NykgRGVjIDE0IDExOjU3OjU1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiBUaHJvd2luZyBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IGphdmEubGFuZy5Bc3NlcnRpb25FcnJvcjogRXhwZWN0ZWQgeyJzdGFydCI6WzAuMCwwLjAsMC4wXSwiZW5kIjpbODMuMCw3NS4wLDc5NDQuMF19IHRvIGNvbnRhaW4gWzU5LDU5LDc5NDRdLiBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmNvbW1vbi5lbmZvcmNlLkVuZm9yY2UuaXNUcnVlKEVuZm9yY2UuamF2YToyNzQpIERlYyAxNCAxMTo1Nzo1NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4ubWF0aC5sYXR0aWNlLkJvdW5kaW5nUmVnaW9uLmVuZm9yY2VDb250YWlucyhCb3VuZGluZ1JlZ2lvbi5qYXZhOjYyKSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuSGFzaE1hcCRLZXlTZXQuZm9yRWFjaChIYXNoTWFwLmphdmE6OTMzKSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLm1hdGgubGF0dGljZS5Cb3VuZGluZ1JlZ2lvbi5lbmZvcmNlQ29udGFpbnMoQm91bmRpbmdSZWdpb24uamF2YTo4NCkgRGVjIDE0IDExOjU3OjU1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgbmV0LnRocmVlc2Nhbi5nZW9kZS5zdG9yYWdlLkNyeXN0YWxIYW5kbGUud3JpdGVBdG9tc0FzeW5jKENyeXN0YWxIYW5kbGUuamF2YToxODgpIERlYyAxNCAxMTo1Nzo1NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIubGFtYmRhJHdyaXRlU2xpY2VUb0NyeXN0YWwkMTEoUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5qYXZhOjM4NikgRGVjIDE0IDExOjU3OjU1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQ29tcG9zZVN0YWdlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6OTgxKSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZS50aGVuQ29tcG9zZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjIxMjQpIERlYyAxNCAxMTo1Nzo1NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIud3JpdGVTbGljZVRvQ3J5c3RhbChSZWNlcHRpb25pc3RUaWxlV3JpdGVyLmphdmE6Mzg2KSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5SZWNlcHRpb25pc3RUaWxlV3JpdGVyLmxhbWJkYSR3cml0ZVRpbGVzJDAoUmVjZXB0aW9uaXN0VGlsZVdyaXRlci5qYXZhOjMyMCkgRGVjIDE0IDExOjU3OjU1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQ29tcG9zZVN0YWdlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6OTgxKSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZS50aGVuQ29tcG9zZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjIxMjQpIERlYyAxNCAxMTo1Nzo1NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LlJlY2VwdGlvbmlzdFRpbGVXcml0ZXIud3JpdGVUaWxlcyhSZWNlcHRpb25pc3RUaWxlV3JpdGVyLmphdmE6MzAzKSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5SZWNlcHRpb25pc3RTZXJ2ZXIubGFtYmRhJHByb2Nlc3NMZWZ0b3ZlclNsaWNlcyQxKFJlY2VwdGlvbmlzdFNlcnZlci5qYXZhOjE3NykgRGVjIDE0IDExOjU3OjU1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUudW5pQWNjZXB0KENvbXBsZXRhYmxlRnV0dXJlLmphdmE6NjU2KSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRVbmlBY2NlcHQudHJ5RmlyZShDb21wbGV0YWJsZUZ1dHVyZS5qYXZhOjYzMikgRGVjIDE0IDExOjU3OjU1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuQ29tcGxldGFibGVGdXR1cmUucG9zdENvbXBsZXRlKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6NDc0KSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRBc3luY1N1cHBseS5ydW4oQ29tcGxldGFibGVGdXR1cmUuamF2YToxNTk1KSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Db21wbGV0YWJsZUZ1dHVyZSRBc3luY1N1cHBseS5leGVjKENvbXBsZXRhYmxlRnV0dXJlLmphdmE6MTU4MikgRGVjIDE0IDExOjU3OjU1IGRldmNsdXN0ZXIyLmIyMC4zc2Nhbi5jb20gcmVjZXB0aW9uaXN0OiAJYXQgamF2YS51dGlsLmNvbmN1cnJlbnQuRm9ya0pvaW5UYXNrLmRvRXhlYyhGb3JrSm9pblRhc2suamF2YToyODkpIERlYyAxNCAxMTo1Nzo1NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luUG9vbCRXb3JrUXVldWUucnVuVGFzayhGb3JrSm9pblBvb2wuamF2YToxMDU2KSBEZWMgMTQgMTE6NTc6NTUgZGV2Y2x1c3RlcjIuYjIwLjNzY2FuLmNvbSByZWNlcHRpb25pc3Q6IAlhdCBqYXZhLnV0aWwuY29uY3VycmVudC5Gb3JrSm9pblBvb2wucnVuV29ya2VyKEZvcmtKb2luUG9vbC5qYXZhOjE2OTIpIERlYyAxNCAxMTo1Nzo1NSBkZXZjbHVzdGVyMi5iMjAuM3NjYW4uY29tIHJlY2VwdGlvbmlzdDogCWF0IGphdmEudXRpbC5jb25jdXJyZW50LkZvcmtKb2luV29ya2VyVGhyZWFkLnJ1bihGb3JrSm9pbldvcmtlclRocmVhZC5qYXZhOjE1Nykg</entry>
@@ -322,6 +283,11 @@
         <entry>timeout</entry>
         <entry>getSpark</entry>
         <entry>httpserver</entry>
+        <entry>senders</entry>
+        <entry>buffers</entry>
+        <entry>self.manager</entry>
+        <entry>sender</entry>
+        <entry>manager</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3YvbC8=</entry>
