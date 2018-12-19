@@ -44,11 +44,10 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1545163788602">
-        <mark key="'" line="828" column="26" />
-        <mark key="[" line="274" column="28" />
-        <mark key="]" line="331" column="50" />
-        <mark key="." line="331" column="50" />
-        <mark key="^" line="331" column="50" />
+        <mark key="'" line="827" column="26" />
+        <mark key="]" line="330" column="50" />
+        <mark key="." line="330" column="50" />
+        <mark key="^" line="330" column="50" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/mongo/images.py" timestamp="1544064319647">
         <mark key="[" line="331" column="0" />
@@ -73,12 +72,6 @@
         <mark key="]" line="117" column="19" />
         <mark key="^" line="117" column="19" />
         <mark key="." line="117" column="19" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/ThrottledFutureQueue.java" timestamp="1544739021664">
-        <mark key="'" line="58" column="38" />
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1544826284390" />
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1543613359855">
@@ -131,6 +124,7 @@
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcServiceRunnable.java" timestamp="1545180137234" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1545158730331">
         <mark key="'" line="79" column="2" />
         <mark key="[" line="388" column="28" />
@@ -258,7 +252,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>httpserver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RfcnVuTGltaXRlZCgpIHRocm93cyBFeGNlcHRpb24gewoKICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8SW50ZWdlcj4+IHJlc3VsdHMgPQogICAgICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIucnVuTGltaXRlZCgyLCBBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
@@ -297,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timeout</last-search>
+      <last-search>httpserver</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>httpserver</last-pattern>
       <last-replace />
       <last-substitute>\.toString()</last-substitute>
       <last-dir>1</last-dir>
@@ -307,8 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recept</entry>
-        <entry>include</entry>
         <entry>dockerFileDest</entry>
         <entry>grpcio</entry>
         <entry>addL</entry>
@@ -327,6 +319,8 @@
         <entry>compressImage</entry>
         <entry>baseJpg</entry>
         <entry>timeout</entry>
+        <entry>getSpark</entry>
+        <entry>httpserver</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3YvbC8=</entry>
