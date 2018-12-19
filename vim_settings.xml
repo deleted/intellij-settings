@@ -111,6 +111,7 @@
       <file name="/ReceptionistTileWriter.java" timestamp="1544832398896">
         <mark key="'" line="129" column="36" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/camera/interface.py" timestamp="1545183534231" />
       <file name="/Dummy.txt" timestamp="1544820936944">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,7 +288,7 @@
     }</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>162</text>
       </register>
     </registers>
     <search>
@@ -342,6 +343,7 @@
         <entry>88</entry>
         <entry>w</entry>
         <entry>S/1/2</entry>
+        <entry>162</entry>
       </history-cmd>
       <history-expr />
       <history-input />
