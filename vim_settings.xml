@@ -21,8 +21,8 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1545678988157">
-        <mark key="'" line="123" column="26" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1545692776755">
+        <mark key="'" line="63" column="43" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1545689214200">
         <mark key="'" line="856" column="40" />
@@ -133,7 +133,6 @@
       <jump line="199" column="7" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="191" column="9" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="142" column="25" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
-      <jump line="123" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
       <jump line="244" column="32" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="128" column="9" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="122" column="18" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
@@ -167,6 +166,11 @@
       <jump line="176" column="43" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="177" column="23" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="181" column="35" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="123" column="13" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="250" column="24" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="99" column="23" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="245" column="24" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="63" column="43" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -176,7 +180,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sender</text>
+        <text>senders</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBTdWJtaXQgYSB0aWxlIHJlcXVlc3QgdGhhdCB5b3UgaGF2ZSBhIHJlc2VydmF0aW9uIGZvci4gQWZ0ZXIgdGhlIGpvYiBydW5zLCB0aGUgcmVzZXJ2YXRpb24gd2lsbAogICAqIGJlIHJlbW92ZWQsIHdoZXRoZXIgdGhlIGpvYiB3YXMgc3VjY2Vzc2Z1bCBvciBub3QuCiAgICoKICAgKiBAcGFyYW0gcmVzZXJ2YXRpb24gWW91ciByZXNlcnZhdGlvbgogICAqIEBwYXJhbSByZXF1ZXN0IFRoZSBUaWxlUmVxdWVzdCB5b3UnZCBsaWtlIHRvIHJ1bi4KICAgKiBAcmV0dXJuIEEgQ29tcGxldGFibGVGdXR1cmUgdGhhdCBjb21wbGV0ZXMgd2hlbiB0aGUgam9iIGlzIGZpbmlzaGVkLgogICAqLwogIHB1YmxpYyBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBzdWJtaXQoCiAgICAgIFJlc2VydmF0aW9uIHJlc2VydmF0aW9uLCBSZWNlcHRpb25pc3RUaWxlV3JpdGVyLlRpbGVSZXF1ZXN0IHJlcXVlc3QpIHsKCiAgICB0cnkgewogICAgICB0aWxlV3JpdGVyLnZhbGlkYXRlVGlsZVJlcXVlc3QocmVxdWVzdCk7CiAgICB9IGNhdGNoIChSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIEZ1dHVyZUZ1bmNzLmNvbXBsZXRlRXhjZXB0aW9uYWxseShlKTsKICAgIH0KCiAgICByZXR1cm4gdGlsZVdyaXRlcgogICAgICAgIC53cml0ZVRpbGVzKHJlcXVlc3QpCiAgICAgICAgLndoZW5Db21wbGV0ZSgKICAgICAgICAgICAgKG5vdGhpbmcsIGVycm9yKSAtPiB7CiAgICAgICAgICAgICAgdGhpcy5kZWxldGVSZXNlcnZhdGlvbihyZXNlcnZhdGlvbik7CiAgICAgICAgICAgICAgYXNzZXJ0IG5vdGhpbmcgPT0gbnVsbDsKICAgICAgICAgICAgfSk7CiAgfQogIAo=</text>
@@ -213,15 +217,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sender</last-search>
+      <last-search>senders</last-search>
       <last-offset />
-      <last-pattern>sender</last-pattern>
+      <last-pattern>senders</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trigger</entry>
         <entry>register</entry>
         <entry>writeTiles</entry>
         <entry>deleteReser</entry>
@@ -241,6 +244,7 @@
         <entry>metric</entry>
         <entry>try_</entry>
         <entry>sender</entry>
+        <entry>senders</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
