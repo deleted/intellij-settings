@@ -15,7 +15,12 @@
         <mark key="." line="137" column="46" />
         <mark key="^" line="137" column="46" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1545422264974" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1545678538951">
+        <mark key="'" line="142" column="25" />
+        <mark key="[" line="198" column="47" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1540849897859">
         <mark key="'" line="44" column="44" />
       </file>
@@ -111,6 +116,9 @@
       <jump line="630" column="11" filename="$USER_HOME$/3scan/kesm/kesm/base/__init__.py" />
       <jump line="633" column="24" filename="$USER_HOME$/3scan/kesm/kesm/base/__init__.py" />
       <jump line="647" column="22" filename="$USER_HOME$/3scan/kesm/kesm/base/__init__.py" />
+      <jump line="199" column="7" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="191" column="9" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="142" column="25" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
