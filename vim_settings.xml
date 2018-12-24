@@ -15,12 +15,16 @@
         <mark key="." line="137" column="46" />
         <mark key="^" line="137" column="46" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1545678538951">
-        <mark key="'" line="142" column="25" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1545679869294">
+        <mark key="'" line="56" column="13" />
         <mark key="[" line="198" column="47" />
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1545678988157">
+        <mark key="'" line="123" column="26" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1545679929512" />
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1540849897859">
         <mark key="'" line="44" column="44" />
       </file>
@@ -119,6 +123,17 @@
       <jump line="199" column="7" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="191" column="9" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
       <jump line="142" column="25" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="123" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="244" column="32" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="128" column="9" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="122" column="18" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="79" column="25" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="132" column="13" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="149" column="13" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="150" column="13" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="168" column="23" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="203" column="32" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/3scan/kesm/kesm/acq/drivers/abstract/imaging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -128,7 +143,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>logging</text>
+        <text>_uuid_queue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBTdWJtaXQgYSB0aWxlIHJlcXVlc3QgdGhhdCB5b3UgaGF2ZSBhIHJlc2VydmF0aW9uIGZvci4gQWZ0ZXIgdGhlIGpvYiBydW5zLCB0aGUgcmVzZXJ2YXRpb24gd2lsbAogICAqIGJlIHJlbW92ZWQsIHdoZXRoZXIgdGhlIGpvYiB3YXMgc3VjY2Vzc2Z1bCBvciBub3QuCiAgICoKICAgKiBAcGFyYW0gcmVzZXJ2YXRpb24gWW91ciByZXNlcnZhdGlvbgogICAqIEBwYXJhbSByZXF1ZXN0IFRoZSBUaWxlUmVxdWVzdCB5b3UnZCBsaWtlIHRvIHJ1bi4KICAgKiBAcmV0dXJuIEEgQ29tcGxldGFibGVGdXR1cmUgdGhhdCBjb21wbGV0ZXMgd2hlbiB0aGUgam9iIGlzIGZpbmlzaGVkLgogICAqLwogIHB1YmxpYyBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBzdWJtaXQoCiAgICAgIFJlc2VydmF0aW9uIHJlc2VydmF0aW9uLCBSZWNlcHRpb25pc3RUaWxlV3JpdGVyLlRpbGVSZXF1ZXN0IHJlcXVlc3QpIHsKCiAgICB0cnkgewogICAgICB0aWxlV3JpdGVyLnZhbGlkYXRlVGlsZVJlcXVlc3QocmVxdWVzdCk7CiAgICB9IGNhdGNoIChSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIEZ1dHVyZUZ1bmNzLmNvbXBsZXRlRXhjZXB0aW9uYWxseShlKTsKICAgIH0KCiAgICByZXR1cm4gdGlsZVdyaXRlcgogICAgICAgIC53cml0ZVRpbGVzKHJlcXVlc3QpCiAgICAgICAgLndoZW5Db21wbGV0ZSgKICAgICAgICAgICAgKG5vdGhpbmcsIGVycm9yKSAtPiB7CiAgICAgICAgICAgICAgdGhpcy5kZWxldGVSZXNlcnZhdGlvbihyZXNlcnZhdGlvbik7CiAgICAgICAgICAgICAgYXNzZXJ0IG5vdGhpbmcgPT0gbnVsbDsKICAgICAgICAgICAgfSk7CiAgfQogIAo=</text>
@@ -165,15 +180,14 @@
       </register>
     </registers>
     <search>
-      <last-search>logging</last-search>
+      <last-search>_uuid_queue</last-search>
       <last-offset />
-      <last-pattern>logging</last-pattern>
+      <last-pattern>_uuid_queue</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>testSliceStoreInit</entry>
         <entry>init</entry>
         <entry>%i</entry>
         <entry>%\i</entry>
@@ -188,6 +202,12 @@
         <entry>papertrail</entry>
         <entry>paper</entry>
         <entry>logging</entry>
+        <entry>buffer</entry>
+        <entry>get_next</entry>
+        <entry>enqueue_im</entry>
+        <entry>start_image_</entry>
+        <entry>start_image</entry>
+        <entry>_uuid_queue</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -202,6 +222,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
