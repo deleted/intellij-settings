@@ -21,8 +21,11 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1545692776755">
-        <mark key="'" line="63" column="43" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1545697722746">
+        <mark key="'" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1545697934749">
+        <mark key="'" line="280" column="53" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1545694840272">
         <mark key="'" line="856" column="40" />
@@ -84,13 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
-      <jump line="23" column="14" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
-      <jump line="26" column="14" filename="$USER_HOME$/3scan/kesm/src/test/java/net/threescan/acquisition/receptionist/ReceptionistServerTest.java" />
-      <jump line="38" column="9" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
-      <jump line="41" column="60" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
-      <jump line="44" column="44" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
       <jump line="209" column="16" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/runtime/Metrics.java" />
       <jump line="281" column="33" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="283" column="36" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
@@ -171,6 +167,26 @@
       <jump line="99" column="23" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
       <jump line="245" column="24" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
       <jump line="63" column="43" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="154" column="60" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="13" column="17" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="179" column="16" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="183" column="27" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="201" column="17" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="207" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="211" column="55" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="224" column="27" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="241" column="33" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="295" column="21" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="116" column="19" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="9" column="17" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="18" column="19" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="260" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="293" column="17" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="226" column="21" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="243" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="246" column="58" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="257" column="21" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
+      <jump line="280" column="53" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -180,7 +196,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>senders</text>
+        <text>available</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBTdWJtaXQgYSB0aWxlIHJlcXVlc3QgdGhhdCB5b3UgaGF2ZSBhIHJlc2VydmF0aW9uIGZvci4gQWZ0ZXIgdGhlIGpvYiBydW5zLCB0aGUgcmVzZXJ2YXRpb24gd2lsbAogICAqIGJlIHJlbW92ZWQsIHdoZXRoZXIgdGhlIGpvYiB3YXMgc3VjY2Vzc2Z1bCBvciBub3QuCiAgICoKICAgKiBAcGFyYW0gcmVzZXJ2YXRpb24gWW91ciByZXNlcnZhdGlvbgogICAqIEBwYXJhbSByZXF1ZXN0IFRoZSBUaWxlUmVxdWVzdCB5b3UnZCBsaWtlIHRvIHJ1bi4KICAgKiBAcmV0dXJuIEEgQ29tcGxldGFibGVGdXR1cmUgdGhhdCBjb21wbGV0ZXMgd2hlbiB0aGUgam9iIGlzIGZpbmlzaGVkLgogICAqLwogIHB1YmxpYyBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBzdWJtaXQoCiAgICAgIFJlc2VydmF0aW9uIHJlc2VydmF0aW9uLCBSZWNlcHRpb25pc3RUaWxlV3JpdGVyLlRpbGVSZXF1ZXN0IHJlcXVlc3QpIHsKCiAgICB0cnkgewogICAgICB0aWxlV3JpdGVyLnZhbGlkYXRlVGlsZVJlcXVlc3QocmVxdWVzdCk7CiAgICB9IGNhdGNoIChSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIEZ1dHVyZUZ1bmNzLmNvbXBsZXRlRXhjZXB0aW9uYWxseShlKTsKICAgIH0KCiAgICByZXR1cm4gdGlsZVdyaXRlcgogICAgICAgIC53cml0ZVRpbGVzKHJlcXVlc3QpCiAgICAgICAgLndoZW5Db21wbGV0ZSgKICAgICAgICAgICAgKG5vdGhpbmcsIGVycm9yKSAtPiB7CiAgICAgICAgICAgICAgdGhpcy5kZWxldGVSZXNlcnZhdGlvbihyZXNlcnZhdGlvbik7CiAgICAgICAgICAgICAgYXNzZXJ0IG5vdGhpbmcgPT0gbnVsbDsKICAgICAgICAgICAgfSk7CiAgfQogIAo=</text>
@@ -217,17 +233,14 @@
       </register>
     </registers>
     <search>
-      <last-search>senders</last-search>
+      <last-search>available</last-search>
       <last-offset />
-      <last-pattern>senders</last-pattern>
+      <last-pattern>available</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>register</entry>
-        <entry>writeTiles</entry>
-        <entry>deleteReser</entry>
         <entry>RequestMan</entry>
         <entry>rateLimiter</entry>
         <entry>info</entry>
@@ -241,10 +254,13 @@
         <entry>start_image</entry>
         <entry>_uuid_queue</entry>
         <entry>put</entry>
-        <entry>metric</entry>
         <entry>try_</entry>
         <entry>sender</entry>
         <entry>senders</entry>
+        <entry>metric</entry>
+        <entry>metrics</entry>
+        <entry>update_state</entry>
+        <entry>available</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
