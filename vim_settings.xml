@@ -110,6 +110,12 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1545870539639">
+        <mark key="[" line="33" column="119" />
+        <mark key="]" line="33" column="87" />
+        <mark key="." line="33" column="87" />
+        <mark key="^" line="33" column="87" />
+      </file>
       <file name="/fragment.java" timestamp="1545859769777">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,10 +224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBibG9ja2luZ1N0dWIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Nope.</text>
+        <text>channelBuilder.build()</text>
       </register>
       <register name="/" type="4">
         <text>manager</text>
@@ -230,31 +236,31 @@
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RfcnVuTGltaXRlZCgpIHRocm93cyBFeGNlcHRpb24gewoKICAgIExpc3Q8Q29tcGxldGFibGVGdXR1cmU8SW50ZWdlcj4+IHJlc3VsdHMgPQogICAgICAgIENvbXBsZXRhYmxlRnV0dXJlUmF0ZUxpbWl0ZXIucnVuTGltaXRlZCgyLCBBcnJheXMuYXNMaXN0KCgpIC0+IDEsICgpIC0+IDIsICgpIC0+IDMpKTsKCiAgICBhc3NlcnRUaGF0KHJlc3VsdHMuc3RyZWFtKCkubWFwKENvbXBsZXRhYmxlRnV0dXJlOjpqb2luKSkuY29udGFpbnNFeGFjdGx5KDEsIDIsIDMpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBibG9ja2luZ1N0dWIuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRhZGF0YS5mb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVzdEltYWdlRnVuY3MucmdiUGl4ZWwoCiAgICAgICAgICAgICAgICAodyAlIDI1NiAqIHcgLyAyNTYpICUgMjU2LCAoaCAlIDI1NiAqIGggLyAyNTYpICUgMjU2LCAodyAqIGgpICUgMjU2KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBFbmZvcmNlLmlzTnVsbChub3RoaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZXJyb3IgIT0gbnVsbCkgewoKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVzdEltYWdlRnVuY3MucmdiUGl4ZWwoCiAgICAgICAgICAgICAgICAodyAlIDI1NiAqIHcgLyAyNTYpICUgMjU2LCAoaCAlIDI1NiAqIGggLyAyNTYpICUgMjU2LCAodyAqIGgpICUgMjU2KSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhc3NlcnQgbm90aGluZyA9PSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBFbmZvcmNlLmlzTnVsbChub3RoaW5nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBHYXVnZSBpblByb2Nlc3NDb3VudEdhdWdlID0gTWV0cmljcy5jcmVhdGVHYXVnZSgKICAgICAgICAgICJ3cml0ZVRpbGVzSW5Qcm9jZXNzIiwKICAgICAgICAgICJOdW1iZXIgb2Ygd3JpdGVUaWxlcygpIGpvYnMgY3VycmVudGx5IGJlaW5nIGV4ZWN1dGVkLiIKICApOwogIHByaXZhdGUgc3RhdGljIGZpbmFsIEdhdWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZXJyb3IgIT0gbnVsbCkgewoKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>162</text>
