@@ -6,11 +6,10 @@
       <file name="/start_script.py" timestamp="1545955157812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1546023951502">
-        <mark key="[" line="180" column="66" />
-        <mark key="]" line="180" column="64" />
-        <mark key="^" line="180" column="64" />
-        <mark key="." line="180" column="64" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1546025559377">
+        <mark key="[" line="217" column="52" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1545946111704">
         <mark key="[" line="43" column="0" />
@@ -22,11 +21,20 @@
         <mark key="." line="42" column="2" />
         <mark key="^" line="42" column="2" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImpl.java" timestamp="1546025274566">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/ManagedChannelBuilder.java" timestamp="1545943102656">
         <mark key="'" line="456" column="33" />
       </file>
       <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" timestamp="1545955677657">
         <mark key="'" line="193" column="16" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/Status.java" timestamp="1546025524611">
+        <mark key="'" line="45" column="1" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1546025114632">
+        <mark key="'" line="29" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1546022595849">
         <mark key="[" line="0" column="0" />
@@ -38,55 +46,61 @@
       <jump line="193" column="16" filename="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" />
       <jump line="27" column="7" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" />
       <jump line="35" column="82" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" />
+      <jump line="29" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="52" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/Status.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImpl.java" />
+      <jump line="270" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/Status.java" />
+      <jump line="399" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/Status.java" />
+      <jump line="45" column="1" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/Status.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgaW1hZ2UgPSBUZXN0SW1hZ2VHZW5lcmF0b3IuY29sb3JTdHJ1Y3R1cmVkSW1hZ2UoaW1nU2hhcGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>imgShape</text>
+        <text>Status</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>asRuntime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgaW1hZ2UgPSBUZXN0SW1hZ2VHZW5lcmF0b3IuY29sb3JTdHJ1Y3R1cmVkSW1hZ2UoaW1nU2hhcGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFNlY3Rpb25NZXRhZGF0YSBnZXRTZWN0aW9uTWV0YWRhdGEoSW1hZ2VTaGFwZSBzaGFwZSkgewogICAgU2VjdGlvbk1ldGFkYXRhIG1ldGFkYXRhID0KICAgICAgICAgICAgbmV3IFNlY3Rpb25NZXRhZGF0YSgKICAgICAgICAgICAgICAgICAgICBVdWlkVGVzdEZ1bmNzLk9ORV9VVUlELAogICAgICAgICAgICAgICAgICAgIDEwMCwKICAgICAgICAgICAgICAgICAgICBSZWNlcHRpb25pc3RPdXRlckNsYXNzLlNsaWNlTWV0YWRhdGEuRm9ybWF0LkJNUCwKICAgICAgICAgICAgICAgICAgICBzaGFwZSwKICAgICAgICAgICAgICAgICAgICAzLAogICAgICAgICAgICAgICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICBVdWlkVGVzdEZ1bmNzLlRXT19VVUlELAogICAgICAgICAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigwLCBVdWlkVGVzdEZ1bmNzLlRIUkVFX1VVSUQpKTsKICB9Cgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNsaWVudC51cGxvYWRJbWFnZShtZXRhZGF0YSwgaW1hZ2UpOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNlY3Rpb25NZXRhZGF0YSBtZXRhZGF0YSA9CiAgICAgICAgbmV3IFNlY3Rpb25NZXRhZGF0YSgKICAgICAgICAgICAgVXVpZFRlc3RGdW5jcy5PTkVfVVVJRCwKICAgICAgICAgICAgMTAwLAogICAgICAgICAgICBSZWNlcHRpb25pc3RPdXRlckNsYXNzLlNsaWNlTWV0YWRhdGEuRm9ybWF0LkJNUCwKICAgICAgICAgICAgaW1nU2hhcGUsCiAgICAgICAgICAgIDMsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgIFV1aWRUZXN0RnVuY3MuVFdPX1VVSUQsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigwLCBVdWlkVGVzdEZ1bmNzLlRIUkVFX1VVSUQpKTsK</text>
+        <text encoding="base64">ICAgIENvbW1vbkV2ZW50cy5wb3N0KG5ldyBJT0V4Y2VwdGlvbigiU29tZSBwcm9ibGVtIGhhcHBlbmVkLiIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgTGlzdDxSZWNlcHRpb25pc3RPdXRlckNsYXNzLlVwbG9hZEltYWdlUmVxdWVzdD4gcmVjZWl2ZWRVcGxvYWRJbWFnZVJlcXVlc3RzID0KICAgICAgbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFNlY3Rpb25NZXRhZGF0YSBnZXRTZWN0aW9uTWV0YWRhdGEoSW1hZ2VTaGFwZSBzaGFwZSkgewogICAgU2VjdGlvbk1ldGFkYXRhIG1ldGFkYXRhID0KICAgICAgICAgICAgbmV3IFNlY3Rpb25NZXRhZGF0YSgKICAgICAgICAgICAgICAgICAgICBVdWlkVGVzdEZ1bmNzLk9ORV9VVUlELAogICAgICAgICAgICAgICAgICAgIDEwMCwKICAgICAgICAgICAgICAgICAgICBSZWNlcHRpb25pc3RPdXRlckNsYXNzLlNsaWNlTWV0YWRhdGEuRm9ybWF0LkJNUCwKICAgICAgICAgICAgICAgICAgICBzaGFwZSwKICAgICAgICAgICAgICAgICAgICAzLAogICAgICAgICAgICAgICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICBVdWlkVGVzdEZ1bmNzLlRXT19VVUlELAogICAgICAgICAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigwLCBVdWlkVGVzdEZ1bmNzLlRIUkVFX1VVSUQpKTsKICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgTGlzdDxSZWNlcHRpb25pc3RPdXRlckNsYXNzLlVwbG9hZEltYWdlUmVxdWVzdD4gcmVjZWl2ZWRVcGxvYWRJbWFnZVJlcXVlc3RzID0KICAgICAgbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBDb25zcnVjdCBhIG5ldyBSZWNlcHRpb25pc3QgY2xpZW50IGFnYWluc3QgdGhlIGdpdmVuIEdSUEMgVVJJLgogICAqIAogICAqIEBwYXJhbSBncnBjRW5kcG9pbnQgQSBOYW1lUmVzb2x2ZXItY29tcGxpYW50IEdSUEMgVVJJCiAgICovCiAgcHVibGljIFJlY2VwdGlvbmlzdENsaWVudChTdHJpbmcgZ3JwY0VuZHBvaW50KSB7CiAgICB0aGlzKG1ha2VDaGFubmVsKGdycGNFbmRwb2ludCkpOwogIH0KCg==</text>
+        <text encoding="base64">ICAgIFNlY3Rpb25NZXRhZGF0YSBtZXRhZGF0YSA9CiAgICAgICAgbmV3IFNlY3Rpb25NZXRhZGF0YSgKICAgICAgICAgICAgVXVpZFRlc3RGdW5jcy5PTkVfVVVJRCwKICAgICAgICAgICAgMTAwLAogICAgICAgICAgICBSZWNlcHRpb25pc3RPdXRlckNsYXNzLlNsaWNlTWV0YWRhdGEuRm9ybWF0LkJNUCwKICAgICAgICAgICAgaW1nU2hhcGUsCiAgICAgICAgICAgIDMsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgIFV1aWRUZXN0RnVuY3MuVFdPX1VVSUQsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigwLCBVdWlkVGVzdEZ1bmNzLlRIUkVFX1VVSUQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBDb25zcnVjdCBhIG5ldyBSZWNlcHRpb25pc3QgY2xpZW50IGFnYWluc3QgdGhlIGdpdmVuIEdSUAo=</text>
+        <text encoding="base64">ICBzdGF0aWMgTGlzdDxSZWNlcHRpb25pc3RPdXRlckNsYXNzLlVwbG9hZEltYWdlUmVxdWVzdD4gcmVjZWl2ZWRVcGxvYWRJbWFnZVJlcXVlc3RzID0KICAgICAgbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsb2NraW5nU3R1YiA9IFJlY2VwdGlvbmlzdEdycGMubmV3QmxvY2tpbmdTdHViKGNoYW5uZWwpOwogICAgc3R1YiA9IFJlY2VwdGlvbmlzdEdycGMubmV3U3R1YihjaGFubmVsKTsK</text>
+        <text encoding="base64">ICBzdGF0aWMgTGlzdDxSZWNlcHRpb25pc3RPdXRlckNsYXNzLlVwbG9hZEltYWdlUmVxdWVzdD4gcmVjZWl2ZWRVcGxvYWRJbWFnZVJlcXVlc3RzID0KICAgICAgbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDaGFubgo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBDb25zcnVjdCBhIG5ldyBSZWNlcHRpb25pc3QgY2xpZW50IGFnYWluc3QgdGhlIGdpdmVuIEdSUEMgVVJJLgogICAqIAogICAqIEBwYXJhbSBncnBjRW5kcG9pbnQgQSBOYW1lUmVzb2x2ZXItY29tcGxpYW50IEdSUEMgVVJJCiAgICovCiAgcHVibGljIFJlY2VwdGlvbmlzdENsaWVudChTdHJpbmcgZ3JwY0VuZHBvaW50KSB7CiAgICB0aGlzKG1ha2VDaGFubmVsKGdycGNFbmRwb2ludCkpOwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>asRuntime</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>asRuntime</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -95,10 +109,17 @@
         <entry>loadBal</entry>
         <entry>createCrystals</entry>
         <entry>new</entry>
+        <entry>resource</entry>
+        <entry>Exhaus</entry>
+        <entry>EXH</entry>
+        <entry>withCause</entry>
+        <entry>asRuntime</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
