@@ -6,20 +6,20 @@
       <file name="/start_script.py" timestamp="1545955157812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1546025559377">
-        <mark key="[" line="217" column="52" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1546027464104">
+        <mark key="[" line="169" column="30" />
+        <mark key="]" line="169" column="30" />
+        <mark key="." line="169" column="30" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1545946111704">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="51" column="40" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1546026386130">
-        <mark key="[" line="98" column="64" />
-        <mark key="]" line="98" column="101" />
-        <mark key="." line="98" column="101" />
-        <mark key="^" line="98" column="101" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1546027791075">
+        <mark key="[" line="121" column="39" />
+        <mark key="]" line="121" column="39" />
+        <mark key="." line="121" column="39" />
+        <mark key="^" line="121" column="69" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImpl.java" timestamp="1546025274566">
         <mark key="'" line="0" column="0" />
@@ -54,44 +54,44 @@
       <jump line="45" column="1" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/Status.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlT2JzZXJ2ZXIuZ2V0RnV0dXJlKCkuam9pbigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRocm93cyBTdGF0dXNSdW50aW1lRXhjZXB0aW9u</text>
       </register>
       <register name="-" type="4">
-        <text>Status</text>
+        <text encoding="base64">IHRocm93cyBTdGF0dXNSdW50aW1lRXhjZXB0aW9u</text>
       </register>
       <register name="/" type="4">
         <text>asRuntime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgaW1hZ2UgPSBUZXN0SW1hZ2VHZW5lcmF0b3IuY29sb3JTdHJ1Y3R1cmVkSW1hZ2UoaW1nU2hhcGUpOwo=</text>
+        <text encoding="base64">ICAgIFVVSUQgc2FtcGxlSWQgPSBVdWlkVGVzdEZ1bmNzLkZPUlRZX0ZJVkVfVVVJRDsKICAgIFN0cmluZyBrZXNtTmFtZSA9ICJMb3JlIjsKICAgIGludCBibG9ja0luZGV4ID0gOTsKICAgIGludCBzZWN0aW9uV2lkdGhQeCA9IDI1NiAqIDg7CiAgICBpbnQgc2VjdGlvbnNQZXJGYWNlID0gMzsKICAgIGludCBmYWNlTGVuZ3RoUHggPSAyNTYgKiAzMTsKICAgIGludCBudW1GYWNlcyA9IDc7CiAgICBpbnQgbnVtQ2hhbm5lbHMgPSAzOwogICAgZG91YmxlW10gdm94ZWxTaXplVW0gPSB7MC41LCAwLjUsIDJ9OwogICAgY2xpZW50LmNyZWF0ZUNyeXN0YWxzKAogICAgICAgICAgICBzYW1wbGVJZCwKICAgICAgICAgICAga2VzbU5hbWUsCiAgICAgICAgICAgIGJsb2NrSW5kZXgsCiAgICAgICAgICAgIHNlY3Rpb25XaWR0aFB4LAogICAgICAgICAgICBzZWN0aW9uc1BlckZhY2UsCiAgICAgICAgICAgIGZhY2VMZW5ndGhQeCwKICAgICAgICAgICAgbnVtRmFjZXMsCiAgICAgICAgICAgIG51bUNoYW5uZWxzLAogICAgICAgICAgICB2b3hlbFNpemVVbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlT2JzZXJ2ZXIuZ2V0RnV0dXJlKCkuam9pbigpOwo=</text>
+        <text encoding="base64">ICAgKiBAdGhyb3dzIFN0YXR1c1J1bnRpbWVFeGNlcHRpb24gb24gR1JQCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC51cGxvYWRJbWFnZShtZXRhZGF0YSwgaW1hZ2UpOwo=</text>
+        <text encoding="base64">ICAgIGNsaWVudC5jcmVhdGVDcnlzdGFscygKICAgICAgICAgICAgc2FtcGxlSWQsCiAgICAgICAgICAgIGtlc21OYW1lLAogICAgICAgICAgICBibG9ja0luZGV4LAogICAgICAgICAgICBzZWN0aW9uV2lkdGhQeCwKICAgICAgICAgICAgc2VjdGlvbnNQZXJGYWNlLAogICAgICAgICAgICBmYWNlTGVuZ3RoUHgsCiAgICAgICAgICAgIG51bUZhY2VzLAogICAgICAgICAgICBudW1DaGFubmVscywKICAgICAgICAgICAgdm94ZWxTaXplVW0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbW1vbkV2ZW50cy5wb3N0KG5ldyBJT0V4Y2VwdGlvbigiU29tZSBwcm9ibGVtIGhhcHBlbmVkLiIpKTsK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RDcmVhdGVDcnlzdGFscygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFNlY3Rpb25NZXRhZGF0YSBnZXRTZWN0aW9uTWV0YWRhdGEoSW1hZ2VTaGFwZSBzaGFwZSkgewogICAgU2VjdGlvbk1ldGFkYXRhIG1ldGFkYXRhID0KICAgICAgICAgICAgbmV3IFNlY3Rpb25NZXRhZGF0YSgKICAgICAgICAgICAgICAgICAgICBVdWlkVGVzdEZ1bmNzLk9ORV9VVUlELAogICAgICAgICAgICAgICAgICAgIDEwMCwKICAgICAgICAgICAgICAgICAgICBSZWNlcHRpb25pc3RPdXRlckNsYXNzLlNsaWNlTWV0YWRhdGEuRm9ybWF0LkJNUCwKICAgICAgICAgICAgICAgICAgICBzaGFwZSwKICAgICAgICAgICAgICAgICAgICAzLAogICAgICAgICAgICAgICAgICAgIDEsCiAgICAgICAgICAgICAgICAgICAgMSwKICAgICAgICAgICAgICAgICAgICBVdWlkVGVzdEZ1bmNzLlRXT19VVUlELAogICAgICAgICAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigwLCBVdWlkVGVzdEZ1bmNzLlRIUkVFX1VVSUQpKTsKICB9Cgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgcmVxdWVzdENyZWF0ZUNyeXN0YWxzKCkgewogIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RDcmVhdGVDcnlzdGFscygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlY3Rpb25NZXRhZGF0YSBtZXRhZGF0YSA9CiAgICAgICAgbmV3IFNlY3Rpb25NZXRhZGF0YSgKICAgICAgICAgICAgVXVpZFRlc3RGdW5jcy5PTkVfVVVJRCwKICAgICAgICAgICAgMTAwLAogICAgICAgICAgICBSZWNlcHRpb25pc3RPdXRlckNsYXNzLlNsaWNlTWV0YWRhdGEuRm9ybWF0LkJNUCwKICAgICAgICAgICAgaW1nU2hhcGUsCiAgICAgICAgICAgIDMsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgIFV1aWRUZXN0RnVuY3MuVFdPX1VVSUQsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigwLCBVdWlkVGVzdEZ1bmNzLlRIUkVFX1VVSUQpKTsK</text>
+        <text encoding="base64">ICAgIFVVSUQgc2FtcGxlSWQgPSBVdWlkVGVzdEZ1bmNzLkZPUlRZX0ZJVkVfVVVJRDsKICAgIFN0cmluZyBrZXNtTmFtZSA9ICJMb3JlIjsKICAgIGludCBibG9ja0luZGV4ID0gOTsKICAgIGludCBzZWN0aW9uV2lkdGhQeCA9IDI1NiAqIDg7CiAgICBpbnQgc2VjdGlvbnNQZXJGYWNlID0gMzsKICAgIGludCBmYWNlTGVuZ3RoUHggPSAyNTYgKiAzMTsKICAgIGludCBudW1GYWNlcyA9IDc7CiAgICBpbnQgbnVtQ2hhbm5lbHMgPSAzOwogICAgZG91YmxlW10gdm94ZWxTaXplVW0gPSB7MC41LCAwLjUsIDJ9OwogICAgY2xpZW50LmNyZWF0ZUNyeXN0YWxzKAogICAgICAgICAgICBzYW1wbGVJZCwKICAgICAgICAgICAga2VzbU5hbWUsCiAgICAgICAgICAgIGJsb2NrSW5kZXgsCiAgICAgICAgICAgIHNlY3Rpb25XaWR0aFB4LAogICAgICAgICAgICBzZWN0aW9uc1BlckZhY2UsCiAgICAgICAgICAgIGZhY2VMZW5ndGhQeCwKICAgICAgICAgICAgbnVtRmFjZXMsCiAgICAgICAgICAgIG51bUNoYW5uZWxzLAogICAgICAgICAgICB2b3hlbFNpemVVbSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0aWMgTGlzdDxSZWNlcHRpb25pc3RPdXRlckNsYXNzLlVwbG9hZEltYWdlUmVxdWVzdD4gcmVjZWl2ZWRVcGxvYWRJbWFnZVJlcXVlc3RzID0KICAgICAgbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgTGlzdDxSZWNlcHRpb25pc3RPdXRlckNsYXNzLlVwbG9hZEltYWdlUmVxdWVzdD4gcmVjZWl2ZWRVcGxvYWRJbWFnZVJlcXVlc3RzID0KICAgICAgbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -136,6 +136,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
