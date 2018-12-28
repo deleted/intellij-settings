@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1545955157812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1545960967075">
-        <mark key="'" line="32" column="82" />
-        <mark key="[" line="53" column="13" />
-        <mark key="]" line="34" column="62" />
-        <mark key="." line="34" column="62" />
-        <mark key="^" line="34" column="62" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1545964351595">
+        <mark key="'" line="37" column="82" />
+        <mark key="[" line="137" column="7" />
+        <mark key="]" line="123" column="31" />
+        <mark key="." line="123" column="31" />
+        <mark key="^" line="123" column="31" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1545946111704">
         <mark key="[" line="43" column="0" />
@@ -41,11 +41,11 @@
       <jump line="35" column="82" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgdCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>imageShape</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>imageShape</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
@@ -54,34 +54,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZSBzZXJ2aWNlSW1wbCA9IE1vY2tpdG8ubW9jayhSZWNlcHRpb25pc3RHcnBjLlJlY2VwdGlvbmlzdEltcGxCYXNlLmNsYXNzLCBBZGRpdGlvbmFsQW5zd2Vycy5kZWxlZ2F0ZXNUbyhuZXcgUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZSgpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgdCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFV1aWRUZXN0RnVuY3MuVFdPX1VVSUQsCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkSnBnQ3J5c3RhbElkcygpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgdCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQoK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZSBzZXJ2aWNlSW1wbCA9IE1vY2tpdG8ubW9jayhSZWNlcHRpb25pc3RHcnBjLlJlY2VwdGlvbmlzdEltcGxCYXNlLmNsYXNzKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>new ReceptionistGrpc.ReceptionistImplBase() {
         @Override
 
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFJlY2VwdGlvbmlzdEdycGMuUmVjZXB0aW9uaXN0SW1wbEJhc2Ugc2VydmljZUltcGwgPSBNb2NraXRvLm1vY2soUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZS5jbGFzcywgQWRkaXRpb25hbEFuc3dlcnMuZGVsZWdhdGVzVG8obmV3IFJlY2VwdGlvbmlzdEdycGMuUmVjZXB0aW9uaXN0SW1wbEJhc2UoKSB7CiAgICAgICAgQE92ZXJyaWRlCgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuc3RhcnQoKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHR1cmVkUmVxdWVzdC5nZXRWb3hlbFNpemVVbSgpKQo=</text>
+        <text encoding="base64">ICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
