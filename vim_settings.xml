@@ -3,11 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1545949774256">
-        <mark key="[" line="76" column="55" />
-        <mark key="]" line="76" column="53" />
-        <mark key="." line="76" column="53" />
-        <mark key="^" line="76" column="53" />
+      <file name="/start_script.py" timestamp="1545955157812">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1545955515103">
+        <mark key="[" line="23" column="203" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1545946111704">
         <mark key="[" line="43" column="0" />
@@ -22,65 +24,77 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/ManagedChannelBuilder.java" timestamp="1545943102656">
         <mark key="'" line="456" column="33" />
       </file>
+      <file name="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" timestamp="1545955677657">
+        <mark key="'" line="193" column="16" />
+      </file>
       <file name="/fragment.java" timestamp="1545944274688">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="456" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/ManagedChannelBuilder.java" />
+      <jump line="167" column="98" filename="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" />
+      <jump line="193" column="16" filename="$USER_HOME$/kesm/build/generated/source/proto/main/grpc/net/threescan/net/grpc/receptionist/ReceptionistGrpc.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuc3RhcnQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>extends TestCase</text>
       </register>
       <register name="/" type="4">
-        <text>loadBal</text>
+        <text>createCrystals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHR1cmVkUmVxdWVzdC5nZXROdW1GYWNlcygpKS5pc0VxdWFsVG8obnVtRmFjZXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHR1cmVkUmVxdWVzdC5nZXRWb3hlbFNpemVVbSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuc3RhcnQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3Nlcgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHR1cmVkUmVxdWVzdC5nZXRWb3hlbFNpemVVbSgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHR1cmVkUmVxdWVzdC5nZXRLZXNtTmFtZSgpKS5pc0VxdWFsVG8oa2VzbU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3Nlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Q2FwdG9yLmdldFZhbHVlKCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhcHR1cmVkUmVxdWVzdC5nZXRLZXNtTmFtZSgpKS5pc0VxdWFsVG8oa2VzbU5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jcmVhdGVDcnlzdGFscyhyZXF1ZXN0Q2FwdG9yLmNhcHR1cmUoKSwgTW9ja2l0by5hbnkoKSkuOwogICAgICAgIHJlcXVlc3RDYXB0b3IuZ2V0VmFsdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Q2FwdG9yLmdldFZhbHVlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jcmVhdGVDcnlzdGFscyhyZXF1ZXN0Q2FwdG9yLmNhcHR1cmUoKSwgTW9ja2l0by5hbnkoKSkuOwogICAgICAgIHJlcXVlc3RDYXB0b3IuZ2V0VmFsdWUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgRmFrZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcmd1bWVudENhcHRvcjxSZWNlcHRpb25pc3RPdXRlckNsYXNzLkNyZWF0ZUNyeXN0YWxzUmVxdWVzdD4gcmVxdWVzdENhcHRvciA9IEFyZ3VtZW50Q2FwdG9yLmZvckNsYXNzKFJlY2VwdGlvbmlzdE91dGVyQ2xhc3MuQ3JlYXRlQ3J5c3RhbHNSZXF1ZXN0LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgRmFrZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBBcmd1bWVudENhcHRvcjxSZWNlcHRpb25pc3RPdXRlckNsYXNzLkNyZWF0ZUNyeXN0YWxzUmVxdWVzdD4gcmVxdWVzdENhcHRvciA9IEFyZ3VtZW50Q2FwdG9yLmZvckNsYXNzKFJlY2VwdGlvbmlzdE91dGVyQ2xhc3MuQ3JlYXRlQ3J5c3RhbHNSZXF1ZXN0LmNsYXNzKTsK</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
     </registers>
     <search>
-      <last-search>loadBal</last-search>
+      <last-search>createCrystals</last-search>
       <last-offset />
-      <last-pattern>loadBal</last-pattern>
+      <last-pattern>createCrystals</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>loadBal</entry>
+        <entry>createCrystals</entry>
       </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -91,6 +105,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
