@@ -6,22 +6,15 @@
       <file name="/start_script.py" timestamp="1545955157812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1545964351595">
-        <mark key="'" line="37" column="82" />
-        <mark key="[" line="137" column="7" />
-        <mark key="]" line="123" column="31" />
-        <mark key="." line="123" column="31" />
-        <mark key="^" line="123" column="31" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1545946111704">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="51" column="40" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1545952370118">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-        <mark key="^" line="24" column="4" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1545966454420">
+        <mark key="[" line="71" column="49" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="70" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.1/f0137e485482cbc706d7054a4ee6b6ef5b674194/grpc-core-1.12.1-sources.jar!/io/grpc/ManagedChannelBuilder.java" timestamp="1545943102656">
         <mark key="'" line="456" column="33" />
@@ -41,47 +34,44 @@
       <jump line="35" column="82" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>imageShape</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>imageShape</text>
+        <text>Height</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZSBzZXJ2aWNlSW1wbCA9IE1vY2tpdG8ubW9jayhSZWNlcHRpb25pc3RHcnBjLlJlY2VwdGlvbmlzdEltcGxCYXNlLmNsYXNzLCBBZGRpdGlvbmFsQW5zd2Vycy5kZWxlZ2F0ZXNUbyhuZXcgUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZSgpIHsK</text>
+        <text encoding="base64">ICAgICAgIGFzc2VydFRoYXQoc2VudEltYWdlLmdldEhlaWdodCgpKS5pc0VxdWFsVG8oMTApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFV1aWRUZXN0RnVuY3MuVFdPX1VVSUQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkSnBnQ3J5c3RhbElkcygpCg==</text>
+        <text encoding="base64">ICAgICAgIC8vIENoZWNrIGhhdCB0aGUgaW1hZ2Ugc21lbGxzIHJpZ2h0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgdCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">Ly8gICAgICAgIHNlbnRJbWFnZSA9IEltYWdlRnVuY3MuY29lcmNlZFRvVHlwZShzZW50SW1hZ2UsIEJ1ZmZlcmVkSW1hZ2VUeXBlLlRZUEVfM0JZVEVfQkdSKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZSBzZXJ2aWNlSW1wbCA9IE1vY2tpdG8ubW9jayhSZWNlcHRpb25pc3RHcnBjLlJlY2VwdGlvbmlzdEltcGxCYXNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>new ReceptionistGrpc.ReceptionistImplBase() {
-        @Override
-
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFJlY2VwdGlvbmlzdEdycGMuUmVjZXB0aW9uaXN0SW1wbEJhc2Ugc2VydmljZUltcGwgPSBNb2NraXRvLm1vY2soUmVjZXB0aW9uaXN0R3JwYy5SZWNlcHRpb25pc3RJbXBsQmFzZS5jbGFzcywgQWRkaXRpb25hbEFuc3dlcnMuZGVsZWdhdGVzVG8obmV3IFJlY2VwdGlvbmlzdEdycGMuUmVjZXB0aW9uaXN0SW1wbEJhc2UoKSB7CiAgICAgICAgQE92ZXJyaWRlCgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXNwb25zZU9ic2VydmVyLndhaXQoKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFRocmVhZC5pbnRlcnJ1cHRlZCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFJlY2VpdmVVcGxvYWRJbWFnZVJlcXVlc3RFdmVudChVKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFV1aWRUZXN0RnVuY3MuVFdPX1VVSUQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkSnBnQ3J5c3RhbElkcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
