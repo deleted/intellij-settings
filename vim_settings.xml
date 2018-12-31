@@ -26,10 +26,6 @@
         <mark key="^" line="46" column="22" />
         <mark key="." line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1545946111704">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="51" column="40" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/AbstractCompletableStreamObserver.java" timestamp="1546038157382" />
       <file name="/a.dummy" timestamp="1546039837480">
         <mark key="[" line="0" column="0" />
@@ -54,6 +50,12 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/SectionMetadata.java" timestamp="1546294656658">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="17" column="9" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/base/app.py" timestamp="1546291197081">
         <mark key="'" line="88" column="12" />
@@ -115,11 +117,11 @@
       <jump line="88" column="12" filename="$USER_HOME$/kesm/kesm/base/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="-" type="4">
-        <text>Collection</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text>datadog</text>
