@@ -46,6 +46,7 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1546286717486">
         <mark key="'" line="120" column="68" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImplTest.java" timestamp="1546381464260" />
       <file name="/Dummy.txt" timestamp="1546039603199">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,7 +180,7 @@
         <text encoding="base64">ICAvKiogQHJldHVybiBTaXplIG9mIGEgZmFjZSwgaW4gYnl0ZXMgKi8KICAvLyBUT0RPOiBpcyB0aGlzIHZhbGlkPyBPciB0byB3ZSBuZWVkIHRvIGNvbXB1dGUgYWZ0ZXIgdGhlIGltYWdlIGlzIHNlcmlhbGl6ZWQ/CiAgcHJpdmF0ZSBpbnQgY29tcHV0ZUltYWdlU2l6ZSgpIHsKICAgIHJldHVybiBibG9jay5nZXRGYWNlTGVuZ3RoUHgoKSAqIGJsb2NrLmdldFNlY3Rpb25XaWR0aFB4KCkgKiBibG9jay5nZXROdW1DaGFubmVscygpOwogIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>165</text>
       </register>
     </registers>
     <search>
@@ -205,6 +206,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>165</entry>
       </history-cmd>
       <history-expr />
       <history-input />
