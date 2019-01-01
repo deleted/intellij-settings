@@ -79,8 +79,8 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/base/app.py" timestamp="1546291197081">
-        <mark key="'" line="88" column="12" />
+      <file name="$USER_HOME$/kesm/kesm/base/app.py" timestamp="1546373474753">
+        <mark key="'" line="14" column="7" />
         <mark key="[" line="392" column="8" />
         <mark key="]" line="392" column="9" />
         <mark key="." line="392" column="9" />
@@ -100,10 +100,14 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImpl.java" timestamp="1546025274566">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/venv/lib/python3.5/site-packages/datadog/dogstatsd/context.py" timestamp="1546373238725" />
       <file name="/fragment.java" timestamp="1546292695161">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/base/metrics.py" timestamp="1546373202008">
+        <mark key="'" line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -122,10 +126,17 @@
       <jump line="15" column="38" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="120" column="68" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="394" column="0" filename="$USER_HOME$/kesm/kesm/base/app.py" />
-      <jump line="14" column="7" filename="$USER_HOME$/kesm/kesm/base/app.py" />
-      <jump line="92" column="5" filename="$USER_HOME$/kesm/kesm/base/app.py" />
       <jump line="89" column="34" filename="$USER_HOME$/kesm/kesm/base/app.py" />
       <jump line="88" column="12" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/kesm/kesm/base/metrics.py" />
+      <jump line="92" column="28" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="93" column="19" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="96" column="5" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="97" column="21" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="391" column="20" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="392" column="41" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="393" column="45" filename="$USER_HOME$/kesm/kesm/base/app.py" />
+      <jump line="14" column="7" filename="$USER_HOME$/kesm/kesm/base/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
