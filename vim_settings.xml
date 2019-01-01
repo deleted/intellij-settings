@@ -55,11 +55,11 @@
         <mark key="]" line="138" column="5" />
         <mark key="." line="138" column="5" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/BlockMetadata.java" timestamp="1546312817678">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="14" column="15" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/BlockMetadata.java" timestamp="1546383683746">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionGeneratorTest.java" timestamp="1546304237597">
         <mark key="[" line="17" column="13" />
