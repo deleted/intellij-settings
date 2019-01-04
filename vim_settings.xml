@@ -14,6 +14,11 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/FakeSectionIterator.java" timestamp="1546628560957">
+        <mark key="[" line="69" column="2" />
+        <mark key="]" line="69" column="2" />
+        <mark key="." line="69" column="2" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/perf/grpc_helpers.py" timestamp="1545855667881">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -61,7 +66,7 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1546565614499">
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1546628520616">
         <mark key="'" line="65" column="14" />
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
@@ -92,6 +97,9 @@
         <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1545871546614" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" timestamp="1546628570271">
+        <mark key="[" line="48" column="3" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1545873333941">
         <mark key="[" line="66" column="7" />
         <mark key="]" line="56" column="41" />
@@ -205,11 +213,11 @@
       <jump line="65" column="14" filename="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzYW1wbGVJZAogICAgICogQHBhcmFtIGtlc21OYW1lCiAgICAgKiBAcGFyYW0gYmxvY2tJbmRleAogICAgICogQHBhcmFtIHNlY3Rpb25XaWR0aFB4CiAgICAgKiBAcGFyYW0gc2VjdGlvbnNQZXJGYWNlCiAgICAgKiBAcGFyYW0gZmFjZUxlbmd0aFB4CiAgICAgKiBAcGFyYW0gbnVtRmFjZXMKICAgICAqIEBwYXJhbSBudW1DaGFubmVscwogICAgICogQHBhcmFtIHZveGVsU2l6ZVVtCiAgICAgKiBAcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>UploadImage</text>
