@@ -97,11 +97,11 @@
         <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1545871546614" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1546635896940">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-        <mark key="^" line="56" column="41" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1546648494984">
+        <mark key="[" line="85" column="42" />
+        <mark key="]" line="85" column="40" />
+        <mark key="." line="85" column="40" />
+        <mark key="^" line="85" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1545859769777">
         <mark key="[" line="0" column="0" />
@@ -210,11 +210,11 @@
       <jump line="67" column="69" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RuntimeException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>RuntimeException</text>
+        <text>Accept</text>
       </register>
       <register name="/" type="4">
         <text>grayscaleImg</text>
@@ -223,31 +223,31 @@
         <text encoding="base64">ICAgIGJ5dGVbXSBncmF5c2NhbGUgPSBGYWtlU2VjdGlvbkl0ZXJhdG9yLnN5bnRoZXNpemVJbWFnZUJ5dGVzKHNoYXBlLCAxKTsKICAgIEJ1ZmZlcmVkSW1hZ2UgZ3JheXNjYWxlSW1nID0gIEltYWdlSU8ucmVhZChuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oZ3JheXNjYWxlKSk7CiAgICBhc3NlcnRUaGF0KGdyYXlzY2FsZUltZy5nZXRUeXBlKCkpLmlzRXF1YWxUbyhCdWZmZXJlZEltYWdlLlRZUEVfQllURV9HUkFZKTsKICAgIGFzc2VydFRoYXQoZ3JheXNjYWxlSW1nLmdldFdpZHRoKCkpLmlzRXF1YWxUbyhzaGFwZS5nZXRXaWR0aCgpKTsKICAgIGFzc2VydFRoYXQoZ3JheXNjYWxlSW1nLmdldEhlaWdodCgpKS5pc0VxdWFsVG8oc2hhcGUuZ2V0SGVpZ2h0KCkpOwogICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZ3JheXNjYWxlLmxlbmd0aCkuaXNHcmVhdGVyVGhhbigyKjIqMSk7CiAgICBhc3NlcnRUaGF0KGdyYXlzY2FsZS5sZW5ndGgpLmlzTGVzc1RoYW4oMioyKjIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzYW1wbGVJZAogICAgICogQHBhcmFtIGtlc21OYW1lCiAgICAgKiBAcGFyYW0gYmxvY2tJbmRleAogICAgICogQHBhcmFtIHNlY3Rpb25XaWR0aFB4CiAgICAgKiBAcGFyYW0gc2VjdGlvbnNQZXJGYWNlCiAgICAgKiBAcGFyYW0gZmFjZUxlbmd0aFB4CiAgICAgKiBAcGFyYW0gbnVtRmFjZXMKICAgICAqIEBwYXJhbSBudW1DaGFubmVscwogICAgICogQHBhcmFtIHZveGVsU2l6ZVVtCiAgICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgSW1hZ2VJTy53cml0ZShpbWFnZSwgImJtcCIsIGJpdG1hcFN0cmVhbSk7IC8vIHRocm93cyBJT0V4Y2VwdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgYnl0ZVtdIHBheWxvYWQgPSBiaXRtYXBTdHJlYW0udG9CeXRlQXJyYXkoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCbG9ja0NyeXN0YWxTZXQgY3JlYXRlQ3J5c3RhbHMoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZU9ic2VydmVyLmdldEZ1dHVyZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZU9ic2VydmVyLm9uQ29tcGxldGVkKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZU9ic2VydmVyLmdldEZ1dHVyZSgpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0T2JzZXJ2ZXIub25OZXh0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXlzY2FsZUltZy9jb2xvckltZy9n</text>
