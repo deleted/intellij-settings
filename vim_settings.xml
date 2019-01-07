@@ -53,9 +53,8 @@
       </file>
       <file name="$USER_HOME$/kesm/build/generated/source/proto/main/java/net/threescan/net/grpc/receptionist/ReceptionistOuterClass.java" timestamp="1546651353574" />
       <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1545871546614" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1546652899979">
-        <mark key="[" line="87" column="53" />
-        <mark key="]" line="87" column="53" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1546889884566">
+        <mark key="[" line="6" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1546653243035">
         <mark key="[" line="0" column="0" />
