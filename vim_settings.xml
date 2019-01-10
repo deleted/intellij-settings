@@ -9,11 +9,6 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/FakeSectionIterator.java" timestamp="1546628560957">
-        <mark key="[" line="68" column="2" />
-        <mark key="]" line="68" column="2" />
-        <mark key="." line="68" column="2" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/ByteArrayChunker.java" timestamp="1546903248631">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
@@ -46,23 +41,19 @@
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ImageSender.java" timestamp="1545863155825">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1546903017876">
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
         <mark key="^" line="212" column="50" />
         <mark key="." line="212" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/perf/grpc_helpers.py" timestamp="1545855667881">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/CollectingStreamObserver.java" timestamp="1545872142032" />
+      <file name="$USER_HOME$/kesm/kesm/acq/kesm_main.py" timestamp="1547079950923">
+        <mark key="'" line="11" column="29" />
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/CompletableFutureRateLimiter.java" timestamp="1544751310654">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="61" column="39" />
@@ -222,13 +213,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blockMetadata</text>
+        <text>, &quot;xact&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>blockMetadata</text>
+        <text>, &quot;xact&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>grayscaleImg</text>
+        <text>shim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBUaGlzIHRocmVhZCBzZWVtcyB0byBpbmRpY2F0ZSB0aGF0IGJlc3QgcHJhY3RpY2UgaXMgYXJvdW5kIDY0S2lCCiAgLy8gaHR0cHM6Ly9naXRodWIuY29tL2dycGMvZ3JwYy5naXRodWIuaW8vaXNzdWVzLzM3MQogIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFRkFVTFRfVVBMT0FEX0NIVU5LX1NJWkUgPSA2NCAqIChpbnQpIE1hdGgucG93KDIsIDEwKTsK</text>
@@ -265,9 +256,9 @@
       </register>
     </registers>
     <search>
-      <last-search>grayscaleImg</last-search>
+      <last-search>shim</last-search>
       <last-offset />
-      <last-pattern>grayscaleImg</last-pattern>
+      <last-pattern>shim</last-pattern>
       <last-replace>colorImg</last-replace>
       <last-substitute>grayscaleImg</last-substitute>
       <last-dir>1</last-dir>
@@ -275,7 +266,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getSliceStartAt</entry>
         <entry>offsetView</entry>
         <entry>writeTiles</entry>
         <entry>offset</entry>
@@ -295,6 +285,7 @@
         <entry>beginning</entry>
         <entry>UploadImage</entry>
         <entry>grayscaleImg</entry>
+        <entry>shim</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9IC8o</entry>
