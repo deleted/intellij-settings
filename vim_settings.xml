@@ -70,7 +70,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/image/TestImageGenerator.java" timestamp="1545862741859" />
-      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1546897352778">
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1547080625460">
         <mark key="'" line="65" column="14" />
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
