@@ -9,37 +9,6 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1547173164699">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/ByteArrayChunker.java" timestamp="1546903248631">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="33" column="57" />
-        <mark key="." line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/FutureFuncs.java" timestamp="1546650454726" />
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/TestImageGeneratorTest.java" timestamp="1545859981138" />
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/imageio/ImageIO.class" timestamp="1546649319235" />
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/CompletableFutureRateLimiterTest.java" timestamp="1544752768710">
-        <mark key="[" line="117" column="39" />
-        <mark key="]" line="117" column="19" />
-        <mark key="^" line="117" column="19" />
-        <mark key="." line="117" column="19" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/BlockMetadata.java" timestamp="1547089281881">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/proto/kesm/proto/receptionist.proto" timestamp="1545871546614" />
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/ChunkingByteArrayIteratorTest.java" timestamp="1546903776725">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="49" />
-        <mark key="." line="14" column="30" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1546904462290">
         <mark key="'" line="47" column="5" />
         <mark key="[" line="48" column="5" />
@@ -53,24 +22,32 @@
         <mark key="^" line="212" column="50" />
         <mark key="." line="212" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1547173164699">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/TestImageGenerator.java" timestamp="1545859762048">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/CollectingStreamObserver.java" timestamp="1545872142032" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1547178022222">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/FakeSectionIterator.java" timestamp="1547235457328">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1547235931895" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpecTest.java" timestamp="1547178420080">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="83" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="30" column="5" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/ByteArrayChunker.java" timestamp="1546903248631">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="33" column="57" />
+        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/kesm_main.py" timestamp="1547079950923">
         <mark key="'" line="11" column="29" />
@@ -93,7 +70,6 @@
       <file name="/Dummy.txt" timestamp="1547089491714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/image/TestImageGenerator.java" timestamp="1545862741859" />
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1547080625460">
         <mark key="'" line="65" column="14" />
         <mark key="[" line="33" column="4" />
@@ -113,19 +89,36 @@
         <mark key="^" line="59" column="19" />
         <mark key="." line="59" column="19" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/CompletableFutureRateLimiterTest.java" timestamp="1544752768710">
+        <mark key="[" line="117" column="39" />
+        <mark key="]" line="117" column="19" />
+        <mark key="^" line="117" column="19" />
+        <mark key="." line="117" column="19" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/BlockMetadata.java" timestamp="1547089281881">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1545158730331">
         <mark key="[" line="400" column="28" />
       </file>
-      <file name="$USER_HOME$/kesm/build/generated/source/proto/main/java/net/threescan/net/grpc/receptionist/ReceptionistOuterClass.java" timestamp="1546651353574" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/ThrottledFutureQueueTest.java" timestamp="1544739321410">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="41" />
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1546986608600">
-        <mark key="[" line="193" column="3" />
-        <mark key="]" line="31" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/ChunkingByteArrayIteratorTest.java" timestamp="1546903776725">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="49" />
+        <mark key="." line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1547235332507">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="206" column="2" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="34" column="74" />
       </file>
@@ -237,43 +230,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoYmxvY2tTcGVjLmdldE51bUZhY2VzKCkpLmlzRXF1YWxUbyhLZXNtQmxvY2tTcGVjLkRFRkFVTFRfTlVNX0ZBQ0VTKTsK</text>
+        <text encoding="base64">ICAgIHNldENyeXN0YWxTZXQoY3J5c3RhbFNldCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>shim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoYmxvY2tTcGVjLmdldE51bUZhY2VzKCkpLmlzRXF1YWxUbyhLZXNtQmxvY2tTcGVjLkRFRkFVTFRfTlVNX0ZBQ0VTKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgQmxvY2tDcnlzdGFsU2V0IGNyZWF0ZUNyeXN0YWxzKEtlc21CbG9ja1NwZWMgYmxvY2spIHsKICAgIHJldHVybiBjcmVhdGVDcnlzdGFscygKICAgICAgICBibG9jay5nZXRTYW1wbGVJZCgpLAogICAgICAgIGJsb2NrLmdldEtlc21OYW1lKCksCiAgICAgICAgYmxvY2suZ2V0QmxvY2tJbmRleCgpLAogICAgICAgIGJsb2NrLmdldFNlY3Rpb25XaWR0aFB4KCksCiAgICAgICAgYmxvY2suZ2V0U2VjdGlvbnNQZXJGYWNlKCksCiAgICAgICAgYmxvY2suZ2V0RmFjZUxlbmd0aFB4KCksCiAgICAgICAgYmxvY2suZ2V0TnVtRmFjZXMoKSwKICAgICAgICBibG9jay5nZXROdW1DaGFubmVscygpLAogICAgICAgIGJsb2NrLmdldFZveGVsU2l6ZSgpKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uKTsK</text>
+        <text encoding="base64">ICAgIHNldENyeXN0YWxTZXQoY3J5c3RhbFNldCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgQmxvY2tDcnlzdGFsU2V0IGNyZWF0ZUNyeXN0YWxzKFJlY2VwdGlvbmlzdENsaWVudCBjbGllbnQpIHsKICAgIHJldHVybiBjbGllbnQuY3JlYXRlQ3J5c3RhbHMoCiAgICAgICAgICAgIGdldFNhbXBsZUlkKCksCiAgICAgICAgICAgIGdldEtlc21OYW1lKCksCiAgICAgICAgICAgIGdldEJsb2NrSW5kZXgoKSwKICAgICAgICAgICAgZ2V0U2VjdGlvbldpZHRoUHgoKSwKICAgICAgICAgICAgZ2V0U2VjdGlvbnNQZXJGYWNlKCksCiAgICAgICAgICAgIGdldEZhY2VMZW5ndGhQeCgpLAogICAgICAgICAgICBnZXROdW1GYWNlcygpLAogICAgICAgICAgICBnZXROdW1DaGFubmVscygpLAogICAgICAgICAgICBnZXRWb3hlbFNpemUoKSk7CiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5VVUlEOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgQmxvY2tDcnlzdGFsU2V0IGNyZWF0ZUNyeXN0YWxzKFJlY2VwdGlvbmlzdENsaWVudCBjbGllbnQpIHsKICAgIHJldHVybiBjbGllbnQuY3JlYXRlQ3J5c3RhbHMoCiAgICAgICAgICAgIGdldFNhbXBsZUlkKCksCiAgICAgICAgICAgIGdldEtlc21OYW1lKCksCiAgICAgICAgICAgIGdldEJsb2NrSW5kZXgoKSwKICAgICAgICAgICAgZ2V0U2VjdGlvbldpZHRoUHgoKSwKICAgICAgICAgICAgZ2V0U2VjdGlvbnNQZXJGYWNlKCksCiAgICAgICAgICAgIGdldEZhY2VMZW5ndGhQeCgpLAogICAgICAgICAgICBnZXROdW1GYWNlcygpLAogICAgICAgICAgICBnZXROdW1DaGFubmVscygpLAogICAgICAgICAgICBnZXRWb3hlbFNpemUoKSk7CiAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>block.
+block.
+block.
+block.
+block.
+block.
+block.
+block.
+block.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdF9zZXJpYWxpemUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBLZXNtQmxvY2tTcGVjIGJsb2NrU3BlYyA9IG5ldyBLZXNtQmxvY2tTcGVjKCk7CiAgICAgICAgS2VzbUJsb2NrU3BlYyBkZXNlcmlhbGl6ZWRCbG9ja1NwZWMgPSBKc29uRnVuY3MucGFyc2VKc29uQXNDbGFzcyhKc29uRnVuY3Muc2VyaWFsaXplVG9Kc29uU3RyaW5nKGJsb2NrU3BlYyksIEtlc21CbG9ja1NwZWMuY2xhc3MpOwogICAgICAgIGFzc2VydFRoYXQoZGVzZXJpYWxpemVkQmxvY2tTcGVjKS5pc0VxdWFsVG8oYmxvY2tTcGVjKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgc2V0U2FtcGxlSWQoc2FtcGxlSWQpOwovLyAgICBzZXRCbG9ja0luZGV4KGJsb2NrSW5kZXgpOwovLyAgICBzZXRTZWN0aW9uV2lkdGhQeChzZWN0aW9uV2lkdGhQeCk7Ci8vICAgIHNldFNlY3Rpb25zUGVyRmFjZShzZWN0aW9uc1BlckZhY2UpOwovLyAgICBzZXRGYWNlTGVuZ3RoUHgoZmFjZUxlbmd0aFB4KTsKLy8gICAgc2V0TnVtRmFjZXMobnVtRmFjZXMpOwovLyAgICBzZXROdW1DaGFubmVscyhudW1DaGFubmVscyk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVVUlELgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVVSUQuCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5VVUlEOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChudW1DaGFubmVscyA9PSBudWxsKSBudW1DaGFubmVscyA9IERFRkFVTFRfTlVNX0NIQU5ORUxTOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXlzY2FsZUltZy9jb2xvckltZy9n</text>
