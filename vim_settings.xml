@@ -9,6 +9,9 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1547173164699">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/ByteArrayChunker.java" timestamp="1546903248631">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
@@ -57,11 +60,17 @@
         <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/CollectingStreamObserver.java" timestamp="1545872142032" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1547170839306">
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="25" />
-        <mark key="^" line="43" column="25" />
-        <mark key="." line="43" column="25" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1547173234943">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpecTest.java" timestamp="1547172992951">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/kesm_main.py" timestamp="1547079950923">
         <mark key="'" line="11" column="29" />
@@ -120,7 +129,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="34" column="74" />
       </file>
-      <file name="/fragment.java" timestamp="1547089578327">
+      <file name="/fragment.java" timestamp="1547172925179">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -227,11 +236,11 @@
       <jump line="34" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICApIHsK</text>
+      <register name="&quot;" type="4">
+        <text>DEFAULT_SECTIONS</text>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>DEFAULT_SECTIONS</text>
       </register>
       <register name="/" type="4">
         <text>shim</text>
