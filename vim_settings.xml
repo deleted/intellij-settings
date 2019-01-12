@@ -3,18 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/kesm_main.yml" timestamp="1547258931815" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/PayloadChunker.java" timestamp="1546891402173">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1546904462290">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1546903017876">
         <mark key="[" line="212" column="0" />
@@ -22,7 +16,7 @@
         <mark key="^" line="212" column="50" />
         <mark key="." line="212" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1547173164699">
+      <file name="/a.dummy" timestamp="1547259530485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/image/TestImageGenerator.java" timestamp="1545859762048">
@@ -53,6 +47,12 @@
         <mark key="]" line="13" column="13" />
         <mark key="^" line="33" column="57" />
         <mark key="." line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1547259303637">
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+        <mark key="." line="16" column="61" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/kesm_main.py" timestamp="1547079950923">
         <mark key="'" line="11" column="29" />
@@ -134,13 +134,20 @@
         <mark key="." line="34" column="61" />
         <mark key="^" line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1547259544674">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+      </file>
+      <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/b20-kesms.yml" timestamp="1547258959279" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1547254646885">
         <mark key="[" line="151" column="25" />
         <mark key="]" line="151" column="46" />
         <mark key="." line="151" column="46" />
         <mark key="^" line="151" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1547250696936">
+      <file name="/fragment.java" timestamp="1547259069331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -250,10 +257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBwdWJsaWMgU3RyaW5nIHRvSnNvbigpIHsKICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CiAgICByZXR1cm4gZ3Nvbi50b0pzb24odGhpcyk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0R3JwY0VuZHBvaW50KCkgewogICAgICAgIHJldHVybiBncnBjRW5kcG9pbnQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0R3JwY0VuZHBvaW50KFN0cmluZyBncnBjRW5kcG9pbnQpIHsKICAgICAgICB0aGlzLmdycGNFbmRwb2ludCA9IGdycGNFbmRwb2ludDsKICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>createCrystals</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>shim</text>
@@ -262,31 +269,31 @@
         <text encoding="base64">ICBwdWJsaWMgQmxvY2tDcnlzdGFsU2V0IGNyZWF0ZUNyeXN0YWxzKEtlc21CbG9ja1NwZWMgYmxvY2spIHsKICAgIHJldHVybiBjcmVhdGVDcnlzdGFscygKICAgICAgICBibG9jay5nZXRTYW1wbGVJZCgpLAogICAgICAgIGJsb2NrLmdldEtlc21OYW1lKCksCiAgICAgICAgYmxvY2suZ2V0QmxvY2tJbmRleCgpLAogICAgICAgIGJsb2NrLmdldFNlY3Rpb25XaWR0aFB4KCksCiAgICAgICAgYmxvY2suZ2V0U2VjdGlvbnNQZXJGYWNlKCksCiAgICAgICAgYmxvY2suZ2V0RmFjZUxlbmd0aFB4KCksCiAgICAgICAgYmxvY2suZ2V0TnVtRmFjZXMoKSwKICAgICAgICBibG9jay5nZXROdW1DaGFubmVscygpLAogICAgICAgIGJsb2NrLmdldFZveGVsU2l6ZSgpKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBwdWJsaWMgU3RyaW5nIHRvSnNvbigpIHsKICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CiAgICByZXR1cm4gZ3Nvbi50b0pzb24odGhpcyk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0R3JwY0VuZHBvaW50KCkgewogICAgICAgIHJldHVybiBncnBjRW5kcG9pbnQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0R3JwY0VuZHBvaW50KFN0cmluZyBncnBjRW5kcG9pbnQpIHsKICAgICAgICB0aGlzLmdycGNFbmRwb2ludCA9IGdycGNFbmRwb2ludDsKICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVuZm9yY2UuaXNOb3ROdWxsKAogICAgICAgIGJsb2NrLmdldEJsb2NrSGFuZGxlKCksCiAgICAgICAgIkJsb2NrIG11c3QgaGF2ZSBhbiBhc3NvY2lhdGVkIEJsb2NrSGFuZGxlIHRvIGJlIHVzZWQgd2l0aCB0aGlzIGdlbmVyYXRvci4iKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsb2NrSGFuZGxlKTsK</text>
+        <text encoding="base64">ICAKICBwdWJsaWMgU3RyaW5nIHRvSnNvbigpIHsKICAgIEdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CiAgICByZXR1cm4gZ3Nvbi50b0pzb24odGhpcyk7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAmJiBPYmplY3RzLmVxdWFscyhibG9ja0hhbmRsZSwgYmxvY2tTcGVjLmJsb2NrSGFuZGxlKTsK</text>
+        <text encoding="base64">ICAgIEVuZm9yY2UuaXNOb3ROdWxsKAogICAgICAgIGJsb2NrLmdldEJsb2NrSGFuZGxlKCksCiAgICAgICAgIkJsb2NrIG11c3QgaGF2ZSBhbiBhc3NvY2lhdGVkIEJsb2NrSGFuZGxlIHRvIGJlIHVzZWQgd2l0aCB0aGlzIGdlbmVyYXRvci4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsb2NrSGFuZGxlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgS2VzbUJsb2NrSGFuZGxlIGdldEJsb2NrSGFuZGxlKCkgewogICAgcmV0dXJuIGJsb2NrSGFuZGxlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0QmxvY2tIYW5kbGUoS2VzbUJsb2NrSGFuZGxlIGJsb2NrSGFuZGxlKSB7CiAgICB0aGlzLmJsb2NrSGFuZGxlID0gYmxvY2tIYW5kbGU7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAmJiBPYmplY3RzLmVxdWFscyhibG9ja0hhbmRsZSwgYmxvY2tTcGVjLmJsb2NrSGFuZGxlKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEtlc21CbG9ja0hhbmRsZSBibG9ja0hhbmRsZTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgS2VzbUJsb2NrSGFuZGxlIGdldEJsb2NrSGFuZGxlKCkgewogICAgcmV0dXJuIGJsb2NrSGFuZGxlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0QmxvY2tIYW5kbGUoS2VzbUJsb2NrSGFuZGxlIGJsb2NrSGFuZGxlKSB7CiAgICB0aGlzLmJsb2NrSGFuZGxlID0gYmxvY2tIYW5kbGU7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtlc21CbG9ja1NwZWMuc2V0Q3J5c3RhbFNldChjcnlzdGFsU2V0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXlzY2FsZUltZy9jb2xvckltZy9n</text>
