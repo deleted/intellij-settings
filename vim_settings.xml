@@ -32,15 +32,15 @@
         <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/FakeSectionIterator.java" timestamp="1547252441334">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1547252367731">
-        <mark key="[" line="158" column="24" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="144" column="56" />
+        <mark key="[" line="157" column="24" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="143" column="56" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpecTest.java" timestamp="1547178420080">
         <mark key="[" line="14" column="0" />
@@ -89,11 +89,11 @@
         <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1547252628220">
-        <mark key="'" line="47" column="31" />
-        <mark key="[" line="54" column="71" />
-        <mark key="]" line="54" column="69" />
-        <mark key="^" line="54" column="69" />
-        <mark key="." line="54" column="69" />
+        <mark key="'" line="45" column="31" />
+        <mark key="[" line="52" column="71" />
+        <mark key="]" line="52" column="69" />
+        <mark key="^" line="52" column="69" />
+        <mark key="." line="52" column="69" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1547252508635" />
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1547254014217" />
@@ -102,12 +102,6 @@
         <mark key="]" line="117" column="19" />
         <mark key="^" line="117" column="19" />
         <mark key="." line="117" column="19" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/KesmBlockHandle.java" timestamp="1547251860676">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="20" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/BlockMetadata.java" timestamp="1547089281881">
         <mark key="[" line="6" column="13" />
@@ -131,16 +125,16 @@
         <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" timestamp="1547252057307">
-        <mark key="[" line="35" column="83" />
-        <mark key="]" line="35" column="61" />
-        <mark key="." line="35" column="61" />
-        <mark key="^" line="35" column="61" />
+        <mark key="[" line="34" column="83" />
+        <mark key="]" line="34" column="61" />
+        <mark key="." line="34" column="61" />
+        <mark key="^" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1547252465514">
-        <mark key="[" line="185" column="15" />
-        <mark key="]" line="152" column="30" />
-        <mark key="." line="152" column="30" />
-        <mark key="^" line="152" column="30" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1547254646885">
+        <mark key="[" line="151" column="25" />
+        <mark key="]" line="151" column="46" />
+        <mark key="." line="151" column="46" />
+        <mark key="^" line="151" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1547250696936">
         <mark key="[" line="0" column="0" />
@@ -252,10 +246,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.createCrystals(block);</text>
+        <text>createCrystals</text>
       </register>
       <register name="-" type="4">
-        <text>.createCrystals(block);</text>
+        <text>createCrystals</text>
       </register>
       <register name="/" type="4">
         <text>shim</text>
