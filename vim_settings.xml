@@ -71,9 +71,16 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1547606719564">
-        <mark key="[" line="200" column="2" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1547608185425">
+        <mark key="[" line="200" column="0" />
         <mark key="]" line="202" column="2" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1547608891326" />
+      <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1547609341395">
+        <mark key="[" line="96" column="40" />
+        <mark key="]" line="96" column="40" />
+        <mark key="." line="96" column="40" />
+        <mark key="^" line="95" column="96" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1547600671739">
         <mark key="[" line="9" column="0" />
@@ -166,6 +173,7 @@
         <mark key="." line="34" column="61" />
         <mark key="^" line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1547608529507" />
       <file name="/fragment.java" timestamp="1547508892608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -276,47 +284,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public static void main(String[] args) throws Exception {
-    AppRunner.runAndExit(&quot;receptionist&quot;, Arrays.asList(ReceptionistServer.class), args);
-  }</text>
+        <text>Client</text>
       </register>
       <register name="-" type="4">
-        <text>getZoomCrystals</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
         <text>ZoomCr</text>
       </register>
-      <register name="0" type="4">
-        <text>public static void main(String[] args) throws Exception {
-    AppRunner.runAndExit(&quot;receptionist&quot;, Arrays.asList(ReceptionistServer.class), args);
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJyZWNlcHRpb25pc3RTZXJ2ZXIiOiBbCiAgICAgICAgImRlc2NyaXB0aW9uIjogIlJlY2VwdGlvbmlzdCBzZXJ2ZXIiLAogICAgICAgICJtYWluQ2xhc3MiOiAibmV0LnRocmVlc2Nhbi5hY3F1aXNpdGlvbi5yZWNlcHRpb25pc3QuUmVjZXB0aW9uaXN0U2VydmVyIiwKICAgICAgICAidGl0bGUiOiAiUmVjZXB0aW9uaXN0IiwKICAgICAgICAidmVyc2lvbiI6IDAuMSwKICAgICAgICAiZG9ja2VyIjogdHJ1ZQogICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQoanNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1haW5DbGFzcyI6ICJuZXQudGhyZWVzY2FuLmFjcXVpc2l0aW9uLnJlY2VwdGlvbmlzdC5SZWNlcHRpb25pc3RTZXJ2ZXIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0Lmdlb2RlLkJsb2NrQ3J5c3RhbFNldDsK</text>
+        <text encoding="base64">QENvbW1hbmQobmFtZSA9ICJQcmludENvbmZpZyIsIGRlc2NyaXB0aW9uID0gIk91dHB1dCB0aGUgZGVmYXVsdCBjb25maWd1cmF0aW9uIHRlbXBsYXRlIGZvciB0aGUgVGVzdENsaWVudCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0Lmdlb2RlLkJsb2NrQ3J5c3RhbFNldDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIucnZlc3NlLmFpcmxpbmUuYW5ub3RhdGlvbnMuQ29tbWFuZDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgS2VzbUJsb2NrSGFuZGxlKEJsb2NrQ3J5c3RhbFNldCBjcnlzdGFsU2V0KSB7CiAgICB0aGlzKGNyeXN0YWxTZXQuZ2V0UG5nQ3J5c3RhbElkKCksIGNyeXN0YWxTZXQuZ2V0Wm9vbUNyeXN0YWxJZHMoKSk7CiAgfQo=</text>
+        <text encoding="base64">QENvbW1hbmQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0LmNsaWVudC5LZXNtQmxvY2tIYW5kbGU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0OwoKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJsb2NrLmNyZWF0ZUdlb2RlSGFuZGxlKGNsaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXlzY2FsZUltZy9jb2xvckltZy9n</text>
