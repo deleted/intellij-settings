@@ -36,11 +36,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1547512502355">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpecTest.java" timestamp="1547178420080">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="83" />
@@ -70,11 +65,11 @@
         <mark key="^" line="61" column="39" />
         <mark key="." line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1547508438712">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1547599496585">
         <mark key="[" line="237" column="41" />
-        <mark key="]" line="237" column="41" />
-        <mark key="." line="237" column="41" />
-        <mark key="^" line="240" column="37" />
+        <mark key="]" line="237" column="55" />
+        <mark key="." line="237" column="55" />
+        <mark key="^" line="237" column="55" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/ChunkingIteratorOfByteArrays.java" timestamp="1546903378228">
         <mark key="[" line="17" column="9" />
@@ -266,14 +261,14 @@
       <jump line="34" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYWNxdWlzaXRpb24ucmVjZXB0aW9uaXN0Lmdlb2RlLkJsb2NrQ3J5c3RhbFNldDsK</text>
+      <register name="&quot;" type="4">
+        <text>getZoomCrystals</text>
       </register>
       <register name="-" type="4">
-        <text>getZoomCrystalIds</text>
+        <text>getZoomCrystals</text>
       </register>
       <register name="/" type="4">
-        <text>shim</text>
+        <text>ZoomCr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiBDcmVhdGUgYSBuZXcgQmxvY2tDcnlzdGFsU2V0IHdpdGggcmFuZG9tIHZhbHVlcyBmb3IgdGhlIENyeXN0YWwgVVVJRHMuIFVzZWQgd2hlbiBpbml0aWFsaXppbmcgYQogICAqIG5ldyBibG9jay4KICAgKgogICAqIEBwYXJhbSBudW1ab29tTGV2ZWxzCiAgICogQHJldHVybgogICAqLwogIHB1YmxpYyBzdGF0aWMgQmxvY2tDcnlzdGFsU2V0IGNyZWF0ZVJhbmRvbShpbnQgbnVtWm9vbUxldmVscykgewogICAgVVVJRCBwbmdJZCA9IFVVSUQucmFuZG9tVVVJRCgpOwogICAgSW1tdXRhYmxlTGlzdC5CdWlsZGVyPFVVSUQ+IHpvb21JZHNCdWlsZGVyID0gSW1tdXRhYmxlTGlzdC48VVVJRD5idWlsZGVyKCk7CgogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1ab29tTGV2ZWxzOyBpKyspIHsKICAgICAgem9vbUlkc0J1aWxkZXIuYWRkKFVVSUQucmFuZG9tVVVJRCgpKTsKICAgIH0KICAgIHJldHVybiBuZXcgQmxvY2tDcnlzdGFsU2V0KHBuZ0lkLCB6b29tSWRzQnVpbGRlci5idWlsZCgpKTsKICB9Cg==</text>
@@ -310,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shim</last-search>
+      <last-search>ZoomCr</last-search>
       <last-offset />
-      <last-pattern>shim</last-pattern>
+      <last-pattern>ZoomCr</last-pattern>
       <last-replace>colorImg</last-replace>
       <last-substitute>grayscaleImg</last-substitute>
       <last-dir>1</last-dir>
@@ -320,7 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>offsetView</entry>
         <entry>writeTiles</entry>
         <entry>offset</entry>
         <entry>Offset</entry>
@@ -340,6 +334,7 @@
         <entry>UploadImage</entry>
         <entry>grayscaleImg</entry>
         <entry>shim</entry>
+        <entry>ZoomCr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9IC8o</entry>
