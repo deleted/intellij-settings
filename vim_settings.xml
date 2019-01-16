@@ -126,18 +126,24 @@
       <file name="/Dummy.txt" timestamp="1547600564838">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" timestamp="1547682168975">
+        <mark key="'" line="44" column="48" />
+        <mark key="[" line="93" column="99" />
+        <mark key="]" line="94" column="4" />
+        <mark key="^" line="94" column="4" />
+        <mark key="." line="94" column="4" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTestClient.java" timestamp="1545853340927">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="12" column="32" />
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1547679160286">
-        <mark key="'" line="59" column="31" />
-        <mark key="[" line="75" column="37" />
-        <mark key="]" line="75" column="35" />
-        <mark key="." line="75" column="35" />
-        <mark key="^" line="75" column="35" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1547682084689">
+        <mark key="[" line="59" column="7" />
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+        <mark key="^" line="48" column="40" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1547507827130">
         <mark key="[" line="35" column="0" />
@@ -170,11 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="4" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="122" column="63" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="123" column="33" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="127" column="33" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="227" column="33" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="232" column="26" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="235" column="4" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="282" column="25" filename="$USER_HOME$/kesm/build.gradle" />
@@ -270,55 +271,60 @@
       <jump line="47" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
       <jump line="34" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" />
       <jump line="9" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" />
+      <jump line="92" column="3" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" />
+      <jump line="72" column="6" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" />
+      <jump line="68" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" />
+      <jump line="66" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" />
+      <jump line="44" column="48" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VGVzdENsaWVudENvbmZpZyA=</text>
+        <text>emulateCaptureBlock</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGVzdENsaWVudENvbmZpZyA=</text>
+        <text>emulateCaptureBlock</text>
       </register>
       <register name="/" type="4">
-        <text>ZoomCr</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJyZWNlcHRpb25pc3RTZXJ2ZXIiOiBbCiAgICAgICAgImRlc2NyaXB0aW9uIjogIlJlY2VwdGlvbmlzdCBzZXJ2ZXIiLAogICAgICAgICJtYWluQ2xhc3MiOiAibmV0LnRocmVlc2Nhbi5hY3F1aXNpdGlvbi5yZWNlcHRpb25pc3QuUmVjZXB0aW9uaXN0U2VydmVyIiwKICAgICAgICAidGl0bGUiOiAiUmVjZXB0aW9uaXN0IiwKICAgICAgICAidmVyc2lvbiI6IDAuMSwKICAgICAgICAiZG9ja2VyIjogdHJ1ZQogICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlYWRlci5jbG9zZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIEtlc21CbG9ja1NwZWMgZ2VuZXJhdGVCbG9ja01ldGEoaW50IHdpZHRoUHgsIGludCBoZWlnaHRQeCwgaW50IHpEZXB0aCkgewogICAgaW50IHNlY3Rpb25XaWR0aFB4ID0gMjU2ICogNDsKICAgIGlmICh3aWR0aFB4ICUgc2VjdGlvbldpZHRoUHggIT0gMCkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiUGxlYXNlIG1ha2UgdGhlIHdpZHRoIGFuIGV2ZW4gbXVsdGlwbGUgb2YgMTAyNC4iKTsKICAgIH0KICAgIGludCBzZWN0aW9uc1BlckZhY2UgPSB3aWR0aFB4IC8gc2VjdGlvbldpZHRoUHg7CgogICAgcmV0dXJuIG5ldyBLZXNtQmxvY2tTcGVjKAogICAgICAgICJMb3JlIiwgVVVJRC5yYW5kb21VVUlEKCksIDAsIHNlY3Rpb25XaWR0aFB4LCBzZWN0aW9uc1BlckZhY2UsIGhlaWdodFB4LCB6RGVwdGgsIDMpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVuYWJsZSB0byBmaW5kIHRoZSBzcGVjaWZpZWQgY29uZmlnIGZpbGUuIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIEFwcFJ1bm5lci5ydW5BbmRFeGl0KCJ0ZXN0IiwgQXJyYXlzLmFzTGlzdChSZWNlcHRpb25pc3RUZXN0Q2xpZW50LmNsYXNzKSwgYXJncyk7CiAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFZhbGlkYXRpb25FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgIFRlc3RDbGllbnRDb25maWcgY29uZmlnID0gbG9hZENvbmZpZ0pzb24oY29uZmlnRmlsZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBKc29uLgo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVuYWJsZSB0byBmaW5kIHRoZSBzcGVjaWZpZWQgY29uZmlnIGZpbGUuIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBhdGggY29uZmlnUGF0aCA9IFBhdGguCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXlzY2FsZUltZy9jb2xvckltZy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>ZoomCr</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>ZoomCr</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>colorImg</last-replace>
       <last-substitute>grayscaleImg</last-substitute>
       <last-dir>1</last-dir>
@@ -326,8 +332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>writeTiles</entry>
-        <entry>offset</entry>
         <entry>Offset</entry>
         <entry>testUploadImage</entry>
         <entry>Metric</entry>
@@ -346,6 +350,8 @@
         <entry>grayscaleImg</entry>
         <entry>shim</entry>
         <entry>ZoomCr</entry>
+        <entry>GeodeServ</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9IC8o</entry>
