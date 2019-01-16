@@ -78,7 +78,7 @@
         <mark key="." line="17" column="9" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/json/JsonSerializableTest.java" timestamp="1547500641863" />
-      <file name="/Dummy.txt" timestamp="1547089491714">
+      <file name="/Dummy.txt" timestamp="1547600564838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1547508530930">
@@ -151,6 +151,9 @@
         <mark key="." line="34" column="61" />
         <mark key="^" line="34" column="61" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1547600671739">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/staging/group_vars/b20-kesms.yml" timestamp="1547258959279" />
       <file name="/fragment.java" timestamp="1547508892608">
         <mark key="[" line="0" column="0" />
@@ -159,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="35" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" />
       <jump line="76" column="4" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="122" column="63" filename="$USER_HOME$/kesm/build.gradle" />
       <jump line="123" column="33" filename="$USER_HOME$/kesm/build.gradle" />
@@ -259,6 +261,7 @@
       <jump line="67" column="69" filename="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" />
       <jump line="47" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
       <jump line="34" column="31" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" />
+      <jump line="9" column="5" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
