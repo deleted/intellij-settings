@@ -94,12 +94,6 @@
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1547846410556">
-        <mark key="[" line="121" column="67" />
-        <mark key="]" line="121" column="65" />
-        <mark key="." line="121" column="65" />
-        <mark key="^" line="121" column="65" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1547508637826">
         <mark key="[" line="110" column="42" />
         <mark key="]" line="110" column="42" />
@@ -147,12 +141,7 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1547842428214">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="67" column="37" />
-        <mark key="." line="71" column="0" />
-      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1547842428214" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/geode/BlockCrystalSet.java" timestamp="1547507827130">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="50" column="2" />
@@ -181,12 +170,6 @@
         <mark key="^" line="34" column="61" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1547608529507" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1547845682433">
-        <mark key="[" line="162" column="61" />
-        <mark key="]" line="162" column="42" />
-        <mark key="." line="162" column="42" />
-        <mark key="^" line="162" column="42" />
-      </file>
       <file name="/fragment.java" timestamp="1547508892608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
