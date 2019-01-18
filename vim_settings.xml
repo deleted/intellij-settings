@@ -94,11 +94,11 @@
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1547842582691">
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="^" line="212" column="50" />
-        <mark key="." line="212" column="0" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1547844290428">
+        <mark key="[" line="206" column="74" />
+        <mark key="]" line="206" column="72" />
+        <mark key="^" line="206" column="72" />
+        <mark key="." line="195" column="125" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreatorTest.java" timestamp="1547508637826">
         <mark key="[" line="110" column="42" />
@@ -181,10 +181,10 @@
         <mark key="^" line="34" column="61" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1547608529507" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1547843306890">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1547844423178">
+        <mark key="[" line="120" column="13" />
+        <mark key="]" line="120" column="13" />
+        <mark key="." line="120" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1547508892608">
         <mark key="[" line="0" column="0" />
@@ -295,44 +295,44 @@
       <jump line="370" column="37" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgdXBsb2FkUGF5bG9hZChtZXRhCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>allOf</text>
       </register>
-      <register name="0" type="4">
-        <text>uploadPayload(metadata, imageBytes)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEltYWdlU2hhcGUgaW1nU2hhcGUgPSBuZXcgSW1hZ2VTaGFwZSgxMCwgMTApOwoKICAgIFNlY3Rpb25NZXRhZGF0YSBtZXRhZGF0YSA9IGdldFNlY3Rpb25NZXRhZGF0YShpbWdTaGFwZSk7CiAgICBCdWZmZXJlZEltYWdlIGltYWdlID0gVGVzdEltYWdlR2VuZXJhdG9yLmNvbG9yU3RydWN0dXJlZEltYWdlKGltZ1NoYXBlKTsKCiAgICBjbGllbnQudXBsb2FkSW1hZ2UobWV0YWRhdGEsIGltYWdlKTsKICAgIExpc3Q8UmVjZXB0aW9uaXN0T3V0ZXJDbGFzcy5VcGxvYWRJbWFnZVJlcXVlc3Q+IHJlcXVlc3RzID0gcmVjZWl2ZWRVcGxvYWRJbWFnZVJlcXVlc3RzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdXBsb2FkUGF5bG9hZChtZXRhCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoZWNrZWQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgQ29tcGxldGFibGVGdXR1cmU8Vm9pZD4gZG9uZSA9IHVwbG9hZEltYWdlQXN5bmMobWV0YWRhdGEsIGltYWdlKTsKLy8gICAgRnV0dXJlRnVuY3MuY2hlY2tlZEpvaW4oZG9uZSkucmV0aHJvdyhTdGF0dXNSdW50aW1lRXhjZXB0aW9uLmNsYXNzKS5qb2luKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBkb25lID0gdXBsb2FkSW1hZ2VBc3luYyhtZXRhZGF0YSwgaW1hZ2UpOwogICAgICAgIEZ1dHVyZUZ1bmNzLmNoZWNrZWRKb2luKGRvbmUpLnJldGhyb3coU3RhdHVzUnVudGltZUV4Y2VwdGlvbi5jbGFzcykuam9pbigpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgdXBsb2FkUGF5bG9hZChtZXRhCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNoZWNrZWQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgQ29tcGxldGFibGVGdXR1cmU8Vm9pZD4gZG9uZSA9IHVwbG9hZEltYWdlQXN5bmMobWV0YWRhdGEsIGltYWdlKTsKLy8gICAgRnV0dXJlRnVuY3MuY2hlY2tlZEpvaW4oZG9uZSkucmV0aHJvdyhTdGF0dXNSdW50aW1lRXhjZXB0aW9uLmNsYXNzKS5qb2luKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZTxWb2lkPiBkb25lID0gdXBsb2FkSW1hZ2VBc3luYyhtZXRhZGF0YSwgaW1hZ2UpOwogICAgICAgIEZ1dHVyZUZ1bmNzLmNoZWNrZWRKb2luKGRvbmUpLnJldGhyb3coU3RhdHVzUnVudGltZUV4Y2VwdGlvbi5jbGFzcykuam9pbigpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFJlY2VwdGlvbmlzdENsaWVudCBjbGllbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24gaWYgdGhlIGltYWdlIGNhbid0IGJlIHNlcmlhbGl6ZWQK</text>
+        <text encoding="base64">ICBwcml2YXRlIFJlY2VwdGlvbmlzdENsaWVudCBjbGllbnQ7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24gaWYgdGhlIGltYWdlIGNhbid0IGJlIHNlcmlhbGl6ZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWQK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24gaWYgdGhlIGltYWdlIGNhbid0IGJlIHNlcmlhbGl6ZWQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXlzY2FsZUltZy9jb2xvckltZy9n</text>
