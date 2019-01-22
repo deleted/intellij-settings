@@ -4,48 +4,48 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/BackoffCounter.java" timestamp="1548180181179" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548180717189">
-        <mark key="[" line="110" column="89" />
-        <mark key="]" line="110" column="87" />
-        <mark key="." line="110" column="87" />
-        <mark key="^" line="110" column="87" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548189667098">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/ExponentialBackoffCounter.java" timestamp="1548180288369" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1548189537998" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgd2FpdFRpbWVNcyA9IE1hdGgubWluKG1pbldhaXRNcyArIE1hdGgucG93KGV4cG9uZW50aWF0aW9uQmFzZSwgY291bnQpLCBtYXhXYWl0TXMpOwo=</text>
+        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLXBhcmFsbGVsU2VuZGVycyJ9LAogICAgICBkZXNjcmlwdGlvbiA9ICJOdW1iZXIgb2Ygc2ltdWx0YW5lb3VzIEtFU01zIHRvIGVtdWxhdGUiKQogIHB1YmxpYyBpbnQgcGFyYWxsZWxTZW5kZXJzID0gMzsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>15.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLXBhcmFsbGVsU2VuZGVycyJ9LAogICAgICBkZXNjcmlwdGlvbiA9ICJOdW1iZXIgb2Ygc2ltdWx0YW5lb3VzIEtFU01zIHRvIGVtdWxhdGUiKQogIHB1YmxpYyBpbnQgcGFyYWxsZWxTZW5kZXJzID0gMzsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgd2FpdFRpbWUgPSBiYWNrb2ZmLnNhbXBsZURlbGF5U2Vjb25kcygpOwo=</text>
+        <text encoding="base64">ICAvLyAgQE9wdGlvbigKICAvLyAgICAgIG5hbWUgPSB7Ii0tc2VydmVyRW5kcG9pbnQifSwKICAvLyAgICAgIGRlc2NyaXB0aW9uID0gIlVSSSBvZiB0aGUgc2VydmljZSB0byBjb25uZWN0IHRvLiIpCiAgLy8gIHB1YmxpYyBTdHJpbmcgc2VydmVyRW5kcG9pbnQgPSAiZG5zK3NydjovL3JlY2VwdGlvbmlzdC5zcnYuc3RhZ2luZy5iMjAuM3NjYW4uY29tIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGRvdWJsZSBtaW5XYWl0TXMgPSA1MDsKICAgIGZpbmFsIGRvdWJsZSBtYXhXYWl0TXMgPSAzMDAwMDsKICAgIGZpbmFsIGRvdWJsZSBleHBvbmVudGlhdGlvbkJhc2UgPSAyOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBydW5uYWJsZQogICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gY291bnQK</text>
+        <text encoding="base64">ICAgKiBDaGVlc3kgZXhwb25lbnRpYWwgYmFja29mZiBpbXBsZW1lbnRhdGlvbi4gSSdtIG5vdCBldmVuIHN1cmUgaWYgdGFpbC1jYWxsIG9wdGltaXphdGlvbiB3b3JrcwogICAqIGluc2lkZSBhIGNhdGNoIGhhbmRsZXIuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXRyeUZvcmV2ZXIoY291bnQgKyAxLCBydW5uYWJsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgd2FpdFRpbWVNcyA9IE1hdGgubWluKG1pbldhaXRNcyArIE1hdGgucG93KGV4cG9uZW50aWF0aW9uQmFzZSwgY291bnQpLCBtYXhXYWl0TXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgd2FpdFRpbWUgPSBiYWNrb2ZmLnNhbXBsZURlbGF5U2Vjb25kcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHJ1bm5hYmxlLnJ1bigpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgbG9nZ2VyLmluZm8oIlJldHJ5ICVkOiAlcyIsIGNvdW50LCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgIGRvdWJsZSB3YWl0VGltZU1zID0gTWF0aC5taW4obWluV2FpdE1zICsgTWF0aC5wb3coZXhwb25lbnRpYXRpb25CYXNlLCBjb3VudCksIG1heFdhaXRNcyk7CiAgICAgIHRyeSB7CiAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnNsZWVwKChsb25nKSBNYXRoLmZsb29yKHdhaXRUaW1lTXMpKTsKICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gaW50ZXJydXB0KSB7CiAgICAgICAgVGhyZWFkLmludGVycnVwdGVkKCk7CiAgICAgIH0KICAgICAgcmV0cnlGb3JldmVyKGNvdW50ICsgMSwgcnVubmFibGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIGRvdWJsZSBtaW5XYWl0TXMgPSA1MDsKICAgIGZpbmFsIGRvdWJsZSBtYXhXYWl0TXMgPSAzMDAwMDsKICAgIGZpbmFsIGRvdWJsZSBleHBvbmVudGlhdGlvbkJhc2UgPSAyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKiogUmV0cnkgd2l0aCBleHBvbmVudGlhbCBiYWNrb2ZmLiAqLwo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gY291bnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gcmV0cmllcwogICAqIEBwYXJhbSBydW5uYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXRyeUZvcmV2ZXIoY291bnQgKyAxLCBydW5uYWJsZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>15.0</text>
+        <text>TODO: Replace this with a proper configurable RetryPolicy object</text>
       </register>
     </registers>
     <search>
