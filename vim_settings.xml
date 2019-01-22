@@ -147,7 +147,7 @@
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/devops/ansible/environments/production/group_vars/kesm_main.yml" timestamp="1547254014217" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1548102177912">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1548118656343">
         <mark key="'" line="370" column="37" />
         <mark key="[" line="113" column="5" />
         <mark key="]" line="113" column="4" />
@@ -285,7 +285,7 @@
         <text>serverEndpoint</text>
       </register>
       <register name="/" type="4">
-        <text>allOf</text>
+        <text>retry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFRlc3RDbGllbnRDb25maWcgY29uZmlnVGVtcGxhdGUgPSBUZXN0Q2xpZW50Q29uZmlnLmdlbmVyYXRlVGVtcGxhdGUoKTsK</text>
@@ -322,9 +322,9 @@
       </register>
     </registers>
     <search>
-      <last-search>allOf</last-search>
+      <last-search>retry</last-search>
       <last-offset />
-      <last-pattern>allOf</last-pattern>
+      <last-pattern>retry</last-pattern>
       <last-replace>colorImg</last-replace>
       <last-substitute>grayscaleImg</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testUploadImage</entry>
         <entry>Metric</entry>
         <entry>compressImage</entry>
         <entry>baseJpg</entry>
@@ -352,6 +351,7 @@
         <entry>GeodeServ</entry>
         <entry>client</entry>
         <entry>allOf</entry>
+        <entry>retry</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9IC8o</entry>
