@@ -10,52 +10,113 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/ExponentialBackoffCounter.java" timestamp="1548180288369" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
+        <mark key="'" line="139" column="9" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1548196132955">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
+        <mark key="'" line="164" column="84" />
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="24" />
+        <mark key="." line="62" column="24" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1548189537998" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="30" column="0" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="98" column="4" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="252" column="31" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="257" column="16" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="256" column="16" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="255" column="21" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="254" column="33" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="253" column="34" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="72" column="49" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="157" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="158" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="3" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="64" column="40" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="162" column="43" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="164" column="84" filename="$USER_HOME$/kesm/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="140" column="9" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
+      <jump line="7" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
+      <jump line="75" column="43" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
+      <jump line="81" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
+      <jump line="14" column="25" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLXBhcmFsbGVsU2VuZGVycyJ9LAogICAgICBkZXNjcmlwdGlvbiA9ICJOdW1iZXIgb2Ygc2ltdWx0YW5lb3VzIEtFU01zIHRvIGVtdWxhdGUiKQogIHB1YmxpYyBpbnQgcGFyYWxsZWxTZW5kZXJzID0gMzsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLXBhcmFsbGVsU2VuZGVycyJ9LAogICAgICBkZXNjcmlwdGlvbiA9ICJOdW1iZXIgb2Ygc2ltdWx0YW5lb3VzIEtFU01zIHRvIGVtdWxhdGUiKQogIHB1YmxpYyBpbnQgcGFyYWxsZWxTZW5kZXJzID0gMzsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgQE9wdGlvbigKICAvLyAgICAgIG5hbWUgPSB7Ii0tc2VydmVyRW5kcG9pbnQifSwKICAvLyAgICAgIGRlc2NyaXB0aW9uID0gIlVSSSBvZiB0aGUgc2VydmljZSB0byBjb25uZWN0IHRvLiIpCiAgLy8gIHB1YmxpYyBTdHJpbmcgc2VydmVyRW5kcG9pbnQgPSAiZG5zK3NydjovL3JlY2VwdGlvbmlzdC5zcnYuc3RhZ2luZy5iMjAuM3NjYW4uY29tIjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBydW5uYWJsZQogICAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRGlyZWN0b3J5U3RyZWFtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBDaGVlc3kgZXhwb25lbnRpYWwgYmFja29mZiBpbXBsZW1lbnRhdGlvbi4gSSdtIG5vdCBldmVuIHN1cmUgaWYgdGFpbC1jYWxsIG9wdGltaXphdGlvbiB3b3JrcwogICAqIGluc2lkZSBhIGNhdGNoIGhhbmRsZXIuIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgd2FpdFRpbWVNcyA9IE1hdGgubWluKG1pbldhaXRNcyArIE1hdGgucG93KGV4cG9uZW50aWF0aW9uQmFzZSwgY291bnQpLCBtYXhXYWl0TXMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5saW5lY29ycC5hcm1lcmlhLmludGVybmFsLnNoYWRlZC5ndWF2YS5jb2xsZWN0LlN0cmVhbXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgd2FpdFRpbWUgPSBiYWNrb2ZmLnNhbXBsZURlbGF5U2Vjb25kcygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGRvdWJsZSBtaW5XYWl0TXMgPSA1MDsKICAgIGZpbmFsIGRvdWJsZSBtYXhXYWl0TXMgPSAzMDAwMDsKICAgIGZpbmFsIGRvdWJsZSBleHBvbmVudGlhdGlvbkJhc2UgPSAyOwo=</text>
+        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLXBhcmFsbGVsU2VuZGVycyJ9LAogICAgICBkZXNjcmlwdGlvbiA9ICJOdW1iZXIgb2Ygc2ltdWx0YW5lb3VzIEtFU01zIHRvIGVtdWxhdGUiKQogIHB1YmxpYyBpbnQgcGFyYWxsZWxTZW5kZXJzID0gMzsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gY291bnQK</text>
+        <text encoding="base64">ICAvLyAgQE9wdGlvbigKICAvLyAgICAgIG5hbWUgPSB7Ii0tc2VydmVyRW5kcG9pbnQifSwKICAvLyAgICAgIGRlc2NyaXB0aW9uID0gIlVSSSBvZiB0aGUgc2VydmljZSB0byBjb25uZWN0IHRvLiIpCiAgLy8gIHB1YmxpYyBTdHJpbmcgc2VydmVyRW5kcG9pbnQgPSAiZG5zK3NydjovL3JlY2VwdGlvbmlzdC5zcnYuc3RhZ2luZy5iMjAuM3NjYW4uY29tIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXRyeUZvcmV2ZXIoY291bnQgKyAxLCBydW5uYWJsZSk7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBydW5uYWJsZQogICAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>TODO: Replace this with a proper configurable RetryPolicy object</text>
+        <text>Files.newDirectoryStream</text>
+      </register>
+      <register name="/" type="4">
+        <text>Robin</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Robin</last-search>
+      <last-offset />
+      <last-pattern>Robin</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>grpc</entry>
+        <entry>GRPC_VER</entry>
+        <entry>Streams</entry>
+        <entry>guava</entry>
+        <entry>streams</entry>
+        <entry>stream</entry>
+        <entry>roundrobin</entry>
+        <entry>roundRobin</entry>
+        <entry>Robin</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
