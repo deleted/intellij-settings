@@ -3,24 +3,63 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/LoadBalancerRegistry.java" timestamp="1548208662921" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistClientCli.java" timestamp="1548206432780" />
+      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/util/RoundRobinLoadBalancerFactory.java" timestamp="1548208620849" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/BackoffCounter.java" timestamp="1548180181179" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548189667098">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/ExponentialBackoffCounter.java" timestamp="1548180288369" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
-        <mark key="'" line="139" column="9" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1548196132955">
-        <mark key="'" line="16" column="25" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClientConfigTest.java" timestamp="1548207076763">
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" timestamp="1548208009522">
+        <mark key="'" line="374" column="31" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1548189537998" />
+      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/JndiResourceResolverFactory.java" timestamp="1548208082751" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerConfig.java" timestamp="1548206479819">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1548207633720">
+        <mark key="'" line="95" column="85" />
+        <mark key="[" line="95" column="76" />
+        <mark key="]" line="95" column="76" />
+        <mark key="." line="95" column="76" />
+        <mark key="^" line="95" column="94" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1548206456277">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1548206439315">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
         <mark key="'" line="164" column="84" />
@@ -28,7 +67,17 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1548189537998" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1548206332976">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/Config.java" timestamp="1548206988676">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="17" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="30" column="0" filename="$USER_HOME$/kesm/build.gradle" />
@@ -52,49 +101,57 @@
       <jump line="75" column="43" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
       <jump line="81" column="36" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
       <jump line="14" column="25" filename="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" />
+      <jump line="95" column="85" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
+      <jump line="10" column="67" filename="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" />
+      <jump line="149" column="2" filename="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" />
+      <jump line="632" column="33" filename="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" />
+      <jump line="374" column="31" filename="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRGlyZWN0b3J5U3RyZWFtOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5saW5lY29ycC5hcm1lcmlhLmludGVybmFsLnNoYWRlZC5ndWF2YS5jb2xsZWN0LlN0cmVhbXM7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBAT3B0aW9uKAogICAgICBuYW1lID0geyItLXBhcmFsbGVsU2VuZGVycyJ9LAogICAgICBkZXNjcmlwdGlvbiA9ICJOdW1iZXIgb2Ygc2ltdWx0YW5lb3VzIEtFU01zIHRvIGVtdWxhdGUiKQogIHB1YmxpYyBpbnQgcGFyYWxsZWxTZW5kZXJzID0gMzsKCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgQE9wdGlvbigKICAvLyAgICAgIG5hbWUgPSB7Ii0tc2VydmVyRW5kcG9pbnQifSwKICAvLyAgICAgIGRlc2NyaXB0aW9uID0gIlVSSSBvZiB0aGUgc2VydmljZSB0byBjb25uZWN0IHRvLiIpCiAgLy8gIHB1YmxpYyBTdHJpbmcgc2VydmVyRW5kcG9pbnQgPSAiZG5zK3NydjovL3JlY2VwdGlvbmlzdC5zcnYuc3RhZ2luZy5iMjAuM3NjYW4uY29tIjsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBydW5uYWJsZQogICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>ReceptionistTestCli</text>
       </register>
       <register name="-" type="4">
-        <text>Files.newDirectoryStream</text>
+        <text>ReceptionistTestCli</text>
       </register>
       <register name="/" type="4">
-        <text>Robin</text>
+        <text>resolveSrv</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaXN0LnNydi5zdGFnaW5nLmIyMC4zc2Nhbi5jb20iKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGludCBwYXJhbGxlbFNlbmRlcnM7CiAgcHJpdmF0ZSBTdHJpbmcgZ3JwY0VuZHBvaW50OwogIHByaXZhdGUgTGlzdDxLZXNtQmxvY2tTcGVjPiBibG9ja1NwZWNzOwogIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRGlyZWN0b3J5U3RyZWFtOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5saW5lY29ycC5hcm1lcmlhLmludGVybmFsLnNoYWRlZC5ndWF2YS5jb2xsZWN0LlN0cmVhbXM7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
       </register>
     </registers>
     <search>
-      <last-search>Robin</last-search>
+      <last-search>resolveSrv</last-search>
       <last-offset />
-      <last-pattern>Robin</last-pattern>
+      <last-pattern>resolveSrv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -109,6 +166,9 @@
         <entry>roundrobin</entry>
         <entry>roundRobin</entry>
         <entry>Robin</entry>
+        <entry>srv</entry>
+        <entry>Srv</entry>
+        <entry>resolveSrv</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
