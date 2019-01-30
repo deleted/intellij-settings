@@ -3,16 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/LoadBalancerRegistry.java" timestamp="1548208662921" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistClientCli.java" timestamp="1548206432780" />
-      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/util/RoundRobinLoadBalancerFactory.java" timestamp="1548208620849" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/BackoffCounter.java" timestamp="1548180181179" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
         <mark key="." line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/ExponentialBackoffCounter.java" timestamp="1548180288369" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -31,8 +26,6 @@
       <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" timestamp="1548208009522">
         <mark key="'" line="374" column="31" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/KesmBlockSpec.java" timestamp="1548189537998" />
-      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/JndiResourceResolverFactory.java" timestamp="1548208082751" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerConfig.java" timestamp="1548206479819">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -62,7 +55,6 @@
         <mark key="." line="12" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
-        <mark key="'" line="164" column="84" />
         <mark key="[" line="62" column="23" />
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
@@ -78,6 +70,7 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/apps/research_portal/src/api/HistogramAPI.ts" timestamp="1548889581003" />
     </filemarks>
     <jumps>
       <jump line="30" column="0" filename="$USER_HOME$/kesm/build.gradle" />
@@ -170,6 +163,9 @@
         <entry>Srv</entry>
         <entry>resolveSrv</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -177,6 +173,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
