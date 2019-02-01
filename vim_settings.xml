@@ -18,6 +18,9 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1548986957295">
+        <mark key="'" line="118" column="34" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClientConfigTest.java" timestamp="1548207076763">
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="44" />
@@ -49,6 +52,7 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/PartitioningGeodeQueryServiceClient.java" timestamp="1548987138962" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1548206439315">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -98,6 +102,11 @@
       <jump line="149" column="2" filename="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" />
       <jump line="632" column="33" filename="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" />
       <jump line="374" column="31" filename="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" />
+      <jump line="61" column="96" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="119" column="50" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="142" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="143" column="50" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="118" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -107,7 +116,7 @@
         <text>ReceptionistTestCli</text>
       </register>
       <register name="/" type="4">
-        <text>resolveSrv</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaXN0LnNydi5zdGFnaW5nLmIyMC4zc2Nhbi5jb20iKTsK</text>
@@ -141,9 +150,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resolveSrv</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>resolveSrv</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -161,6 +170,8 @@
         <entry>srv</entry>
         <entry>Srv</entry>
         <entry>resolveSrv</entry>
+        <entry>geodeServiceClient</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd />
       <history-expr />
