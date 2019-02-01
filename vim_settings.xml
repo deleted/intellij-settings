@@ -18,6 +18,12 @@
         <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/PartitioningGeodeQueryServiceClient.java" timestamp="1548987138962" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
+        <mark key="[" line="213" column="43" />
+        <mark key="]" line="211" column="30" />
+        <mark key="^" line="211" column="30" />
+        <mark key="." line="211" column="30" />
+      </file>
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
         <mark key="[" line="62" column="23" />
         <mark key="]" line="62" column="24" />
@@ -39,12 +45,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1549046280768">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1549046993398">
         <mark key="'" line="411" column="4" />
-        <mark key="[" line="476" column="52" />
-        <mark key="]" line="476" column="16" />
-        <mark key="^" line="476" column="16" />
-        <mark key="." line="476" column="16" />
+        <mark key="[" line="477" column="58" />
+        <mark key="]" line="477" column="70" />
+        <mark key="^" line="477" column="70" />
+        <mark key="." line="477" column="70" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClientConfigTest.java" timestamp="1548207076763">
         <mark key="]" line="5" column="44" />
@@ -78,6 +84,11 @@
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1549046847793">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -128,44 +139,44 @@
       <jump line="411" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>responseSize</text>
       </register>
       <register name="-" type="4">
-        <text>ReceptionistTestCli</text>
+        <text>responseSize</text>
       </register>
       <register name="/" type="4">
         <text>setHeaders</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaXN0LnNydi5zdGFnaW5nLmIyMC4zc2Nhbi5jb20iKTsK</text>
+      <register name="0" type="4">
+        <text>ByteFuncs.toUtf8Bytes(JsonFuncs.serializeToJsonString(pojo))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBib2R5ID0gcmVzcG9uc2UuYm9keSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBwYXJhbGxlbFNlbmRlcnM7CiAgcHJpdmF0ZSBTdHJpbmcgZ3JwY0VuZHBvaW50OwogIHByaXZhdGUgTGlzdDxLZXNtQmxvY2tTcGVjPiBibG9ja1NwZWNzOwogIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGludCBwYXJhbGxlbFNlbmRlcnM7CiAgcHJpdmF0ZSBTdHJpbmcgZ3JwY0VuZHBvaW50OwogIHByaXZhdGUgTGlzdDxLZXNtQmxvY2tTcGVjPiBibG9ja1NwZWNzOwogIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRGlyZWN0b3J5U3RyZWFtOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRGlyZWN0b3J5U3RyZWFtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5saW5lY29ycC5hcm1lcmlhLmludGVybmFsLnNoYWRlZC5ndWF2YS5jb2xsZWN0LlN0cmVhbXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU3RyZWFtczsK</text>
       </register>
     </registers>
     <search>
