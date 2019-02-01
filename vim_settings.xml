@@ -35,6 +35,10 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/metrics/HistogramMetric.java" timestamp="1549049500989" />
+      <file name="/Dummy.txt" timestamp="1549048880827">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
@@ -45,8 +49,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1549046993398">
-        <mark key="'" line="411" column="4" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1549049388640">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="477" column="58" />
         <mark key="]" line="477" column="70" />
         <mark key="^" line="477" column="70" />
@@ -85,7 +89,7 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1549046847793">
+      <file name="/fragment.java" timestamp="1549048880844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,6 +141,7 @@
       <jump line="273" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="290" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="411" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -146,7 +151,7 @@
         <text>responseSize</text>
       </register>
       <register name="/" type="4">
-        <text>setHeaders</text>
+        <text>request_response</text>
       </register>
       <register name="0" type="4">
         <text>ByteFuncs.toUtf8Bytes(JsonFuncs.serializeToJsonString(pojo))</text>
@@ -180,9 +185,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setHeaders</last-search>
+      <last-search>request_response</last-search>
       <last-offset />
-      <last-pattern>setHeaders</last-pattern>
+      <last-pattern>request_response</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -205,6 +210,7 @@
         <entry>headers</entry>
         <entry>json</entry>
         <entry>setHeaders</entry>
+        <entry>request_response</entry>
       </history-search>
       <history-cmd />
       <history-expr />
