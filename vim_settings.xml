@@ -20,8 +20,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeQueryServiceImpl.java" timestamp="1549403811788" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1549403716086">
-        <mark key="'" line="93" column="66" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1549579195717">
+        <mark key="'" line="581" column="11" />
         <mark key="[" line="572" column="0" />
         <mark key="]" line="572" column="0" />
         <mark key="^" line="572" column="17" />
@@ -90,7 +90,9 @@
       <jump line="86" column="71" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="90" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="91" column="45" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
-      <jump line="93" column="66" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="87" column="32" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="93" column="75" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="581" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -100,7 +102,7 @@
         <text>responseSize</text>
       </register>
       <register name="/" type="4">
-        <text>response</text>
+        <text>seconds</text>
       </register>
       <register name="0" type="4">
         <text>ByteFuncs.toUtf8Bytes(JsonFuncs.serializeToJsonString(pojo))</text>
@@ -134,15 +136,14 @@
       </register>
     </registers>
     <search>
-      <last-search>response</last-search>
+      <last-search>seconds</last-search>
       <last-offset />
-      <last-pattern>response</last-pattern>
+      <last-pattern>seconds</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>grpc</entry>
         <entry>GRPC_VER</entry>
         <entry>Streams</entry>
         <entry>guava</entry>
@@ -161,6 +162,8 @@
         <entry>setHeaders</entry>
         <entry>request_response</entry>
         <entry>response</entry>
+        <entry>_SECONDS</entry>
+        <entry>seconds</entry>
       </history-search>
       <history-cmd />
       <history-expr />
