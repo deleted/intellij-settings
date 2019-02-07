@@ -4,11 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeQueryServiceClient.java" timestamp="1549403947915" />
-      <file name="$USER_HOME$/src/grpc-java/core/src/main/java/io/grpc/internal/DnsNameResolver.java" timestamp="1548208009522">
-        <mark key="'" line="374" column="31" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/net/spark/SparkTestAssertions.java" timestamp="1548990158673" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/PartitioningGeodeQueryServiceClient.java" timestamp="1548987138962" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/PartitioningGeodeQueryServiceClient.java" timestamp="1549580519041">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="34" column="29" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
         <mark key="[" line="213" column="43" />
         <mark key="]" line="211" column="30" />
@@ -29,6 +31,13 @@
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/JsonCrystalHistogramFuncs.java" timestamp="1549404593604" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tools/GeodeQueryServiceCommand.java" timestamp="1549568034974" />
+      <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1549580748875">
+        <mark key="'" line="188" column="28" />
+        <mark key="[" line="95" column="76" />
+        <mark key="]" line="95" column="76" />
+        <mark key="." line="95" column="76" />
+        <mark key="^" line="95" column="94" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/math/SampleFuncs.java" timestamp="1549405629255" />
       <file name="/fragment.java" timestamp="1549048880844">
         <mark key="[" line="0" column="0" />
@@ -93,60 +102,58 @@
       <jump line="87" column="32" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="93" column="75" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="581" column="11" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="188" column="28" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QucGFkZGRkCg==</text>
+      <register name="&quot;" type="4">
+        <text>histogramClientTimer</text>
       </register>
       <register name="-" type="4">
-        <text>responseSize</text>
+        <text>histogramClientTimer</text>
       </register>
       <register name="/" type="4">
-        <text>seconds</text>
+        <text>publish</text>
       </register>
       <register name="0" type="4">
         <text>ByteFuncs.toUtf8Bytes(JsonFuncs.serializeToJsonString(pojo))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QucGFkZGRkCg==</text>
+        <text encoding="base64">ICAgICAgVGltZWFibGVNZXRyaWMuTWV0cmljVGltZXIgdGltZXIgPSBoaXN0b2dyYW1DbGllbnRUaW1lci5zdGFydFRpbWVyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBib2R5ID0gcmVzcG9uc2UuYm9keSgpOwo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QucGFkZGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBib2R5ID0gcmVzcG9uc2UuYm9keSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBwYXJhbGxlbFNlbmRlcnM7CiAgcHJpdmF0ZSBTdHJpbmcgZ3JwY0VuZHBvaW50OwogIHByaXZhdGUgTGlzdDxLZXNtQmxvY2tTcGVjPiBibG9ja1NwZWNzOwogIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGludCBwYXJhbGxlbFNlbmRlcnM7CiAgcHJpdmF0ZSBTdHJpbmcgZ3JwY0VuZHBvaW50OwogIHByaXZhdGUgTGlzdDxLZXNtQmxvY2tTcGVjPiBibG9ja1NwZWNzOwogIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRGlyZWN0b3J5U3RyZWFtOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>seconds</last-search>
+      <last-search>publish</last-search>
       <last-offset />
-      <last-pattern>seconds</last-pattern>
+      <last-pattern>publish</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GRPC_VER</entry>
-        <entry>Streams</entry>
-        <entry>guava</entry>
         <entry>streams</entry>
         <entry>stream</entry>
         <entry>roundrobin</entry>
@@ -164,6 +171,9 @@
         <entry>response</entry>
         <entry>_SECONDS</entry>
         <entry>seconds</entry>
+        <entry>getNanos</entry>
+        <entry>nanos</entry>
+        <entry>publish</entry>
       </history-search>
       <history-cmd />
       <history-expr />
