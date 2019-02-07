@@ -5,12 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeQueryServiceClient.java" timestamp="1549403947915" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/net/spark/SparkTestAssertions.java" timestamp="1548990158673" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/PartitioningGeodeQueryServiceClient.java" timestamp="1549580519041">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="30" />
-        <mark key="^" line="34" column="29" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
         <mark key="[" line="213" column="43" />
         <mark key="]" line="211" column="30" />
