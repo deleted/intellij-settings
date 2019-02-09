@@ -3,25 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1548196132955">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeQueryServiceClient.java" timestamp="1549403947915" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/net/spark/SparkTestAssertions.java" timestamp="1548990158673" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
         <mark key="[" line="213" column="43" />
         <mark key="]" line="211" column="30" />
         <mark key="^" line="211" column="30" />
         <mark key="." line="211" column="30" />
       </file>
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="24" />
+        <mark key="." line="62" column="24" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1549671181613">
+        <mark key="[" line="202" column="73" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/runtime/metrics/HistogramMetric.java" timestamp="1549050608597" />
       <file name="/Dummy.txt" timestamp="1549048880827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/server/GeodeQueryServiceImpl.java" timestamp="1549403811788" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1549581421923">
         <mark key="'" line="581" column="11" />
         <mark key="[" line="572" column="0" />
         <mark key="]" line="572" column="0" />
         <mark key="^" line="572" column="17" />
         <mark key="." line="572" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1549671256718">
+        <mark key="[" line="136" column="17" />
+        <mark key="]" line="145" column="54" />
+        <mark key="." line="145" column="54" />
+        <mark key="^" line="145" column="54" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/JsonCrystalHistogramFuncs.java" timestamp="1549404593604" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tools/GeodeQueryServiceCommand.java" timestamp="1549568034974" />
@@ -31,6 +67,21 @@
         <mark key="]" line="95" column="76" />
         <mark key="." line="95" column="76" />
         <mark key="^" line="95" column="94" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1548206456277">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1548206439315">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1548206332976">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/math/SampleFuncs.java" timestamp="1549405629255" />
       <file name="/fragment.java" timestamp="1549048880844">
@@ -99,11 +150,11 @@
       <jump line="188" column="28" filename="$USER_HOME$/kesm/gradle/jars.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>histogramClientTimer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leGNlcHRpb25hbGx5KCgpIC0+ICk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>histogramClientTimer</text>
+        <text>whether the job was successful or not.</text>
       </register>
       <register name="/" type="4">
         <text>publish</text>
@@ -112,31 +163,31 @@
         <text>ByteFuncs.toUtf8Bytes(JsonFuncs.serializeToJsonString(pojo))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVGltZWFibGVNZXRyaWMuTWV0cmljVGltZXIgdGltZXIgPSBoaXN0b2dyYW1DbGllbnRUaW1lci5zdGFydFRpbWVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5leGNlcHRpb25hbGx5KCgpIC0+ICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QucGFkZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAud2hlbkNvbXBsZXRlKAogICAgICAgICAgICAobm90aGluZywgZXJyb3IpIC0+IHsKICAgICAgICAgICAgICB0aGlzLmRlbGV0ZVJlc2VydmF0aW9uKHJlc2VydmF0aW9uKTsKICAgICAgICAgICAgICBhc3NlcnQgbm90aGluZyA9PSBudWxsOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBib2R5ID0gcmVzcG9uc2UuYm9keSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW5SdQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgVGltZWFibGVNZXRyaWMuTWV0cmljVGltZXIgdGltZXIgPSBoaXN0b2dyYW1DbGllbnRUaW1lci5zdGFydFRpbWVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBwYXJhbGxlbFNlbmRlcnM7CiAgcHJpdmF0ZSBTdHJpbmcgZ3JwY0VuZHBvaW50OwogIHByaXZhdGUgTGlzdDxLZXNtQmxvY2tTcGVjPiBibG9ja1NwZWNzOwogIAo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QucGFkZGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBib2R5ID0gcmVzcG9uc2UuYm9keSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5zZXRHcnBjRW5kcG9pbnQoImRucytzcnY6Ly8vcmVjZXB0aW9uaQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAubG9hZAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGludCBwYXJhbGxlbFNlbmRlcnM7CiAgcHJpdmF0ZSBTdHJpbmcgZ3JwY0VuZHBvaW50OwogIHByaXZhdGUgTGlzdDxLZXNtQmxvY2tTcGVjPiBibG9ja1NwZWNzOwogIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
     </registers>
     <search>
