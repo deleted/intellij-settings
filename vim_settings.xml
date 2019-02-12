@@ -56,10 +56,10 @@
         <mark key="^" line="572" column="17" />
         <mark key="." line="572" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1550006674401">
-        <mark key="[" line="238" column="24" />
-        <mark key="]" line="238" column="24" />
-        <mark key="." line="238" column="24" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1550008075721">
+        <mark key="[" line="183" column="74" />
+        <mark key="]" line="183" column="74" />
+        <mark key="." line="183" column="74" />
         <mark key="^" line="230" column="10" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/RetryerTest.java" timestamp="1549920609334">
@@ -174,10 +174,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String.format(</text>
+        <text>reset</text>
       </register>
       <register name="-" type="4">
-        <text>String.format(</text>
+        <text>reset</text>
       </register>
       <register name="/" type="4">
         <text>logger.info</text>
