@@ -8,11 +8,11 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1550006320356">
-        <mark key="[" line="218" column="35" />
-        <mark key="]" line="218" column="35" />
-        <mark key="^" line="206" column="15" />
-        <mark key="." line="218" column="35" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1550014201613">
+        <mark key="[" line="204" column="21" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
         <mark key="[" line="5" column="13" />
@@ -212,6 +212,9 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgIEJhY2tvZmZDb3VudGVyIGJhY2tvZmZDb3VudGVyID0gcmV0cnlTdHJhdGVneS5nZXRCYWNrb2ZmQ291bnRlcigpOwo=</text>
       </register>
+      <register name=":" type="4">
+        <text>205</text>
+      </register>
     </registers>
     <search>
       <last-search>logger.info</last-search>
@@ -243,7 +246,9 @@
         <entry>submit</entry>
         <entry>logger.info</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>205</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
