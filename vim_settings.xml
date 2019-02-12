@@ -53,11 +53,11 @@
         <mark key="^" line="572" column="17" />
         <mark key="." line="572" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1549927790845">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1549928898645">
         <mark key="[" line="132" column="34" />
-        <mark key="]" line="132" column="2" />
-        <mark key="." line="132" column="2" />
-        <mark key="^" line="132" column="3" />
+        <mark key="]" line="134" column="36" />
+        <mark key="." line="134" column="36" />
+        <mark key="^" line="134" column="36" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/RetryerTest.java" timestamp="1549920609334">
         <mark key="[" line="21" column="48" />
@@ -65,12 +65,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/Retryer.java" timestamp="1549927730082">
-        <mark key="'" line="63" column="15" />
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="26" column="54" />
-        <mark key="." line="26" column="54" />
-        <mark key="^" line="26" column="54" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/Retryer.java" timestamp="1549928993855">
+        <mark key="'" line="88" column="15" />
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="^" line="57" column="30" />
       </file>
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1549580748875">
         <mark key="'" line="188" column="28" />
@@ -94,7 +94,7 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1549917396417">
+      <file name="/fragment.java" timestamp="1549929044406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,8 +160,8 @@
       <jump line="46" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/Retryer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnNsZWVwKGJhY2tvZmZDb3VudGVyLnNhbXBsZURlbGF5KCkudG9NaWxsaXMoKSk7Ci8vICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBpbnRlcnJ1cHQpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuaW50ZXJydXB0ZWQoKTsKLy8gICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -170,34 +170,34 @@
         <text>increment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0cnkgdGhlIGdpdmVuIHJ1bm5hYmxlIHVwIHRvIGEgY2VydGFpbiBudW1iZXIgb2YgdGltZXMsIHRoZW4gcXVpdC4KICAgICAqIFVzZSB0aGUgZ2l2ZW4gZXhlY3V0b3IuCiAgICAgKiBSZXR1cm5zIGEgQ29tcGxldGFibGVGdXR1cmUgdGhhdCBjb21wbGV0ZXMgd2hlbiB0aGUgam9iIHN1Y2NlZWRzLgogICAgICogVGhpcyBmdXR1cmUgd2lsbCBjb21wbGV0ZSBleGNlcHRpb25hbGx5IGlmIHRoZSBtYXhpbXVtIG51bWJlciBvZiByZXRyaWVzIGlzIGV4Y2VlZGVkLgogICAgICogQHBhcmFtIGZ1bmMgVGhlIGZ1bmN0aW9uIHRvIGV4ZWN1dGUuCiAgICAgKiBAcGFyYW0gbWF4UmV0cmllcyBNYXhpbXVtIG51bWJlciBvZiByZXRyaWVzLgogICAgICogQHBhcmFtIGV4ZWN1dG9yIEV4ZWN1dG9yIHRvIHVzZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnNsZWVwKGJhY2tvZmZDb3VudGVyLnNhbXBsZURlbGF5KCkudG9NaWxsaXMoKSk7Ci8vICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBpbnRlcnJ1cHQpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuaW50ZXJydXB0ZWQoKTsKLy8gICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBleGVjdXRvciBFeGVjdXRvciB0byB1c2UK</text>
+        <text encoding="base64">ICAgICAgICBmdXR1cmUuYXBwbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0cnkgdGhlIGdpdmVuIHJ1bm5hYmxlIHVwIHRvIGEgY2VydGFpbiBudW1iZXIgb2YgdGltZXMsIHRoZW4gcXVpdC4KICAgICAqIFVzZSB0aGUgZ2l2ZW4gZXhlY3V0b3IuCiAgICAgKiBSZXR1cm5zIGEgQ29tcGxldGFibGVGdXR1cmUgdGhhdCBjb21wbGV0ZXMgd2hlbiB0aGUgam9iIHN1Y2NlZWRzLgogICAgICogVGhpcyBmdXR1cmUgd2lsbCBjb21wbGV0ZSBleGNlcHRpb25hbGx5IGlmIHRoZSBtYXhpbXVtIG51bWJlciBvZiByZXRyaWVzIGlzIGV4Y2VlZGVkLgogICAgICogQHBhcmFtIGZ1bmMKICAgICAqIEBwYXJhbSBtYXhSZXRyaWVzCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcGxldGFibGVGdXR1cmUucnVuQXN5bmMoKCkgLT4gewogICAgICAgICAgICB3aGlsZSAocmV0cnlDb25kaXRpb24udGVzdChiYWNrb2ZmQ291bnRlci5nZXRCYWNrb2ZmQ291bnQoKSkpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgZnVuYy5ydW4oKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSBlcnIpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoISByZXRyeUNvbmRpdGlvbi50ZXN0KGJhY2tvZmZDb3VudGVyLmdldEJhY2tvZmZDb3VudCgpICsgMSkpewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgTWF4UmV0cmllc0V4Y2VlZGVkRXhjZXB0aW9uKGVycik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJDYXVnaHQgZXhjZXB0aW9uLiBSZXRyeWluZy4iLCBlcnIpOwoKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMuc2xlZXAoYmFja29mZkNvdW50ZXIuc2FtcGxlRGVsYXkoKS50b01pbGxpcygpKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBpbnRlcnJ1cHQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLmludGVycnVwdGVkKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGJhY2tvZmZDb3VudGVyLmluY3JlbWVudEJhY2tvZmYoKTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfSwgZXhlY3V0b3IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBleGVjdXRvcgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBleGVjdXRvciBFeGVjdXRvciB0byB1c2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBleGVjdXRvciBleGVjdXRvciB0byB1c2UuCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0cnkgdGhlIGdpdmVuIHJ1bm5hYmxlIHVwIHRvIGEgY2VydGFpbiBudW1iZXIgb2YgdGltZXMsIHRoZW4gcXVpdC4KICAgICAqIFVzZSB0aGUgZ2l2ZW4gZXhlY3V0b3IuCiAgICAgKiBSZXR1cm5zIGEgQ29tcGxldGFibGVGdXR1cmUgdGhhdCBjb21wbGV0ZXMgd2hlbiB0aGUgam9iIHN1Y2NlZWRzLgogICAgICogVGhpcyBmdXR1cmUgd2lsbCBjb21wbGV0ZSBleGNlcHRpb25hbGx5IGlmIHRoZSBtYXhpbXVtIG51bWJlciBvZiByZXRyaWVzIGlzIGV4Y2VlZGVkLgogICAgICogQHBhcmFtIGZ1bmMKICAgICAqIEBwYXJhbSBtYXhSZXRyaWVzCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgbWF4UmV0cmllcyA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBleGVjdXRvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBleGVjdXRvciBleGVjdXRvciB0byB1c2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY291bnQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgbWF4UmV0cmllcyA9IDM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXRyeWVyIHJldHJ5ZXIgPSBuZXcgUmV0cnllcigwLDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY291bnQgPSAwOwo=</text>
       </register>
     </registers>
     <search>
