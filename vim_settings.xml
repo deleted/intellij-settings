@@ -8,7 +8,12 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1549939686456" />
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1549941092846">
+        <mark key="[" line="206" column="12" />
+        <mark key="]" line="206" column="12" />
+        <mark key="^" line="206" column="15" />
+        <mark key="." line="206" column="12" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -55,6 +60,11 @@
         <mark key="]" line="572" column="0" />
         <mark key="^" line="572" column="17" />
         <mark key="." line="572" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1549941122888">
+        <mark key="[" line="166" column="36" />
+        <mark key="]" line="166" column="36" />
+        <mark key="." line="166" column="36" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/RetryerTest.java" timestamp="1549920609334">
         <mark key="[" line="21" column="48" />
@@ -163,13 +173,14 @@
       <jump line="202" column="17" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="166" column="126" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
       <jump line="177" column="14" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
+      <jump line="197" column="110" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>submitWithForeverRetry</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>submitWithForeverRetry</text>
       </register>
       <register name="/" type="4">
         <text>logger.info</text>
@@ -178,31 +189,32 @@
         <text encoding="base64">ICAgIFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuVGlsZVJlcXVlc3QgbW9ja1RpbGVSZXF1ZXN0ID0KICAgICAgICAgICAgTW9ja2l0by5tb2NrKFJlY2VwdGlvbmlzdFRpbGVXcml0ZXIuVGlsZVJlcXVlc3QuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBEdXJhdGlvbiBzYW1wbGVEZWxheSgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gYmFja29mZkNvdW50ZXIgVGhlIGJhY2tvZmYgY291bnRlciB0byB1c2UK</text>
+        <text encoding="base64">ICAgIEJhY2tvZmZDb3VudGVyIGJhY2tvZmZDb3VudGVyID0gcmV0cnlTdHJhdGVneS5nZXRCYWNrb2ZmQ291bnRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGVycikgLT4gewogICAgICAgICAgICAgIGxvZ2dlci5pbmZvKFN0cmluZy5mb3JtYXQoIlJldHJ5ICVkIiwgYmFja29mZkNvdW50ZXIuZ2V0QmFja29mZkNvdW50KCkpLCBlcnIpOwogICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgKiByZW1vdmVkLCB3aGV0aGVyIHRoZSBqb2Igd2FzIHN1Y2Nlc3NmdWwgb3Igbm90Lgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBSZXRyeVN0cmF0ZWd5KChlcnIpIC0+IHRydWUsIG5ldyBFeHBvbmVudGlhbEJhY2tvZmZDb3VudGVyKCkpOwo=</text>
+      <register name="4" type="4">
+        <text>After the job runs, the reservation will be
+   * removed, whether the job was successful or not.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXRyeVN0cmF0ZWd5KEZ1bmN0aW9uPFRocm93YWJsZSwgQm9vbGVhbj4gcG9saWN5LCBCYWNrb2ZmQ291bnRlciBiYWNrb2ZmQ291bnRlcikgewogICAgICB0aGlzLnBvbGljeSA9IHBvbGljeTsKICAgICAgdGhpcy5iYWNrb2ZmQ291bnRlciA9IGJhY2tvZmZDb3VudGVyOwogICAgfQoK</text>
+        <text encoding="base64">ICAgKiBiZSByZW1vdmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gYmFja29mZkNvdW50ZXIgVGhlIGJhY2tvZmYgY291bnRlciB0byB1c2UK</text>
+        <text encoding="base64">ICAvKgogIAogICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIEJhY2tvZmZDb3VudGVyIGJhY2tvZmZDb3VudGVyID0gbmV3IEV4cG9uZW50aWFsQmFja29mZkNvdW50ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBEdXJhdGlvbiBzYW1wbGVEZWxheSgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFzc2VydCBub3RoaW5nID09IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gYmFja29mZkNvdW50ZXIgVGhlIGJhY2tvZmYgY291bnRlciB0byB1c2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFzc2VydCBub3RoaW5nID09IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGVycikgLT4gewogICAgICAgICAgICAgIGxvZ2dlci5pbmZvKFN0cmluZy5mb3JtYXQoIlJldHJ5ICVkIiwgYmFja29mZkNvdW50ZXIuZ2V0QmFja29mZkNvdW50KCkpLCBlcnIpOwogICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9LAo=</text>
       </register>
     </registers>
     <search>
