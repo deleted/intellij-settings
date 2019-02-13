@@ -14,6 +14,12 @@
         <mark key="." line="213" column="0" />
         <mark key="^" line="209" column="131" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/FakeSectionIterator.java" timestamp="1550090208176">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="62" column="49" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -30,7 +36,6 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/FutureFuncs.java" timestamp="1550010209480" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1549937500568">
         <mark key="'" line="203" column="17" />
         <mark key="[" line="201" column="17" />
@@ -40,11 +45,12 @@
       <file name="/Dummy.txt" timestamp="1549048880827">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1549917057523">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="106" column="8" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1550092053138">
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="55" column="48" />
+        <mark key="." line="55" column="48" />
+        <mark key="^" line="55" column="73" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/BackoffCounter.java" timestamp="1550003290023" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
@@ -84,6 +90,12 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1549937694193">
         <mark key="[" line="172" column="17" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" timestamp="1550090225849">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="39" column="58" />
+      </file>
       <file name="$USER_HOME$/kesm/gradle/jars.gradle" timestamp="1549580748875">
         <mark key="'" line="188" column="28" />
         <mark key="[" line="95" column="76" />
@@ -101,7 +113,6 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/ServiceProxyClient.java" timestamp="1550006440154" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1548206332976">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -111,6 +122,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/Section.java" timestamp="1550090050499">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -179,59 +196,58 @@
       <jump line="197" column="110" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC50aGVuUmV0dXJuKGV4Y2VwdGlvbmFsRnV0dXJlLCBleGNlcHRpb25hbEZ1dHVyZSwgZXhjZXB0aW9uYWxGdXR1cmUsIHN1Y2Nlc3NmdWxGdXR1cmUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>config.getParallelSenders(</text>
       </register>
       <register name="-" type="4">
-        <text>writeTileResponses</text>
+        <text>config.getParallelSenders(</text>
       </register>
       <register name="/" type="4">
-        <text>logger.info</text>
+        <text>next</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uYWxGdXR1cmUsCiAgICAgICAgICAgIGV4Y2VwdGlvbmFsRnV0dXJlLAogICAgICAgICAgICBleGNlcHRpb25hbEZ1dHVyZSwKICAgICAgICAgICAgc3VjY2Vzc2Z1bEZ1dHVyZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC50aGVuUmV0dXJuKGV4Y2VwdGlvbmFsRnV0dXJlLCBleGNlcHRpb25hbEZ1dHVyZSwgZXhjZXB0aW9uYWxGdXR1cmUsIHN1Y2Nlc3NmdWxGdXR1cmUpOwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJJbml0aWFsaXppbmcgJWQgc2VuZCB0aHJlYWRzIiwgY29uZmlnLmdldFBhcmFsbGVsU2VuZGVycygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAU3VwcAo=</text>
+        <text encoding="base64">ICAgIGV4ZWN1dG9yID0gRXhlY3V0b3JzLm5ld1NjaGVkdWxlZFRocmVhZFBvb2woY29uZmlnLmdldFBhcmFsbGVsU2VuZGVycygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAU2FmZVZhcmFyZ3MK</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZSBCbG9ja2luZ1F1ZXVlPFNlY3Rpb24+IHF1ZXVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEZhaWwgdGhyaWNlIGJlZm9yZSBzdWNjZWVkaW5nCiAgICBAU3VwcHJlc3NXYXJuaW5ncygpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZW5kZXIoQmxvY2tpbmdRdWV1ZSBxdWV1ZSkgewogICAgICB0aGlzLnF1ZXVlID0gcXVldWU7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEV4ZWN1dG9yU2VydmljZSBleGVjdXRvcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+W10gd3JpdGVUaWxlUmVzcG9uc2VzID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlW117CiAgICAgICAgICAgIGV4Y2VwdGlvbmFsRnV0dXJlLAogICAgICAgICAgICBleGNlcHRpb25hbEZ1dHVyZSwKICAgICAgICAgICAgZXhjZXB0aW9uYWxGdXR1cmUsCiAgICAgICAgICAgIHN1Y2Nlc3NmdWxGdXR1cmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">fTsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIGV4ZWN1dG9yKSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGV4Y2VwdGlvbmFsRnV0dXJlLAogICAgICAgICAgICBleGNlcHRpb25hbEZ1dHVyZSwKICAgICAgICAgICAgZXhjZXB0aW9uYWxGdXR1cmUsCiAgICAgICAgICAgIHN1Y2Nlc3NmdWxGdXR1cmU=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcml2YXRlIEJsb2NraW5nUXVldWU8Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
       </register>
     </registers>
     <search>
-      <last-search>logger.info</last-search>
+      <last-search>next</last-search>
       <last-offset />
-      <last-pattern>logger.info</last-pattern>
+      <last-pattern>next</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Robin</entry>
         <entry>srv</entry>
         <entry>Srv</entry>
         <entry>resolveSrv</entry>
@@ -251,6 +267,7 @@
         <entry>increment</entry>
         <entry>submit</entry>
         <entry>logger.info</entry>
+        <entry>next</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
@@ -273,6 +290,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
