@@ -6,11 +6,12 @@
       <file name="/Dummy.txt" timestamp="1549048880827">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1550115645953">
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1550184546439">
         <mark key="'" line="110" column="15" />
-        <mark key="[" line="149" column="121" />
-        <mark key="]" line="149" column="121" />
-        <mark key="." line="149" column="121" />
+        <mark key="[" line="60" column="60" />
+        <mark key="]" line="60" column="60" />
+        <mark key="." line="60" column="60" />
+        <mark key="^" line="60" column="60" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
