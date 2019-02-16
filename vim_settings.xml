@@ -105,6 +105,12 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" timestamp="1550280758008">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="659" column="0" />
+        <mark key="]" line="659" column="0" />
+        <mark key="." line="659" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1548196132955">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -129,6 +135,11 @@
         <mark key="." line="211" column="30" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/GeodeStorageClient.java" timestamp="1550280551308" />
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/net/aws/S3ProxyClient.java" timestamp="1550281361036">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/FakeSectionGenerator.java" timestamp="1546304214528">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="13" />
@@ -267,55 +278,56 @@
       <jump line="31" column="3" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMWeb/packages/tile-viewer/sliceTileSource.js" />
       <jump line="141" column="26" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMWeb/packages/tile-viewer/sliceTileSource.js" />
       <jump line="38" column="23" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMWeb/packages/tile-viewer/sliceTileSource.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/server/GeodeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC50aGVuUmV0dXJuKGV4Y2VwdGlvbmFsRnV0dXJlLCBleGNlcHRpb25hbEZ1dHVyZSwgZXhjZXB0aW9uYWxGdXR1cmUsIHN1Y2Nlc3NmdWxGdXR1cmUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>writeTileResponses</text>
       </register>
       <register name="/" type="4">
-        <text>getOffsets</text>
+        <text>statAtom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uYWxGdXR1cmUsCiAgICAgICAgICAgIGV4Y2VwdGlvbmFsRnV0dXJlLAogICAgICAgICAgICBleGNlcHRpb25hbEZ1dHVyZSwKICAgICAgICAgICAgc3VjY2Vzc2Z1bEZ1dHVyZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC50aGVuUmV0dXJuKGV4Y2VwdGlvbmFsRnV0dXJlLCBleGNlcHRpb25hbEZ1dHVyZSwgZXhjZXB0aW9uYWxGdXR1cmUsIHN1Y2Nlc3NmdWxGdXR1cmUpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAU3VwcAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBAU2FmZVZhcmFyZ3MK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEZhaWwgdGhyaWNlIGJlZm9yZSBzdWNjZWVkaW5nCiAgICBAU3VwcHJlc3NXYXJuaW5ncygpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHMzQ2xpZW50VjEuZ2V0T2JqZWN0KGdldE9iamVjdFJlcXVlc3QpLmdldE9iamVjdE1ldGFkYXRhKCkuZ2V0TGFzdE1vZGlmaWVkKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYXRvbS5nZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIC50aGVuUmV0dXJuKGV4Y2VwdGlvbmFsRnV0dXJlLCBleGNlcHRpb25hbEZ1dHVyZSwgZXhjZXB0aW9uYWxGdXR1cmUsIHN1Y2Nlc3NmdWxGdXR1cmUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAU3VwcAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAU2FmZVZhcmFyZ3MK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXRhYmxlRnV0dXJlPFZvaWQ+W10gd3JpdGVUaWxlUmVzcG9uc2VzID0gbmV3IENvbXBsZXRhYmxlRnV0dXJlW117CiAgICAgICAgICAgIGV4Y2VwdGlvbmFsRnV0dXJlLAogICAgICAgICAgICBleGNlcHRpb25hbEZ1dHVyZSwKICAgICAgICAgICAgZXhjZXB0aW9uYWxGdXR1cmUsCiAgICAgICAgICAgIHN1Y2Nlc3NmdWxGdXR1cmUK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">fTsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIEZhaWwgdGhyaWNlIGJlZm9yZSBzdWNjZWVkaW5nCiAgICBAU3VwcHJlc3NXYXJuaW5ncygpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGV4Y2VwdGlvbmFsRnV0dXJlLAogICAgICAgICAgICBleGNlcHRpb25hbEZ1dHVyZSwKICAgICAgICAgICAgZXhjZXB0aW9uYWxGdXR1cmUsCiAgICAgICAgICAgIHN1Y2Nlc3NmdWxGdXR1cmU=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
       </register>
     </registers>
     <search>
-      <last-search>getOffsets</last-search>
+      <last-search>statAtom</last-search>
       <last-offset />
-      <last-pattern>getOffsets</last-pattern>
+      <last-pattern>statAtom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -335,6 +347,7 @@
         <entry>getTilesForIm</entry>
         <entry>getImageAtOffset</entry>
         <entry>getOffsets</entry>
+        <entry>statAtom</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
