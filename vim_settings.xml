@@ -59,6 +59,7 @@
         <mark key="'" line="794" column="22" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1550872923519" />
+      <file name="$USER_HOME$/kesm/apps/metatron/sampleServer/client_libraries/python/metatron_client.py" timestamp="1550876599644" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -97,6 +98,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="70" column="24" />
       </file>
+      <file name="$USER_HOME$/kesm/apps/metatron/metatron/urls.py" timestamp="1550876553788" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1549937694193">
         <mark key="[" line="172" column="17" />
       </file>
