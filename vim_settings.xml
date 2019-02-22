@@ -25,16 +25,16 @@
         <mark key="^" line="211" column="30" />
         <mark key="." line="211" column="30" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1550861327399" />
       <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
         <mark key="[" line="62" column="23" />
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1550782303593">
-        <mark key="[" line="125" column="21" />
-        <mark key="]" line="127" column="19" />
-        <mark key="^" line="127" column="19" />
-        <mark key="." line="127" column="19" />
+        <mark key="]" line="125" column="19" />
+        <mark key="^" line="125" column="19" />
+        <mark key="." line="125" column="19" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1549937500568">
         <mark key="'" line="203" column="17" />
@@ -49,6 +49,9 @@
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
         <mark key="." line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1550861263552">
+        <mark key="'" line="794" column="22" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
         <mark key="[" line="3" column="0" />
@@ -192,6 +195,12 @@
       <jump line="197" column="110" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
       <jump line="150" column="121" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
       <jump line="111" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
+      <jump line="701" column="75" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="716" column="23" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="718" column="20" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="749" column="32" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="794" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +210,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text>acq_crystal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
@@ -238,16 +247,14 @@
       </register>
     </registers>
     <search>
-      <last-search>put</last-search>
+      <last-search>acq_crystal</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
+      <last-pattern>acq_crystal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Srv</entry>
-        <entry>resolveSrv</entry>
         <entry>geodeServiceClient</entry>
         <entry>client</entry>
         <entry>headers</entry>
@@ -266,6 +273,8 @@
         <entry>logger.info</entry>
         <entry>next</entry>
         <entry>put</entry>
+        <entry>block</entry>
+        <entry>acq_crystal</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
