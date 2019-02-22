@@ -82,13 +82,13 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1550868294435">
-        <mark key="[" line="155" column="35" />
-        <mark key="]" line="155" column="33" />
-        <mark key="^" line="155" column="33" />
-        <mark key="." line="155" column="33" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1550868915949">
+        <mark key="[" line="351" column="48" />
+        <mark key="]" line="351" column="47" />
+        <mark key="." line="351" column="47" />
+        <mark key="^" line="351" column="47" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/tiles/math.py" timestamp="1550868088307" />
+      <file name="$USER_HOME$/kesm/kesm/tiles/math.py" timestamp="1550869060863" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/Retryer.java" timestamp="1549936333665">
         <mark key="'" line="95" column="15" />
         <mark key="[" line="77" column="0" />
@@ -215,11 +215,11 @@
       <jump line="794" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBzawo=</text>
+      <register name="&quot;" type="4">
+        <text>fs</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>fs</text>
       </register>
       <register name="/" type="4">
         <text>acq_crystal</text>
@@ -228,31 +228,31 @@
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBzawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNlSnBnV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpldHR5LnV0aWwuQmxvY2tpbmdBcnJheVF1ZXVlOwppbXBvcnQgc2NhbGEuSW50Owo=</text>
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBzawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlZEZ1dHVyZXMuZm9yRWFjaCgoZnV0dXJlKSAtPiBmdXR1cmUuZ2V0KCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpldHR5LnV0aWwuQmxvY2tpbmdBcnJheVF1ZXVlOwppbXBvcnQgc2NhbGEuSW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlZEZ1dHVyZXMuZm9yRWFjaCgoZnV0dXJlKSAtPiBmdXR1cmUuY2FuY2VsKCkpOwo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlZEZ1dHVyZXMuZm9yRWFjaCgoZnV0dXJlKSAtPiBmdXR1cmUuZ2V0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy50dXBsZS5QYWlyOwo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlZEZ1dHVyZXMuZm9yRWFjaCgoZnV0dXJlKSAtPiBmdXR1cmUuY2FuY2VsKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy50dXBsZS5QYWlyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJJbml0aWFsaXppbmcgJWQgc2VuZCB0aHJlYWRzIiwgY29uZmlnLmdldFBhcmFsbGVsU2VuZGVycygpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dG9yID0gRXhlY3V0b3JzLm5ld1NjaGVkdWxlZFRocmVhZFBvb2woY29uZmlnLmdldFBhcmFsbGVsU2VuZGVycygpKTsK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJJbml0aWFsaXppbmcgJWQgc2VuZCB0aHJlYWRzIiwgY29uZmlnLmdldFBhcmFsbGVsU2VuZGVycygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSBCbG9ja2luZ1F1ZXVlPFNlY3Rpb24+IHF1ZXVlOwo=</text>
+        <text encoding="base64">ICAgIGV4ZWN1dG9yID0gRXhlY3V0b3JzLm5ld1NjaGVkdWxlZFRocmVhZFBvb2woY29uZmlnLmdldFBhcmFsbGVsU2VuZGVycygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
@@ -312,6 +312,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
