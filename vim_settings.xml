@@ -58,6 +58,7 @@
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1550861263552">
         <mark key="'" line="794" column="22" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1550872923519" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
