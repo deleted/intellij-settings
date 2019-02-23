@@ -50,6 +50,7 @@
       <file name="/Dummy.txt" timestamp="1549048880827">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/docs/teams/web/local_development.rst" timestamp="1550880599104" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
@@ -83,12 +84,6 @@
         <mark key="]" line="21" column="46" />
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1550868915949">
-        <mark key="[" line="351" column="48" />
-        <mark key="]" line="351" column="47" />
-        <mark key="." line="351" column="47" />
-        <mark key="^" line="351" column="47" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/tiles/math.py" timestamp="1550869060863" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/common/concurrent/Retryer.java" timestamp="1549936333665">
