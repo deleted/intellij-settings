@@ -50,6 +50,7 @@
       <file name="/Dummy.txt" timestamp="1549048880827">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1551124647655" />
       <file name="$USER_HOME$/kesm/docs/teams/web/local_development.rst" timestamp="1550880599104" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
@@ -124,6 +125,7 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1551124588849" />
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
       </file>
