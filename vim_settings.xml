@@ -8,11 +8,6 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/client/ReceptionistClientTest.java" timestamp="1551148678015">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1550017310159">
         <mark key="[" line="213" column="0" />
         <mark key="]" line="213" column="0" />
@@ -46,7 +41,6 @@
         <mark key="^" line="125" column="19" />
         <mark key="." line="125" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/docs/teams/web/local_development.rst" timestamp="1550880599104" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
@@ -55,8 +49,6 @@
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1550861263552">
         <mark key="'" line="794" column="22" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1550872923519" />
-      <file name="$USER_HOME$/kesm/apps/metatron/sampleServer/client_libraries/python/metatron_client.py" timestamp="1550876599644" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -68,16 +60,12 @@
         <mark key="." line="233" column="0" />
         <mark key="^" line="240" column="29" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcServiceRunnable.java" timestamp="1551145401209" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/common/concurrent/RetryerTest.java" timestamp="1549920609334">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="46" />
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tools/GeodeQueryServiceCommand.java" timestamp="1551145494800" />
-      <file name="$USER_HOME$/kesm/kesm/tiles/math.py" timestamp="1550869060863" />
-      <file name="$USER_HOME$/kesm/apps/metatron/metatron/urls.py" timestamp="1550876553788" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1551145475001">
         <mark key="[" line="172" column="17" />
       </file>
