@@ -41,7 +41,12 @@
         <mark key="^" line="125" column="19" />
         <mark key="." line="125" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/drivers/sapera_imaging/camera/interface.py" timestamp="1552083903031" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1552945687187">
+        <mark key="[" line="84" column="37" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="88" column="4" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
@@ -66,12 +71,6 @@
         <mark key="]" line="21" column="46" />
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
-      </file>
-      <file name="$USER_HOME$/kesm/buildSrc/src/main/java/net/threescan/gradle/python/tasks/GenerateProto.java" timestamp="1551996331860" />
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" timestamp="1550090225849">
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="36" column="38" />
-        <mark key="." line="36" column="38" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1548206456277">
         <mark key="[" line="13" column="13" />
@@ -184,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>acq_crystal</text>
@@ -196,31 +195,31 @@
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBudW1iZXJPZlNlbmRlcnMgPSBjb25maWcuZ2V0UGFyYWxsZWxTZW5kZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICByZXRyeUZvcmV2ZXIoKCkgLT4gY2xpZW50LnVwbG9hZEltYWdlKG1ldGEsIHNlY3Rpb24uZ2V0SW1hZ2UoKSkpOwo=</text>
+        <text encoding="base64">ICAgIGpvYlF1ZXVlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNlSnBnV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCkK</text>
+        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBzawo=</text>
+        <text encoding="base64">ICAgIGludCBudW1iZXJPZlNlbmRlcnMgPSBjb25maWcuZ2V0UGFyYWxsZWxTZW5kZXJzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpldHR5LnV0aWwuQmxvY2tpbmdBcnJheVF1ZXVlOwppbXBvcnQgc2NhbGEuSW50Owo=</text>
+        <text encoding="base64">Ly8gICAgICByZXRyeUZvcmV2ZXIoKCkgLT4gY2xpZW50LnVwbG9hZEltYWdlKG1ldGEsIHNlY3Rpb24uZ2V0SW1hZ2UoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlZEZ1dHVyZXMuZm9yRWFjaCgoZnV0dXJlKSAtPiBmdXR1cmUuZ2V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNlSnBnV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlZEZ1dHVyZXMuZm9yRWFjaCgoZnV0dXJlKSAtPiBmdXR1cmUuY2FuY2VsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBzawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy50dXBsZS5QYWlyOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpldHR5LnV0aWwuQmxvY2tpbmdBcnJheVF1ZXVlOwppbXBvcnQgc2NhbGEuSW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
@@ -283,6 +282,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
