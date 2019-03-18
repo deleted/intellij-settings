@@ -3,49 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1548196132955">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1550017310159">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="209" column="131" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
-        <mark key="[" line="213" column="43" />
-        <mark key="]" line="211" column="30" />
-        <mark key="^" line="211" column="30" />
-        <mark key="." line="211" column="30" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1550868054221">
-        <mark key="[" line="102" column="4" />
-        <mark key="]" line="102" column="4" />
-        <mark key="^" line="102" column="5" />
-        <mark key="." line="102" column="4" />
-      </file>
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="24" />
-        <mark key="." line="62" column="24" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1550782303593">
-        <mark key="]" line="125" column="19" />
-        <mark key="^" line="125" column="19" />
-        <mark key="." line="125" column="19" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1552945687187">
-        <mark key="[" line="84" column="37" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="88" column="4" />
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1552950031625">
+        <mark key="'" line="122" column="3" />
+        <mark key="[" line="60" column="52" />
+        <mark key="]" line="60" column="52" />
+        <mark key="^" line="60" column="25" />
+        <mark key="." line="60" column="52" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
@@ -54,6 +17,11 @@
       </file>
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1550861263552">
         <mark key="'" line="794" column="22" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1548196132955">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
         <mark key="[" line="3" column="0" />
@@ -72,15 +40,49 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
       </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1550017310159">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+        <mark key="^" line="209" column="131" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" timestamp="1552949909333">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+      </file>
+      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1548206456277">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
+        <mark key="[" line="213" column="43" />
+        <mark key="]" line="211" column="30" />
+        <mark key="^" line="211" column="30" />
+        <mark key="." line="211" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/crystal.py" timestamp="1550868054221">
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="4" />
+        <mark key="^" line="102" column="5" />
+        <mark key="." line="102" column="4" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1548206439315">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="24" />
+        <mark key="." line="62" column="24" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1548206332976">
         <mark key="[" line="5" column="13" />
@@ -92,6 +94,11 @@
         <mark key="]" line="32" column="14" />
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1550782303593">
+        <mark key="]" line="125" column="19" />
+        <mark key="^" line="125" column="19" />
+        <mark key="." line="125" column="19" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
@@ -180,62 +187,62 @@
       <jump line="749" column="32" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
       <jump line="33" column="0" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
       <jump line="794" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
+      <jump line="121" column="3" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>CompletableFuture</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>CompletableFuture</text>
       </register>
       <register name="/" type="4">
-        <text>acq_crystal</text>
+        <text>7</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Ly8gICAgTGlzdDxTY2hlZHVsZWRGdXR1cmU8Pz4+IHNjaGVkdWxlZEZ1dHVyZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgc2NoZWR1bGVkRnV0dXJlcy5hZGQoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpvYlF1ZXVlLgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludCBudW1iZXJPZlNlbmRlcnMgPSBjb25maWcuZ2V0UGFyYWxsZWxTZW5kZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGpvYlF1ZXVlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICByZXRyeUZvcmV2ZXIoKCkgLT4gY2xpZW50LnVwbG9hZEltYWdlKG1ldGEsIHNlY3Rpb24uZ2V0SW1hZ2UoKSkpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNlSnBnV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCkK</text>
+        <text encoding="base64">ICAgIGludCBudW1iZXJPZlNlbmRlcnMgPSBjb25maWcuZ2V0UGFyYWxsZWxTZW5kZXJzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBzawo=</text>
+        <text encoding="base64">Ly8gICAgICByZXRyeUZvcmV2ZXIoKCkgLT4gY2xpZW50LnVwbG9hZEltYWdlKG1ldGEsIHNlY3Rpb24uZ2V0SW1hZ2UoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpldHR5LnV0aWwuQmxvY2tpbmdBcnJheVF1ZXVlOwppbXBvcnQgc2NhbGEuSW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNlSnBnV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
       </register>
     </registers>
     <search>
-      <last-search>acq_crystal</last-search>
+      <last-search>7</last-search>
       <last-offset />
-      <last-pattern>acq_crystal</last-pattern>
+      <last-pattern>7</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>geodeServiceClient</entry>
-        <entry>client</entry>
         <entry>headers</entry>
         <entry>json</entry>
         <entry>setHeaders</entry>
@@ -254,6 +261,8 @@
         <entry>put</entry>
         <entry>block</entry>
         <entry>acq_crystal</entry>
+        <entry>futures</entry>
+        <entry>7</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
