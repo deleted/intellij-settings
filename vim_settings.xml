@@ -10,6 +10,10 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="52" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553887980691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/core/build.gradle" timestamp="1553887274838" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
@@ -45,6 +49,12 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
         <mark key="^" line="209" column="131" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/core/src/main/java/net/threescan/runtime/BuildInfoFuncs.java" timestamp="1553887135073">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" timestamp="1552949909333">
         <mark key="[" line="32" column="4" />
@@ -103,7 +113,7 @@
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1549929044406">
+      <file name="/fragment.java" timestamp="1553886867830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -191,8 +201,8 @@
       <jump line="121" column="3" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CompletableFuture</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYnVpbGRjb25maWcuQnVpbGRDb25maWc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CompletableFuture</text>
@@ -204,31 +214,31 @@
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgTGlzdDxTY2hlZHVsZWRGdXR1cmU8Pz4+IHNjaGVkdWxlZEZ1dHVyZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYnVpbGRjb25maWcuQnVpbGRDb25maWc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2NoZWR1bGVkRnV0dXJlcy5hZGQoCg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLmZldXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Ly8gICAgTGlzdDxTY2hlZHVsZWRGdXR1cmU8Pz4+IHNjaGVkdWxlZEZ1dHVyZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgc2NoZWR1bGVkRnV0dXJlcy5hZGQoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpvYlF1ZXVlLgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBudW1iZXJPZlNlbmRlcnMgPSBjb25maWcuZ2V0UGFyYWxsZWxTZW5kZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGpvYlF1ZXVlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICByZXRyeUZvcmV2ZXIoKCkgLT4gY2xpZW50LnVwbG9hZEltYWdlKG1ldGEsIHNlY3Rpb24uZ2V0SW1hZ2UoKSkpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXNlSnBnV3JpdGVUaW1lU3VtbWFyeS5zdGFydFRpbWVyKCkK</text>
+        <text encoding="base64">ICAgIGludCBudW1iZXJPZlNlbmRlcnMgPSBjb25maWcuZ2V0UGFyYWxsZWxTZW5kZXJzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
@@ -294,6 +304,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
