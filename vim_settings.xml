@@ -36,11 +36,13 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1553892784445" />
       <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1550782303593">
         <mark key="]" line="125" column="19" />
         <mark key="^" line="125" column="19" />
         <mark key="." line="125" column="19" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistClient.java" timestamp="1553892641177" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1552950031625">
         <mark key="'" line="122" column="3" />
         <mark key="[" line="60" column="52" />
@@ -82,6 +84,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/src/main/java/net/threescan/geode/storage/CrystalHandle.java" timestamp="1553892848576" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/fake/FakeSectionIteratorTest.java" timestamp="1552949909333">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="6" />
