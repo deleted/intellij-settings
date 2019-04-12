@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
@@ -74,6 +74,7 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1555093920076" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1548206332976">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -89,6 +90,9 @@
         <mark key="]" line="125" column="19" />
         <mark key="^" line="125" column="19" />
         <mark key="." line="125" column="19" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/acq/slice_metadata_shim.py" timestamp="1555093936264">
+        <mark key="[" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
