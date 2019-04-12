@@ -42,7 +42,7 @@
         <mark key="^" line="125" column="19" />
         <mark key="." line="125" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" timestamp="1555097218011" />
+      <file name="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" timestamp="1555109881691" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
@@ -81,7 +81,13 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/mongo/property_reactor.py" timestamp="1555097078844" />
+      <file name="$USER_HOME$/kesm/kesm/mongo/property_reactor.py" timestamp="1555109390624">
+        <mark key="'" line="137" column="4" />
+        <mark key="[" line="137" column="4" />
+        <mark key="]" line="137" column="5" />
+        <mark key="." line="137" column="5" />
+        <mark key="^" line="137" column="5" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1548206332976">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -190,16 +196,17 @@
       <jump line="59" column="62" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="282" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="284" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="137" column="4" filename="$USER_HOME$/kesm/kesm/mongo/property_reactor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CompletableFuture</text>
+        <text>Can register a set of callbacks for syncing of property values between the</text>
       </register>
       <register name="-" type="4">
-        <text>CompletableFuture</text>
+        <text>Can register a set of callbacks for syncing of property values between the</text>
       </register>
       <register name="/" type="4">
-        <text>writeTiles</text>
+        <text>COLLECTION_N</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
@@ -236,15 +243,14 @@
       </register>
     </registers>
     <search>
-      <last-search>writeTiles</last-search>
+      <last-search>COLLECTION_N</last-search>
       <last-offset />
-      <last-pattern>writeTiles</last-pattern>
+      <last-pattern>COLLECTION_N</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request_response</entry>
         <entry>response</entry>
         <entry>_SECONDS</entry>
         <entry>seconds</entry>
@@ -264,6 +270,7 @@
         <entry>write_tiles</entry>
         <entry>writeTilesSum</entry>
         <entry>writeTiles</entry>
+        <entry>COLLECTION_N</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
