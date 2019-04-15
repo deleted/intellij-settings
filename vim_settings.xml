@@ -23,6 +23,9 @@
         <mark key="." line="102" column="4" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/mongo/slice_queue.py" timestamp="1555366643890" />
+      <file name="$USER_HOME$/kesm/kesm/acq/kesm_main.py" timestamp="1555368834341">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1555093920076" />
       <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1550782303593">
         <mark key="]" line="125" column="19" />
@@ -36,7 +39,7 @@
       <file name="/Dummy.txt" timestamp="1555367771315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1555366699905">
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1555368889183">
         <mark key="'" line="794" column="22" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1550010258094">
@@ -167,6 +170,7 @@
       <jump line="148" column="8" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
       <jump line="276" column="17" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
       <jump line="228" column="13" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -176,7 +180,7 @@
         <text>Can register a set of callbacks for syncing of property values between the</text>
       </register>
       <register name="/" type="4">
-        <text>call_kesm_command</text>
+        <text>kmain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
@@ -213,16 +217,14 @@
       </register>
     </registers>
     <search>
-      <last-search>call_kesm_command</last-search>
+      <last-search>kmain</last-search>
       <last-offset />
-      <last-pattern>call_kesm_command</last-pattern>
+      <last-pattern>kmain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_SECONDS</entry>
-        <entry>seconds</entry>
         <entry>getNanos</entry>
         <entry>nanos</entry>
         <entry>publish</entry>
@@ -241,6 +243,8 @@
         <entry>writeTiles</entry>
         <entry>COLLECTION_N</entry>
         <entry>call_kesm_command</entry>
+        <entry>Command</entry>
+        <entry>kmain</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
