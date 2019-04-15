@@ -3,22 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/grpc/GrpcFuncs.java" timestamp="1548196132955">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/TileRequestManagerTest.java" timestamp="1550017310159">
         <mark key="[" line="213" column="0" />
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
         <mark key="^" line="209" column="131" />
       </file>
-      <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-      </file>
+      <file name="$USER_HOME$/kesm/kesm/mongo/kesm_commands.py" timestamp="1555367766893" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
         <mark key="[" line="213" column="43" />
         <mark key="]" line="211" column="30" />
@@ -31,12 +22,7 @@
         <mark key="^" line="102" column="5" />
         <mark key="." line="102" column="4" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/mongo/slice_queue.py" timestamp="1555365673110" />
-      <file name="$USER_HOME$/kesm/build.gradle" timestamp="1548195718476">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="24" />
-        <mark key="." line="62" column="24" />
-      </file>
+      <file name="$USER_HOME$/kesm/kesm/mongo/slice_queue.py" timestamp="1555366643890" />
       <file name="$USER_HOME$/kesm/kesm/acq/drivers/abstract/imaging.py" timestamp="1555093920076" />
       <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1550782303593">
         <mark key="]" line="125" column="19" />
@@ -44,18 +30,14 @@
         <mark key="." line="125" column="19" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/mongo/mongo_base.py" timestamp="1555109881691" />
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestClient.java" timestamp="1548206379665">
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="28" column="13" />
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" timestamp="1555368071401">
+        <mark key="'" line="228" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1550861263552">
+      <file name="/Dummy.txt" timestamp="1555367771315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1555366699905">
         <mark key="'" line="794" column="22" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1550010258094">
         <mark key="[" line="233" column="0" />
@@ -72,27 +54,12 @@
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1553194742287">
         <mark key="'" line="284" column="34" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1548206456277">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfig.java" timestamp="1548206439315">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-      </file>
       <file name="$USER_HOME$/kesm/kesm/mongo/property_reactor.py" timestamp="1555116121962">
         <mark key="'" line="137" column="4" />
         <mark key="[" line="137" column="4" />
         <mark key="]" line="137" column="5" />
         <mark key="." line="137" column="5" />
         <mark key="^" line="137" column="5" />
-      </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/ReceptionistTestCli.java" timestamp="1548206332976">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImpl.java" timestamp="1551148619248">
         <mark key="[" line="30" column="12" />
@@ -107,11 +74,6 @@
         <mark key="[" line="224" column="9" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/sample_state.py" timestamp="1555357248213" />
-      <file name="/fragment.java" timestamp="1549929044406">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/Section.java" timestamp="1550093661296">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="5" column="17" />
@@ -199,6 +161,12 @@
       <jump line="282" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="284" column="34" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="137" column="4" filename="$USER_HOME$/kesm/kesm/mongo/property_reactor.py" />
+      <jump line="149" column="23" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
+      <jump line="180" column="13" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
+      <jump line="200" column="13" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
+      <jump line="148" column="8" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
+      <jump line="276" column="17" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
+      <jump line="228" column="13" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -208,7 +176,7 @@
         <text>Can register a set of callbacks for syncing of property values between the</text>
       </register>
       <register name="/" type="4">
-        <text>COLLECTION_N</text>
+        <text>call_kesm_command</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
@@ -245,15 +213,14 @@
       </register>
     </registers>
     <search>
-      <last-search>COLLECTION_N</last-search>
+      <last-search>call_kesm_command</last-search>
       <last-offset />
-      <last-pattern>COLLECTION_N</last-pattern>
+      <last-pattern>call_kesm_command</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>response</entry>
         <entry>_SECONDS</entry>
         <entry>seconds</entry>
         <entry>getNanos</entry>
@@ -273,6 +240,7 @@
         <entry>writeTilesSum</entry>
         <entry>writeTiles</entry>
         <entry>COLLECTION_N</entry>
+        <entry>call_kesm_command</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
