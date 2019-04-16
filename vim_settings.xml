@@ -39,8 +39,8 @@
       <file name="/Dummy.txt" timestamp="1555367771315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1555369841898">
-        <mark key="'" line="794" column="22" />
+      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1555374052300">
+        <mark key="'" line="860" column="28" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1550010258094">
         <mark key="[" line="233" column="0" />
@@ -171,6 +171,10 @@
       <jump line="276" column="17" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
       <jump line="228" column="13" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main_tests.py" />
       <jump line="8" column="0" filename="$USER_HOME$/kesm/kesm/acq/kesm_main.py" />
+      <jump line="696" column="8" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="800" column="32" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="802" column="26" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
+      <jump line="860" column="28" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -180,7 +184,7 @@
         <text>Can register a set of callbacks for syncing of property values between the</text>
       </register>
       <register name="/" type="4">
-        <text>kmain</text>
+        <text>imaging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
@@ -217,15 +221,14 @@
       </register>
     </registers>
     <search>
-      <last-search>kmain</last-search>
+      <last-search>imaging</last-search>
       <last-offset />
-      <last-pattern>kmain</last-pattern>
+      <last-pattern>imaging</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getNanos</entry>
         <entry>nanos</entry>
         <entry>publish</entry>
         <entry>retry</entry>
@@ -245,6 +248,7 @@
         <entry>call_kesm_command</entry>
         <entry>Command</entry>
         <entry>kmain</entry>
+        <entry>imaging</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
