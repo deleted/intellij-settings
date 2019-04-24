@@ -19,6 +19,9 @@
         <mark key="." line="213" column="0" />
         <mark key="^" line="209" column="131" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1556145058878">
+        <mark key="'" line="138" column="66" />
+      </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -96,6 +99,7 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1556144823063" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1548206456277">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
@@ -117,6 +121,7 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/crystal.py" timestamp="1556144911050" />
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
       </file>
@@ -206,6 +211,16 @@
       <jump line="794" column="22" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
       <jump line="74" column="0" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
       <jump line="121" column="3" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
+      <jump line="123" column="12" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="18" column="57" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="177" column="32" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="36" column="23" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="37" column="44" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="170" column="26" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="145" column="37" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="144" column="60" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="138" column="66" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -215,7 +230,7 @@
         <text>CompletableFuture</text>
       </register>
       <register name="/" type="4">
-        <text>7</text>
+        <text>channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
@@ -252,16 +267,14 @@
       </register>
     </registers>
     <search>
-      <last-search>7</last-search>
+      <last-search>channel</last-search>
       <last-offset />
-      <last-pattern>7</last-pattern>
+      <last-pattern>channel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>headers</entry>
-        <entry>json</entry>
         <entry>setHeaders</entry>
         <entry>request_response</entry>
         <entry>response</entry>
@@ -280,6 +293,8 @@
         <entry>acq_crystal</entry>
         <entry>futures</entry>
         <entry>7</entry>
+        <entry>Stub</entry>
+        <entry>channel</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
