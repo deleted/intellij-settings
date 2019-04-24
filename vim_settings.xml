@@ -19,14 +19,15 @@
         <mark key="." line="213" column="0" />
         <mark key="^" line="209" column="131" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1556146015574">
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1556147254895">
         <mark key="p" line="8" column="0" />
         <mark key="'" line="100" column="28" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="100" column="27" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="18" column="82" />
+        <mark key="." line="18" column="82" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1556146740085" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -49,11 +50,6 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm/kesm/acq/image_tag_service.py" timestamp="1550782303593">
-        <mark key="]" line="125" column="19" />
-        <mark key="^" line="125" column="19" />
-        <mark key="." line="125" column="19" />
-      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1552950031625">
         <mark key="'" line="122" column="3" />
         <mark key="[" line="60" column="52" />
@@ -71,9 +67,6 @@
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
         <mark key="." line="28" column="13" />
-      </file>
-      <file name="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1550861263552">
-        <mark key="'" line="794" column="22" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" timestamp="1548195954311">
         <mark key="[" line="3" column="0" />
@@ -104,7 +97,13 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1556144823063" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1556146922823">
+        <mark key="'" line="764" column="40" />
+        <mark key="[" line="807" column="12" />
+        <mark key="]" line="807" column="12" />
+        <mark key="^" line="764" column="40" />
+        <mark key="." line="807" column="12" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigPrinter.java" timestamp="1548206456277">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
@@ -126,10 +125,14 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/crystal.py" timestamp="1556146128504">
-        <mark key="[" line="156" column="5" />
-        <mark key="]" line="191" column="7" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/kesm_main.py" timestamp="1556146683553">
+        <mark key="[" line="134" column="38" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/crystal.py" timestamp="1556147264408">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="30" column="15" />
       </file>
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
@@ -151,6 +154,7 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/perf/grpc_helpers.py" timestamp="1556147221008" />
     </filemarks>
     <jumps>
       <jump line="30" column="0" filename="$USER_HOME$/kesm/build.gradle" />
@@ -246,19 +250,20 @@
       <jump line="101" column="28" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="8" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="100" column="28" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="764" column="40" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGtlc20uYmFzZS50eXBlX2NoZWNrZWQKZGVmIGNyZWF0ZV9jcnlzdGFsc19mb3JfYmxvY2soCiAgICAgICAgKiwKICAgICAgICBzYW1wbGVfaWQ6IHN0ciwKICAgICAgICBrZXNtX25hbWU6IHN0ciwKICAgICAgICBibG9ja19pbmRleDogaW50LAogICAgICAgIHNsaWNlX3dpZHRoX3B4OiBpbnQsCiAgICAgICAgbnVtX3NsaWNlc19wZXJfZmFjZTogaW50LAogICAgICAgIGZhY2VfbGVuZ3RoX3B4OiBpbnQsCiAgICAgICAgbnVtX2ZhY2VzOiBpbnQsCiAgICAgICAgY2hhbm5lbHM6IGludCwKICAgICAgICAgICAgdm94ZWxfc2l6ZV91bTogbGlzdCwKICAgICAgICBnX2NsaWVudDogc3RvcmFnZV9jbGllbnQuR2VvZGVTdG9yYWdlQ2xpZW50KToKICAgICIiIgogICAgQ3JlYXRlIGNyeXN0YWxzIHRvIHN0b3JlIHRoZSBLRVNNIG91dHB1dHMgZm9yIGEKICAgIGhvbW9nZW5lb3VzIGJsb2NrIG9mIHNjYW5uZWQgdm9sdW1lLgoKICAgIENyZWF0ZXMgdGhyZWUgc2V0cyBvZiBjcnlzdGFsczoKCiAgICAxLiBPbmUgbG9zc2xlc3MgUE5HIGNyeXN0YWwgYXQgZnVsbCByZXNvbHV0aW9uLgogICAgMi4gQSBsb3NzeSBKUEcgY3J5c3RhbCBmb3IgZWFjaCB6b29tIGxldmVsLAogICAgICAgd2hlcmUgdGhlIG51bWJlciBvZiB6b29tIGxldmVscyBpcyBjYWxjdWxhdGVkIHN1Y2ggdGhhdAogICAgICAgd2hlbiB6b29tZWQgYWxsIHRoZSB3YXkgb3V0LCBhIHNsaWNlIGltYWdlIGlzIGEgc2luZ2xlIHRpbGUgd2lkZS4KICAgIDMuIEEgSlNPTiBzdGF0cyBjcnlzdGFsIHRvIHN0b3JlIHN0YXRpc3RpY3MsIHdpdGggb25lIGF0b20KICAgICAgIHBlciBzbGljZSBpbWFnZS4KCiAgICBSZXR1cm5zIGEgZGljdGlvbmFyeSB3aXRoIHRoZSBmb2xsb3dpbmcgc3RydWN0dXJlOgoKICAgID4+PiB7CiAgICAuLi4gICAgICAgICJqcGciOiBbPHV1aWQgc3RyaW5nPiwgPHV1aWQgc3RyaW5nPiwgLi4uXSwKICAgIC4uLiAgICAgICAgInBuZyI6IDx1dWlkIHN0cmluZz4sCiAgICAuLi4gICAgICAgICJzdGF0cyI6IDx1dWlkIHN0cmluZz4KICAgIC4uLiAgICB9CiAgICAiIiIK</text>
+        <text encoding="base64">ZnJvbSBrZXNtLnBlcmYgaW1wb3J0IGdycGNfaGVscGVycwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, uri_to_endpoint_list</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ServiceEndp</text>
+        <text>create_cr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGtlc20uYmFzZS50eXBlX2NoZWNrZWQKZGVmIGNyZWF0ZV9jcnlzdGFsc19mb3JfYmxvY2soCiAgICAgICAgKiwKICAgICAgICBzYW1wbGVfaWQ6IHN0ciwKICAgICAgICBrZXNtX25hbWU6IHN0ciwKICAgICAgICBibG9ja19pbmRleDogaW50LAogICAgICAgIHNsaWNlX3dpZHRoX3B4OiBpbnQsCiAgICAgICAgbnVtX3NsaWNlc19wZXJfZmFjZTogaW50LAogICAgICAgIGZhY2VfbGVuZ3RoX3B4OiBpbnQsCiAgICAgICAgbnVtX2ZhY2VzOiBpbnQsCiAgICAgICAgY2hhbm5lbHM6IGludCwKICAgICAgICAgICAgdm94ZWxfc2l6ZV91bTogbGlzdCwKICAgICAgICBnX2NsaWVudDogc3RvcmFnZV9jbGllbnQuR2VvZGVTdG9yYWdlQ2xpZW50KToKICAgICIiIgogICAgQ3JlYXRlIGNyeXN0YWxzIHRvIHN0b3JlIHRoZSBLRVNNIG91dHB1dHMgZm9yIGEKICAgIGhvbW9nZW5lb3VzIGJsb2NrIG9mIHNjYW5uZWQgdm9sdW1lLgoKICAgIENyZWF0ZXMgdGhyZWUgc2V0cyBvZiBjcnlzdGFsczoKCiAgICAxLiBPbmUgbG9zc2xlc3MgUE5HIGNyeXN0YWwgYXQgZnVsbCByZXNvbHV0aW9uLgogICAgMi4gQSBsb3NzeSBKUEcgY3J5c3RhbCBmb3IgZWFjaCB6b29tIGxldmVsLAogICAgICAgd2hlcmUgdGhlIG51bWJlciBvZiB6b29tIGxldmVscyBpcyBjYWxjdWxhdGVkIHN1Y2ggdGhhdAogICAgICAgd2hlbiB6b29tZWQgYWxsIHRoZSB3YXkgb3V0LCBhIHNsaWNlIGltYWdlIGlzIGEgc2luZ2xlIHRpbGUgd2lkZS4KICAgIDMuIEEgSlNPTiBzdGF0cyBjcnlzdGFsIHRvIHN0b3JlIHN0YXRpc3RpY3MsIHdpdGggb25lIGF0b20KICAgICAgIHBlciBzbGljZSBpbWFnZS4KCiAgICBSZXR1cm5zIGEgZGljdGlvbmFyeSB3aXRoIHRoZSBmb2xsb3dpbmcgc3RydWN0dXJlOgoKICAgID4+PiB7CiAgICAuLi4gICAgICAgICJqcGciOiBbPHV1aWQgc3RyaW5nPiwgPHV1aWQgc3RyaW5nPiwgLi4uXSwKICAgIC4uLiAgICAgICAgInBuZyI6IDx1dWlkIHN0cmluZz4sCiAgICAuLi4gICAgICAgICJzdGF0cyI6IDx1dWlkIHN0cmluZz4KICAgIC4uLiAgICB9CiAgICAiIiIK</text>
+        <text encoding="base64">ZnJvbSBrZXNtLnBlcmYgaW1wb3J0IGdycGNfaGVscGVycwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBrZXNtLmFjcS5zaGFyZWQuZ3JwY19kbnMgaW1wb3J0IFNlcnZpY2VFbmRwb2ludAo=</text>
@@ -292,15 +297,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ServiceEndp</last-search>
+      <last-search>create_cr</last-search>
       <last-offset />
-      <last-pattern>ServiceEndp</last-pattern>
+      <last-pattern>create_cr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>seconds</entry>
         <entry>getNanos</entry>
         <entry>nanos</entry>
         <entry>publish</entry>
@@ -320,6 +324,7 @@
         <entry>is_pydns</entry>
         <entry>pydns_list</entry>
         <entry>ServiceEndp</entry>
+        <entry>create_cr</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
