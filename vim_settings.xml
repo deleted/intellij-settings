@@ -19,8 +19,13 @@
         <mark key="." line="213" column="0" />
         <mark key="^" line="209" column="131" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1556145058878">
-        <mark key="'" line="138" column="66" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1556146015574">
+        <mark key="p" line="8" column="0" />
+        <mark key="'" line="100" column="28" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="100" column="27" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
         <mark key="[" line="5" column="13" />
@@ -121,7 +126,11 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/crystal.py" timestamp="1556144911050" />
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/crystal.py" timestamp="1556146128504">
+        <mark key="[" line="156" column="5" />
+        <mark key="]" line="191" column="7" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
       </file>
@@ -129,6 +138,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/grpc_dns.py" timestamp="1556145782610">
+        <mark key="[" line="91" column="7" />
+        <mark key="]" line="92" column="63" />
+        <mark key="." line="92" column="63" />
+        <mark key="^" line="92" column="63" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/fake/Section.java" timestamp="1550093661296">
         <mark key="[" line="6" column="12" />
@@ -221,64 +236,70 @@
       <jump line="144" column="60" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="124" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="138" column="66" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="106" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="108" column="11" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="101" column="28" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="100" column="28" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlkICdvcmcuZ3JhZGxlLmlkZWEnCg==</text>
+        <text encoding="base64">QGtlc20uYmFzZS50eXBlX2NoZWNrZWQKZGVmIGNyZWF0ZV9jcnlzdGFsc19mb3JfYmxvY2soCiAgICAgICAgKiwKICAgICAgICBzYW1wbGVfaWQ6IHN0ciwKICAgICAgICBrZXNtX25hbWU6IHN0ciwKICAgICAgICBibG9ja19pbmRleDogaW50LAogICAgICAgIHNsaWNlX3dpZHRoX3B4OiBpbnQsCiAgICAgICAgbnVtX3NsaWNlc19wZXJfZmFjZTogaW50LAogICAgICAgIGZhY2VfbGVuZ3RoX3B4OiBpbnQsCiAgICAgICAgbnVtX2ZhY2VzOiBpbnQsCiAgICAgICAgY2hhbm5lbHM6IGludCwKICAgICAgICAgICAgdm94ZWxfc2l6ZV91bTogbGlzdCwKICAgICAgICBnX2NsaWVudDogc3RvcmFnZV9jbGllbnQuR2VvZGVTdG9yYWdlQ2xpZW50KToKICAgICIiIgogICAgQ3JlYXRlIGNyeXN0YWxzIHRvIHN0b3JlIHRoZSBLRVNNIG91dHB1dHMgZm9yIGEKICAgIGhvbW9nZW5lb3VzIGJsb2NrIG9mIHNjYW5uZWQgdm9sdW1lLgoKICAgIENyZWF0ZXMgdGhyZWUgc2V0cyBvZiBjcnlzdGFsczoKCiAgICAxLiBPbmUgbG9zc2xlc3MgUE5HIGNyeXN0YWwgYXQgZnVsbCByZXNvbHV0aW9uLgogICAgMi4gQSBsb3NzeSBKUEcgY3J5c3RhbCBmb3IgZWFjaCB6b29tIGxldmVsLAogICAgICAgd2hlcmUgdGhlIG51bWJlciBvZiB6b29tIGxldmVscyBpcyBjYWxjdWxhdGVkIHN1Y2ggdGhhdAogICAgICAgd2hlbiB6b29tZWQgYWxsIHRoZSB3YXkgb3V0LCBhIHNsaWNlIGltYWdlIGlzIGEgc2luZ2xlIHRpbGUgd2lkZS4KICAgIDMuIEEgSlNPTiBzdGF0cyBjcnlzdGFsIHRvIHN0b3JlIHN0YXRpc3RpY3MsIHdpdGggb25lIGF0b20KICAgICAgIHBlciBzbGljZSBpbWFnZS4KCiAgICBSZXR1cm5zIGEgZGljdGlvbmFyeSB3aXRoIHRoZSBmb2xsb3dpbmcgc3RydWN0dXJlOgoKICAgID4+PiB7CiAgICAuLi4gICAgICAgICJqcGciOiBbPHV1aWQgc3RyaW5nPiwgPHV1aWQgc3RyaW5nPiwgLi4uXSwKICAgIC4uLiAgICAgICAgInBuZyI6IDx1dWlkIHN0cmluZz4sCiAgICAuLi4gICAgICAgICJzdGF0cyI6IDx1dWlkIHN0cmluZz4KICAgIC4uLiAgICB9CiAgICAiIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>CompletableFuture</text>
+        <text>, uri_to_endpoint_list</text>
       </register>
       <register name="/" type="4">
-        <text>channel</text>
+        <text>ServiceEndp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIlNlbmRpbmcgZmFjZSAlZCwgc2VjdGlvbiAlZCIsIG1ldGEuZ2V0RmFjZUluZGV4KCksIG1ldGEuZ2V0U2xpY2VJbmRleCgpKTsKICAgICAgcmV0cnlGb3JldmVyKCgpIC0+IGNsaWVudC51cGxvYWRJbWFnZShtZXRhLCBzZWN0aW9uLmdldEltYWdlKCkpKTsK</text>
+        <text encoding="base64">QGtlc20uYmFzZS50eXBlX2NoZWNrZWQKZGVmIGNyZWF0ZV9jcnlzdGFsc19mb3JfYmxvY2soCiAgICAgICAgKiwKICAgICAgICBzYW1wbGVfaWQ6IHN0ciwKICAgICAgICBrZXNtX25hbWU6IHN0ciwKICAgICAgICBibG9ja19pbmRleDogaW50LAogICAgICAgIHNsaWNlX3dpZHRoX3B4OiBpbnQsCiAgICAgICAgbnVtX3NsaWNlc19wZXJfZmFjZTogaW50LAogICAgICAgIGZhY2VfbGVuZ3RoX3B4OiBpbnQsCiAgICAgICAgbnVtX2ZhY2VzOiBpbnQsCiAgICAgICAgY2hhbm5lbHM6IGludCwKICAgICAgICAgICAgdm94ZWxfc2l6ZV91bTogbGlzdCwKICAgICAgICBnX2NsaWVudDogc3RvcmFnZV9jbGllbnQuR2VvZGVTdG9yYWdlQ2xpZW50KToKICAgICIiIgogICAgQ3JlYXRlIGNyeXN0YWxzIHRvIHN0b3JlIHRoZSBLRVNNIG91dHB1dHMgZm9yIGEKICAgIGhvbW9nZW5lb3VzIGJsb2NrIG9mIHNjYW5uZWQgdm9sdW1lLgoKICAgIENyZWF0ZXMgdGhyZWUgc2V0cyBvZiBjcnlzdGFsczoKCiAgICAxLiBPbmUgbG9zc2xlc3MgUE5HIGNyeXN0YWwgYXQgZnVsbCByZXNvbHV0aW9uLgogICAgMi4gQSBsb3NzeSBKUEcgY3J5c3RhbCBmb3IgZWFjaCB6b29tIGxldmVsLAogICAgICAgd2hlcmUgdGhlIG51bWJlciBvZiB6b29tIGxldmVscyBpcyBjYWxjdWxhdGVkIHN1Y2ggdGhhdAogICAgICAgd2hlbiB6b29tZWQgYWxsIHRoZSB3YXkgb3V0LCBhIHNsaWNlIGltYWdlIGlzIGEgc2luZ2xlIHRpbGUgd2lkZS4KICAgIDMuIEEgSlNPTiBzdGF0cyBjcnlzdGFsIHRvIHN0b3JlIHN0YXRpc3RpY3MsIHdpdGggb25lIGF0b20KICAgICAgIHBlciBzbGljZSBpbWFnZS4KCiAgICBSZXR1cm5zIGEgZGljdGlvbmFyeSB3aXRoIHRoZSBmb2xsb3dpbmcgc3RydWN0dXJlOgoKICAgID4+PiB7CiAgICAuLi4gICAgICAgICJqcGciOiBbPHV1aWQgc3RyaW5nPiwgPHV1aWQgc3RyaW5nPiwgLi4uXSwKICAgIC4uLiAgICAgICAgInBuZyI6IDx1dWlkIHN0cmluZz4sCiAgICAuLi4gICAgICAgICJzdGF0cyI6IDx1dWlkIHN0cmluZz4KICAgIC4uLiAgICB9CiAgICAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkICdvcmcuZ3JhZGxlLmlkZWEnCg==</text>
+        <text encoding="base64">ZnJvbSBrZXNtLmFjcS5zaGFyZWQuZ3JwY19kbnMgaW1wb3J0IFNlcnZpY2VFbmRwb2ludAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYnVpbGRjb25maWcuQnVpbGRDb25maWc7Cg==</text>
+        <text encoding="base64">ZnJvbSBrZXNtLmFjcS5zaGFyZWQuZ3JwY19kbnMgaW1wb3J0IHB5ZG5zX2xpc3RfZW5kcG9pbnRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmZldXIK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfY29tcHV0ZV9lbmRwb2ludHModXJpKToKICAgICAgICAjIE5PVEUobWVhd29wcGwpIC0gZXhwb3J0IHRvIGRuc3V0aWxzPwogICAgICAgIGlmIGlzX3B5ZG5zX2VuZHBvaW50KHVyaSk6CiAgICAgICAgICAgIHJldHVybiBbc3RyKGUpIGZvciBlIGluIHB5ZG5zX2xpc3RfZW5kcG9pbnRzKHVyaSldCgogICAgICAgIHJldHVybiBbdXJpXQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgTGlzdDxTY2hlZHVsZWRGdXR1cmU8Pz4+IHNjaGVkdWxlZEZ1dHVyZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbGxfZW5kcG9pbnRzID0gc2VsZi5fY29tcHV0ZV9lbmRwb2ludHMoc2VsZi5lbmRwb2ludHNbMF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2NoZWR1bGVkRnV0dXJlcy5hZGQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kcG9pbnRzID0gY2xzLl9jb21wdXRlX2VuZHBvaW50cyh1cmkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICcnJycnJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJXYWl0aW5nIGZvciBzY2hlZHVsZWQgdGFza3MgdG8gZmluaXNoLiIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzY2hlZHVsZWRGdXR1cmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIHNjaGVkdWxlZEZ1dHVyZXMuZ2V0KGkpLmNhbmNlbChmYWxzZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICMgTk9URShtZWF3b3BwbCkgLSBleHBvcnQgdG8gZG5zdXRpbHM/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpvYlF1ZXVlLgo=</text>
+        <text encoding="base64">ICAgIGlkICdvcmcuZ3JhZGxlLmlkZWEnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBjb3VudCA9IDAuMDsKICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uYnVpbGRjb25maWcuQnVpbGRDb25maWc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>205</text>
       </register>
     </registers>
     <search>
-      <last-search>channel</last-search>
+      <last-search>ServiceEndp</last-search>
       <last-offset />
-      <last-pattern>channel</last-pattern>
+      <last-pattern>ServiceEndp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setHeaders</entry>
-        <entry>request_response</entry>
-        <entry>response</entry>
-        <entry>_SECONDS</entry>
         <entry>seconds</entry>
         <entry>getNanos</entry>
         <entry>nanos</entry>
@@ -295,6 +316,10 @@
         <entry>7</entry>
         <entry>Stub</entry>
         <entry>channel</entry>
+        <entry>_compute</entry>
+        <entry>is_pydns</entry>
+        <entry>pydns_list</entry>
+        <entry>ServiceEndp</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
