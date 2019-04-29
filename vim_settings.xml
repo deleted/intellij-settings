@@ -49,14 +49,25 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" timestamp="1556576734736" />
+      <file name="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" timestamp="1556579102596">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="45" column="46" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="45" column="0" />
+        <mark key="o" line="15" column="53" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1556148751729">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/crystal.py" timestamp="1556576759151">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/kesm2/kesm/acq/crystal.py" timestamp="1556578134830">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="4" />
+        <mark key="." line="216" column="4" />
+        <mark key="^" line="217" column="3" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/perf/grpc_helpers.py" timestamp="1556577929537" />
       <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1553898708683">
         <mark key="[" line="7" column="65" />
       </file>
@@ -166,16 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="98" column="4" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="252" column="31" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="257" column="16" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="256" column="16" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="255" column="21" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="254" column="33" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="253" column="34" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="72" column="49" filename="$USER_HOME$/kesm/build.gradle" />
-      <jump line="157" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
       <jump line="158" column="19" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
       <jump line="3" column="33" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/common/storage/SectionStore.java" />
       <jump line="64" column="40" filename="$USER_HOME$/kesm/build.gradle" />
@@ -261,61 +262,80 @@
       <jump line="100" column="28" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="764" column="40" filename="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
       <jump line="84" column="35" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
+      <jump line="58" column="16" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="62" column="23" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="86" column="37" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="126" column="12" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="123" column="32" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="114" column="12" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="90" column="16" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="44" column="22" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="3" column="27" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="8" column="17" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="12" column="12" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="13" column="20" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="34" column="16" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
+      <jump line="43" column="20" filename="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBwYXRjaCgnYWNxX2NyeXN0YWwuX3RyeV9jcmVhdGVfY3J5c3RhbHMnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
-        <text>stub</text>
+        <text>acq_crystal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgZ3JwYy5ScGNFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHNlbGYuZ3JwY19lcnJvcl9jb2RlLnZhbHVlID0gZXJyLmNvZGUoKS52YWx1ZVswXQogICAgICAgICAgICBrZXNtLmJhc2UuZXJyb3IoCiAgICAgICAgICAgICAgICAiRXJyb3IgZHVyaW5nIFVwbG9hZEltYWdlKCkuIENvZGU6IHt9IERldGFpbDoge30iLAogICAgICAgICAgICAgICAgc2VsZi5ncnBjX2Vycm9yX2NvZGUudmFsdWUsIGVyci5kZXRhaWxzKCkpCiAgICAgICAgICAgIHJhaXNlCg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgnYWNxX2NyeXN0YWwuX3RyeV9jcmVhdGVfY3J5c3RhbHMnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgc3RvcmFnZV9jbGllbnQKaW1wb3J0IGtlc20udGlsZXMubWF0aCBhcyB0aWxlc19tYXRoCg==</text>
+      <register name="1" type="8">
+        <text>self.
+self.
+self.
+self.
+self.
+self.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBrZXNtLmFjcS5zaGFyZWQuZ3JwY19kbnMgaW1wb3J0IFNlcnZpY2VFbmRwb2ludAo=</text>
+        <text encoding="base64">ICAgIGRlZiBhc3NlcnRfYmFkX2t3YXJnKCoqYmFkX2t3YXJnKToKICAgICAgICBiYWRfa3dhcmdzID0gZGljdChva19rd2FyZ3MpCiAgICAgICAgYmFkX2t3YXJncy51cGRhdGUoYmFkX2t3YXJnKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoQXNzZXJ0aW9uRXJyb3IpOgogICAgICAgICAgICBhY3FfY3J5c3RhbC5jcmVhdGVfY3J5c3RhbHNfZm9yX2Jsb2NrKCoqYmFkX2t3YXJncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBrZXNtLmFjcS5zaGFyZWQuZ3JwY19kbnMgaW1wb3J0IHB5ZG5zX2xpc3RfZW5kcG9pbnRzCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG5vc2UudG9vbHMuYXNzZXJ0X3JhaXNlcyhBc3NlcnRpb25FcnJvcik6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfY29tcHV0ZV9lbmRwb2ludHModXJpKToKICAgICAgICAjIE5PVEUobWVhd29wcGwpIC0gZXhwb3J0IHRvIGRuc3V0aWxzPwogICAgICAgIGlmIGlzX3B5ZG5zX2VuZHBvaW50KHVyaSk6CiAgICAgICAgICAgIHJldHVybiBbc3RyKGUpIGZvciBlIGluIHB5ZG5zX2xpc3RfZW5kcG9pbnRzKHVyaSldCgogICAgICAgIHJldHVybiBbdXJpXQoK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYXNzZXJ0X2JhZF9rd2FyZygqKmJhZF9rd2FyZyk6CiAgICAgICAgICAgIGJhZF9rd2FyZ3MgPSBkaWN0KG9rX2t3YXJncykKICAgICAgICAgICAgYmFkX2t3YXJncy51cGRhdGUoYmFkX2t3YXJnKQogICAgICAgICAgICB3aXRoIG5vc2UudG9vbHMuYXNzZXJ0X3JhaXNlcyhBc3NlcnRpb25FcnJvcik6CiAgICAgICAgICAgICAgICBhY3FfY3J5c3RhbC5jcmVhdGVfY3J5c3RhbHNfZm9yX2Jsb2NrKCoqYmFkX2t3YXJncykKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfZW5kcG9pbnRzID0gc2VsZi5fY29tcHV0ZV9lbmRwb2ludHMoc2VsZi5lbmRwb2ludHNbMF0pCg==</text>
+        <text encoding="base64">ICAgICMgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kcG9pbnRzID0gY2xzLl9jb21wdXRlX2VuZHBvaW50cyh1cmkpCg==</text>
+        <text encoding="base64">ICAgICMgICAgIH0KICAgIAogICAgICAgICMgVE9ETyhtZWF3b3BwbCkgZGVsZXRlIG1lPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcnJycnJwo=</text>
+        <text encoding="base64">aW1wb3J0IGtlc20uZ2VvZGUuc3RvcmFnZS5jbGllbnQgYXMgc3RvcmFnZV9jbGllbnQKaW1wb3J0IGtlc20udGlsZXMubWF0aCBhcyB0aWxlc19tYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgTk9URShtZWF3b3BwbCkgLSBleHBvcnQgdG8gZG5zdXRpbHM/Cg==</text>
+        <text encoding="base64">ZnJvbSBrZXNtLmFjcS5zaGFyZWQuZ3JwY19kbnMgaW1wb3J0IFNlcnZpY2VFbmRwb2ludAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlkICdvcmcuZ3JhZGxlLmlkZWEnCg==</text>
+        <text encoding="base64">ZnJvbSBrZXNtLmFjcS5zaGFyZWQuZ3JwY19kbnMgaW1wb3J0IHB5ZG5zX2xpc3RfZW5kcG9pbnRzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>205</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stub</last-search>
+      <last-search>acq_crystal</last-search>
       <last-offset />
-      <last-pattern>stub</last-pattern>
+      <last-pattern>acq_crystal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>headers</entry>
         <entry>json</entry>
         <entry>setHeaders</entry>
         <entry>request_response</entry>
@@ -332,12 +352,14 @@
         <entry>next</entry>
         <entry>put</entry>
         <entry>block</entry>
-        <entry>acq_crystal</entry>
         <entry>futures</entry>
         <entry>7</entry>
+        <entry>crystal</entry>
+        <entry>acq_crystal</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
