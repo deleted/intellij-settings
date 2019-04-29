@@ -27,7 +27,6 @@
         <mark key="^" line="18" column="82" />
         <mark key="." line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender_manager.py" timestamp="1556146740085" />
       <file name="$USER_HOME$/kesm/src/test/java/net/threescan/acquisition/receptionist/testClient/TestClientConfigTest.java" timestamp="1548207060276">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -54,6 +53,12 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/acq/crystal.py" timestamp="1556574213599">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1553898708683">
+        <mark key="[" line="7" column="65" />
+      </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1552950031625">
         <mark key="'" line="122" column="3" />
         <mark key="[" line="60" column="52" />
@@ -61,7 +66,7 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556133233262">
+      <file name="/Dummy.txt" timestamp="1556574130406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/buildSrc/src/main/java/net/threescan/gradle/python/PythonPlugin.java" timestamp="1556131549958">
@@ -158,7 +163,6 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/perf/grpc_helpers.py" timestamp="1556149072743" />
     </filemarks>
     <jumps>
       <jump line="30" column="0" filename="$USER_HOME$/kesm/build.gradle" />
@@ -310,6 +314,14 @@
     </search>
     <history>
       <history-search>
+        <entry>headers</entry>
+        <entry>json</entry>
+        <entry>setHeaders</entry>
+        <entry>request_response</entry>
+        <entry>response</entry>
+        <entry>_SECONDS</entry>
+        <entry>seconds</entry>
+        <entry>getNanos</entry>
         <entry>nanos</entry>
         <entry>publish</entry>
         <entry>retry</entry>
@@ -322,14 +334,6 @@
         <entry>acq_crystal</entry>
         <entry>futures</entry>
         <entry>7</entry>
-        <entry>Stub</entry>
-        <entry>channel</entry>
-        <entry>_compute</entry>
-        <entry>is_pydns</entry>
-        <entry>pydns_list</entry>
-        <entry>ServiceEndp</entry>
-        <entry>create_cr</entry>
-        <entry>stub</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
