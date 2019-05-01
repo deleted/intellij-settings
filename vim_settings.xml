@@ -49,22 +49,9 @@
         <mark key="]" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/crystal_tests.py" timestamp="1556582899900">
-        <mark key="'" line="46" column="20" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="39" />
-        <mark key="." line="60" column="0" />
-        <mark key="o" line="15" column="53" />
-      </file>
       <file name="$USER_HOME$/3scan/kesm/proto/kesm/proto/receptionist.proto" timestamp="1556148751729">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/kesm2/kesm/acq/crystal.py" timestamp="1556583300497">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="84" column="3" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/perf/grpc_helpers.py" timestamp="1556577929537" />
       <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1553898708683">
