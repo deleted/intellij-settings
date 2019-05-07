@@ -39,8 +39,11 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557186465885">
-        <mark key="[" line="27" column="11" />
+      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557188481540">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/skeleton/RotationalOperatorsTest.java" timestamp="1556921910625">
         <mark key="[" line="12" column="53" />
@@ -246,11 +249,11 @@
       <jump line="601" column="18" filename="$USER_HOME$/kesm2/kesm/devops/k3" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcHl0ZXN0IC1tICJub3Qgbm9jaV9weXRlc3QiIC0taWdub3JlPWtlc20vZXhwZXJpbWVudGFsIC0tbnVtcHJvY2Vzc2VzPWF1dG8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUlPU0ZPRE5ON0VYQU1QTEUgQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkg</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUlPU0ZPRE5ON0VYQU1QTEUgQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkg</text>
       </register>
       <register name="/" type="4">
         <text>pytest</text>
