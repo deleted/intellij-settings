@@ -53,13 +53,6 @@
       <file name="$USER_HOME$/3scan/kesm/build.gradle" timestamp="1553898708683">
         <mark key="[" line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1552950031625">
-        <mark key="'" line="122" column="3" />
-        <mark key="[" line="60" column="52" />
-        <mark key="]" line="60" column="52" />
-        <mark key="^" line="60" column="25" />
-        <mark key="." line="60" column="52" />
-      </file>
       <file name="/Dummy.txt" timestamp="1556574435522">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,15 +105,11 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" timestamp="1556146922823">
-        <mark key="'" line="764" column="40" />
-        <mark key="[" line="807" column="12" />
-        <mark key="]" line="807" column="12" />
-        <mark key="^" line="764" column="40" />
-        <mark key="." line="807" column="12" />
-      </file>
       <file name="$USER_HOME$/kesm2/kesm/testing/decorators.py" timestamp="1557179767994">
         <mark key="'" line="67" column="26" />
+      </file>
+      <file name="$USER_HOME$/kesm2/setup.py" timestamp="1557192366024">
+        <mark key="[" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImpl.java" timestamp="1551148619248">
         <mark key="[" line="30" column="12" />
