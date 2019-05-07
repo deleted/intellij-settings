@@ -39,9 +39,9 @@
       </file>
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557251228980">
         <mark key="[" line="16" column="17" />
-        <mark key="]" line="31" column="4" />
-        <mark key="." line="31" column="4" />
-        <mark key="^" line="26" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/skeleton/RotationalOperatorsTest.java" timestamp="1556921910625">
         <mark key="[" line="12" column="53" />
@@ -89,7 +89,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/devops/k3" timestamp="1557185831716">
-        <mark key="'" line="601" column="18" />
+        <mark key="'" line="600" column="18" />
       </file>
       <file name="$USER_HOME$/kesm2/gradle.env" timestamp="1557190660241">
         <mark key="[" line="1" column="0" />
