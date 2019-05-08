@@ -9,16 +9,8 @@
         <mark key="." line="213" column="0" />
         <mark key="^" line="209" column="131" />
       </file>
-      <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" timestamp="1556149638069">
-        <mark key="p" line="8" column="0" />
-        <mark key="'" line="84" column="35" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="180" column="16" />
-        <mark key="^" line="18" column="82" />
-        <mark key="." line="18" column="82" />
-      </file>
       <file name="$USER_HOME$/kesm2/pytest.ini" timestamp="1557180057165" />
-      <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557190302351" />
+      <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557273736714" />
       <file name="$USER_HOME$/kesm2/kesm/aws/aws_base_testlib.py" timestamp="1557190212710" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/net/spark/SparkServer.java" timestamp="1549046954593">
         <mark key="[" line="213" column="43" />
@@ -37,7 +29,7 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557271671453">
+      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557273356581">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="32" column="4" />
         <mark key="." line="32" column="4" />
@@ -88,10 +80,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/devops/k3" timestamp="1557185831716">
+      <file name="$USER_HOME$/kesm2/kesm/devops/k3" timestamp="1557274485985">
         <mark key="'" line="600" column="18" />
       </file>
-      <file name="$USER_HOME$/kesm2/gradle.env" timestamp="1557190660241">
+      <file name="$USER_HOME$/kesm2/kesm/aws/s3_tests.py" timestamp="1557274602120" />
+      <file name="$USER_HOME$/kesm2/gradle.env" timestamp="1557273364806">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="54" />
       </file>
@@ -128,6 +121,9 @@
       <file name="$USER_HOME$/kesm/kesm/acq/test_image_tag_service.py" timestamp="1550782371644">
         <mark key="[" line="224" column="9" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" timestamp="1557273236329">
+        <mark key="'" line="228" column="22" />
+      </file>
       <file name="$USER_HOME$/3scan/kesm/kesm/acq/shared/grpc_dns.py" timestamp="1556148964515">
         <mark key="[" line="90" column="4" />
         <mark key="]" line="90" column="23" />
@@ -142,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="434" column="14" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
-      <jump line="732" column="13" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="735" column="32" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="615" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="739" column="22" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
@@ -242,6 +236,8 @@
       <jump line="600" column="30" filename="$USER_HOME$/kesm2/kesm/devops/k3" />
       <jump line="601" column="18" filename="$USER_HOME$/kesm2/kesm/devops/k3" />
       <jump line="204" column="24" filename="$USER_HOME$/kesm2/kesm/analysis/core/contours/contours.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" />
+      <jump line="228" column="22" filename="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -251,7 +247,7 @@
         <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUlPU0ZPRE5ON0VYQU1QTEUgQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkg</text>
       </register>
       <register name="/" type="4">
-        <text>cv2.findContours</text>
+        <text>bucket_cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IEFXU19BQ0NFU1NfS0VZX0lEPWFjY2Vzc0tleTEKZXhwb3J0IEFXU19TRUNSRVRfQUNDRVNTX0tFWT12ZXJ5U2VjcmV0S2V5MQpleHBvcnQgS0VTTV9BV1NfVEVTVF9EWU5BTU9EQl9FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjgwMDEKZXhwb3J0IEtFU01fQVdTX1RFU1RfUzNfRU5EUE9JTlQ9aHR0cDovL2xvY2FsaG9zdDo4MDAyCmV4cG9ydCBLRVNNX0FXU19URVNUX1NOU19FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjQ1NzUKZXhwb3J0IEtFU01fQVdTX1RFU1RfU1FTX0VORFBPSU5UPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3Ngo=</text>
@@ -289,19 +285,18 @@ self.</text>
         <text encoding="base64">ICAgIGRlZiBhc3NlcnRfYmFkX2t3YXJnKCoqYmFkX2t3YXJnKToKICAgICAgICBiYWRfa3dhcmdzID0gZGljdChva19rd2FyZ3MpCiAgICAgICAgYmFkX2t3YXJncy51cGRhdGUoYmFkX2t3YXJnKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoQXNzZXJ0aW9uRXJyb3IpOgogICAgICAgICAgICBhY3FfY3J5c3RhbC5jcmVhdGVfY3J5c3RhbHNfZm9yX2Jsb2NrKCoqYmFkX2t3YXJncykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>190</text>
       </register>
     </registers>
     <search>
-      <last-search>cv2.findContours</last-search>
+      <last-search>bucket_cache</last-search>
       <last-offset />
-      <last-pattern>cv2.findContours</last-pattern>
+      <last-pattern>bucket_cache</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getNanos</entry>
         <entry>nanos</entry>
         <entry>publish</entry>
         <entry>retry</entry>
@@ -321,10 +316,13 @@ self.</text>
         <entry>pytest</entry>
         <entry>findCount</entry>
         <entry>cv2.findContours</entry>
+        <entry>bucket_cache</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
         <entry>w</entry>
+        <entry>163</entry>
+        <entry>190</entry>
       </history-cmd>
       <history-expr />
       <history-input />
