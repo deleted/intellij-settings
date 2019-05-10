@@ -31,9 +31,9 @@
       </file>
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557273356581">
         <mark key="[" line="16" column="17" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-        <mark key="^" line="27" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/skeleton/RotationalOperatorsTest.java" timestamp="1556921910625">
         <mark key="[" line="12" column="53" />
@@ -65,7 +65,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/base/app.py" timestamp="1556759272017">
+      <file name="$USER_HOME$/kesm2/kesm/base/app.py" timestamp="1557526307734">
+        <mark key="'" line="637" column="8" />
         <mark key="[" line="298" column="7" />
       </file>
       <file name="$USER_HOME$/kesm2/MANIFEST.in" timestamp="1557191211359">
@@ -138,11 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="735" column="32" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
-      <jump line="615" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
-      <jump line="739" column="22" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
-      <jump line="477" column="24" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
-      <jump line="481" column="37" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="40" column="21" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="671" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="740" column="22" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
@@ -238,6 +234,11 @@
       <jump line="204" column="24" filename="$USER_HOME$/kesm2/kesm/analysis/core/contours/contours.py" />
       <jump line="7" column="0" filename="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" />
       <jump line="228" column="22" filename="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" />
+      <jump line="299" column="8" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
+      <jump line="36" column="19" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
+      <jump line="634" column="11" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
+      <jump line="635" column="31" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
+      <jump line="637" column="8" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -247,7 +248,7 @@
         <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUlPU0ZPRE5ON0VYQU1QTEUgQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkg</text>
       </register>
       <register name="/" type="4">
-        <text>bucket_cache</text>
+        <text>yappi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IEFXU19BQ0NFU1NfS0VZX0lEPWFjY2Vzc0tleTEKZXhwb3J0IEFXU19TRUNSRVRfQUNDRVNTX0tFWT12ZXJ5U2VjcmV0S2V5MQpleHBvcnQgS0VTTV9BV1NfVEVTVF9EWU5BTU9EQl9FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjgwMDEKZXhwb3J0IEtFU01fQVdTX1RFU1RfUzNfRU5EUE9JTlQ9aHR0cDovL2xvY2FsaG9zdDo4MDAyCmV4cG9ydCBLRVNNX0FXU19URVNUX1NOU19FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjQ1NzUKZXhwb3J0IEtFU01fQVdTX1RFU1RfU1FTX0VORFBPSU5UPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3Ngo=</text>
@@ -289,15 +290,14 @@ self.</text>
       </register>
     </registers>
     <search>
-      <last-search>bucket_cache</last-search>
+      <last-search>yappi</last-search>
       <last-offset />
-      <last-pattern>bucket_cache</last-pattern>
+      <last-pattern>yappi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nanos</entry>
         <entry>publish</entry>
         <entry>retry</entry>
         <entry>increment</entry>
@@ -317,6 +317,7 @@ self.</text>
         <entry>findCount</entry>
         <entry>cv2.findContours</entry>
         <entry>bucket_cache</entry>
+        <entry>yappi</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
