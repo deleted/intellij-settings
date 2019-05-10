@@ -29,7 +29,7 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557273356581">
+      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557528403396">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
@@ -65,9 +65,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/base/app.py" timestamp="1557526307734">
-        <mark key="'" line="637" column="8" />
-        <mark key="[" line="298" column="7" />
+      <file name="$USER_HOME$/kesm2/kesm/base/app.py" timestamp="1557529034305">
+        <mark key="'" line="671" column="0" />
+        <mark key="[" line="299" column="16" />
       </file>
       <file name="$USER_HOME$/kesm2/MANIFEST.in" timestamp="1557191211359">
         <mark key="[" line="1" column="0" />
@@ -104,6 +104,7 @@
       <file name="$USER_HOME$/kesm2/setup.py" timestamp="1557192366024">
         <mark key="[" line="12" column="46" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/base/app_tests.py" timestamp="1557528781654" />
       <file name="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/FakeReceptionistServiceImpl.java" timestamp="1551148619248">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="32" column="14" />
@@ -139,7 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="21" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="671" column="16" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="740" column="22" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="181" column="4" filename="$USER_HOME$/kesm/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
@@ -239,6 +239,7 @@
       <jump line="634" column="11" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
       <jump line="635" column="31" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
       <jump line="637" column="8" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
+      <jump line="670" column="0" filename="$USER_HOME$/kesm2/kesm/base/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -248,7 +249,7 @@
         <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9QUtJQUlPU0ZPRE5ON0VYQU1QTEUgQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPXdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkg</text>
       </register>
       <register name="/" type="4">
-        <text>yappi</text>
+        <text>fuck_with_main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IEFXU19BQ0NFU1NfS0VZX0lEPWFjY2Vzc0tleTEKZXhwb3J0IEFXU19TRUNSRVRfQUNDRVNTX0tFWT12ZXJ5U2VjcmV0S2V5MQpleHBvcnQgS0VTTV9BV1NfVEVTVF9EWU5BTU9EQl9FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjgwMDEKZXhwb3J0IEtFU01fQVdTX1RFU1RfUzNfRU5EUE9JTlQ9aHR0cDovL2xvY2FsaG9zdDo4MDAyCmV4cG9ydCBLRVNNX0FXU19URVNUX1NOU19FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjQ1NzUKZXhwb3J0IEtFU01fQVdTX1RFU1RfU1FTX0VORFBPSU5UPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3Ngo=</text>
@@ -286,19 +287,18 @@ self.</text>
         <text encoding="base64">ICAgIGRlZiBhc3NlcnRfYmFkX2t3YXJnKCoqYmFkX2t3YXJnKToKICAgICAgICBiYWRfa3dhcmdzID0gZGljdChva19rd2FyZ3MpCiAgICAgICAgYmFkX2t3YXJncy51cGRhdGUoYmFkX2t3YXJnKQogICAgICAgIHdpdGggc2VsZi5hc3NlcnRSYWlzZXMoQXNzZXJ0aW9uRXJyb3IpOgogICAgICAgICAgICBhY3FfY3J5c3RhbC5jcmVhdGVfY3J5c3RhbHNfZm9yX2Jsb2NrKCoqYmFkX2t3YXJncykK</text>
       </register>
       <register name=":" type="4">
-        <text>190</text>
+        <text>129</text>
       </register>
     </registers>
     <search>
-      <last-search>yappi</last-search>
+      <last-search>fuck_with_main</last-search>
       <last-offset />
-      <last-pattern>yappi</last-pattern>
+      <last-pattern>fuck_with_main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>publish</entry>
         <entry>retry</entry>
         <entry>increment</entry>
         <entry>submit</entry>
@@ -318,12 +318,14 @@ self.</text>
         <entry>cv2.findContours</entry>
         <entry>bucket_cache</entry>
         <entry>yappi</entry>
+        <entry>fuck_with_main</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
         <entry>w</entry>
         <entry>163</entry>
         <entry>190</entry>
+        <entry>129</entry>
       </history-cmd>
       <history-expr />
       <history-input />
