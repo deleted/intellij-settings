@@ -3,22 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm2/kesm/devops/arduino_tests.py" timestamp="1557538153941">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-        <mark key="^" line="4" column="12" />
+      <file name="$USER_HOME$/kesm2/kesm/devops/arduino_tests.py" timestamp="1557539062207">
+        <mark key="[" line="32" column="59" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/kesm2/pytest.ini" timestamp="1557538165047">
         <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557273736714" />
       <file name="$USER_HOME$/kesm2/kesm/aws/aws_base_testlib.py" timestamp="1557190212710" />
-      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557537039626">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="28" column="0" />
+      <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557539055230">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="37" column="43" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/skeleton/RotationalOperatorsTest.java" timestamp="1556921910625">
         <mark key="[" line="12" column="53" />
@@ -54,7 +54,10 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/devops/arduino_testlib.py" timestamp="1557536899395" />
+      <file name="$USER_HOME$/kesm2/kesm/devops/arduino_testlib.py" timestamp="1557538840531">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/testing/decorators.py" timestamp="1557538196205">
         <mark key="'" line="67" column="26" />
         <mark key="[" line="97" column="0" />
@@ -188,44 +191,44 @@
       <jump line="174" column="32" filename="$USER_HOME$/kesm2/kesm/base/app_tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGFyZHVpbm8odGVzdF9mdW5jdGlvbik6CiAgICAiIiIKICAgIFRoaXMgdGVzdCByZXF1aXJlcyB0aGUgYXJ1aW5vIGNvbXBpbGVyIHRvIGJlIGluc3RhbGxlZCAmIGNhbiBiZSBza2lwcGVkIGlmIHlvdSdyZQogICAgbm90IHJ1bm5pbmcgQ0kuCiAgICAiIiIKICAgIF9tYXJrKHRlc3RfZnVuY3Rpb24sICJhcmR1aW5vIikKICAgIHJldHVybiB0ZXN0X2Z1bmN0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG5vdCBhcmR1aW5v</text>
       </register>
       <register name="-" type="4">
-        <text>arduino</text>
+        <text encoding="base64">IG5vdCBhcmR1aW5v</text>
       </register>
       <register name="/" type="4">
         <text>run.foo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IEFXU19BQ0NFU1NfS0VZX0lEPWFjY2Vzc0tleTEKZXhwb3J0IEFXU19TRUNSRVRfQUNDRVNTX0tFWT12ZXJ5U2VjcmV0S2V5MQpleHBvcnQgS0VTTV9BV1NfVEVTVF9EWU5BTU9EQl9FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjgwMDEKZXhwb3J0IEtFU01fQVdTX1RFU1RfUzNfRU5EUE9JTlQ9aHR0cDovL2xvY2FsaG9zdDo4MDAyCmV4cG9ydCBLRVNNX0FXU19URVNUX1NOU19FTkRQT0lOVD1odHRwOi8vbG9jYWxob3N0OjQ1NzUKZXhwb3J0IEtFU01fQVdTX1RFU1RfU1FTX0VORFBPSU5UPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3Ngo=</text>
+        <text encoding="base64">aW1wb3J0IGtlc20uZGV2b3BzLmFyZHVpbm8gYXMgYXJkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGFyZHVpbm8odGVzdF9mdW5jdGlvbik6CiAgICAiIiIKICAgIFRoaXMgdGVzdCByZXF1aXJlcyB0aGUgYXJ1aW5vIGNvbXBpbGVyIHRvIGJlIGluc3RhbGxlZCAmIGNhbiBiZSBza2lwcGVkIGlmIHlvdSdyZQogICAgbm90IHJ1bm5pbmcgQ0kuCiAgICAiIiIKICAgIF9tYXJrKHRlc3RfZnVuY3Rpb24sICJhcmR1aW5vIikKICAgIHJldHVybiB0ZXN0X2Z1bmN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">aW1wb3J0IGtlc20uZGV2b3BzLmFyZHVpbm8gYXMgYXJkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHRlc3RfZnVuY3Rpb246IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ZGVmIGFyZHVpbm8odGVzdF9mdW5jdGlvbik6CiAgICAiIiIKICAgIFRoaXMgdGVzdCByZXF1aXJlcyB0aGUgYXJ1aW5vIGNvbXBpbGVyIHRvIGJlIGluc3RhbGxlZCAmIGNhbiBiZSBza2lwcGVkIGlmIHlvdSdyZQogICAgbm90IHJ1bm5pbmcgQ0kuCiAgICAiIiIKICAgIF9tYXJrKHRlc3RfZnVuY3Rpb24sICJhcmR1aW5vIikKICAgIHJldHVybiB0ZXN0X2Z1bmN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgOnBhcmFtIHRlc3RfZnVuY3Rpb246IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZXJyOgogICAgICAgICAgICByYWlzZSBBc3NlcnRpb25FcnJvcihlcnIub3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX291dHB1dChjbWRfYXJncywgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSkuZGVjb2RlKCd1dGYtOCcpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>129</text>
