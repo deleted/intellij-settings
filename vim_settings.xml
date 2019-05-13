@@ -12,7 +12,11 @@
       <file name="$USER_HOME$/kesm2/pytest.ini" timestamp="1557538165047">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557273736714" />
+      <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557774903538">
+        <mark key="[" line="151" column="38" />
+        <mark key="]" line="151" column="38" />
+        <mark key="." line="151" column="38" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/aws/aws_base_testlib.py" timestamp="1557190212710" />
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557539055230">
         <mark key="[" line="37" column="33" />
@@ -54,6 +58,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda_tests.py" timestamp="1557774783249" />
       <file name="$USER_HOME$/kesm2/kesm/devops/arduino_testlib.py" timestamp="1557538840531">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="33" />
@@ -192,10 +197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG5vdCBhcmR1aW5v</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5vdCBhcmR1aW5v</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>run.foo</text>
