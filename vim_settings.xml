@@ -59,11 +59,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda_tests.py" timestamp="1557786463495">
+      <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda_tests.py" timestamp="1557789649628">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="47" />
-        <mark key="^" line="11" column="47" />
-        <mark key="." line="11" column="47" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/devops/arduino_testlib.py" timestamp="1557538840531">
         <mark key="[" line="2" column="0" />
