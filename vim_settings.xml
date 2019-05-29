@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/geode/ReceptionistCrystalCreator.java" timestamp="1558741044281" />
       <file name="$USER_HOME$/kesm2/kesm/devops/arduino_tests.py" timestamp="1557790304942">
         <mark key="[" line="32" column="59" />
         <mark key="]" line="28" column="27" />
@@ -43,8 +42,10 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559085639390">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1559091991405">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/3scan/kesm/buildSrc/src/main/java/net/threescan/gradle/python/PythonPlugin.java" timestamp="1556131549958">
         <mark key="[" line="17" column="11" />
@@ -85,7 +86,7 @@
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1558740558215">
         <mark key="'" line="80" column="9" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/histograms/ExtractHistogramTest.java" timestamp="1559085981013">
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/histograms/ExtractHistogramTest.java" timestamp="1559091927162">
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="47" />
         <mark key="." line="31" column="0" />
@@ -233,11 +234,11 @@
       <jump line="223" column="24" filename="$USER_HOME$/kesm2/libs/geode-client/src/main/java/net/threescan/geode/client/CrystalHandle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoaC5iaW5zLmxlbmd0aCkuaXNFcXVhbFRvKG5CaW5zKTsK</text>
+      <register name="&quot;" type="4">
+        <text>leanJenkinsTest :t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IDE2</text>
+        <text>leanJenkinsTest :t</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
