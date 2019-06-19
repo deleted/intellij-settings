@@ -18,12 +18,6 @@
         <mark key="." line="151" column="72" />
         <mark key="^" line="151" column="72" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/histograms/ExtractHistogram.java" timestamp="1560898405154">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="n" line="46" column="48" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557867648049">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="38" column="33" />
@@ -80,19 +74,18 @@
         <mark key="]" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/kesm2/libs/geode-client/src/main/java/net/threescan/geode/client/CrystalHandle.java" timestamp="1558740891316">
-        <mark key="'" line="223" column="24" />
+        <mark key="'" line="224" column="24" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1558740558215">
         <mark key="'" line="80" column="9" />
       </file>
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1560898413522">
-        <mark key="'" line="314" column="35" />
+        <mark key="'" line="320" column="35" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/histograms/ExtractHistogramTest.java" timestamp="1559091927162">
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="47" />
         <mark key="." line="31" column="0" />
-        <mark key="^" line="42" column="44" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/testing/decorators.py" timestamp="1557538196205">
         <mark key="'" line="67" column="26" />
@@ -103,12 +96,6 @@
       </file>
       <file name="$USER_HOME$/kesm2/kesm/analysis/core/contours/contours.py" timestamp="1557251337152">
         <mark key="'" line="204" column="24" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/dataproducts/histograms/SingleHistogram.java" timestamp="1559154384066">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/kesm2/setup.py" timestamp="1557192366024">
         <mark key="[" line="12" column="46" />
