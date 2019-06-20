@@ -9,12 +9,6 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/stats/Moments.java" timestamp="1560994621231">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
-      </file>
       <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557786236669">
         <mark key="[" line="151" column="38" />
         <mark key="]" line="151" column="72" />
@@ -29,11 +23,10 @@
         <mark key="." line="38" column="33" />
         <mark key="^" line="38" column="43" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1561067404124">
-        <mark key="[" line="90" column="31" />
-        <mark key="]" line="90" column="32" />
-        <mark key="^" line="110" column="24" />
-        <mark key="." line="90" column="32" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1561069501789">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1561066948473">
         <mark key="'" line="55" column="4" />
@@ -62,12 +55,6 @@
       </file>
       <file name="$USER_HOME$/kesm2/libs/geode-client/src/main/java/net/threescan/geode/client/CrystalHandle.java" timestamp="1558740891316">
         <mark key="'" line="224" column="24" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzerTest.java" timestamp="1561067260277">
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="35" column="43" />
-        <mark key="^" line="35" column="43" />
-        <mark key="." line="35" column="43" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1558740558215">
         <mark key="'" line="80" column="9" />
@@ -202,10 +189,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRocm93cyBSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9u</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93cyBSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9u</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
