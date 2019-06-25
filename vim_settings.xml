@@ -23,18 +23,18 @@
         <mark key="^" line="151" column="72" />
       </file>
       <file name="$USER_HOME$/kesm2/libs/image/src/main/java/net/threescan/image/ImageFuncs.java" timestamp="1560990880299" />
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1560977059263" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" timestamp="1561420719919" />
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557867648049">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="38" column="33" />
         <mark key="." line="38" column="33" />
         <mark key="^" line="38" column="43" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1561076554665">
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1561420564930">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1561066948473">
         <mark key="'" line="55" column="4" />
@@ -64,12 +64,14 @@
       <file name="$USER_HOME$/kesm2/libs/geode-client/src/main/java/net/threescan/geode/client/CrystalHandle.java" timestamp="1558740891316">
         <mark key="'" line="224" column="24" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1558740558215">
-        <mark key="'" line="80" column="9" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1561420853816">
+        <mark key="'" line="80" column="23" />
+        <mark key="[" line="372" column="54" />
       </file>
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1560898413522">
         <mark key="'" line="320" column="35" />
       </file>
+      <file name="$USER_HOME$/kesm2/core/src/main/java/net/threescan/common/concurrent/CompletableFutureRateLimiter.java" timestamp="1561420684591" />
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/histograms/ExtractHistogramTest.java" timestamp="1559091927162">
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="47" />
@@ -94,8 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="110" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/TileRequestManager.java" />
-      <jump line="150" column="121" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
       <jump line="111" column="15" filename="$USER_HOME$/kesm/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" />
       <jump line="701" column="75" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
       <jump line="716" column="23" filename="$USER_HOME$/kesm/kesm/projects/KESMAcq/processes/kesm/main.py" />
@@ -175,8 +175,6 @@
       <jump line="127" column="8" filename="$USER_HOME$/kesm2/kesm/base/app_tests.py" />
       <jump line="174" column="32" filename="$USER_HOME$/kesm2/kesm/base/app_tests.py" />
       <jump line="74" column="28" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="79" column="44" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
-      <jump line="80" column="9" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
       <jump line="50" column="39" filename="$USER_HOME$/kesm2/libs/geode-client/src/main/java/net/threescan/geode/client/CrystalHandle.java" />
       <jump line="127" column="18" filename="$USER_HOME$/kesm2/libs/geode-client/src/main/java/net/threescan/geode/client/CrystalHandle.java" />
       <jump line="128" column="40" filename="$USER_HOME$/kesm2/libs/geode-client/src/main/java/net/threescan/geode/client/CrystalHandle.java" />
@@ -194,16 +192,20 @@
       <jump line="314" column="35" filename="$USER_HOME$/kesm2/build.gradle" />
       <jump line="33" column="24" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
       <jump line="55" column="4" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="79" column="44" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="86" column="44" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
+      <jump line="80" column="23" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEt1cnRvc2lzIGt1cnRvc2lzID0gbmV3IEt1cnRvc2lzKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lruMapSize</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lruMapSize</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>handleCache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gTG9nZ2luZy5nZXRDbGFzc0xvZ2dlcigpOwo=</text>
@@ -240,9 +242,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>handleCache</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>handleCache</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -263,11 +265,11 @@
         <entry>run.foo</entry>
         <entry>OpenCrystal</entry>
         <entry>thenAccept</entry>
-        <entry>handleCache</entry>
         <entry>tag</entry>
         <entry>apache</entry>
         <entry encoding="base64">XDwxMjhcPg==</entry>
         <entry>logger</entry>
+        <entry>handleCache</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
