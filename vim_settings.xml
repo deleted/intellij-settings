@@ -55,10 +55,11 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1561750500192">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1561757206272">
         <mark key="[" line="101" column="5" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+        <mark key="]" line="111" column="35" />
+        <mark key="." line="111" column="35" />
+        <mark key="^" line="111" column="35" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/devops/k3" timestamp="1557274485985">
         <mark key="'" line="600" column="18" />
