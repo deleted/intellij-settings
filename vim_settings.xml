@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1562008917310">
-        <mark key="[" line="82" column="35" />
-        <mark key="]" line="82" column="43" />
-        <mark key="." line="82" column="43" />
-        <mark key="^" line="82" column="43" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1562010407300">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="71" column="2" />
+        <mark key="." line="71" column="2" />
+        <mark key="^" line="71" column="6" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1561750342530">
         <mark key="'" line="55" column="4" />
@@ -56,6 +56,12 @@
         <mark key="'" line="224" column="24" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/client/ReceptionistProxyClient.java" timestamp="1561767038338" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzerTest.java" timestamp="1562010749463">
+        <mark key="[" line="46" column="46" />
+        <mark key="]" line="46" column="53" />
+        <mark key="^" line="46" column="53" />
+        <mark key="." line="46" column="53" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557786236669">
         <mark key="[" line="151" column="38" />
         <mark key="]" line="151" column="72" />
@@ -208,11 +214,11 @@
       <jump line="76" column="8" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmVhbUxheW91dC5Db3BpZWRNb2R1bGUK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>}));</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>write_tiles</text>
@@ -221,31 +227,31 @@
         <text encoding="base64">ICAvKioKICAgKiBSZXNvbHZlIGEgS0VTTSBOYW1lIGZyb20gdGhlIGdpdmVuIGNyeXN0YWwgSUQKICAgKiBAcGFyYW0gcG5nQ3J5c3RhbElkCiAgICogQHJldHVybgogICAqIEB0aHJvd3MgUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbgogICAqLwogIHB1YmxpYyBTdHJpbmcgZ2V0S2VzbU5hbWUoVVVJRCBwbmdDcnlzdGFsSWQpIHRocm93cyBSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uIHsKICAgIGlmIChrZXNtTmFtZUNhY2hlLmNvbnRhaW5zS2V5KHBuZ0NyeXN0YWxJZCkpIHsKICAgICAgcmV0dXJuIGtlc21OYW1lQ2FjaGUuZ2V0KHBuZ0NyeXN0YWxJZCk7CiAgICB9IGVsc2UgewogICAgICBDcnlzdGFsSGFuZGxlPGJ5dGVbXT4gaGFuZGxlID0gaGFuZGxlQ2FjaGUuZ2V0KHBuZ0NyeXN0YWxJZCk7CiAgICAgIFN0cmluZyBrZXNtTmFtZSA9IGhhbmRsZS5yZWFkVGFnQXN5bmMoQWNxVGFnLktFU01fTkFNRS50b1N0cmluZygpKS5qb2luKCkudG9TdHJpbmcoKTsKICAgICAga2VzbU5hbWVDYWNoZS5wdXQocG5nQ3J5c3RhbElkLCBrZXNtTmFtZSk7CiAgICAgIHJldHVybiBrZXNtTmFtZTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmVhbUxheW91dC5Db3BpZWRNb2R1bGUK</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBQYXJhbGxlbGl6ZSBtb21lbnRzIGNvbXB1dGF0aW9uIHdpdGggQ29tcGxldGFibGVGdXR1cmVzIG9yIHdoYXRub3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vbWVudHNNYXAucHV0KCJvdmVyYWxsIiwgTW9tZW50cy5jb21wdXRlRnJvbUJ1ZmZlcmVkSW1hZ2UoaW1hZ2UpKTsK</text>
+        <text encoding="base64">ICAgIFN0cmVhbUxheW91dC5Db3BpZWRNb2R1bGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIEludFN0cmVhbSBpZHhTdHJlYW0gPSBJbnRTdHJlYW0ucmFuZ2UoMCwgNCk7Cg==</text>
+        <text encoding="base64">ICAgIG1vbWVudHNNYXAucHV0KCJvdmVyYWxsIiwgTW9tZW50cy5jb21wdXRlRnJvbUJ1ZmZlcmVkSW1hZ2UoaW1hZ2UpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgTlVNQkVSX09GX1NFR01FTlRTOyBpKyspIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGZpbmFsIEludFN0cmVhbSBpZHhTdHJlYW0gPSBJbnRTdHJlYW0ucmFuZ2UoMCwgNCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgTlVNQkVSX09GX1NFR01FTlRTOyBpKyspIHsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZnV0dXJlcy5hZGQoQ29tcGxldGFibGVGdXR1cmUucnVuQXN5bmMoICgpIC0+IHsKICAgICAgICBtb21lbnRzTWFwLnB1dChTdHJpbmcudmFsdWVPZihpICsgMSksIE1vbWVudHMuY29tcHV0ZUZyb21CdWZmZXJlZEltYWdlKHNlZ21lbnRzLmdldChpKSkpCiAgICAgIH0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoaWxlCg==</text>
+        <text encoding="base64">ICAgICAgZnV0dXJlcy5hZGQoQ29tcGxldGFibGVGdXR1cmUucnVuQXN5bmMoICgpIC0+IHsKICAgICAgICBtb21lbnRzTWFwLnB1dChTdHJpbmcudmFsdWVPZihpICsgMSksIE1vbWVudHMuY29tcHV0ZUZyb21CdWZmZXJlZEltYWdlKHNlZ21lbnRzLmdldChpKSkpCiAgICAgIH0pKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdoaWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCJHb3Qgc2VjdGlvbiBzZWN0IikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
