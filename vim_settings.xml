@@ -33,7 +33,7 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/stats/Moments.java" timestamp="1562020788835">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/stats/Moments.java" timestamp="1562021249807">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="39" />
         <mark key="." line="31" column="0" />
@@ -69,6 +69,7 @@
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1560898413522">
         <mark key="'" line="320" column="35" />
       </file>
+      <file name="$USER_HOME$/kesm2/libs/image/src/main/java/net/threescan/image/ImageFuncs.java" timestamp="1562021319213" />
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/histograms/ExtractHistogramTest.java" timestamp="1559091927162">
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="47" />
@@ -99,7 +100,7 @@
       <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" timestamp="1557273236329">
         <mark key="'" line="228" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1562020782638">
+      <file name="/fragment.java" timestamp="1562021319760">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
