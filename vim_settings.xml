@@ -15,15 +15,12 @@
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/LabeledRangeBinMap.java" timestamp="1562717769801" />
       <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557786236669">
         <mark key="[" line="151" column="38" />
         <mark key="]" line="151" column="72" />
         <mark key="." line="151" column="72" />
         <mark key="^" line="151" column="72" />
       </file>
-      <file name="$USER_HOME$/kesm2/libs/image/src/main/java/net/threescan/image/ImageFuncs.java" timestamp="1562028723554" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/8fab23986ea8886af34818daf32a718e81dc98ba/commons-math3-3.6.1-sources.jar!/org/apache/commons/math3/stat/descriptive/moment/Mean.java" timestamp="1562017075767" />
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557867648049">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="38" column="33" />
@@ -52,9 +49,10 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1562717669451">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1562889162023">
         <mark key="'" line="568" column="64" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.8/ecaea301e166a0b48f11615864246de739b6619b/jackson-core-2.9.8-sources.jar!/com/fasterxml/jackson/core/JsonPointer.java" timestamp="1562888484553" />
       <file name="$USER_HOME$/kesm2/MANIFEST.in" timestamp="1557191211359">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="29" />
@@ -83,6 +81,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/MetricApiFuncs.java" timestamp="1562888657485" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1562110430797">
         <mark key="'" line="2" column="54" />
         <mark key="[" line="428" column="7" />
