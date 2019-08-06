@@ -33,12 +33,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="52" column="27" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" timestamp="1565051309050">
-        <mark key="[" line="47" column="60" />
-        <mark key="]" line="48" column="31" />
-        <mark key="." line="48" column="31" />
-        <mark key="^" line="48" column="31" />
-      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1562111324821">
         <mark key="[" line="96" column="51" />
         <mark key="]" line="91" column="84" />
@@ -87,10 +81,10 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/libs/image/src/test/java/net/threescan/image/opencv/CvMatFuncsTest.java" timestamp="1565047264058">
-        <mark key="[" line="496" column="57" />
-        <mark key="]" line="496" column="54" />
-        <mark key="." line="496" column="54" />
-        <mark key="^" line="496" column="54" />
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistTileWriter.java" timestamp="1563409472138">
         <mark key="'" line="2" column="54" />
@@ -112,11 +106,6 @@
         <mark key="]" line="14" column="18" />
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetricTest.java" timestamp="1565051716869">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/analysis/core/contours/contours.py" timestamp="1557251337152">
         <mark key="'" line="204" column="24" />
@@ -232,11 +221,11 @@
       <jump line="568" column="64" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uaW1hZ2UuVGVzdEltYWdlRnVuY3M7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>numBins</text>
