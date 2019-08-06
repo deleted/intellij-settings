@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/kesm2/libs/image/src/main/java/net/threescan/image/opencv/CvMatFuncs.java" timestamp="1565132332440" />
       <file name="$USER_HOME$/kesm2/kesm/devops/arduino_tests.py" timestamp="1557790304942">
         <mark key="[" line="32" column="59" />
         <mark key="]" line="28" column="27" />
@@ -32,6 +33,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
         <mark key="^" line="52" column="27" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" timestamp="1565132633150">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1562111324821">
         <mark key="[" line="96" column="51" />
@@ -113,13 +119,11 @@
       <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" timestamp="1557273236329">
         <mark key="'" line="228" column="22" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServer.java" timestamp="1565050766142" />
       <file name="/fragment.java" timestamp="1565051346275">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="120" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="136" column="0" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
       <jump line="106" column="8" filename="$USER_HOME$/3scan/kesm/kesm/acq/shared/image_sender/grpc_stream.py" />
@@ -219,61 +223,61 @@
       <jump line="551" column="11" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="588" column="82" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
       <jump line="568" column="64" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" />
+      <jump line="43" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7CiAgICBCdWZmZXJlZEltYWdlIHlTb2JlbEltZyA9IEN2TWF0RnVuY3MuYnVmZmVyZWRJbWFnZUZyb21CZ3JhTWF0KEN2TWF0RnVuY3MuY29udmVydFRvKG5ldyBDdk1hdCh5U29iZWwpLCBDdk1hdFR5cGVEZXB0aC5DVl84VSkpOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>numBins</text>
+        <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJbWdwcm9jLlNvYmVsKGdyYXlJbWFnZSwgeFNvYmVsLCAxLCAwLCAzKTsK</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uaW1hZ2UuVGVzdEltYWdlRnVuY3M7Cg==</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7CiAgICBCdWZmZXJlZEltYWdlIHlTb2JlbEltZyA9IEN2TWF0RnVuY3MuYnVmZmVyZWRJbWFnZUZyb21CZ3JhTWF0KEN2TWF0RnVuY3MuY29udmVydFRvKG5ldyBDdk1hdCh5U29iZWwpLCBDdk1hdFR5cGVEZXB0aC5DVl84VSkpOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFmdS5vcmcuY2hlY2tlcmZyYW1ld29yay5jaGVja2VyLmlnai5xdWFsLkk7CmltcG9ydCBuZXQudGhyZWVzY2FuLmltYWdlLkltYWdlRnVuY3M7Cg==</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeVNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQobmV3IEN2TWF0KHlTb2JlbCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXQgZ3JheU1hdCA9IGdyYXlJbWFnZS5nZXRNYXQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uaW1hZ2UuVGVzdEltYWdlRnVuY3M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJCg==</text>
+        <text encoding="base64">aW1wb3J0IGFmdS5vcmcuY2hlY2tlcmZyYW1ld29yay5jaGVja2VyLmlnai5xdWFsLkk7CmltcG9ydCBuZXQudGhyZWVzY2FuLmltYWdlLkltYWdlRnVuY3M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEN2TWF0RnVuY3MuZmlsbENoYW5uZWwoaW1nLCAwLCAwKTsKICAgIEN2TWF0RnVuY3MuZmlsbENoYW5uZWwoaW1nLCAxLCAxKTsKICAgIEN2TWF0RnVuY3MuZmlsbENoYW5uZWwoaW1nLCAyLCAyICk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEN2Q29yZS5maWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgZ3JheU1hdCA9IGdyYXlJbWFnZS5nZXRNYXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>numBins</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>numBins</last-pattern>
+      <last-pattern>x</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pytest</entry>
         <entry>findCount</entry>
         <entry>cv2.findContours</entry>
         <entry>bucket_cache</entry>
@@ -293,6 +297,7 @@
         <entry>Summary</entry>
         <entry>write_tiles</entry>
         <entry>numBins</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
