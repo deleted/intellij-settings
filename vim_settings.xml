@@ -27,10 +27,10 @@
         <mark key="." line="151" column="72" />
         <mark key="^" line="151" column="72" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/focus/EnergyLaplaceFocusMetricTest.java" timestamp="1565137238669">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/focus/EnergyLaplaceFocusMetricTest.java" timestamp="1565200923649">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
         <mark key="^" line="18" column="43" />
       </file>
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557867648049">
@@ -52,7 +52,6 @@
         <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/SquaredGradientFocusMetric.java" timestamp="1565138510368">
-        <mark key="[" line="20" column="27" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -70,10 +69,10 @@
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1562891458159">
         <mark key="'" line="568" column="64" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/EnergyLaplaceFocusMetric.java" timestamp="1565137271085">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="14" column="30" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/EnergyLaplaceFocusMetric.java" timestamp="1565200879008">
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
         <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/focus/TenenbaumGradientFocusMetricTest.java" timestamp="1565137394565">
@@ -126,9 +125,8 @@
         <mark key="'" line="320" column="35" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/BrennerGradientFocusMetric.java" timestamp="1565138497318">
-        <mark key="[" line="21" column="4" />
+        <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="39" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/histograms/ExtractHistogramTest.java" timestamp="1559091927162">
@@ -260,11 +258,11 @@
       <jump line="43" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
