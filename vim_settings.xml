@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/kesm2/libs/image/src/main/java/net/threescan/image/opencv/CvMatFuncs.java" timestamp="1565132332440" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TenenbaumGradientFocusMetric.java" timestamp="1565137358835">
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="20" />
@@ -52,16 +51,16 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="19" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/SquaredGradientFocusMetric.java" timestamp="1565138510368">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1562111324821">
         <mark key="[" line="96" column="51" />
         <mark key="]" line="91" column="84" />
         <mark key="^" line="91" column="84" />
         <mark key="." line="91" column="84" />
-      </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistServiceImpl.java" timestamp="1561750342530">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1561501770049">
         <mark key="[" line="0" column="0" />
@@ -125,6 +124,12 @@
       </file>
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1560898413522">
         <mark key="'" line="320" column="35" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/BrennerGradientFocusMetric.java" timestamp="1565138497318">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/histograms/ExtractHistogramTest.java" timestamp="1559091927162">
         <mark key="[" line="31" column="47" />
@@ -255,8 +260,8 @@
       <jump line="43" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -271,28 +276,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRNYXBNYXRjaGVyRG9lc05vdFRocm93KCk7Cg==</text>
+        <text encoding="base64">ICBkb3VibGUgYWNjdW11bGF0b3IgPSAwLjA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGRvdWJsZSBhY2N1bXVsYXRvciA9IDAuMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7CiAgICBCdWZmZXJlZEltYWdlIHlTb2JlbEltZyA9IEN2TWF0RnVuY3MuYnVmZmVyZWRJbWFnZUZyb21CZ3JhTWF0KEN2TWF0RnVuY3MuY29udmVydFRvKG5ldyBDdk1hdCh5U29iZWwpLCBDdk1hdFR5cGVEZXB0aC5DVl84VSkpOwoK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRNYXBNYXRjaGVyRG9lc05vdFRocm93KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeVNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQobmV3IEN2TWF0KHlTb2JlbCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
