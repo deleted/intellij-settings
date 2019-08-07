@@ -21,6 +21,11 @@
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
       </file>
+      <file name="$USER_HOME$/tx/lab/src/cdi/src/main/scala/com/transcriptic/cdi/devices/thermo/alps3000/Alps3000.scala" timestamp="1565214898203">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/aws/s3.py" timestamp="1557786236669">
         <mark key="[" line="151" column="38" />
         <mark key="]" line="151" column="72" />
@@ -259,11 +264,11 @@
       <jump line="43" column="18" filename="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>StatusStrings</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -275,28 +280,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkb3VibGUgYWNjdW11bGF0b3IgPSAwLjA7Cg==</text>
+        <text encoding="base64">ICBkZWYgcmV2ZXJzZShzdGF0dXM6IFN0cmluZyk6IEludCB7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoKGssIHYpIDwtIHN0YXR1c0JpdE1hcCkgewogIAogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRvdWJsZSBhY2N1bXVsYXRvciA9IDAuMDsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkb3VibGUgYWNjdW11bGF0b3IgPSAwLjA7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRNYXBNYXRjaGVyRG9lc05vdFRocm93KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRvdWJsZSBhY2N1bXVsYXRvciA9IDAuMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRNYXBNYXRjaGVyRG9lc05vdFRocm93KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
