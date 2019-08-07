@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/kesm2/libs/image/src/main/java/net/threescan/image/opencv/CvMatFuncs.java" timestamp="1565132332440" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TenenbaumGradientFocusMetric.java" timestamp="1565137358835">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/devops/arduino_tests.py" timestamp="1557790304942">
         <mark key="[" line="32" column="59" />
         <mark key="]" line="28" column="27" />
@@ -22,6 +28,12 @@
         <mark key="." line="151" column="72" />
         <mark key="^" line="151" column="72" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/focus/EnergyLaplaceFocusMetricTest.java" timestamp="1565137238669">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+      </file>
       <file name="$USER_HOME$/kesm2/tox.ini" timestamp="1557867648049">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="38" column="33" />
@@ -34,11 +46,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="52" column="27" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" timestamp="1565133950472">
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="53" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetric.java" timestamp="1565137348437">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/ReceptionistSectionAnalyzer.java" timestamp="1562111324821">
         <mark key="[" line="96" column="51" />
@@ -59,11 +71,16 @@
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tileserver/SparkTileServer.java" timestamp="1562891458159">
         <mark key="'" line="568" column="64" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/EnergyLaplaceFocusMetric.java" timestamp="1565135075714">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="54" />
-        <mark key="^" line="11" column="54" />
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/EnergyLaplaceFocusMetric.java" timestamp="1565137271085">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/focus/TenenbaumGradientFocusMetricTest.java" timestamp="1565137394565">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/kesm2/MANIFEST.in" timestamp="1557191211359">
         <mark key="[" line="1" column="0" />
@@ -120,13 +137,18 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/test/java/net/threescan/analysis/core/focus/TennenbaumGradientFocusMetricTest.java" timestamp="1565137372776">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/analysis/core/contours/contours.py" timestamp="1557251337152">
         <mark key="'" line="204" column="24" />
       </file>
       <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" timestamp="1557273236329">
         <mark key="'" line="228" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1565051346275">
+      <file name="/fragment.java" timestamp="1565136899223">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -234,43 +256,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getCovolutionMask</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>getCovolutionMask</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEltcGxlbWVudHMgdGhlIEVuZXJneSBMYVBsYWNlIGZvY3VzIG1ldHJpYywgYXMgZGVzY3JpYmVkIGluOgogKiBMaXUsIFdhbmcgJiBTdW4uICJEeW5hbWljIEV2YWx1YXRpb24gb2YgQXV0b2ZvY3VzaW5nIGZvciBBdXRvbWF0ZWQgTWljcm9zY29waWMgQW5hbHlzaXMgb2YgQmxvb2QgU21lYXIgYW5kIFBhcCBTbWVhciIKICogSm91cm5hbCBvZiBNaWNyb3Njb3B5LCBWb2wuIDIyNywgUHQgMSAyMDA3LCBwcC4gMTUtMjMKICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRNYXBNYXRjaGVyRG9lc05vdFRocm93KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7CiAgICBCdWZmZXJlZEltYWdlIHlTb2JlbEltZyA9IEN2TWF0RnVuY3MuYnVmZmVyZWRJbWFnZUZyb21CZ3JhTWF0KEN2TWF0RnVuY3MuY29udmVydFRvKG5ldyBDdk1hdCh5U29iZWwpLCBDdk1hdFR5cGVEZXB0aC5DVl84VSkpOwoK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeVNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQobmV3IEN2TWF0KHlTb2JlbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7CiAgICBCdWZmZXJlZEltYWdlIHlTb2JlbEltZyA9IEN2TWF0RnVuY3MuYnVmZmVyZWRJbWFnZUZyb21CZ3JhTWF0KEN2TWF0RnVuY3MuY29udmVydFRvKG5ldyBDdk1hdCh5U29iZWwpLCBDdk1hdFR5cGVEZXB0aC5DVl84VSkpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC50aHJlZXNjYW4uaW1hZ2UuVGVzdEltYWdlRnVuY3M7Cg==</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeVNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQobmV3IEN2TWF0KHlTb2JlbCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFmdS5vcmcuY2hlY2tlcmZyYW1ld29yay5jaGVja2VyLmlnai5xdWFsLkk7CmltcG9ydCBuZXQudGhyZWVzY2FuLmltYWdlLkltYWdlRnVuY3M7Cg==</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgeFNvYmVsSW1nID0gQ3ZNYXRGdW5jcy5idWZmZXJlZEltYWdlRnJvbUJncmFNYXQoQ3ZNYXRGdW5jcy5jb252ZXJ0VG8obmV3IEN2TWF0KHhTb2JlbCksIEN2TWF0VHlwZURlcHRoLkNWXzhVKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuQXNzZXJ0aW9ucy4qOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
