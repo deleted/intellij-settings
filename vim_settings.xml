@@ -150,6 +150,7 @@
         <mark key="'" line="204" column="24" />
       </file>
       <file name="$USER_HOME$/tx/lab/src/cdi/src/main/scala/com/transcriptic/cdi/devices/mesoscale/MSDPlateReader.scala" timestamp="1565289668052" />
+      <file name="$USER_HOME$/tx/lab/src/cdi/src/main/scala/com/transcriptic/cdi/devices/thermo/kingfisher/KingFisher.scala" timestamp="1565290682799" />
       <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" timestamp="1557273236329">
         <mark key="'" line="228" column="22" />
       </file>
