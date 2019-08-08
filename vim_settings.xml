@@ -91,11 +91,6 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/acquisition/receptionist/testClient/FakeSectionerCommand.java" timestamp="1561757206272">
-        <mark key="]" line="95" column="35" />
-        <mark key="." line="95" column="35" />
-        <mark key="^" line="95" column="35" />
-      </file>
       <file name="$USER_HOME$/kesm2/kesm/devops/k3" timestamp="1557274485985">
         <mark key="'" line="600" column="18" />
       </file>
@@ -154,6 +149,7 @@
       <file name="$USER_HOME$/kesm2/kesm/analysis/core/contours/contours.py" timestamp="1557251337152">
         <mark key="'" line="204" column="24" />
       </file>
+      <file name="$USER_HOME$/tx/lab/src/cdi/src/main/scala/com/transcriptic/cdi/devices/mesoscale/MSDPlateReader.scala" timestamp="1565289668052" />
       <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" timestamp="1557273236329">
         <mark key="'" line="228" column="22" />
       </file>
