@@ -9,6 +9,11 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="29" column="20" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/GradientFocusMetric.java" timestamp="1565390176803">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/kesm2/kesm/devops/arduino_tests.py" timestamp="1557790304942">
         <mark key="[" line="32" column="59" />
         <mark key="]" line="28" column="27" />
@@ -59,7 +64,7 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/SquaredGradientFocusMetric.java" timestamp="1565138510368">
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/SquaredGradientFocusMetric.java" timestamp="1565389991177">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -265,7 +270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>StatusStrings</text>
@@ -274,34 +279,34 @@
         <text>get(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIEltcGxlbWVudHMgdGhlIEVuZXJneSBMYVBsYWNlIGZvY3VzIG1ldHJpYywgYXMgZGVzY3JpYmVkIGluOgogKiBMaXUsIFdhbmcgJiBTdW4uICJEeW5hbWljIEV2YWx1YXRpb24gb2YgQXV0b2ZvY3VzaW5nIGZvciBBdXRvbWF0ZWQgTWljcm9zY29waWMgQW5hbHlzaXMgb2YgQmxvb2QgU21lYXIgYW5kIFBhcCBTbWVhciIKICogSm91cm5hbCBvZiBNaWNyb3Njb3B5LCBWb2wuIDIyNywgUHQgMSAyMDA3LCBwcC4gMTUtMjMKICovCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ3JheWltYWdlTWF0ID0gQ3ZNYXRGdW5jcy5jb252ZXJ0VG9HcmF5U2NhbGUoQ3ZNYXRGdW5jcy5tYXRGcm9tQnVmZmVyZWRJbWFnZShpbWFnZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcmV2ZXJzZShzdGF0dXM6IFN0cmluZyk6IEludCB7CiAgfQo=</text>
+        <text encoding="base64">ICBwb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoKGssIHYpIDwtIHN0YXR1c0JpdE1hcCkgewogIAogIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgcmV2ZXJzZShzdGF0dXM6IFN0cmluZyk6IEludCB7CiAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkb3VibGUgYWNjdW11bGF0b3IgPSAwLjA7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoKGssIHYpIDwtIHN0YXR1c0JpdE1hcCkgewogIAogIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRvdWJsZSBhY2N1bXVsYXRvciA9IDAuMDsK</text>
+        <text encoding="base64">ICBkb3VibGUgYWNjdW11bGF0b3IgPSAwLjA7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRNYXBNYXRjaGVyRG9lc05vdFRocm93KCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRvdWJsZSBhY2N1bXVsYXRvciA9IDAuMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
