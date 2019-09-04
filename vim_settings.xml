@@ -111,6 +111,7 @@
       <file name="$USER_HOME$/kesm2/kesm/devops/k3" timestamp="1557274485985">
         <mark key="'" line="600" column="18" />
       </file>
+      <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/geode/storage/tools/ExportFacesCommand.java" timestamp="1567624025189" />
       <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda_tests.py" timestamp="1557790266983">
         <mark key="[" line="11" column="58" />
         <mark key="]" line="11" column="58" />
@@ -141,7 +142,6 @@
       <file name="$USER_HOME$/kesm2/build.gradle" timestamp="1565386781524">
         <mark key="'" line="433" column="69" />
       </file>
-      <file name="$USER_HOME$/tx/lab/src/cdi/src/main/scala/com/transcriptic/cdi/Driver.scala" timestamp="1565213192813" />
       <file name="$USER_HOME$/kesm2/src/main/java/net/threescan/analysis/core/focus/BrennerGradientFocusMetric.java" timestamp="1565391351623">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -166,8 +166,6 @@
       <file name="$USER_HOME$/kesm2/kesm/analysis/core/contours/contours.py" timestamp="1557251337152">
         <mark key="'" line="204" column="24" />
       </file>
-      <file name="$USER_HOME$/tx/lab/src/cdi/src/main/scala/com/transcriptic/cdi/devices/mesoscale/MSDPlateReader.scala" timestamp="1565289668052" />
-      <file name="$USER_HOME$/tx/lab/src/cdi/src/main/scala/com/transcriptic/cdi/devices/thermo/kingfisher/KingFisher.scala" timestamp="1565290682799" />
       <file name="$USER_HOME$/kesm2/kesm/devops/packaging/s3conda.py" timestamp="1557273236329">
         <mark key="'" line="228" column="22" />
       </file>
