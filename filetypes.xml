@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose.yml.tpl" type="Terraform" />
+      <mapping pattern="prometheus.rules" type="YAML" />
       <mapping pattern="opcua_exporte.rules" type="YAML" />
       <mapping ext="rules" type="YAML" />
     </extensionMap>
