@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping pattern="opcua_exporte.rules" type="YAML" />
       <mapping pattern="prometheus.rules" type="YAML" />
